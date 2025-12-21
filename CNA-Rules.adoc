@@ -1,0 +1,1862 @@
+:numbered:
+:xrefstyle: short 
+
+= The Campaign for North Africa : The dessert war 1940-43
+:toc:
+
+====
+
+*Read This First*
+
+The rules of this SPI simulation game are organized in a format known as the *Case System*. This system of organization divides the rules into *Major Sections* (each of which deals with an important aspect of play). These Sections are numbered sequentially as well as being named.
+
+Each of these Major Sections is introduced by a *General Rule*, which briefly describes the subject of the Section. Many times this General Rule is followed by a *Procedure*, which describes the basic action the player will take when using the rules in that Section. Finally, the bulk of each Major Section consists of *Cases*. These are the specific detailed rules that actually regulate play.
+
+Each of these Cases is also numbered. The numbering follows a logical system based upon the number of the Major Section of which the Cases are a part. A Case with the number `6.5`, for example, is the fifth Primary Case of the sixth Major Section of the rules. Many times these Primary Cases are further subdivided into *Secondary Cases*. A Secondary Case is recognizable by the fact that it has two digits to the right of its decimal point.
+
+Each Major Section can have as many as nine Primary Cases, and each Primary Case can have as many as nine Secondary Cases. The numbering system is meant as an organizational aid. Using it, players can always easily tell where a Case is located in the rules. As a further aid, an outline of the Major Sections and Primary Cases is given at the beginning of the rules
+
+*How the Section and Case Numbers Work*
+
+* Major Section Number
+* Primary Case Number
+* Secondary Case Number
+
+Example:
+
+----
+6.531
+----
+
+The preceding example would be the number of the third Secondary Case of the fifth Primary Case of the sixth Major Section of the rules.
+
+*How to Learn to Play the Game*
+
+Familiarize yourself with all of the components. Read all of the General Rules and Procedures and read the titles of the Primary Cases. Set up the game for play (after reading the pertinent Section) and play a trial game against yourself, referring to the rules only when you have a question.
+
+This procedure may take you a few hours, but it is the fastest and most entertaining way to learn the rules short of having a friend teach them to you.
+
+You should not attempt to learn the rules word-for-word. Memorizing all that detail is a task of which few of us are capable. SPI rules are written to be as complete as possible—they are not designed to be memorized. The Case numbering system makes it easy to look up rules when you are in doubt.
+
+Absorbing the rules in this manner (as you play) is a much better approach to game mastery than attempting to study them as if cramming for a test.
+
+We hope you enjoy this SPI game. Should you have any difficulty interpreting the rules, please write to SPI, phrasing your questions so that they can be answered by a simple sentence, word, or number. You must enclose a stamped, self-addressed envelope. We cannot guarantee a proper answer should you choose to phone in your question (the right person is not always available, and since SPI has published hundreds of games, no one individual is capable of answering all questions).
+
+====
+
+[#1_0]
+== Introduction
+
+*The Campaign for North Africa* (CNA) is a simulation of actual operations in Libya and Egypt from 1940 through early 1943. CNA was designed as a definitive simulation intended for the sophisticated wargamer and the serious student of history. As such, CNA is the most logistically oriented game ever designed and may be considered by some to be overly complex.
+
+In fact, the game system itself is quickly absorbed, and most experienced players will have little problem understanding how to play the game. At the same time, there is a ferocious amount of information for the players to digest and use. The assimilation and coordination of all this information is what makes CNA so formative, challenging, and (hopefully) enlightening. Very little has been abstracted; CNA contains more hard information on the subject than any other single source encountered by the SPI design staff.
+
+CNA is not a game for one, two, or even three players. This is a multi-player game in the true sense of the word. For maximum playability and efficiency, it is recommended that, on each side, one person be assigned to Logistics, one person to Air Forces command, and at least three players to Land Forces command (again, per side). It is also strongly suggested that at least one calculator be available.
+
+Although the rules are quite long, CNA is relatively easy to explain. Someone familiar with the rules can tell other players how to play with remarkable ease.
+
+Each hex represents approximately eight kilometers; each Game-Turn represents one week of “real" time. Units range in size from companies (approximately 100 men) to divisions (approximately 15,000 men).
+
+[#2_0]
+== How to Play the Game
+
+====
+*Commentary*
+
+This Section serves as an orientation for the prospective player (or rules reader), providing a basic overview of what is involved in the game and how it is organized.
+====
+
+=== Organization of the Rules and How They Should Be Read
+
+<<2_0>> is divided into three parts. The second part discusses how the game is set up. The third part explains how the game is actually played. Everything is explained in very general terms; the intention is to orient the reader rather than to teach detailed procedures.
+
+<<3_0>> is a glossary intended to explain terms used during play and their relationships to one another. The glossary should be reviewed before the rest of the rules, although some definitions will not become fully clear until the relevant sections are read.
+
+<<4_0>> describes the game equipment and details how the game should be set up.
+
+<<5_0>> contains the *Sequence of Play*, which outlines a single Game-Turn. <<1_0>> through <<5_0>> are written to familiarize the player with game terms and the overall system of play.
+
+<<6_0>> through <<32_0>> include all rules necessary to play the *Land Game*. The Land Game uses abstracted and relatively simple supply rules and very simple air power rules.
+
+<<33_0>> through <<47_0>> encompass the *Air Game*, which involves individual aircraft and pilots and the effects of their presence.
+
+<<48_0>> through <<58_0>> constitute the *Logistics Game*, which replaces the abstract supply rules used if the Land Game is played alone. It is possible to play the Land Game by itself, to combine the Land and Air Games, or to combine the Logistics Game with either or both of the other games.
+
+<<59_0>> through <<65_0>> describe the five *Scenario Groups*. One Scenario is the full Campaign Game, covering the entire campaign from September 1940 (the Italian invasion of Egypt) onward. Other Scenarios are smaller slices of the campaign that can be played to a decision in considerably less time.
+
+=== How the Game Is Set Up
+
+There are two basic and vital prerequisites for playing CNA: *time* and *people*.
+
+Preparing to play CNA requires considerable effort, both in preparing the game
+components and in planning strategies and organizing a workable division of
+labor and logistics system.
+
+Unlike many other SPI games, the counters on the map do not contain all the
+information required to play. Players must keep track, on paper, of many details
+concerning the status of their units, including (but not limited to) current
+strength, attached subsidiary units, morale level, supply status, water, fuel,
+ammunition, and stores.
+
+Setting up the game involves compiling information for each unit required by the
+Scenario. Provided with the game are three TOE Log Sheets designed to store this
+information. Each type of Log Sheet corresponds to a specific type or size of
+unit. Players will need to create additional Log Sheets by copying or designing
+their own. One Log Sheet is required for each counter on the map.
+
+Players should also ensure they have plenty of pencils (with erasers), scratch paper, and stamina.
+
+=== How to Run a Game of CNA
+
+CNA is a logistically oriented game and requires not only attention to logistics
+but also a logistically sound methodology of play.
+
+Playtesting indicates that the optimal number of players is eight to ten—four to
+five per side. Fewer than four creates excessive workload; more than five slows
+decision-making.
+
+Clear division of responsibilities is critical. Teams that communicate
+effectively consistently outperform technically proficient but poorly
+coordinated teams. The standard division of responsibilities is:
+
+*Commander-in-Chief*:: Overall intelligence and dissemination of information; strategic decisions; resolving disputes; planning raids and special actions.
+*Logistics Commander*:: All supplies; transport from Italy or Britain to North Africa; supply dumps; Third-Line Trucks; some Second-Line Trucks; naval convoys (Axis).
+*Rear Area Commander*:: Supply and reinforcements to the front; rear-area security; reserves; prisoners; construction; some Second-Line Trucks.
+*Air Commander*:: Aircraft and pilots; planning and execution of air missions; deployment of air bases.
+*Front-Line Commander*:: Execution of attacks; coordination of defenses; front-line troop movement.
+
+For effective play, each commander must perform competently and communicate clearly. Failures in coordination can quickly lead to disaster.
+
+=== Playing Time
+
+Playing the entire *Campaign for North Africa* requires at least 1,200 hours of
+play time, likely more. Each Game-Turn takes approximately ten hours, although
+less time may be required during turns with limited movement or combat. This is
+a long game. Individual Game-Turns may occasionally be completed in two hours,
+but such speed usually occurs only when both sides are logistically exhausted.
+The length of play is deliberate: the level of involvement allows players to
+make virtually all of the operational and strategic decisions that the original
+commanders were required to make.
+
+[#3_0]
+== Glossary and Unit Definitions
+
+[#3_1]
+=== Definitions of Terms
+
+*Cohesion Level*::
+A measure of how combat-effective a unit is at a given point in time. Cohesion is affected by acquiring Reorganization Points and by receiving Disorganization Points.
+
+*Combat Air Patrol (CAP)*::
+Offensive CAP involves searching for and intercepting enemy aircraft. Defensive CAP involves escorting friendly aircraft.
+
+*Combat Unit*::
+Any unit capable of engaging enemy units and/or aircraft in combat. Headquarters, Engineers, and Dummy Tank Formations are considered combat units in certain situations.
+
+*Combined Arms Attack*::
+A Close Assault in which tanks must be supported by at least an equal number of infantry units. If not, tank combat values are reduced.
+
+*Desert Raider*::
+A special company-sized unit operating in jeeps, capable of limited movement and combat and normally unobserved by the opposing player.
+
+*Reaction*::
+A unit's ability to evade combat. This is directly related to the degree of motorization or mechanization of the unit.
+
+*Efficiency Level*::
+A unit's ability to embark and disembark troops, equipment, and supplies, and to withstand damage.
+
+*Engineering Capability*::
+The ability of a Headquarters unit to construct or demolish game items. Includes Anti-Aircraft units, certain artillery types, and Anti-Tank units when assigned.
+
+*Gun*::
+An artillery or anti-tank weapon represented either independently or as part of a unit.
+
+*Sequential Dice Roll*::
+A dice roll using two dice read as a two-digit number from 11 through 66. The larger die provides the tens digit; the smaller die provides the ones digit.
+
+*Headquarters (HQ)*::
+A unit composed of independent subsidiary units (including trucks), represented either by a counter or by separate counters.
+
+*Shell Unit*::
+A combat unit possessing fewer than the minimum number of TOE Strength Points and/or subsidiary units.
+
+*Barrage*::
+An attack that negates the requirement for adjacent friendly units to conduct a Close Assault against the target enemy unit.
+
+*Initiative*::
+The side (Axis or Allied) that determines which player acts first in each Operations Stage of the Campaign Turn.
+
+*Involuntary Movement*::
+Movement forced upon a unit as a result of a Retreat outcome from Close Assault combat.
+
+*Log Sheet*::
+A paper record used to track specific information and status for a unit. One Log Sheet is required for each counter on the map.
+
+*Maneuver Element*::
+Those forces within a division or brigade normally responsible for offensive ground combat (primarily tank and infantry units).
+
+*Morale*::
+The ability and willingness of troops to fight. All combat units possess a Basic Morale Rating, which may be improved through successful combat.
+
+*Motorized Unit*::
+A unit whose movement is provided by wheeled or tracked vehicles. Some units are always motorized; others may alternate between motorized and foot movement.
+
+*Organization Size*::
+The scale of a unit, measured in Division-, Brigade-, Battalion-, or Company-Equivalents (Eq).
+
+*Organization at Arrival Chart (OA Chart)*::
+A chart listing the arrival date, original composition, and initial strength of each unit entering play.
+
+*Parent Unit*::
+A counter representing a larger unit that contains or controls smaller assigned or attached units.
+
+*Pinned*::
+A possible result of Air Bombardment or Barrage. A pinned unit may not voluntarily move or initiate combat for the remainder of the current sub-Phase and is placed in Reserve.
+
+*Ready Aircraft*::
+Aircraft that have been armed, fueled, and refitted and are prepared to fly and perform missions.
+
+*Reinforcement*::
+A unit that does not begin on the map but enters play at a specified later time.
+
+*Replacement*::
+Personnel and equipment used to rebuild destroyed units or increase the effectiveness of existing units.
+
+*Squadron Ground Support Unit (SGSU)*::
+The headquarters and support unit responsible for aircraft operations.
+
+*Stacking Point*::
+A measure of the space a unit occupies in a hex or along a road or track during movement.
+
+*Supplies*::
+Consumable resources: Ammunition, Fuel, Stores, and Water.
+
+*TOE Strength Point*::
+A measure of manpower and equipment. Roughly equivalent to 100 men, 5–8 armored vehicles, or 4–8 guns.
+
+*Transport Unit*::
+A counter capable of expending Capability Points to move supplies or other units.
+
+*Upgrading*::
+The process of increasing a combat unit's effectiveness.
+
+*Zone of Control (ZOC)*::
+The area of influence surrounding a combat unit. Enemy units must stop upon
+entering a hex in an opposing ZOC. CNA uses a rigid, active ZOC system.
+
+[#3_2]
+=== Unit Differentiation
+
+[#3_21]
+*[3.21]* Units are differentiated into the following categories:
+
+* Infantry-Type
+* Tank-Type
+* Reconnaissance-Type
+* Anti-Tank-Type
+* Anti-Aircraft-Type
+* Artillery-Type
+* Engineer-Type
+* Aircraft-Type
+* Ground Support Units
+* Recovery Squadrons
+* Dummy Tank Formations
+* Trucks
+
+The counters representing each type are listed in the Counter Manifest <<4_2>>,
+except for Dummy Tank Formations, which have no counters.
+
+[#3_22]
+*[3.22]* For Barrage and aircraft attacks (Strafing and Bombardment), units are grouped into the following classes:
+
+Infantry-class: All Infantry-Type, Engineers,
+Headquarters possessing a defensive Close Assault
+Rating but not possessing an Armor Protection
+Rating, SGSU, and Recce-Type that do not
+possess an Armor Protection Rating.
+
+Armor-class: All Tank-Type, Dummy Tank Formations, Tank Recovery Squadrons, headquarters
+possessing an Armor Protection Rating, RecceType possessing an Armor Protection Rating, and
+those Artillery and Anti-tank-Type units possessing an Armor Protection Rating (SPA and Tank
+Destroyers).
+
+Gun-class: All Artillery-Type, Anti-aircraft-Type
+and Anti-tank-Type units comprised of any TOE
+Strength Points not possessing an Armor Protection Rating, includingHQs and infantry with Barrage capability.
+
+Truck-class: All Trucks.
+
+[note]
+====
+Any Artillery or Anti-tank unit that is comprised of weapons (TOE Strength Points) with an
+Armor Protection Rating and of weapons without
+one are considered ¢wo units for target purposes.
+====
+
+[#3_23]*[3.23]* Combat units consist of all Infantry-Type, Tank-Type Recce-Type,
+Artillery-Type, Antitank-Type, and Anti-aircraft-Type units. For certain
+determinations, such as Zone of Control, Reconnaissance, Barrage and
+Bombardment, certain non-combat units may be considered combat units.
+
+[#3_3]
+=== HEADQUARTERS UNITS
+
+HQ's serve two functions: They act as command coordination for the individual
+units under them, and they also represent, when on the game-map, all of the
+units attached to that HQ.
+
+[#3_31]*[3.31]* HQ units represent all combat units, Trucks (and their
+Supplies), etc. attached to that counter. If any combat units are attached, the
+HQ counter itself is considered a combat unit, and fights with the combined
+strengths of all units in it.
+
+[#3_32]*[3.32]* An HQ (and for that matter, all Parent Units) have a CPA equal
+to the CPA of the 'slowest' unit attached to the HQ.
+
+[#3_33]*[3.33]* The Stacking Points printed on the HQ are those of a full
+complement of units. Thus a divisional HQ representing an entire division
+occupies 5 Stacking Points of space. The rules on unit Equivalents (see
+<<9_2>>) discuss what happens if the division operates at less than full strength.
+If an HQ has no combat units attached it occupies zero Stacking Points and may
+use its parenthesized Ratings. It is no longer considered to be a combat unit
+and may not voluntarily attack.
+
+[#3_34]*[3.34]* Certain HQ units, mostly with the Italian Army, have artillery
+assigned to regimental HQ's (guns directly under command of the HQ). These HQ's
+may use their combat strengths, and losses for the guns are taken as regular
+losses. However, when all gun TOE Strength Points are eliminated, the HQ is not
+destroyed: it reverts to the status of a non-combat HQ.
+
+[#3_35]*[3.35]* Armored Division and Armored Brigade HQ units usually have a
+"platoon" of tanks assigned, as Players will note by the ratings of each such
+HQ. These tanks may not be used in combat unless the HQ has no combat units
+attached.  Tanks assigned to HQ's may not be transferred to combat units,
+regardless of the situation. If such an HQ loses its tanks, they should be
+replaced by the first available Tank Replacement Points. HQ's with tanks
+attached are not subject to Breakdown.
+
+[#3_36]*[3.36]* An HQ unit that has no combat values, either with or without
+parentheses, is captured instantly if it is in a hex without any combat units
+and an Enemy combat unit places the HQ in its Zone of Control. There is no
+Capability Point expenditure required for such a capture, and the HQ is treated
+as one Prisoner Point.
+
+[#3_4]
+=== COMBAT UNITS
+
+CNA has a great variety of combat units — more than 25 different types, not
+including aircraft.  Although the structure of the game is operational, there
+has been an attempt to inject a "tactical" flavor into the game by
+differentiating between the functions of the various units. However, players
+should keep in mind that this is an operational game, and that many purely
+tactical functions have been abstracted or ignored. Below is a brief resume of
+the various types of units, noting any exceptions. Some of the completely
+familiar units have been omitted.
+
+_Motorized Infantry_: These are infantry units that are usually transported in
+Trucks. (The British often called their units Lorried infantry.) Motorized
+Infantry units must actually have Trucks in order to use their Motorized CPA
+(i.e., that of the Truck). Otherwise they are regular "foot" Infantry. Units
+that were usually motorized are so indicated on the units' Characteristics
+Charts.
+
+_Mechanized Infantry_: Primarily, these units were not only motorized but also
+usually supplied with some Armored Cars, half-tracks, armored Personnel
+carriers, etc. Unless there is a terrible and total emergency, Mechanized
+Infantry should remain motorized at all times.
+
+_Motorcycle Infantry/Reconnaissance_: These are mostly Italian Bersaglierei
+mitraglieri (motorcycle) units (plus two German battalions of Kradschutzen). The
+equipment is the popular two-man cycle, plus a few jeeps, Armored Cars, etc.
+Weaponry was pretty good, with a high percentage of machineguns; thus their
+relatively high firepower. Cycles may not enter hexes prohibited to Light
+Trucks. Moreover, even though motorcycles are vehicles, they do not use Fuel nor
+do they suffer Breakdown.
+
+_Heavy Weapons Units_: There are several of these units, such as the German
+Schwerste-Infanteriegeschutz units. Equipment varied, but often included
+machineguns, mortars, some light artillery and anti-tank guns, perhaps a light
+AA battery. It varies from unit to unit.
+
+_Garrison Infantry_: These units are virtually the sole property of the Italians
+— and they are usually welcome to them. Most Italian Garrison Infantry came from
+the GaF Settore di Coperture Regiments, comprised of over-age Italians living in
+Libya. Their training was minimal, their spirits low, their performance poor.
+However, units labeled as garrison units (with a G on the counter — and this
+includes all types of garrison units) stack free in the city or town which they
+were originally assigned to garrison. E.g., the 30th GaF infantry units have
+zero Stacking Poins when in Bardia. There is one Commonwealth unit which is
+considered a Garrison: The Matruh Garrison. The OA Sheet gives specific
+instructions on this unit.  unit.
+
+_Airborne Infantry_: These are treated as normal infantry, unless they are
+capable of being paradropped, which capability is listed on the Arrival Sheet
+for that unit. See <<40_4,[40.4]>>.
+
+_Armored Recce and Armored Car units_: Recce units usually comprise light
+armored cars (Bren Carriers, Autoblindas, etc.), while the Armored Car units
+have some tanks (Stuarts, PzII's, etc.) and heavier cars. The sole difference is
+the fact that Armored Car units are virtually light Tank Battalions. (The
+British considered Recce as infantry, but Armored Car as Armored units.) Recce
+and AC units have remarkable mobility and are best used to probe and freeze
+(Pin) small enemy formations.
+
+_Artillery_: The Artillery units in the game comprise a wide variety of weapons,
+from 65mm Infantry guns up to 21cm German howitzers and British 5.5" howitzers.
+Some of the minor guns have been ignored or combined into one "piece" with
+similar ratings. Italian mortar companies have been melded into the regimental
+HQ's and ad hoc artillery units. Ratings for guns and howitzers were based on
+Range and Penetration effect, as well as rate of fire and type of shell. Unless
+stated otherwise on the Arrival Sheet, all Artillery has its own intrinsic
+(built-in) transport, transport which may never be stripped (unless you wish to
+abandon the guns).  Artillery units use Fuel (when moving) as well as Water.
+However, they are not subject to Breakdown. Players will also note that certain
+Artillery units have more than one type of gun (e.g., the 221st Artillery Regt.
+of the German 90th Light Division). All guns belong to the same unit and they
+are treated as one unit.
+
+_Self-Propelled Artillery_: These are guns mounted on Tank or quasi-tank
+chassis. They fire like guns and have Vulnerability Ratings, but they also may
+be destroyed by Anti-Tank Fire. Their advantage is in increased mobility and
+Assault value. SP Artillery consumes Fuel and Water and _ suffers Breakdown.
+
+_Coastal Defense Guns_: These artillery units always have a CPA of 10 for combat
+purposes only, unless they have printed CPAs of greater than ten. They may not
+be moved unless Trucks are attached and assigned to that purpose. Guns with a
+'0' (not '0+') CPA are emplaced and may never be moved. Emplaced Guns do not
+possess a Vulnerability Rating and may be destroyed only by Barrage, Capture or
+Air Bombardment. Cost Defense Artillery that is motorized is subject to
+Breakdown.
+
+_Anti-Tank Units_: These have "guns" with the ability to pierce armor, thus
+destroying tanks and other armored units. There are certain TOE Strength Points,
+not specifically anti-tank, that also have this ability: British 25-pdrs., the
+famous German 88mm Flak units, Italian 75mm and 90mm AA/Flak units, etc. British
+Heavy Antiaircraft units, with 3.7" guns, theoretically had the capability to
+fire as anti-tank weapons. However, British doctrine was such that they were
+never (well, hardly ever) used in this role. ("If they were meant to be used as
+anti-tank guns they would have been called anti-tank guns." Apocryphal, but
+true.) Unless self-propelled, anti-tank units are notarmored.
+
+_Anti-Aircraft/Flak Units_: Of all the units in the game, AA/Flak unis suffered
+the most liberties in terms of design. The myriad and voluminous AA/Flak
+batteries spread over Africa were often combined into larger regiments and
+battalions, making the historical battalions/regiments seem larger than they
+perhaps were. AA/Flak units comprise a fairly wide section of weapons: British
+40mm, as well as the ill-used 3.7"s, German 20 and 88mm's, plus Italian 20mm's,
+75's and 90mm's.  Many of these guns had other tactical uses, apart from
+shooting down planes. Thus AA/Flak units are given a variety of ratings, most of
+them parenthesized. Some units, especially German 88's, can be used in many
+roles. These decisions were not based on innate capabilities, but rather on
+tactical doctrine and actual usage.
+
+_Units with Parenthesized Strengths_: Certain combat units —and certain
+non-combat units— have parenthesized Combat Ratings. These ratings may be used
+only if such a unit is in a hex not occupied by Friendly combat units with
+appropriate nonparenthesized ratings is attacked by Enemy units.
+
+[#3_5]
+=== UNIT CHARACTERISTICS
+
+Each counter comprises a number of TOE Strength Points. The unit's abilities are
+those of the TOE Strength Points comprising it (certain counters may exist if
+there are no TOE Strength Points in them; these possess only a Capability Point
+Allowance). The following is a brief ex- planation of the units'
+characteristics:
+
+_Capability Point Allowance (abbr. CPA)_: The unit's ability to execute movement
+and combat, stated numerically,
+
+_Barrage Rating_: A combat strength expressing the relative capability of that
+unit to inflict damage when firing as an artillery piece (i.e., indirect fire).
+
+_Vulnerability_: A numerical expression of a gun's susceptibility to being
+destroyed or captured when in a Forward Position (see <<12_1>>). It is based
+mostly on the gun's range and tactical usage doctrine.
+
+_Anti-armor Strength_: A numerical expression of a unit's ability to destroy
+armored vehicles.
+
+_Armor Protection Rating_: The ability of an armored vehicle to withstand enemy anti-armor fire.
+This is based on the vehicle's armor thickness and excellence of construction.
+
+_Offensive Close Assault Rating_: The ability, stated numerically, of a unit to
+engage enemy forces in "hand-to-hand" (i.e., Close Assault) combat.
+
+_Defensive Assault Rating_: The ability, stated numerically, of a unit to defend
+against a Close Assault.
+
+_Anti-aircraft Rating_: A numerical expression of a unit's ability to shoot down
+aircraft (this ability occurs, aside from anti-aircraft units, only ina few
+headquarters, tanks, and other units).
+
+_Maximum TOE Strength_: This is, all things con- sidered, the most important
+number on the sheet (see <<4_46>>). It is the numerical expression of the
+manpower (for infantry), tank platoons (for armored units), or batteries (for
+guns) in that unit.  The infantry manpower figures are based roughly on anywhere
+from 100 to 200 men, depending on the combat function of the individual and his
+use within the unit. The tank platoons are calculated in groups of five to eight
+vehicles. The gun bat- teries are calculated in groups of four guns.
+
+_Basic Morale Rating_: A numerical (and somewhat subjective) expression of a
+unit's training, combat experience, and esprit d'corps, on a scale of +3
+(excellent) to ""3 (armed rabble with minimal in- terest in anything harmful).
+Certain Com- monwealth units must be Trained in order to reach their listed
+Basic Morale.
+
+_Fuel Rate_: A simplified reduction of the vehicle's miles per gallon
+efficiency.
+
+_Breakdown Adjustment Rating_: An expression, stated numerically, of the general
+construction and ease of maintenance of a vehicle coupled with the level of
+mechanical competence of the unit per- forming the maintenance.
+
+[#4_0]
+== GAME EQUIPMENT
+
+[#4_1]
+=== THE GAME-MAPS
+
+The game-map takes up a great deal of space (it is almost ten feet in length),
+and it is virtually impossible to play any scenario without all the maps.
+This is because of the logistical nature of the game and the emphasis on supply
+lines and transport.  Players will also find that they will be using areas of
+the game-map for dropping counters, piling markers, etc. True, there are areas
+of the maps that will remain virtually untouched by combat units. Simply
+remember what's in play, and what is just being used. Playtesting of CNA, which
+usually took anywhere from six to 12 Players at any given time, revealed, among
+other things, that most action took place in one section of the game- maps. It
+can get pretty crowded in that area at times, so try to keep your displays and
+other information out of harm's way.
+
+For those Players experiencing difficulties, the five Map Sections are labeled A
+through E and are laid long side by long side from west to east respectively
+(see diagram). The Map Sections should be laid so that the Oixx hexrow of a Map
+Section overlays the 39xx hexrow of the Map Section whose letter immediately
+preceeds it in the alphabet (that is, Map Section E partially overlays Map
+Section D which partially overlays Map Section C, etc.).
+
+[note]
+====
+A B C D E
+====
+
+[#4_2]
+=== THE COUNTERS
+
+There are actually few counters in play at any one given time. However, each
+division on the game- map is comprised of a large number of lesser-sized units.
+These battalions and brigades might be brought into use at any given time, so
+the players should sort their counters into divisions, and organize their
+divisions so that they know where the individual units of that division are. It
+may even be wise to have a separate table for placement of such units.
+
+[#4_21]*[4.21]* Sample Units
+
+[WARNING]
+====
+Counter images that need to be worked out 
+
+HEADQUARTERS UNIT 
+
+COMBAT UNIT
+
+AXIS COASTAL SHIPPING UNIT
+
+COMMONWEALTH WARSHIP
+
+SQUADRON GROUND SUPPORT UNIT
+
+AIR FACILITY MARKER
+
+FORTIFICATION MARKER
+
+AIRPLANE CLASS MARKER
+====
+
+[#4_22]*[4.22]* Unit Type Symbols
+
+[WARNING]
+====
+Page 8 is fully of symbol we will have to create corresponding images
+====
+
+
+[#4_23]*[4.23]* Counter Summary
+
+[WARNING]
+====
+Page 8 is fully of symbol we will have to create corresponding images
+====
+
+[#4_24]*[4.24]* Informational Marker Summary
+[WARNING]
+====
+Page 8 is fully of symbol we will have to create corresponding images
+====
+
+[#4_25]*[4.25]* *Counter Deployment*
+
+A unit attached to another unit is not represented by a counter on the game
+map.
+
+For example: The First Greek Infantry Brigade Group is comprised of the Ist
+Greek Brigade HQ counter, the Ist Greek Field Artillery Regiment counter and the
+Ist Greek Infantry, 2nd Greek Infantry and 3rd Greek Infantry Battalions
+counters. If the three infantry battalions and the artillery regiment were
+attached to the headquarters unit, the entire brigade would be represented on
+the game map by the headquarters counter. Unless specifically stated, all
+assigned units beginning a scenario in the same hex as their parent unit are
+attached to that parent unit. The counters representing said units are therefore
+not deployed on the game-map.
+
+[#4_26]*[4.26] Holding Boxes*
+
+Certain hexes on the game-map "attract" a large number of counters. These hexes
+are represented by Holding Boxes which are nothing more than large spaces for
+deploying all of the counters which are actually located in the hex the Holding
+Box is representing.
+
+[#4_3]
+=== CHARTS AND TABLES
+
+There are an inordinate number of Charts and Tables in CNA. Most of them can be
+found in the Charts and Tables Booklet. However, some are located on separate
+loose sheets of paper or printed on the game-map or in the Rules booklets.
+
+[#4_4]
+=== ORGANIZATION AND ARRIVAL SYSTEM
+
+In any given scenario, the Players receive units via the Initial Deployment
+(given in each scenario) and via the Reinforcement Schedules. In addition to
+these, Players may plan for Replacement Points to augment depleted units; the
+discussion of these can be found in <<20_2>>. The Cases below give the Players
+a base for using and understanding the terminology and location of the terms
+and tables for acquiring and using units.
+
+[#4_41]*[4.41]* There are three types of charts which the Player will refer to
+in order to gain information on his units. These are the Characteristics Charts,
+which show what capabilities and characteristics each unit or unit-type has (in
+terms of. ratings and numbers), the "OA" Sheets, which list the organization of
+units and arrival dates for each parent unit (usually division), and the
+Reinforce- ment Schedules, which list the names and dates of all newly arriving
+land units. Air units have separate reinforcement charts and tables which
+determine their arrival.
+
+[#4_42]*[4.42]* The following procedure is used to deter- mine which units
+arrive during a Game-Turn and the abilities of those arriving units. The Player
+consults the appropriate Reinforcement Schedule and determines the current
+Operations Stage of the Game-Turn in progress; noting the units arriving, he
+finds the OA (Organization at Arrival) Chart for each of those units. Parent
+Formations are easy to find (e.g., divisions and brigades); smaller detachments
+arriving piecemeal are usually given their parent formation for easy reference
+to the correct OA Sheet. Having located the correct OA Sheet for each unit, the
+Player notes the Characteristics Code for each individual unit (that has
+arrived) in that Parent, and refers to the Characteristics Charts to determine
+the capabilities of those units. Each Parent unit arrives with all lesser
+units listed on the OA Chart, unless the unit has a later arrival date and/or is
+listed as excluded on the Reinforcement Track.  Players should then draw up a
+TOE Sheet for each such Parent Formation (and its lesser units). To more clearly
+understand the above procedure, Players should at this time run through a sample
+turn of Reinforcements, using any turn on the Track. Such a brief examination
+will quickly show how this process operates.
+
+[note]
+====
+The Player is provided with an inter-locking series of charts and tables,
+each dependent on the other for information. Although there are a lot of tables
+and the profusion may seem confusing, just a brief scanning of these tables and
+tracks will be enough to show how they work. Remember, each different table or
+track provides a piece of information, and the tables and tracks often contain
+information found on the other such tracks or tables for purposes of
+cross-checking. Example: The Reinforcement Schedule shows the arrival of the
+18th Australian Brigade. The Commonwealth Player, noting that, looks forthe OA
+Sheet for the 18th Australian Brigade. The OA Sheet also gives the Arrival Date,
+which is a cross-check with the Reinforcement Schedule. The Player now notes the
+units within the brigade, their Characteristic Code Letters, and consults the
+Unit Characteristics Charts for those units to determine what their capabilities
+are. This information is then placed on the TOE Sheet for the 18th Brigade,
+along with any other information needed or desired.
+====
+
+[#4_43]*[4.43] Reinforcement Schedules*
+(see Charts and Tables)
+
+[#4_44]*[4.44] Aircraft Characteristics Charts*
+
+There are two identically organized Aircraft Characteristics Charts one for each
+Player. Within each nationality the planes are grouped into those needing
+pilots and those not requiring pilots. Each plane is listed individually.
+Certain bear two or more rows of information. With these planes the owning
+Player may freely choose which line of characteristics and capabilities he will
+assign that plane every time he readies it. The explanation of the various
+ratings is discussed in <<34_1>> of the Air Game.
+
+[#4_45]*[4.45] Organization At Arrival Charts (OA)*
+
+A great deal of time (perhaps too much time) was spent in arriving at the most
+accurate Order of Battle possible. As with any major campaign, sources differed,
+and the designers were forced, for a variety of reasons, to make several
+decisions which abstracted some units (especially anti-aircraft units). We feel
+that CNA has, by far, the most accurate Order of Battle ever done for the
+Campaign for North Africa. However, if you have information to the contrary
+about a specific unit, feel free to adjust the game to fit that information. If
+you feel like it, we would also like to hear about that information.
+
+There are three identically organized OA Charts, one for Allied units, one for
+German units, and one for Italian units. Each chart is subdivided into sections
+hereafter termed sheets. Each sheet contains game and historical information
+on a major unit or grouping of units (e.g., all unassigned artillery units;
+50th Infantry Division) of that Player's forces. The sheet is laid out as
+follows: the name of the major unit or regrouping is at the top.  Below that is
+the Basic Morale Rating for all of the counters comprising that unit (untrained
+Commonwealth unit's morale at instant of arrival is indicated in parentheses
+where needed). This is followed by a list of the counters comprising the unit
+and any notes at the bottom of the sheet. The counters comprising the unit are
+arranged with the headquarters unit (if any) for that group at the top. Any
+units assigned directly to that HQ are indented, and any unit assigned to a
+subsidiary unit is further indented and listed in the rows directly below their
+brigade level parent unit. The explanation of the information contained under
+the column headings is as follows:
+
+_Unit Name_: The historical name of that unit. Certain abbreviations have been
+made for each nationality and they are listed at the end of the Chart.
+
+_Counter Abbreviation_: The type as it appears on the counter.
+
+_ID Code_: One, two, or three letters which summarize the unit's
+ characteristics. The unit's ratings for a particular ID Code
+are listed on the Unit Characteristics Chart for that nationality.
+
+_TOE and Weapons Systems_: A unit comprised of a
+single type of weapons system (i.e., TOE Strength Points with identical
+cHaracteristics) bears an N(ormal), U(nderstrength), or. O(verstrength)
+indicator. If the unit is normal, it arrives (or begins deployed) at its maximum
+possible TOE Strength.  If the unit arrives understrength or overstrength its
+TOE Strength at arrival will follow the U or O. If, on arrival, a unit comprises
+tank, artillery, or antitank TOE Strength Points, the number and then the type
+of the different TOE Strength Points will be listed.'
+
+_Arrives_: The Operation Stage/Game-Turn on which the unit arrives. If the unit
+beings the first scenario already deployed on the map, it is noted as a D. This
+column is a check on the Reinforcement Schedule.
+
+The OA Sheets are needed for a purpose other than pure numerical information.
+The OA Sheets list the units originally assigned to a Parent unit.  This is
+important, as units assigned to a Parent unit may stack and unstack, attach and
+detach themselves quite freely compared to other units being attached to that
+same Parent unit. The OA Sheets also, on occasion, list units that were
+historically attached to a Parent Formation at certain times during the
+Campaign.
+
+There are numerous units that are not assigned to a division. These may be
+brigades (the Commonwealth Player has many of these) or simply solitary
+battalions, artillery regiments, etc. These units are grouped on OA Sheets
+according to their most important assignment characteristics (i.e., all of the
+British unassigned anti-air units are on a single OA Sheet).
+
+The designers of CNA have chosen the division/brigade/battalion terminology
+system because it was (1) the basic system of a majority of the units in the
+campaign, and (2) the system with which they were most familiar. In many places
+it does not reflect the actual organizational levels of a unit. This is further
+exacerbated by the maddening British desire to call everything a regiment or a
+brigade when, in fact, it is a battalion. Thus, the 7th Rifle Brigade is, in
+game terms, a battalion (actually the 7th Battalion, the Rifle Brigade) and most
+of the "Tank Regiments" are battalion-size units. Most Players familiar with the
+campaign should have little trouble with items such as these (few people will
+think that the 1st King's Royal Rifle Corps is, in fact, an actual Corps).
+
+[#4_46]*[4.46] Unit Characteristics Charts*
+
+There are three identically organized Unit Characteristics charts, one for
+Allied units, one for German units and one for Italian units. The Unit
+Characteristics Chart lists each ID Code's maximum TOE Strength Points and its
+values for the various Ratings. Unless otherwise indicated on the chart, all
+tank, artillery, anti-tank, and certain HQ units may comprise any combination of
+the variety of the weapons systems listed. These units take on the
+characteristics of the assigned TOE Strength Points (weapons systems). A unit
+comprising multiple weapons systems is a single unit for all purposes.
+However, all actions are undertaken using the ratings of the individual TOE
+Strength Points (e.g., an artillery unit comprising two TOE Strength Points of
+eighteen pounder guns and four TOE Strength Points of twenty-five pounder guns
+engaging in Barrage will fire at two times the eighteen pounder gun Barrage
+Rating plus four times the twenty-five pounder gun Barrage Rating). Note that a
+unit comprising different TOE Strength Points normally possess a CPA of that of
+the slowest TOE Strength Point. The characteristics of the individiual weapons
+systems are listed on the appropriate nationality's Tank and Gun
+Characteristics' Chart. Certain unit posses parenthesized combat ratings. These
+units are discussed in <<3_3>>. Certain headquarters units' maximum limit in
+assigned TOE Strength Points are enclosed in parentheses. Any weapons system TOE
+Strength Points assigned to such a unit operate with parenthesized combat
+values.  Players should note that the maximum number of assigned TOE Strength
+Points for British Tank Regiments (battalion-equivalents) changes slightly in
+early 1942, with the influx of the first American tanks. Tank regiments with
+only American tanks (Grants and/or Shermans and/or Stuarts) now have a maximum
+of 9 TOE Strength Points, not ten. The reason for this decision is not clear;
+the allotment of tanks to a regiment, however, was dropped from 52 to 44 when
+the tanks were American. This was readjusted later on.
+
+
+[#4_47]*[4.47] Commonwealth Tank and Gun Characteristics Chart*
+(see charts and tables)
+
+This chart lists the values for TOE Strength Points
+of a specific type of tank or gun. The definitions of
+these characteristics are listed in <<3_3>>.
+
+[#4_48]*[4.48] Italian Tank and Gun Characteristics Chart*
+(see Charts and Tables)
+
+[#4_49]*[4.49] German Tank and Gun Characteristics Chart*
+(see Charts and Tables)
+
+[#4_5]
+=== LOG SHEETS
+
+Because of the enormous amount of information provided with CNA, and because of
+the game system devised for its use, there are a great number of Play-aids, in
+the form of Informational Sheets.  The playing counters themselves have little
+combat information other than the unit designations and Stacking Points, and
+there are few "tracks" by which the Players can keep visual record of various
+supply levels. The reasons for this are many: the desire of the designer to
+include as much information as possible; the problem of keeping vital
+information secret from other Players; the fact that the game-map itself is so
+large that having a plethora of charts and tracks would make it necessary to
+rent The Hearst Estate at San Simeon to play it, etc. Therefore, players will
+keep track of virtually all the information they need which is quite extensive
+on the various sheets. The following sections describe these sheets,
+although we hope that they have been so designed that their utilization becomes
+self-evident. Players should feel free to devise any other sheets or methods
+they feel necessary to ease the flow of the game; most of the sheets in CNA were
+"designed" by the playtesters.
+
+One copy of each type of Log Sheet is provided with CNA. Players should
+therefore produce as many copies of each form as they need, The designers
+suggest you use pencils and write lightly to make complete erasures easy.
+
+[#4_51]*[4.51]* The Log Sheets have been divided into four groups on the basis
+of their "owning" Player's usage. This is simply a presentation decision and
+has no effect on who actually uses what in a game.
+
+[#4_52]*[4.52] Field Commander's Group*
+
+These forms are used by the Players in charge of frontline fighting combat
+units.
+
+_Field Commander Control Sheet_: This is designed to help the Field Commander
+coordinate his forces. Each row on the sheet is meant for each counter on the
+game-map under the Player's control. These counters will normally be
+Division-Eq, and a few Brigade-Eq's. Space is provided for keeping track of the
+unit's Capability Point expenditure(s) in that Operations Stage, its Capability
+Point Allowance (CPA), current Cohesion Level, Actual Points the unit could
+contribute to a Barrage and Offensive and Defensive Close Assault, and its
+reserves of Ammo and Fuel. There is space for your "weekly" Stores requirements
+for the units as a whole (Players rarely transport Stores on Attached Trucks,
+because the Stores are required only once per game-week). The bottom section of
+the sheet is for notes, normally detailing peculiarities of certain of the units
+attached to the counters listed above them on the sheet.
+
+_TOE Log Sheets_: There are three of these in order to ease handling five basic
+division formation and organization structures and counters representing
+Brigade-Eq and smaller units. The TOE Log Sheets are the equivalent, for play
+purposes, of a giant combat unit counter. Each Parent Unit possesses its own TOE
+Log Sheet, and on it the Players keep track of the various strengths and ratings
+of the units within that formation, the changes to them and the supplies and
+trucks carried by and attached to that unit. The sheets can all be divided into
+the following sections or information areas:
+
+_A: Counter Identity_: This is the area on the top of the sheet. The counter's
+historical name, its Basic Morale, its Current Morale (if Commonwealth), and
+any other useful information (such as its assigned Parent Unit, if any, Garrison
+location, engineering capability, etc.) should be written in this section.
+
+_E: Logistics_: This is the area marked "1st Line Transport." The area is
+subdivided into Trucks Available and Supplies. The first grouping consists of
+two paired rows of three boxes. They are for indicating the total attached
+Trucks and of those trucks, which are currently transporting nothing, by
+division into Heavy, Medium and Light trucks. The second grouping is for
+supplies and troops and/or guns being motorized by the attached trucks by the
+amount and the number of trucks and the type that are carrying them.
+
+_F: Combat Information_: Boxes for recording (usually the maximum) number of
+actual Points that the unit is capable of in each of the categories.
+
+_D: Augmentation_: This is for recording the attachment of units over that
+formation's organization structure. (See Section on <<19_0,Unit Organization>>). The method of
+filling out the boxes in this section is identical to that of Maneuver and
+Division Assets below. Any unit going i this section is attached to the counter
+the Log Sheet represents, although it may be assigned to some other unit.
+
+_G. Notes_: Anything appropriate, ranging from which units are out of ammo or
+supplies to the amount of Water required by the elements comprising the counter
+every Operations Stage.
+
+_C Divisional Assets/Support Units_: Applies to those units attached directly to
+the division and not under a Brigade-Eq HQ (unless ina Common wealth Armored
+Division). The boxes are filled in the same manner as Maneuver section.
+
+_B. Maneuver Elements_: These boxes are the heart of the Log Sheet. They are
+where the information for the main combat forces comprising the counter is
+recorded. Basically, each box is used to record a single counter (i.e.,
+attached unit). The information to be recorded consists of the unit's type,
+CPA, Fuel and Breakdown Rates (if any), current TOE Strength, name, and its
+ratings for barrage, anti-armor, vulnerability, armorprotection, offensive
+close assault, defensive close assault and anti-aircraft. Information
+concerning whether the unit is simply attached to the unit without being
+assigned, and/or is assigned to another parent unit or is a garrison unit,
+etc., is best recorded in the notes section. A tank or gun unit that is
+comprised of more than one weapons system (i.e., type of TOE Strength Point)
+will require more than one box to represent the unit (as many boxes as there
+are weapons systems). A unit assigned but not at present attached to the unit
+whose Log Sheet you are handling still occupies space within the formation's
+organization. This space may not be filled by attaching other units in its
+place. For ease of play, fill in "detached" in the box of sucha unit.
+
+The recorded information may be written in or adjacent to the unit's box in any
+manner the Player desires as long as he and the other Player's have no problems
+in reading it.
+
+_Brigade TOE Log Sheet_: This is used for counters representing Brigade-Eq and
+smaller units. The formation's organization limits can be found by using the
+Formation Organization Chart and the Formation Attachment Chart. It is useful
+to put these limits in the Notes Section. As this is a multipurpose form, the
+boxes in the Maneuver Elements and Augmentation sections are unadorned and can
+be divided in any manner necessary.
+
+_Infantry Division TOE Log Sheet_: The boxes in the Maneuver Elements section are
+organized in a very restricted fashion. Some of the boxes in the Divisional
+Assets and all of the boxes in the Augmentation sections are unadorned to
+permit recording of multiple weapons systems occurring in the same unit. The
+division's organization and augmentation limits can be determined from the
+charts indicated above.
+
+Allied and Italian Armored and German Division TOE Log Sheets This is free form
+with the boxes unstructured so as to permit the expected variations in both
+multiple weapons systems in a single unit and variations in division
+organization.
+
+[#4_53]*[4.53] Rear Area Commander's Group*
+
+This group belongs to the Player in charge of construction, demolition, mopping
+up operations, and other rear area jobs having nothing to do with supplies.
+(The Player will usually have a Trucks and Major End Items Control Sheet as he
+will normally be assigned some trucks in order to handle routine operations
+without bothering the Logistics Commander).
+
+_Vehicle Repair Control Sheet_: Permits the Player to handle all broken down
+vehicle, destroyed tanks and abandoned vehicle counters.
+
+_Naval Convoy Log Sheet_: While designed primarily for Axis strategic Naval
+convoys it is also used for either Player's tactical shipping. The sheet permits keeping track of naval transport, its location, destination, transit, what is being transported, etc.
+
+_POW Control Sheet_: Designed to handle all POW's, their Capability Points
+expended, location and inhabitation of the POW Camps, and the TOE Strength and
+infantry-type of their Guards.
+
+[#4_54]*[4.54] Air Marshal's Group*
+
+The Player in charge of all the airplanes uses the following two forms and
+usually the Supply Dump Control Sheet to simplify required aircraft supply
+expenditures the aircraft require.
+
+_Squadron Ground Support Unit Sheet_: The sheet contains space for controlling
+six squadrons of planes, the maximum number that can be berthed at an airfield.
+Each squadron section permits counter location, basic composition, aircraft
+characteristics recording, and the state and Mission of each plane in the
+squadron.
+
+_Air Mission Log Sheet_: Permits the Player to coordinate all air missions
+assigned in that Operations Stage/Game-Turn, by hex and by squadron supplying
+the planes.
+
+[#4_55]*[4.55] Logistics Commander's Group*
+
+The Player in overall charge of supplies.
+
+_Trucks and Major End Items Control Sheet_: Used for the Player's Truck Convoys.
+Organized to identify, within each counter, the number of each type of truck in
+the convoy, what supplies are being transported and by what trucks; which
+trucks are ‘empty', any replacement points, repaired vehicles, returning
+Guards, etc., being returned or exchanged between units.
+
+_Supply Dumps Control Sheet_: Enables the Player to keep track of the supplies
+and location of each of his supply dumps. It is strongly suggested that the
+Logistics Commander determine which of his dumps will be actively or constantly
+used and those which are not and separate them into different sheets, as the
+actual supply dump counter ID number has no effect.
+
+_General Supply Net Sheet_: The .Logistics Commander's chief headaches are how
+much supply does he have, how much is coming in, and how much of that supply is
+likely to be used in the near future. This sheet is set up to help prevent him
+from running out of a supply by accident, as it were, either locally or
+strategically.
+
+_Supply Requisition Form_: The Logistics Commander is in charge of disbursing
+these to the various Field Commanders and Air Marshals. This may seem humorous
+at this point, but the form proved quite helpful in maintaining good supply
+organization, and it sure beats yelling at the top of your voice for 100
+gallons of fuel.
+
+[#4_6]
+=== INVENTORY OF GAME PARTS
+
+One Game-Map (five sections)
+
+Nine sheets of 200 die-cut counters (1800 total) One Land Game Rules Booklet
+
+One Air & Logistics Game Rules Booklet
+
+Two Charts & Tables Booklets
+
+One 5/8” and one 3/8” plastic die
+
+One Game Box assembly
+
+One 22" x 34" log sheet
+
+One Historical Article Booklet
+
+If any parts are missing or damaged, write, fill out the enclosed Complaint
+Card and return to SPI for replacement. 
+
+[note]
+====
+The process used to manufacture
+counters sometimes results in images being slightly off-center or in colors
+spilling along the edges of differently colored counters. Counters displaying
+such minor imperfections cannot be replaced by SPI. Only in cases where the
+counters are not legible can SPI supply replacement parts.
+====
+
+In the Land Game, the Players deal with the fine distinctions of terrain and
+local and variable weather encountered by the actual combatants. The
+interlocking and detailed movement and combat systems permit the Players to
+recreate real time and space "continuous" movement and combat. The
+organization and equipment rules create voluminous options, allowing the
+Players to deploy and maneuver company level and larger forces with equal ease
+while at the same time differentiating between raw, poorly motivated, or badly
+armed units and veteran, well motivated, well equipped forces as well as
+changes in the same unit from one state to the other.
+
+[#5_0]
+== THE SEQUENCE OF PLAY (Land Game)
+
+[#5_1]
+=== THE GAME-TURN
+
+In CNA each Game-Turn covers a period of approximately one week. However, to
+better handle combat operations, each Game-Turn is divided into three
+Operations Stages. Each Operation Stage is the equivalent of 2-3 days of
+activities and, within each such Stage, each Player performs a sequence of
+events covering all aspects of the game. Thus the Players complete their
+operations within one Operations Stage, proceed to the second, and then the
+third, thus finishing one full Game-Turn. Certain operations are performed only
+at the beginning of the actual Game-Turn. Most of the game operations —
+movement and land combat — are performed within the Operations Stage. The basic
+unit of time within the game is thus the Operations Stage.
+
+[#5_2]
+=== LAND GAME GAME-TURN SEQUENCE OUTLINE
+
+This Sequence of Play applies when playing the Land Game without the Air and
+Logistics Games.
+
+[upperroman]
+==== I. INITIATIVE DETERMINATION STAGE
+
+The Players determine who will have the Initiative for the coming Game-Turn
+(Section 7.0). The Player going first within an Operations Stage (below) is
+known as Player "A"; the other as Player "B.”'
+
+[upperroman]
+==== II. NAVAL CONVOY STAGE 
+
+[upperletter]
+===== A. Naval Convoy Schedule Phase
+
+The Axis Player plans what specific cargoes the ships will carry and their
+routes. See <<32_0>> or Section <<56_0>>. The Axis Player plans for the arrival
+of future Replacements from the Axis Replacement Points Pool. Likewise, the
+Commonwealth Player consults the Commonwealth Production Table and determines
+how many Replacement Points he will receive two turns henc and plans for their
+arrival. .
+
+===== B. Tactical Shipping Phase
+
+Both Players plan the transport of cargo between African ports. Note: The Axis
+Coastal Ships are represented in the game by counters. Allied coastal shipping
+is not represented by counters and is limited only by the port capacities.
+
+==== III. FIRST OPERATIONS STAGE 
+
+===== A. Initiative Declaration Phase
+
+The Player who gained the Initiative in Stage I now states whether he will be
+Player "A" or Player "B" for this particular Operations Stage.
+
+===== B. Weather Determination Phase 
+The Player with Initiative rolls for Weather (<<29_0>>). 
+
+===== C. Organization Phase
+
+The following segments are undertaken in any order desired.
+
+. _Reorganization Segment_: Attachment and/or assignment of Reinforcements, Replacements or any other non-assigned units including Trucks may be undertaken. Detachment of units may also be accomplished.
+
+. _Construction Segment_: 
+.. Construction Completion Step: Any work scheduled
+for completion is finished, removing and adding any markers necessary. Units
+that have finished construction are free to move. 
+
+.. Construction Initiation/Continuation Step: any units beginning or continuing work on
+projects are noted. They may not voluntarily move in the remainder of the
+Operations Stage (Exception: Reaction).
+
+. _Training Segment_: 
+
+.. Training Completion Step: Units and Replacement Points
+completing a level of Training are noted and the effects in Morale applied. 
+.. Any units beginning or continuing Training are noted. They may not move
+voluntarily in the remainder of the Operations Stage (Exception: Reaction). .
+
+===== D. Naval Convoy Arrival Phase
+
+All Reinforcements, Replacement Points and Ammo Points scheduled for Arrival
+(and actually arriving) appear in their designated Ports of Arrival or Entrance
+hexes.
+
+===== E. Commonwealth Fleet Phase
+
+. Fleet Assignment Segment: The Commonwealth Player assigns his ships to any
+sea or coastal hexes.
+
+. Fleet Repair Segment: Any Repair work on ships is undertaken at this time.
+
+===== F. Reserve Designation Phase
+
+Player "A" designates which of his units he is placing in Reserve Status,
+indicating such with a Reserve I marker (see <<18_0>>).
+
+===== G. The Movement and Combat Phase
+
+The following four Segments comprise the Movement and Combat Phase. Player "A"
+may if he so wishes, repeat Segments 1 through 4 as many times as he desires
+within the restrictions of the Continual Movement Rules (<<8_2>>). Each repetition
+must include all four segments. 
+
+1. _Movement Segment_: All units, except
+unattached Trucks and Tank Recovery Squadrons, not in Reserve and capable of
+being moved may be moved. Non-Phasing (Player "B") units may React if
+permitted and Player "B" wishes to do so. 
+
+2. _Breakdown Determination Segment_:
+All vehicles and motorized units of both sides check for Breakdown (<<2_10>>).
+Broken down vehicles are indicated by a marker. 
+
+3. Combat Segment: (Combat isresolved as follows see <<11_0>> through <<15_0>>).
+
+.. Position Determination Step: Both Players determine the "position" of all Gun-and Armor-class units.
+
+.. Barrage Step: Both Players secretly plot and then execute any Barrages. 
+
+.. Retreat Before Assault Step: Player "B”' may Retreat Before Assault any of his
+units permitted to doso. 
+
+.. Force Assignment Step: Both Players secretly
+assign TOE Strength Points to Anti-Armor or Close Assault. Player "A"
+determines which Assaults will be Probes (although he need not reveal this
+decision) and which TOE Strength Points will be withheld from Assault. 
+
+.. Anti-Armor Step: Both Players simultaneously resolve any Anti-Armor Fire,
+removing all casualties. Placement of Destroyed Tanks markers are made if
+necessary. 
+
+.. Close Assault Step: Close Assaults are resolved in any order that
+Player "A" desires. He announces which Assaults are actually Probes after each
+is resolved.
+
+4. Reserve Release Segment: Player "A" may release any of his Reserves that he wishes.
+
+===== H. Truck Convoy Movement Phase
+
+Player "A" may move his Second and Third Line Trucks (unattached) and any
+POW's and Guards.
+
+===== J. Commonwealth Rail Movement Phase
+
+If Player "A" is the Commonwealth Player he may utilize Rail Movement (<<8_7>>) for units and/or Supplies.
+
+===== K. Repair Phase
+
+1. _Towing Segment_: Player "A”' may tow Broken down and Recovered vehicles.
+
+2. _Maintenance Segment_: Player "A" may attempt to Repair Broken down or
+destroyed vehicles which were not towed in this Phase.
+
+===== L. Patrol Phase
+
+If the Phasing Player has not engaged in Assault, he may use Patrols for
+reconnaissance purposes.
+
+*At this point Player "B" undertakes Phases F through L, replacing any
+references to "A” with “B" and "B" with "A"*
+
+==== IV. SECOND OPERATIONS STAGE
+
+Both Players repeat all facets of the First Operations Stage.
+
+==== V. THIRD OPERATIONS STAGE
+
+Both Players repeat ail facets of the First Operations Stage.
+
+==== VI. END OF GAME-TURN
+
+You have now completed one Game-Turn, a full week of the real campaign. Take a
+breather, havea beer and a sandwich, contact your loved ones to let them know
+you're still alive, and return for another Game-Turn.
+
+[#6_0]
+== THE CAPABILITY POINT SYSTEM
+
+GENERAL RULE:
+
+CNA uses a Capability Point system to control all aspects of a given land
+unit's abilities. A unit's Capability Point Allowance (CPA) is a numerical
+representation of a unit's ability to undertake any and all functions: movement
+(including retreats and advances), combat, loading, transporting, construction,
+etc. There is not a function in the game that will not cost a unit some of its
+CPA (with some minor exceptions). CPA thus regulates each and every aspect of
+play. Under certain circumstances units may exceed their CPA. To do so will
+affect a unit's Cohesion, earning it Disorganization Points (which may affect
+Morale). Yet, the ability to exceed its CPA allows a unit to stretch itself to
+the limit, to perform feats it might not ordinarily perform — at a price. Players should thus keep close track of each unit's CP's expended and its Cohesion Level on the Sheets provided.
+
+[#6_1] 
+=== HOW THE CPA SYSTEM WORKS
+
+[#6_11]*[6.11]* Each unit has a Capability Point Allowance (CPA). The CPA for
+each unit is given on the OA Sheets. Certain Gun units have a CPA of "0” these
+units are considered to have a CPA of 10 for all purposes other than movement.
+
+[#6_12]*[6.12]* Every function that a unit would need to perform costs that
+unit some portion of its CPA. The costs of each such function are listed on the
+Capability Point Cost Table, Section <<6_3>>. Except where noted, everything a unit
+does costs CP's.
+
+[#6_13]*[6.13]* The CPA for a given unit refers to the number of Capability
+Poins that unit may use in a given Operations Stage without earning
+Disorganization Points (See <<6_2>>). Thus, a Tank Battalion with a CPA of '25'
+could use 25 CP's in an Operations Stage without garnering any Disorganization
+Points.
+
+[#6_14]*[6.14]* The allotment of CP's for an Operations Stage refers to both
+Players' portions of that Operations Stage. Thus, if the Axis Player goes
+"last" in a given Operations Stage any CP's used by his units in Retreating,
+Reacting, etc., during the Commonwealth portion of that Operations Stage are
+counted against those units' CPA's for that Operations Stage. As the Operations
+Stage progresses, Players should keep track of CP's expended by units on either
+the TOE Sheet for that unit or on the Field Commander Control Sheet. 
+
+*Example*: At the beginning of the first Operations Stage of the September III, 1940
+Game-Turn (Game-Turn 1), the First Royal Northumberland Fusiliers (a
+non-motorized, Machinegun battalion at this point) has a CPA of _eight_. To start
+the game, the Italians move and attack the 1st RNF. They have no artillery and
+do not barrage. The Allied Player decides to Retreat Before Assault three hexes
+at a cost of six CP's. The 1st RNF did not use any CP's to defend, and the
+Italians did not expend any CP's to Close Assault, as the Allied unit retreated
+before any could be expended. Thus when the Commonwealth Player begins his
+portion of that Operations Stage the Ist RNF battalion will have only two CP's
+remaining before it exceeds its CPA and earns Disorganization Points.
+
+[#6_15]*[6.15]* The CPA of a "Parent Formation”' (e.g., division, brigade,
+etc.) is that of the /owest CPA of the units comprising that parent formation,
+regardless of the CPA of any higher-CPA units. If the British 7th Armored
+Division was to move as an entity (consult the OA Sheet for the 7th Arm. Div)
+it would move with a CPA of ‘10', or that of its lowest-CPA unit — the Ist KRRC
+(without trucks).
+
+[#6_16]*[6.16]* A unit does not have to use all of its CP's in a single
+Operations Stage. However, CP's not used in one Operations Stage do not carry
+over into the next Operations Stage (unlike Cohesion Levels, which do). They
+are not transferrable from one unit to another (although an infantry unit may
+assume the CPA ofa truck if it is motorized; see 6.17).
+
+[#6_17]*[6.17]* Certain units may become "motorized" during the game: i.e.,
+Infantry units (those units witha basic CPA of 10 or less) may use Truck units
+to transport them. Infantry units being thus transported by Truck units assume
+the CPA of the Truck unit carrying them. Thus, if the Ist RNF were to be
+motorized by Medium Trucks it would now have a CPA of ‘20', instead of ‘8'.
+(See also Section <<8_9>>). Anti-air units with listed CPAs of 0+ may be motorized by assigning one Medium or one Heavy Truck Point per TOE
+Strength Point of Artillery.
+
+[#6_2] 
+=== COHESION
+
+Cohesion represents a unit's state of exhaustion and disintegration
+(Disorganization) or elation (Reorganization). A unit with a Cohesion Level of
+'0' is its normal self. A unit in Disorganization, with a minus Cohesion
+Level, has probably been exerting itself beyond the normal call of duty, while
+a unit with a plus Cohesion Level (Reorganization) has been winning battles.
+The Cohesion Level of a unit affects its Morale Level at the instant of combat,
+which in turn will affect its performance in that battle. (See Section <<17_0>>).
+
+[#6_21]*[6.21]* Whenever a unit exceeds its CPA within a given Operations Stage
+it earns Disorganization Points (DP's). For each Capability Point that a unit
+uses over its CPA it earns one Disorganization Point. Thus, a unit witha CPA of
+‘15° that uses 18 CP's in an Operations Stage earns three DP's. [A unit may
+also earn DP's as a result of combat.] If a unit (Parent Formation as well as
+all units in that formation) suffers losses of 30% or greater in any one Close
+Assault it earns three DP's. (See also <<15_29b>>).
+
+[#6_22]*[6.22]* DP's are used to decrease the Cohesion Level of a unit. Thus a
+unit with a Cohesion Level of -1 that earns three DP's now has a Cohesion Level
+of -4. DP's accumulate from Segment to Segment; they may be negated only by
+certain actions on the part of the unit (See <<6_23>>). Furthermore, DP's are
+credited immediately — not at the end of an Operations Stage. 
+
+*Example*: the Ist
+RNF, with a CPA of ‘8' and a Cohesion Level of -2 has expended five CP's in a
+Movement Segment. It then assaults an Italian unit, expending the five CP's
+necessary to do so. The Ist RNF has thus exceeded its CPA by two, earning 2
+DP's and reducing its Cohesion Level by that two to -4. The decrease in the
+Cohesion Level takes place before the Close Assault is resolved and the 1st RNF
+uses its new Cohesion Level of -4 in computing any changes to Morale.
+
+[#6_23]*[6.23]* A unit's Cohesion Level may be increased by earning
+Reorganization Points (RP's). Under no circumstances, however, may a units
+Cohesion Level ever go higher than plus ten (+10). RP's earned are added to a
+unit's Cohesion Level in such a way as to make it "better". Thus a unit with a
+Cohesion Level of -3 that earns five RP's has a new Cohesion Level of +2.
+RP's, like DP's, are applied immediately.
+
+[#6_24]*[6.24]* RP's are earned under the following circumstances:
+
+1. For each Operations Stage in which a unit uses absolutely no CP's (except
+for a unit undergoing Training or conducting Training; see <<18_3>>) that unit
+earns five RP's. However, no unit may ever increase his Cohesion Level above
+‘0' by this method. Thus, a unit with a Cohesion Level of -1 that uses no CP's
+for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stage
+(not +4).
+
+2. For each Close Assault in which a unit participates where the defending upit
+vacates its hex completely as a direct result of that Close Assault (not
+Reaction or Retreat Before Assault) that unit (victorious) earns fhree RP's.
+
+[#6_25]*[6.25]* A unit with a positive Cohesion Level (e.g., +3) may have its
+Basic Morale increased in a given Close Assault, while a unit with a negative
+Cohesion Level (e.g., -12) may have its Morale lowered for a given combat (see
+<<17_2>>).
+
+[#6_26]*[6.26]* A unit with a Cohesion Level of -26 (or worse) may not move,
+attack, or defend. If an enemy combat unit moves adjacent to it it Sur renders,
+regardless of the size of the enemy unit. Such "disorganized" units may,
+however, refuel, and they do consume Stores and Water. (Note, that a unit may
+get a level of worse than -26 if it performs a sing/e action, such as an
+attack that would jump it past the -26 level.)
+
+[#6_27]*[6.27]* If a Player has more than one unit (or individual combat
+counter) in a given Close Assault, and those individual units have different
+Cohesion Levels, then the Cohesion Level of the largest (in terms of type:
+division, brigade, etc.) unit prevails. (Use the Stacking Points to determine
+the "Jargest" unit.) When determining any adjustments to Morale through
+Cohesion Level, if there is more than one "largest unit", then the Cohesion
+Levels of all "largest units" are added together and divided by the number of
+contributing counters.
+
+Example: Three brigades are assaulting an enemy unit. The Cohesion Level of the
+Brigades is -4, -1 and +3, respectively. The Player adds the three together
+(-4 + (-)1 + 3 = -2, and then divides by three (-2 + 3 = -1, rounding to the
+nearest whole number). The Cohesion Level for that battle is thus -1.
+
+[#6_28]*[6.28]* If a Parent Formation has many units within it that have
+different Cohesion Levels the largest unit within the Parent Formation
+prevails, as per Case <<6_27>>.
+
+*Example*: An extreme example, and one not likely to occur, is one where a
+Parent Formation has three Brigades, all with different Cohesion Levels; in
+addition, one of the Brigades contains three battalions, each with a different
+Cohesion Level. The Cohesion Level for the latter Brigade would have to be
+determined before averaging the three Brigades to get the final Cohesion Level.
+Again, this will rarely, if ever, occur. 
+
+[#6_29]*[6.29]* Notwithstanding anything said in <<6_27>> or <<6_28>>, each
+unit's Cohesion Level is kept track of individually. As most units ina Parent
+Formation will have the same level at all times, this will not prove to be too
+big a problem. 
+
+[#6_3] 
+=== CAPABILITY POINT COST SUMMARY
+
+(see Charts and Tables)
+
+[#7_0] 
+== INITIATIVE 
+
+GENERAL RULE:
+
+Initiative is an abstract, numerical rating represen tative of the strategic
+leadership capabilities of a given army. It is used, in the game, to determine
+who has the choice to act first within a given Operations Stage. The fact that a
+Player has the ability to choose when he will move is a great advantage, and the
+army with better initiative will often find that it has the upper hand
+operationally — if not materially.
+
+[#7_1] 
+=== THE MECHANICS OF INITIATIVE
+
+[#7_11]*[7.11]* The Player who has "Initiative" for a Game-Turn may choose
+whether he wishes to move first or last in a given Operations Stage.
+
+[#7_12]*[7.12]* The Player who will have the Initiative is determined at the
+beginning of each Game-Turn (not Operation Stage). The Player who gains the
+Initiative keepts that Initiative for all three Operations Stages in that
+Game-Turn. Thus, the Player with Initiative may choose to move first in the
+first Operations Stage, last in the second stage and then first in the third
+Stage (which would give him, in effect, two "turns" ina row).
+
+[#7_13]*[7.13]* Each side possesses an Initiative Rating (<<7_2>>), which is
+dependent on the date of the GameTurn.
+
+[#7_14]*[7.14]* To determine which Player has the Initiative for a given
+Game-Turn, each Player, in the Initiative Determinate Stage, rolls one die and
+adds his Initiative Rating to the result of the thrown die. The Player with the
+highest total (ties roll again) gains the Initiative. Thus, in October of 1940,
+if the Italian Player, with an Initiative Rating of '1', were to roll a '4',
+and the Commonwealth Player, with an Initiative Rating of '3', were to roll a
+'1', the Italian Player would gain the Initiative by virtue of having a total
+of five (1 + 4 = 5) to the Commonwealth total of '4' (3 + 1 = 4). The Italian
+Player would now be able to choose, in his Initiative Declaration Phase,
+whether he wants to move first or last in the Operations Stage for each of
+three Operations Stages in the Game-Turn.
+
+[#7_15]*[7.15]* The Player with Initiative for the first Game-Turn of a given scenario
+is usually predetermined, Check the individual scenarios for who has the
+Initiative for the first Game-Turn.
+
+[#7_16]*[7.16]* For purposes of the Sequence of Play, the Player who moves
+first in an Operations Stage is called "Player A"; the Player who moves last
+in an Operations Stage is called "Player B".
+
+[#7_2] 
+=== INITIATIVE RATINGS CHART
+
+This chart lists the Axis and CW initiative ratings for all units at any given
+point in the game. (See Separate Sheets)
+
+[#8_0] 
+== LAND MOVEMENT
+
+GENERAL RULE:
+
+In CNA, Land Movementis a function of the CPA of a unit. Most Movement occurs
+during the Movement Segment of the Movement/Combat Phase. During the Movement
+Segment, the Phasing Player (i.e., the Player who is in the process of moving)
+may move as many or as few of his units as he wishes. They may be moved in any
+direction or combination of directions, limited only by their CPA's, enemy
+Zones of Control, Terrain restrictions and, in the case of motorized units,
+Fuel consumption and Breakdown. Under certain conditions (Reaction and Retreat
+Before Assault) the non-Phasing Player may move his units.
+
+PROCEDURE:
+
+Units are moved one at a time, or in stacks, tracing a path of contiguous hexes
+through the hex grid. As a unit enters each hex it must expend a portion of its
+CPA for entering that hex or crossing a particular hexside. All terrain costs
+are listed on the Terrain Effects Chart (8.37). In addition to Movement costs,
+Players must pay attention to Breakdown costs for vehicles moving through
+certain hexes (see Section 21.0).
+
+[#8_1]
+=== HOW TO MOVE UNITS
+
+[#8_11]*[8.11]* Units may be moved voluntarily only during the Movement
+Segments or Retreat Before Assault Step. Voluntary movement may never take
+place out of the Sequence of Play. Players should note that while Player A may
+be the Phasing Player, Player B has several opportunities to move his units
+during A's Segment. All movement, of any type, expends CP's. Furthermore, if
+the unit moving is a vehicle (armored units, selfpropelled artillery and
+trucks), the Player must check for possible Breakdown (see Section 21.0). Units
+may move freely through Friendly units, with the exception of movement along
+roads and tracks (see <<8_34>>).
+
+[#8_12]*[8.12]* Under certain conditions — usually combat — a unit may be forced
+to Retreat. This is considered involuntary movement, in that the retreating
+Player does not move by his own choice but rather as a direct result of combat.
+However, involuntary movement also requires expenditure of CP's and checks for
+Breakdown.
+
+[#8_13]*[8.13]* A unit may never enter a hex containing an enemy unit (see,
+however, Case 27.4). Furthermore, movement from hex to hex must be con secutive;
+units may not skip hexes. (There are, of course, different rules for aircraft.)
+
+[#8_14]*[8.14]* If a unit moves into an enemy Zone of Control (10.0) it must
+stop immediately. It may move no further in that Movement Segment and will
+probably have to attack, in some form, the enemy unit exerting that Zone of
+Control.
+
+[#8_15]*[8.15]* A unit that begins a Movement Segment in an enemy Zone of
+Control may move out of that hex and continue movement under the following
+conditions:
+
+1. It may not move directly into an enemy Zone of Control (however, see 
+<<10_24>>); and
+
+2. It must pay a cost of two CP's if the units are in "Contact" (see <<8_62>>);
+or
+
+3. It must pay a cost of four CP's if the units are "Engaged" (see <<8_63>>).
+
+[#8_16]*[8.16]* Units may continue to move and fight as long as they wish, with
+certain restrictions (see <<8_2>>). They may exceed their CPA in an Operations
+Stage; however this will affect their Cohesion Level.
+
+[#8_17]*[8.17]* Non-motorized units — those units with CPA's of fen or less —
+may never voluntarily expend CP's greater than 50% of their base CPA during
+their portion of the Operations Stage (An '8' could not go higher than '12', a
+'10' no higher than '15'). Remember, Reaction and Retreat Before Assault are
+not voluntary movement in your own portion of an Operations Stage; they occur
+in the other player's portion of the Operations Stage. Furthermore, no unit
+with a Cohesion Level of — 26 or worse may move.
+
+[#8_18]*[8.18]* Second and Third Line Trucks (i.e., Truck Convoys; see 
+<<8_9>>) have their own Movement Phase: The Truck Convoy Movement Phase. Such
+trucks may not move (voluntarily) in the normal movement segments. Only trucks
+directly attached to, and part of, a combat unit or HQ may move in the normal
+Movement Segments. Trucks become attached and/or detached in the Organization
+Segment of the Sequence of Play.
+
+[#8_19]*[8.19]* No Commonwealth Land unit may be moved west of Marble Arch
+(A2109) at any time, for any reason. (This solves a great number of playing
+problems, and also reflects Commonwealth operations considerations and
+strategy.)
+
+[#8_2]
+=== THE CONCEPT OF CONTINUAL MOVEMENT
+
+CNA uses a concept called "Continual Movement". Under this concept a given
+unit does not possess a set Movement Allowance which it may never exceed, as in
+most wargames. Rather a unit has a Capability Point Allowance. If a Phasing
+Player wishes to push his units past their CPA he may do so, knowing that it
+will affect that unit's Cohesion. In Continual Movement a unit may continue to
+move after it has engaged in combat, moving and fighting as long as the Phasing
+Player wishes, within certain limits.
+
+Continual Movement generates certain problems in terms of Time-and-Space
+Relationships. The rules attempt to account for the fact that time passes while
+one unit is moving; that other units are not standing still.
+
+[#8_21]*[8.21]* Units are not limited as to the number of times they may move
+and engage in combat during a given Operations Stage except for Cases 6.26,
+
+8.17, and 8.23. Thus, a unit may move adjacent to an Enemy unit, engage it in
+combat, move away (or stay), engage the same or another unit in combat, etc.,
+as the Phasing Player wishes. The unit simply expends CP's for a//actions it
+performs.
+
+[#8_22]*[8.22]* Within a given Movement/Combat Phase there may be several
+segments of Movement and Combat. These are, to a certain extent, regimented. In
+essence, the Phasing Player moves his units. He then, after all such movement
+is completed, resolves any combat. He may then again move any of his units
+(within the exceptions mentioned in 8.21); after all movement at that time is
+completed any combat necessitated or desired is resolved. This cycle is
+repeated until the Phasing Player no longer wishes to move his units or have
+combat. Remember, no combat occurs until a@// movement has ceased within each
+Sequence of Movement and Combat.
+
+[#8_23]*[8.23]* Only those Phasing units that have finished a Movement Segment
+within two hexes of an enemy unit are free to move again. A Phasing unit that
+finishes its movement more than two hexes from an enemy combat unit may not
+continue to move during that Movement Phase, regardless of the number of CP's
+remaining, unless that is a unit that has been placed in Reserve Status (18.0).
+Players should note that Reserve Status is an exception to 8.22.
+
+[#8_24]*[8.24]* A Phasing unit that begins any Movement/Combat Phase in the
+Zone of Control of an Enemy unit must expend fwo CP's to break "Contact" — or
+four CP's, if such position was brought about by an "Engaged" result on the
+Assault CRT — if it wishes to move. (Note, that in the case of an Engaged
+result, the presence of an enemy ZOC does not matter.)
+
+[#8_25]*[8.25]* A Friendly unit may attack a given Enemy unit more than once in
+a given Operations Stage, with neither unit ever moving! However, each combat
+occurs after all movement of other units cease. If there is no movement by any
+units, combat may still proceed for as long as the Phasing Player wishes,
+providing he has the necessary Ammunition and wishes to expend the required
+number of CP's.
+
+[#8_3] 
+=== TERRAIN EFFECTS ON MOVEMENT
+
+[#8_31]*[8.31]* Units expend a varying number of CP's to enter hexes or cross certain
+hexsides, depending upon the type of unit and/or what type of hex or hexside is
+involved. The costs range from % CP for roads (for motorized units) to + 8 for
+a vehicle to move down an escarpment via a track or an infantry-type unit to
+cross The Nile without a "bridge". See the Terrain Effects Chart for all
+effects (8.9).
+
+[#8_32]*[8.32]* Certain types of hexes and/or hexsides are prohibited to
+certain types of units. E.g., certain vehicles may never enter a Salt Marsh
+hex, unless it is onaroad or track.
+
+[#8_33]*[8.33]* Roads and Tracks may be used to facilitate movement through terrain
+obstacles and speed movement over the entire game-map. For a unit to gain any
+benefit from movement on a Road or Track if must move from one Road/Track hex
+directly into an adjacent, connecting Road/Track hex through a Road/Track
+hexside. Units which are moving along Roads or Tracks ignore, for movement
+purposes, any other terrain in the hex or hexside, with the exception of
+vehicles crossing Escarpments (see 8.42).
+
+[#8_34]*[8.34]* A unit comprised (at least in part) of vehicles (i.e., tanks,
+trucks, artillery, etc.) that is moving along a Road or Track is limited in its
+ability to move through other Friendly units on the Road or Track in that hex;
+see <<9_33>>. Such
+
+moving units may always pass around Friendly units that are on a Road or Track
+by moving through the terrain in the hex, i.e., bypassing the units on the road
+by moving off the road and around them, going back on the road in the next hex.
+
+[#8_35]*[8.35]* Most of the terrain in CNA is selfexplanatory, especially when
+the Terrain Effects Chart is consulted. However, at this point it would help to
+be able to visualize the difference between slopes, ridges and escarpments. An
+idealized sideview of each of the above types of terrain is provided below so
+that players can see what is being abstracted:
+
+[note]
+====
+Here goes a diagram
+====
+
+_Slopes and Escarpments_ always have an "up" side and a
+"down" side (see the Terrain Key). The splash contours of the respective
+terrain symbols are always on the "down" side of the slope or escarpment.
+Thus, when a unit is crossing a slope or escarpment hexside it is moving either
+up the slope/escarpment or down the slope/escarpment.
+
+_Ridges_ have no "direction"; crossing a Ridge hexside has the same effect
+regardless of which direction the unit is coming from. In essence, ridges are
+two-sided slopes.
+
+[#8_36]*[8.36]* Certain types of terrain restrict combat or give the attacker
+or defender a combat benefit. These benefits are discussed throughout the
+sections on Combat, but they are all summarized on the Terrain Effects Chart.
+
+[#8_37]*[8.37] Terrain Effects Chart*
+
+(see Charts and Tables)
+
+[#8_4] 
+=== SPECIAL TERRAIN EFFECTS ON MOVEMENT
+
+For those gamers used to Panzerarmee Afrika and Afrika Korps, the game-map of
+CNA will come as something of a shock and a revelation: there is terrain in all
+those empty spaces. And much of this terrain is unlike that of anywhere else on
+earth, bringing with it special problems for both designer and player. The most
+important of these are discussed below.
+
+[#8_41]*[8.41]* _Wadis_. Wadis are, in essence, dried-out river beds. There are
+several major areas of wadis in North Africa. While the series of wadis that
+"guards"  the Libyan Sand Desert, south of Cyrenaica, is the largest group,
+perhaps the most important series of wadis are those extending like fingers from
+the Jebel Akhdar (game-map B).  Along with the other difficult terrain in the
+area, the wadis of the Jebel Akhdar greatly hinder rapid movement.
+
+All units expend CP's to cross a Wadi hexside. (All wadis in CNA have been
+placed along hexsides, with the exception of the Wadi Natrun, just west of the
+Nile Delta, which is treated, for gamepurposes, as if it were Salt Marsh.) In
+addition, there is a Breakdown Factor of eight for vehicles crossing a wadi
+hexside. Roads negate wadis for movement purposes, while Tracks halve the cost
+to cross. Vehicles crossing a Wadi on a Road use the Road Breakdown Rate (2
+BP), while vehicles crossing on Tracks garner four BP's, not eight.
+
+Players should note that in an Operations Stage in which the Weather is
+Rainstorm wadis in affected map sections are impassable at ail points, except
+where they are traversed by roads. The cost to cross a rain-swollen wadi by Road
+is +2 CP's; there is no additional Breakdown cost (i.e., it is still 1/2 BP).
+
+[#8_42]*[8.42]* _Escarpments_. The escarpments, which were such an integral part
+of the Desert Campaign, are at the edge of the Libyan Plateau, which rises from
+the edge of the strip of land that borders the Mediterranean. In some places
+the rise is gradual; in others it is sharp and severe, virtually uncrossable by
+vehicles. Movement costs for crossing escarpment hexsides are listed in the
+Terrain Effects Chart (<<8_37>>). However, other factors must be noted. No vehicle
+may ever move "up" an escarpment (i.e., cross an escarpment hexside by
+moving from the down side to the up side). If a Track crosses an escarpment
+hexside, vehicles may use the Track to move down the escarpment, but never up.
+The cost for moving down via Track would be +8 CP's and six Breakdown Points.
+
+[#8_43]*[8.43]* Slopes and Ridges. These were discussed in <<8_35>>. All units may
+cross these hexsides at a variety of Movement and Breakdown costs; see <<8_37>>.
+
+[#8_44]*[8.44]* _Salt Marsh_. Salt marshes are depressions consisting of very
+fine and treacherous salty sand —a veritable quicksand grave for vehicles, and
+no fun for infantry either. Vehicles, except for Light Trucks, Recce-type
+units, and motorcycle infantry may enter or leave a Salt Marsh hex only on a
+Road or Track. A prohibited vehicle that enters a Salt Marsh hex without using
+the Track, whatever the reason, is Abandoned (see <<5_33>>). Because most vehicles
+are prohibited from entering Salt Marshes in a normal manner, no motorized unit
+or AFV (tank, armored car, etc.) may ever engage in Assault with units
+defending in a Salt Marsh hex. The one camel unit in the game (the Italian
+Meharisti Camel Cavalry) travels as infantry in non-track Salt Marsh hexes, as
+these hexes could not support /oaded camels.
+
+[#8_45]*[8.45]* _Desert_. Desert hexes, which comprise the area known as the
+Libyan Sand Desert, contain soft, shifting sand (as opposed to "Clear" hexes,
+which have a clay-like substance more supportive of vehicular traffic.) Desert
+hexes are forbidden to Light Trucks, Motorcycle infantry, and motorcycle Recce
+units whose weight was not sufficient enough to provide the traction necessary
+for moving vehicles through the soft surface. Such units may not enter any
+Desert hexes, whether traversed by Tracks or not. See 8.37 for all terrain
+costs.
+
+[#8_46]*[8.46]* _Tracks_. The major communication network of the North African
+Plateau is the series of tracks that criss-cross the entire area. The tracks
+are useful not in that they are easier to walk or ride in (in some places they
+are no easier than the terrain in the hex); what they do provide is direction
+— i.e., which way to go. Sense of direction in the "desert" is almost
+non-existent; the tracks provide that. Movement along tracks is at 1 CP per hex
+and halves most hexside crossing CP costs. In addition, units using a track pay
+only one-half the normal Breakdown cost for that hex.
+
+[#8_47]*[8.47]* _Railroads and Roads_. The use of these two are discussed quite
+succinctly in the body of the rules. However, Players should note that, on the
+game-map, there are large sections of railroad and some' roads that are not
+constructed as of September 1940 and must be constructed to exist. Specific
+later scenarios will list the hexes that have been constructed by that time.
+Unconstructed railroad hexes are ignored for all purposes. Unconstructed roads
+are treated as tracks.
+
+[#8_48]*[8.48]* _Oases_ do not affect movement, But it might be worthwhile to
+point out here that Oases are considered to be nondiminishing Supply Dumps for
+Water and Stores.
+
+[#8_49]*[8.49]* All of these terrain types also affect combat. However, such
+effects are discussed in the various combat Sections, especially <<15_3>>.
+
+[#8_5] 
+=== REACTION
+
+Reaction is the capability of a unit to "get out of the way" of an attacking
+unit or units before the enemy can launch an attack against the reacting unit.
+Reaction is movement conducted by the nonPhasing Player — as defender — in the
+opposing Player's Movement/Combat Phase, A unit's ability to react is limited
+to certain specific situations. Reaction expends CP's.
+
+[#8_51]*[8.51]* Reaction is the process of movement by a Friendly, non-Phasing
+unit in response to an Enemy Combat unit moving adjacent to that Friendly,
+non-Phasing combat unit. Reaction follows all the standard rules of movement,
+except as stated below.
+
+[#8_52]*[8.52]* A given unit may React as many times as the Player wishes
+during an Operations Stage. A unit "reacting" expends CP's; however, it does
+not expend CP's for Breaking Contact/Engaged, as defined in <<8_24>>.
+
+[#8_53]*[8.53]* All units may react, with the following exceptions:
+
+a. Non-motorized units, Squadron Ground Support Units, and Truck Convoys not
+stacked with Friendly combat units may never React.
+
+b. No unit may React if the Enemy unit moving adjacent to it has a CPA six or
+more points greater than that of the non-Phasing unit and the owner of the
+Phasing unit announces there will be a Close Assault by his unit against the
+non-Phasing unit. Thus, a motorized infantry battalion may react when a tank
+battalion with a CPA of 25 moves adjacent to it, because a motorized unit will
+have a minimum CPA of 20 (from its trucks). However, if the same motorized
+battalion were to be moved adjacent to by an enemy Recce battalion, with a CPA
+of 45, the motorized battalion could not React. (It could still Retreat Before
+Assault, however; see <<13_0>>). Furthermore, each units is treated
+individually; thus, Second Line Light Trucks stacked with (but not attached to)
+that motorized battalion could retreat (as they have an extended CPA of 40,
+only 5 less than 45). 
+
+c. If a non-phasing unit is already in an enemy Zone of Control (usually as a
+result of (b) above) it may not React. In this way, faster units "pin" slower
+units.
+
+d. A unit that is in combat or Engaged may not react.
+
+[#8_54]*[8.54]* Notwithstanding anything said in <<8_53>>, no battalion size unit
+may ever pin a division and no company-size unit may ever pin a brigade or
+larger unit. The terms used here refer to size, and not specifically the unit
+type/designation. Size of unit may be determined by Stacking Points as well as
+the TOE. Thus a division may be but a skeleton force, as may other units. The
+problem should rarely occur, as most units are fairly easy to determine as to
+size and type, but if there is a question use your Common Sense (or flip a coin
+if that commodity is in short supply). See <<9_2>>.
+
+[#8_55]*[8.55]* Reacting units may never enter an Enemy Zone of Control during
+their Reaction Movement. Otherwise, Reaction is undertaken like normal
+movement, with no limit as to how far a unit may React/Move.
+
+[#8_56]*[8.56]* A unit may react, within the restrictions listed in <<8_53>> above,
+even if it is attached to a parent formation. In this case, the CP is expended
+for detachment and the unit may then react. A brigade HQ may not be detached
+from a division unless all of the units at present attached to the brigade HQ
+are also detached. In addition, the
+
+detachment of units may not be performed such that the parent unit is vow
+"pinned" as a result of its becoming a shell and having <<8_54>> now apply.
+Attached trucks may be freely divided amongst the parent unit and its detaching
+and reacting units. Note that this rule does nor permit a parent unit to detach
+low CPA units in order for the parent unit to now be able to react.
+
+[#8_6] 
+=== BREAKING OFF
+
+[#8_61]*[8.61]* Breaking Off is a function of Movement that occurs when a unit
+beings a Friendly Movement Segment in Contact or Engaged with an Enemy Combat
+unit. Contact and Engaged markers are provided to indicate such status. (There
+has been some discussion of this in <<8_24>>; see also Case <<15_81>>).
+
+[#8_62]*[8.62]* Units are in Conract if they are inan Enemy Zone of Control at
+the beginning of a Movement Segment.
+
+[#8_63]*[8.63]* Units are Engaged directly as a result of Close Assault;
+Engaged is a combat result. Engaged units do not necessarily have to be in
+Enemy Zones of Control. ,
+
+[#8_64]*[8.64]* A unit in Contact or Engaged with an Enemy combat unit at the
+beginning of a Movement Segment or a Retreat Before Assault (not Reaction) may
+not move until it has paid a cost in CP's to break off such contact. In
+addition, First Line Trucks wishing to detach from an Engaged or Contacted
+parent unit must expend the necessary CP's to so detach. Second/Third Line
+Trucks wishing to attach as First Line Trucks to Engaged or Contacted units do
+not expend additional CP's to so attach,
+
+[#8_65]*[8.65]* A unit in Contact must expend two CP's to Break Off before
+moving.
+
+[#8_66]*[8.66]* A unit that is Engaged must expend four CP's to Break Off
+before moving.
+
+[#8_67]*[8.67]* When all of the Friendly units that were in Contact or Engaged
+with an Enemy combat unit Break Off that Enemy unit is no longer Engaged or in
+Contact.
+
+[#8_68]*[8.68]* Contact and Engaged markers affect only the combat units in the
+hex at the time of their placement. Units moving into a hex with a Contact or
+Engaged marker are not affected by that marker.
+
+[#8_7] 
+=== RAIL MOVEMENT OF LAND UNITS
+
+[#8_71]*[8.71]* There are two rail lines in the game. The Alexandria-Mersa
+Matruh line is an active railroad. It may be extended by construction (see 
+<<24_6>>) and may be used only by the Commonwealth Player, regardless of the
+strategic situation. The Soluch-Benghazi-Barce rail line is on the gamemap
+solely for historical purposes; it may not be used for anything and has no
+effect whatsoever on terrain or movement. (It was used by the Italians in 1940,
+but not in any way as to affect the game.)
+
+[#8_72]*[8.72]* The Commonwealth Player may use Rail Movement once per
+Operations Stage, in the Commonwealth Rail Movement Phase. He may transport
+units and/or supplies, and he may move one "stack" of these any distance along
+the rail line in each direction. Thus, a unit may be moved west from Alexandria
+to any rail hex along a finished rail line as far as (eventually) Tobruk, and
+supplies in Tobruk may be moved east to Matruh.
+
+[#8_73]*[8.73]* To use Rail Movement a unit must start the Operations Stage on a
+rail hex, it may not have expended any CP's for any other reason during that
+Operations Stage, and it may not be in an Enemy ZOC. The unit is then moved to
+the desired point along the line where it stops. It may not enter an Enemy ZOC
+or Enemy-occupied hex at any time while using Rail Movement.
+
+
