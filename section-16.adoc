@@ -1,0 +1,206 @@
+[#16_0]
+== PATROLS AND RECONNAISSANCE
+
+GENERAL RULE:
+
+Patrols may be conducted in order to determine the identification and strength
+of opposing units.  In any Operations Stage in which no Anti-Armor or Close
+Assault combat has taken place a Phasing Player may "pull" men out of certain
+types of units to patrol in the Patrol Segment. To patrol, the Phasing Player
+announces how many Patrol Points are Reconnoitering a given hex. He consults the
+Patrol Survival Table, takes losses, if any, then refers to the Reconnaissance
+Table to see how effective his patrol has been. Depending on his success on the
+Reconnaissance Table, the nonPhasing Player must tell him information about a
+given number of units. No units actually move during patrol; patrolling is
+handled abstractly.
+
+PROCEDURE:
+
+To patrol, the Phasing Player announces the number of Patrol Points he wishes to
+allocate to a given patrol, expends the necessary fuel and ammunition, and
+states which hex is being patrolled.  He consults the Patrol Survival Table
+(<<16_6>>) and rolls one die to determine any Patrol casualties (unless no combat
+units are present in the hex; see Case <<16_32>>). If Patrol Points remain (that is,
+if the patrol is not wiped out), the Phasing Player rolls one die and
+cross-references the result with the number of remaining Patrol Points on the
+Reconnaissance Table (<<16_7>>) to determine what (if any) information his patrol
+garners. The non-Phasing Player must now reveal information as required by the
+results of the die roll. Finally, the Phasing Player rolls one die and consults
+the Objective Loss Table (<<16_8>>) to determine if there are any non-Phasing unit
+casualties and, if so, they are extracted.
+
+CASES:
+[#16_1]
+=== WHICH UNITS MAY PATROL
+
+[#16_11]*[16.11]* Only Recce-type, Light Tank (Italian CV/33's, British Mark VI
+Lights, or German Panzer I's), or Motorized Infantry may supply Patrol Points
+for Reconnaissance.
+
+[#16_12]*[16.12]* The Phasing Player subtracts — or rather detaches — TOE
+Strength Points from the unit/TOE types allowable (Case <<16_11>>) and designates
+them as Patrol Points. Example: a Phasing Player detaches two Recce TOE Strength
+Points from a Recce battalion in Hex A and assigns them as Patrol Points to
+Reconnoiter Enemy-occupied Hex B. The Player notes on his TOE Log sheets the
+assignment and any resultant casualties.
+
+[#16_13]*[16.13]* No more than 2 TOE Strength Points may be assigned as Patrol
+Points from any one hex, regardless of the number of units in that hex.
+
+[#16_14]*[16.14]* The maximum number of Patrol Points that may be sent to an
+Enemy-occupied hex is 3, with Patrol Points from different hexes having the
+capability of combining forces for a Reconnaissance operation.
+
+[#16_15]*[16.15]* No unit with a Cohesion Level of -8 or worse may assign TOE
+Strength Points to patrol duty.
+
+[#16_16]*[16.16]* For each Patrol! Point sent out on Reconnaissance, the Phasing
+Player expends one Am munition Point and 2 Fuel Points. These supplies must be
+present in the hex the Patrol Points originate from, and they are expended
+regardless of the result of the patrol.
+
+[#16_17]*[16.17]* No Patrols may originate from or be directed into any hex
+affected by a Rainstorm or Sandstorm.
+
+[#16_2]
+=== RESTRICTIONS ON PATROLLING
+
+[#16_21]*[16.21]* In any Operations Stage that a Phasing Player does not engage
+in Anti-Armor Combat or Close Assault against any Enemy units, he may patrol. In
+addition, although a Player may patrol if he has used Artillery Barrage during a
+given Operations Stage, he may not Reconnoiter any hex which has undergone any
+type of Barrage or Air Bombardment. A Phasing Player may launch as many patrols
+as he wishes.
+
+[#16_22]*[16.22]* Patrol. Points may reconnoiter any Enemy-occupied hex within
+five hexes of the hex the Patrol Points originate from. The five-hex path may
+not include any terrain impassable to the units in the patrol (see Case <<16_11>>),
+nor may they pass through an Enemy-controlled or occupied hex other than a hex
+in the Zone of Control ofthe unit being reconnoitered.
+
+[#16_3]
+=== PATROL LOSSES
+
+[#16_31]*[16.31]* Both Players — the Patroller and the Patrollee — must check
+for any possible combat losses from Patrol action. However, each Player checks
+at a different time.
+
+[#16_32]*[16.32]* The Phasing Player, after assigning his Patrol Points to
+Reconnoiter a specific hex, consults the Patrol Survival Table before
+reconnoitering, with one exception. The non-Phasing Player must inform him if
+there are no combat units in the hex which is being reconnoitered. If there are
+no combat units in that hex, the Phasing Player skips the Patrol Survival Table
+and suffers no losses.  AA/Flak and Engineer units are not combat units for this
+purposes.
+
+[#16_33]*[16.33]* The Phasing Player now rolls one die and consults the Patrol
+Survival Table. If ¢// his Patrol Points are from Recce units he subtracts one
+from the die roll. Any losses — in TOE Strength/Patrol Points eliminated or
+captured by the non-Phasing Player (including trucks) — are deducted immediately
+(Phasing Player's choice as to unit type), Captured Points become Prisoner
+Points.  Ifno Patrol Points survive, the Phasing Player goes no further; he gets
+no information.
+
+[#16_34]*[16.34]* After the Phasing Player has gotten his information, or after
+having had all his units eliminated (whichever comes first) the Phasing Player
+rolls another die to see whether he has inflicted any losses on the non-Phasing
+Player, regardless of the losses he (the Phasing Player) has taken. There is one
+exception to this: if the Phasing Player's patrol is eliminated in entirety, the
+Captured result on the Objective Loss Table becomes an Eliminated. The choice of
+loss (in TOE Strength Points) is up to the non-Phasing Player, but it must come
+from a combat unit. If there are no combat units, the non-Phasing Player may
+eliminate either Truck Points, AA/Flak Points, Engineer Points, or HQ Points, in
+that order of priority.
+
+[#16_4]
+=== DUMMY TANK FORMATIONS
+
+Dummy Tank Formations consisted of mock-ups of Tanks, usually made from wood or
+canvas covered cars (the Germans used Volkswagons), designed to fool Enemy
+intelligence into thinking there were Tank Brigades in places where they
+weren't.
+
+[#16_41]*[16.41]* Each Player may use Dummy Tank Formations. These are the
+equivalent of Tank battalions in size, but they are worth nothing in combat.
+Their CPA is zero.
+
+[#16_42]*[16.42]* To bring a Dummy Tank battalion into play, a Player must
+expend 10 Stores, which must be present in the hex in which the Dummy is
+“placed". Dummy Tank battalions are placed in the Construction Segment. There
+are no actual counters for Dummy Tanks.
+
+[#16_43]*[16.43]* No Player may ever have more than three Dummies in existence
+at any one time. No more than one Dummy may be in any one hex. No Italian
+formations may ever make use of Dummies, even when mixed with German formations.
+
+[#16_44]*[16.44]* Dummy Tank battalions may be assigned identifications actually
+used by other Tank battalions in play. Example: The Commonwealth Player may say
+Dummy Tank Battalion #1 is the 4th Royal Tank Regiment, even though the 4 RTR is
+in play elsewhere on the game-map.
+
+[#16_45]*[16.45]* Dummies really have only one function: to confuse Enemy
+intelligence. Thus they are worthless alone in a hex. Whenever a Player conducts
+Reconnaissance against an Enemy hex, the Enemy Player, if he has a Dummy Tank
+unit in that hex, may tell him that he has the "X" Tank battalion of any TOE
+Strength desired, when revealing information. The patrolling Player has no way
+of knowing that this is a dummy or not (until he attacks).
+
+[#16_46]*[16.46]* If a formation with a Dummy Tank battalion undergoes any type
+of Close Assault, the Dummy Tank Battalion is eliminated. If a formation
+undergoes Anti-Armor fire and has no armor — or loses all its armor — the Dummy
+Tank Battalion is eliminated. Anti-Armor fire committed against Dummy Tanks may
+not be switched to Assault if the only "armor" is Dummy Tanks!
+
+[#16_47]*[16.47]* For the historians, The Household Cavalry Regiment, a
+Commonwealth Armored Car unit, was assigned to North Africa. However, it does
+not appear in the OA Sheets as it saw minimal action and was assigned mainly to
+handling the task of fitting out and overseeing the Commonwealth Dummy Tank
+Formations.
+
+[#16_5]
+=== RESULTS OF PATROLS
+
+The Reconnaissance Table (16.7) results are expressed in terms of the number of
+battalion-size units about which the non-Phasing Player must reveal information.
+Thus, if the Phasing Player has two Patrol Points and obtains a die roll of 4,
+he will be told about two of the Enemy's units.
+
+[#16_51]*[16.51]* The non-Phasing Player must reveal the following information
+about units: historical designation (e.g., 1/8 Panzer Battalion), type of unit
+(mechanized infantry, armored cars, etc.), whether the unit is motorized or not,
+and the exact TOE Strength within two of the actual strength at the time of the
+Patrol.
+
+[#16_52]*[16.52]* The non-Phasing Player may choose the units in a hex about
+which he will reveal the information listed in Case <<16_51>>, if more of his units
+are in.the hex than he is required to give information about (exceptions: see
+Case <<16_53>>, <<16_54>>, and <<16_55>>).
+
+[#16_53]*[16.53]* Information must be revealed about battalion-sized units,
+unless only smaller (or larger) units are present.
+
+[#16_54]*[16.54]* Information may not be revealed about HQ units or AA/Flak
+units unless there are no combat units in the hex. Information may be revealed
+about Engineer units.
+
+[#16_55]*[16.55]* The Phasing Player may specifically list units about which he
+does not wish to receive in formation, and the non-Phasing Player may not choose
+such units to satisfy the requirements of Case <<16_5>>. (Presumably, such units
+would be ones that the Phasing Player already had adequate information about,
+because of previous patrols or combats.)
+
+[#16_6]
+=== PATROL SURVIVAL TABLE
+
+(see Charts and Tables)
+
+[#16_7]
+=== RECONNAISSANCE TABLE
+
+(see Charts and Tables)
+
+[#16_8]
+=== OBJECTIVE LOSS TABLE
+
+(see Charts and Tables)
+

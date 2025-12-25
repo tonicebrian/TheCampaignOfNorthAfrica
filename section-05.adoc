@@ -1,0 +1,177 @@
+[#5_0]
+== THE SEQUENCE OF PLAY (Land Game)
+
+[#5_1]
+=== THE GAME-TURN
+
+In CNA each Game-Turn covers a period of approximately one week. However, to
+better handle combat operations, each Game-Turn is divided into three
+Operations Stages. Each Operation Stage is the equivalent of 2-3 days of
+activities and, within each such Stage, each Player performs a sequence of
+events covering all aspects of the game. Thus the Players complete their
+operations within one Operations Stage, proceed to the second, and then the
+third, thus finishing one full Game-Turn. Certain operations are performed only
+at the beginning of the actual Game-Turn. Most of the game operations —
+movement and land combat — are performed within the Operations Stage. The basic
+unit of time within the game is thus the Operations Stage.
+
+[#5_2]
+=== LAND GAME GAME-TURN SEQUENCE OUTLINE
+
+This Sequence of Play applies when playing the Land Game without the Air and
+Logistics Games.
+
+[upperroman]
+==== I. INITIATIVE DETERMINATION STAGE
+
+The Players determine who will have the Initiative for the coming Game-Turn
+(Section <<7_0>>). The Player going first within an Operations Stage (below) is
+known as Player "A"; the other as Player "B.”'
+
+[upperroman]
+==== II. NAVAL CONVOY STAGE 
+
+[upperletter]
+===== A. Naval Convoy Schedule Phase
+
+The Axis Player plans what specific cargoes the ships will carry and their
+routes. See <<32_0>> or Section <<56_0>>. The Axis Player plans for the arrival
+of future Replacements from the Axis Replacement Points Pool. Likewise, the
+Commonwealth Player consults the Commonwealth Production Table and determines
+how many Replacement Points he will receive two turns henc and plans for their
+arrival. .
+
+===== B. Tactical Shipping Phase
+
+Both Players plan the transport of cargo between African ports. Note: The Axis
+Coastal Ships are represented in the game by counters. Allied coastal shipping
+is not represented by counters and is limited only by the port capacities.
+
+==== III. FIRST OPERATIONS STAGE 
+
+===== A. Initiative Declaration Phase
+
+The Player who gained the Initiative in Stage I now states whether he will be
+Player "A" or Player "B" for this particular Operations Stage.
+
+===== B. Weather Determination Phase 
+The Player with Initiative rolls for Weather (<<29_0>>). 
+
+===== C. Organization Phase
+
+The following segments are undertaken in any order desired.
+
+. _Reorganization Segment_: Attachment and/or assignment of Reinforcements, Replacements or any other non-assigned units including Trucks may be undertaken. Detachment of units may also be accomplished.
+
+. _Construction Segment_: 
+.. Construction Completion Step: Any work scheduled
+for completion is finished, removing and adding any markers necessary. Units
+that have finished construction are free to move. 
+
+.. Construction Initiation/Continuation Step: any units beginning or continuing work on
+projects are noted. They may not voluntarily move in the remainder of the
+Operations Stage (Exception: Reaction).
+
+. _Training Segment_: 
+
+.. Training Completion Step: Units and Replacement Points
+completing a level of Training are noted and the effects in Morale applied. 
+.. Any units beginning or continuing Training are noted. They may not move
+voluntarily in the remainder of the Operations Stage (Exception: Reaction). .
+
+===== D. Naval Convoy Arrival Phase
+
+All Reinforcements, Replacement Points and Ammo Points scheduled for Arrival
+(and actually arriving) appear in their designated Ports of Arrival or Entrance
+hexes.
+
+===== E. Commonwealth Fleet Phase
+
+. Fleet Assignment Segment: The Commonwealth Player assigns his ships to any
+sea or coastal hexes.
+
+. Fleet Repair Segment: Any Repair work on ships is undertaken at this time.
+
+===== F. Reserve Designation Phase
+
+Player "A" designates which of his units he is placing in Reserve Status,
+indicating such with a Reserve I marker (see <<18_0>>).
+
+===== G. The Movement and Combat Phase
+
+The following four Segments comprise the Movement and Combat Phase. Player "A"
+may if he so wishes, repeat Segments 1 through 4 as many times as he desires
+within the restrictions of the Continual Movement Rules (<<8_2>>). Each repetition
+must include all four segments. 
+
+1. _Movement Segment_: All units, except
+unattached Trucks and Tank Recovery Squadrons, not in Reserve and capable of
+being moved may be moved. Non-Phasing (Player "B") units may React if
+permitted and Player "B" wishes to do so. 
+
+2. _Breakdown Determination Segment_:
+All vehicles and motorized units of both sides check for Breakdown (<<2_10>>).
+Broken down vehicles are indicated by a marker. 
+
+3. Combat Segment: (Combat isresolved as follows see <<11_0>> through <<15_0>>).
+
+.. Position Determination Step: Both Players determine the "position" of all Gun-and Armor-class units.
+
+.. Barrage Step: Both Players secretly plot and then execute any Barrages. 
+
+.. Retreat Before Assault Step: Player "B”' may Retreat Before Assault any of his
+units permitted to doso. 
+
+.. Force Assignment Step: Both Players secretly
+assign TOE Strength Points to Anti-Armor or Close Assault. Player "A"
+determines which Assaults will be Probes (although he need not reveal this
+decision) and which TOE Strength Points will be withheld from Assault. 
+
+.. Anti-Armor Step: Both Players simultaneously resolve any Anti-Armor Fire,
+removing all casualties. Placement of Destroyed Tanks markers are made if
+necessary. 
+
+.. Close Assault Step: Close Assaults are resolved in any order that
+Player "A" desires. He announces which Assaults are actually Probes after each
+is resolved.
+
+4. Reserve Release Segment: Player "A" may release any of his Reserves that he wishes.
+
+===== H. Truck Convoy Movement Phase
+
+Player "A" may move his Second and Third Line Trucks (unattached) and any
+POW's and Guards.
+
+===== J. Commonwealth Rail Movement Phase
+
+If Player "A" is the Commonwealth Player he may utilize Rail Movement (<<8_7>>) for units and/or Supplies.
+
+===== K. Repair Phase
+
+1. _Towing Segment_: Player "A”' may tow Broken down and Recovered vehicles.
+
+2. _Maintenance Segment_: Player "A" may attempt to Repair Broken down or
+destroyed vehicles which were not towed in this Phase.
+
+===== L. Patrol Phase
+
+If the Phasing Player has not engaged in Assault, he may use Patrols for
+reconnaissance purposes.
+
+*At this point Player "B" undertakes Phases F through L, replacing any
+references to "A” with “B" and "B" with "A"*
+
+==== IV. SECOND OPERATIONS STAGE
+
+Both Players repeat all facets of the First Operations Stage.
+
+==== V. THIRD OPERATIONS STAGE
+
+Both Players repeat ail facets of the First Operations Stage.
+
+==== VI. END OF GAME-TURN
+
+You have now completed one Game-Turn, a full week of the real campaign. Take a
+breather, havea beer and a sandwich, contact your loved ones to let them know
+you're still alive, and return for another Game-Turn.
+

@@ -1,0 +1,19 @@
+[#23_0]
+== ENGINEERS
+
+GENERAL RULE:
+
+In CNA Engineer units are used to aid in construction of a variety of items, as
+well as helping to repair facilities that have been destroyed. They are also
+useful in laying and removing minefields.  Realistically, engineers had a great
+deal more usage than we have given them in this simulation.  However, we have
+abstracted a goodly number of those uses, as the "thesis" of the simulation does
+not lie in the direction of Engineer capability.  There are three types of
+Engineer units: Engineer Battalions, Engineer companies, and Headquarters Units
+with Engineer capability.
+
+CASES:
+
+[#23_1]
+=== ENGINEER UNITS
+

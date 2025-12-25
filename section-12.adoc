@@ -1,0 +1,217 @@
+[#12_0]
+== BARRAGE (Artillery Combat)
+
+GENERAL RULE:
+
+Barrage is the first "step" of the Combat Segment. Any combat or HQ unit with a
+Barrage Rating (and enough ammunition) may Barrage enemy units in adjacent
+hexes. Each Player simply determines how many Actual Barrage Points he has,
+selects his targets, and fires his guns at the selected targets, subtracting
+ammunition as used.  At the beginning of the Combat Segment, all Artillery units
+are placed in either of two positions: Forward or Back. The position of a gun
+unit dictates whether it may coordinate fire with other artillery units and
+whether it may split its fire to Barrage more than one target.
+
+PROCEDURE:
+
+After all Targets have been designated and Barrage Points assigned to those
+Targets (see <<12_23>>), Barrage is resolved. The effects of Barrage are
+simultaneous, in that all results are applied after all Barrages are completed,
+but each individual Target is barraged separately, in any order the Players
+desire. To resolve a Barrage, the Barraging Player states his Target (either by
+type or number, as explained in Case <<12_24>>, or by specific unit I.D., if he
+has that information), states the number of Actual Barrage Points (see Case
+<<11_32>>) directed at that Target and then consults the Barrage Results Table
+(12.6), selecting the appropriate portion depending on the type of unit being
+fired at (Gun, Armor, or Infantry), He then rolls two dice, combining the
+results such that the larger die's result is stated first and the small die's
+second (e.g., a "27"/*5" is considered a "25").  The result is cross
+referenced with the Target type and the Actual Barrage Points expended. The
+Player then repeats the process to determine whether any trucks in the hex are
+affected. Results are noted, and applied at the end of the Barrage Step. The
+firing Player also subtracts ammunition expended as his guns are fired.
+
+Note: "Holding-off" Barrages are resolved in the same fashion as normal] Barrage
+(see Case <<10_3>>).
+
+[#12_1]
+=== ARTILLERY POSITIONS
+
+[#12_11]*[12.11]* Artillery units, when they are involved in combat, must be
+placed either Forward or Back.  The entire unit, regardless of its size (or
+whether, as in some artillery units, it has more than one type of gun) must be
+placed in the same position.
+
+[#12_12]*[12.12]* The position of an artillery unit may not be changed during a
+Combat Segment; it may be changed only at the beginning of a Combat Segment,
+when the Players must decide their gun positions.(See the Sequence of Play.)
+Positions of guns may be noted on the TOE Sheets or on any handy piece of paper.
+
+[#12_13]*[12.13]* Artillery units in a Forward position may coordinate fire with
+other artillery units (in a Forward position) from the same or different hexes.
+i.e., they may combine its Barrage Strength with that of other units directed at
+a given target.
+
+[#12_14]*[12.14]* fralian units in a Forward position may co-ordinate Barrage
+fire only with units within the same hex.
+
+[#12_15]*[12.15]* Artillery units in a Forward position may split their TOE
+Strength and attack more than one target, directing a portion of its TOE
+Strength against one unit and another portion against a different unit (target).
+
+[#12_16]*[12.16]* Artillery units in a Back position may not coordinate fire
+with any other artillery unit nor may they split fire. If a Heavy Weapons unit
+has Barrage capability and its guns are back, the entire unit is considered back
+and thus cannot participate in anti-armor or Close Assault combat.
+
+[#12_17]*[12.17]* All non-Phasing Players' Guns in a Forward position are
+subject to losses from Close Assault, even if they do not participate in such an
+assault. See Section <<15_8>> for details on losses. All non-Phasing (Forward or
+Back) are subject to Close Assault losses if the Close Assault by the Phasing
+Player is conducted in the Overrun Columns of the Close Assault CRT (see Case
+<<15_84>>).
+
+[#12_18]*[12.18]* Artillery placed in a Forward position may participate in
+Anti-Tank or Close Assault in that same Combat Segment, providing they have the
+necessary Ratings and Ammunition. However, Artillery participating in an
+Offensive Close Assault has its Vulnerability rating reduced by 50% (%)
+rounded up. Thus a unit with a 7 Vulnerability Rating would have a 4
+Vulnerability Rating if it chose to participate in Offensive Close Assault.
+Note: the higher a unit's Vulnerability Rating, the /ess vulnerable it is.
+
+[#12_19]*[12.19]* Artillery units used in an Anti-Armor (14.0) role assume an
+automatic Vulnerability Rating of ‘2'.
+
+[#12_2]
+=== TARGET SELECTION
+
+[#12_21]*[12.21]* Target Selection involves the principle that a Parent
+Formation is comprised of one or more battalion- (or company-) sized units.
+Thus, the 90th Leichte Division (German) is composed of thirteen battalion-sized
+combat units.
+
+[#12_22]*[12.22]* For Barrage purposes, all (with the following exceptions)
+counters, whether attached or not, in a hex that bear a Stacking Point indicator
+are targets. This includes engineer units but excludes Trucks, SGSU's, etc. The
+exception is all HQ's without TOE Strength Points or with only points with
+parenthesized Close Assault Ratings. In addition, Dummy Tank formations (see
+Case <<16_4>>) and Commonwealth warships may be considered targets.
+
+[#12_23]*[12.23]* Barrage is directed at a specific target combat unit (as
+defined in <<12_22>>). The Barraging Player states which hexes he wishes to
+Barrage from. The opposing Player then states how many targets (individual
+battalions/companies) are in each hex adjacent to a hex which is firing. He also
+states whether each Target is a Gun class, Armor Class, or Infantry Class
+unit—see Case <<3_2>>. He does not have to state the strength, exact type or
+designation of any unit. However, if a Player knows that a specific unit is in a
+hex under Barrage (through Patrol or previous combat) he may designate that
+specific unit as a target.
+
+[#12_24]*[12.24]* Except as stated in the last sentence of <<12_23>> the Barraging
+Player fires "blind", stating only that he is firing at a given type of unit as
+target. For purposes of resolving Barrage, Players should assign, for a Barrage
+Step, ID numbers to each type of unit. E.g., Infantry #1, Infantry #2,
+etc. Thus, the Barraging Player states he is directing "X" number of Actual Barrage Points against
+Target Infantry #2.
+
+[#12_3]
+=== EFFECTS OF TERRAIN AND OTHER RESTRICTIONS ON BARRAGE
+
+[#12_31]*[12.31]* Artillery units may Barrage Enemy targets in any adjacent hex,
+regardless of terrain. Artillery units may not Barrage non-occupied hexes
+(however, see Case <<12_5>>),
+
+[#12_32]*[12.32]* No target may be barraged more than once in a Combat Segment
+from each adjacent enemy occupied hex. Of course, Artillery units ina Forward
+position may combine Barrage strengths in one Barrage against a given Target.
+
+[#12_33]*[12.33]* Certain terrain affects artillery fire in that if a Target
+unit is in that terrain the Column (Barrage Points) used to resolve Barrage for
+that unit is shifted a specific number of rows "left,", benefitting the
+defender. Thus, if a towed artillery unit were being Barraged as a target ina
+Level Two Fortified position (Clear Terrain) by twelve Barrage Points (the 11-12
+column on the Barrage CRT) the Barrage would be resolved on the 7-8 column,
+because a Level Two Fortification benefits the defender two column shifts.
+
+[#12_34]*[12.34]* Column shifts — and terrain benefits — are not cumulative. The
+defender gets the benefit of only the best defensive position or terrain. See
+the Terrain Effects Chart for all terrain benefits and column shifts. Remember,
+column shifts always benefit the defender. Shifts worse than 1-2 column mean the
+Barrage had no effect.
+
+[#12_35]*[12.35]* There are no Line of Sight restrictions in CNA regarding
+Artillery. Artillery units may Barrage any unit to which they are adjacent.
+
+[#12_4]
+=== EXPLANATION OF ARTILLERY BARRAGE RESULTS
+
+[#12_41]*[12.41]* The Artillery Barrage Table (12.6) is a CRT that covers
+artillery fire against personnel, Armor, Artillery and concurrent effects on
+Trucks. Regardless of the target (see Case <<12_5>>) the Player will use the
+Artillery Barrage Table for his results.
+
+[#12_42]*[12.42]* The Artillery Barrage Table uses a twodice sequential
+read-out; i.e., a ‘3' anda ‘4' are 34, reading the larget die first. These die
+rolls comprise the columns of the Table, while the total Barrage Points applied
+to the Target comprise the rows of the table. The "meat" of the table — the
+center portion — is the results, divided according to target type.
+
+[#12_43]*[12.43]* The Player notes the number of Barrage Points being fired,
+adjusts the column left if necessary and rolls the two dice. He then
+crossreferences those two numbers under the correct target type (personnel,
+tanks, or artillery) and obtains the result.
+
+[#12_44]*[12.44]* If a result of "P" is obtained, the entire target unit is
+"Pinned", Pinned units may not move for the remainder of that Combat Segment,
+nor may they engage in Anti-Armor Fire or Close Assault. Pinned units are
+subject to casualties(see Case <<15_12>>). Place a Pinned marker on all Pinned
+units; remove the marker at the end of the Combat Segment. "Pin" results from
+Barrage do not occur againstGun-class units or Artillery HQ units.
+
+[#12_45]*[12.45]* A number as a result (e.g., 1 or 2) indicates the number of
+TOE Strength Points are destroyed by the Barrage. Casualties are taken after all
+Barrages are completed.
+
+[#12_46]*[12.46]* Trucks may be affected by Artillery Fire.  Every time a Player
+fires at a given target, be it Infantry, Armor or whatever, he must roll a
+second time to determine whether any Trucks attached to the Target unit and/or
+its parent unit (if any) are affected. Thus, if a Player has 10 Barrage Points
+firing at Infantry he rolls once for the effect on the target and if , and there
+are any Trucks in the same hex as the unit being barraged then the Barraging
+Player rolls again on the 10 point row under Trucks to see how many, if any
+Trucks were destroyed. The choice of Trucks to be removed is up to the Defender,
+but losses must be distributed as evenly as possible among types of trucks and
+types of cargo. Players should note that when barraging Infantry, if those TOE
+points are already in Trucks (motorized) those Trucks are also eliminated, in
+addition to any Trucks actually noted on the Artillery Barrage Table.
+
+[#12_5]
+=== BARRAGE AGAINST FACILITIES
+
+[#12_51]*[12.51]* Artillery may be used to Barrage facilities, rather than
+actual units, in an effort to reduce their effectiveness. Such Barrage may be
+directed against Major Cities, Fortifications, Roads, Railroads, Supply Dumps,
+and Air Facilities.
+
+[#12_52]*[12.52]* Barrage against Facilities follows all the rules of normal
+Barrage, with the exception that the Target designated is the specific facility.
+
+[#12_53]*[12.53]* In barrages directed against any Facility other than a Supply
+Dump or Air Facility the Players use Air Bombardment Table (41.5), with the
+exception that they refer to thé Artillery Barrage Points column in determining
+the effect of the Barrage. See Case <<41_3>>.
+
+[#12_54]*[12.54]* In Barrages directed against Supply Dumps or Air Facilities
+the Player uses Air Bombardment Table (<<41_5>>); however, he uses his Raw Barrage
+Points (not Actual) to correspond to the Bombload column. Thus 78 Raw Barrage
+Points would use the 41-80 column. Remember, do not use Actual Strength Barrage
+Points; use Raw Strength.
+
+[#12_55]*[12.55]* Off-Shore Bombardment may be used to Barrage facilities; see
+Case <<30_12>>.
+
+[#12_6]
+=== ARTILLERY BARRAGE TABLE
+
+(See Charts and Tables)
+

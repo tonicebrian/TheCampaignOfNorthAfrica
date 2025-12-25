@@ -1,0 +1,722 @@
+[#15_0]
+== CLOSE ASSAULT
+
+GENERAL RULE:
+
+Close Assault is the last step of the Combat procedure. In Close Assault, the
+Phasing Player is the attacker and the non-Phasing Player is the defender. The
+Phasing Player may assault any adjacent Enemy-occupied hex, within the terrain
+restrictions for Close Assault. Close Assault resolution involves an Assault
+Differential, in which the Close Assault Points of the Defender are subtracted
+from those of the Attacker; results are expressed in Casualties (either losses
+or prisoners) plus Engaged and Retreat results. The Assault Differential may be
+modified by terrain, morale, and the effects of Combined Arms. Close Assault
+expends ammunition for both sides. A form of modified Close Assault — the Probe
+— is discussed in Case <<15_9>>. In Close Assault, the Phasing Player is always
+attacking (or assaulting), the nonPhasing Player is defending against the
+assault.
+
+PROCEDURE:
+
+Each Player totals his Actual Close Assault Points (either Offensive or
+Defensive, depending on whether he is Phasing or non-Phasing) involved in each
+separate Close Assault. The non-Phasing (defending) Player then subtracts his
+Actual Close Assault Points from the Offensive Actual Close Assault Points of
+the Phasing (attacking) Player, obtaining an Assault Differential (a positive or
+negative number, or a zero). This Diffrential is then modified by any terrain
+effects, morale considerations, and/or difference in unit organizational size
+between opposing forces. The Phasing Player then consults the Adjusted Assault
+Differential and rolls two dice, reading the dice sequentially: the large die is
+read first, then the small die so that a large die roll of 6 and a small die
+roll of 3 is 63. The non-Phasing Player does the same, and both consult the
+Close Assault Combat Results Table to determine what losses, if any, have
+occurred. Such losses, as well as any other results, are taken immediately
+before proceeding to the next hex's Close Assault.
+
+CASES:
+
+[#15_1]
+=== WHICH UNITS MAY PARTICIPATE IN CLOSE ASSAULT
+
+[#15_11]*[15.11]* All units which possess a Close Assault Rating may use their
+ratings to aid in either Offensive Assault or Defense Against Assault. (Units
+without Ratings may also participate, even though they add nothing to the point
+total; see Case 15.17.)
+
+[#15_12]*[15.12]* Pinned units and units retreated before assault into a hex
+under Close Assault attack may not add their Ratings to Defensive Close Assault.
+However, the TOE strengths of sucvh defending units are considered for purposes
+of determining casualties vis a vis the number of TOE Strength Points in a hex,
+a percentage of which will be eliminated. This pertains only to non-Phasing
+defending units.
+
+[#45_13]*[45.13]* Guns that are Back are not affected by Close Assault unless
+there is an Overrun situation (see Case <<15_86>>). Guns that are Forward may
+participate in Offensive or Defensive Close Assault, but their Vulnerability
+Ratings may be affected (see Case <<12_18>>).
+
+[#15_14]*[15.14]* Only those units committed to Close Assault (either Offense or
+Defense) may add their Ratings to the total Assault Ratings. However, certain
+non-Phasing units may be affected by results even though they do not participate
+(see Cases <<15_12>>, and <<15_15>>).
+
+[#15_15]*[15.15]* Units that are out of ammunition may not Close Assault, either
+offensively or defensively.  However, as in Case <<15_12>>, such units are
+considered when determining percentage losses if they are non-Phasing defending
+units. Phasing units that are out of ammunition are simply ignored. If all
+non-Phasing, defending units in a hex are out of ammunition for Close Assault
+purposes, and such units are Assaulted, they automatically Surrender en masse
+(i.e., every unit in the hex Surrenders).
+
+[#15_16]*[15.16]* A given Phasing unit may split its TOE Strength Points and
+make one Close Assault with some Points and another with the rest, or simply
+withhold a portion from any Offensive Close Assault. A non-Phasing Player may
+withhoid individual TOE Strength Points, too, but, unlike Phasing units, these
+Points are considered in determining percentage losses. Note: The same hex may
+never be Close Assaulted more than once per Combat Segment.
+
+[#15_17]*[15.17]* Units with Close Assault Ratings in parentheses may use those
+ratings in combat only if they occupy a hex that is unoccupied by combat units.
+Such units do not include their TOE Strength for determining losses when they
+occupy a hex with combat units un/ess the "losing" Player so wishes.  In such a
+case, units with parenthesized ratings may be used to absorb losses but may not
+absorb more than 25% of such losses. Note that if a Phasing unit Close Assaults
+two hexes in the same Close Assault at the same time, and one of the hexes
+contains solely a unit with parenthesized Defensive Close Assault Rating, that
+defending unit may use its parenthesized rating in that combat.
+
+[#15_18]*[15.18]* In a Close Assault involving only nonPhasing units with only
+parenthesized Close Assault Ratings, if the attacking force has a Raw Offensive
+Close Assault strength at least three times the defending parenthesized units'
+Raw Defensive Close Assault strength the following two effects apply:
+
+The attacking (Enemy) force ignores the first 20% losses it receives from the
+Close Assault; and;
+
+If the defending parenthesized units receive a Close Assault result of
+Casualties of 20% or greater, any TOE Strength Points remaining after losses are
+assessed are captured (if the Enemy forces survive).
+
+Thus, an AA/Flak unit, for example, may be able to hold off a small Enemy
+detachment, but it will most likely be overrun by anything larger.
+
+[#15_2]
+=== HOW CLOSE ASSAULT OCCURS
+
+[#15_21]*[15.21]* Phasing units with Offensive Close Assault Ratings may Close
+Assault any Enemy units in adjacent hexes, unless Assault is prohibited by
+terrain (see Case <<15_3>>). Units assigned to Anti-Armor may sot participate in
+Close Assault (however, see Case <<14_23>>).
+
+[#15_22]*[15.22]* The Phasing Player announces which hexes he is assaulting, and
+both Players determine their respective total Points, The Phasing Player states
+whether his attack constitutes a Close Assault or a Probe (see Case <<15_9>>),
+and then each individual assault is resolved sequentially, with results being
+taken as they occur.
+
+[#15_23]*[15.23]* An Enemy-occupied hex may be Close Assaulted or Probed only
+once per Combat Segment, regardless of the number of units in that
+hex. The Phasing Player may not attack some of the units in that hex with one
+group and some others with another group.
+
+[#15_24]*[15.24]* As many units from as many hexes as are adjacent to an
+Enemy-occupied hex may attack that hex, terrain permitting. Furthermore, a
+Phasing unit may Close Assault more than one hex at the same time, as long as
+the assaulted hexes are all adjacent to both the hex from which the assault
+initiates as well as adjacent to each other. The units that may participate are
+listed in Case <<15_1>>.
+
+[#15_25]*[15.25]* Any number of TOE Strength Points from a unit may be assigned
+to a given Close Assault (see Case <<15_16>>); however, if the units making a
+given Close Assault have committed less than 50% of their available TOE Strength
+Points, that Close Assault is automatically considered a Probe and not a Close
+Assault. You must Close Assault with 50% or more of your available strength
+(although some of those Points may be directed elsewhere) to attack with a
+normal Close Assault (see Section <<16_0>>).
+
+Example: A unit with a TOE Strength of 7 uses 2 Points to assault Hex A and |
+Point to assault Hex B, withholding the other Point because of ammunition
+problems. Neither assault is a full Close Assault; both are Probes. If he used 3
+Points against Hex A instead of 2, both would be considered Full Assaults, as he
+would have used at least 50% of his available strength somewhere.
+
+[#15_26]*[15.26]* Each Player determines which of his units are participating in
+a given Close Assault. Each Player then determines his Actual Close Assault
+Strength Points, as stated in Case <<15_4>>. The defending, non-Phasing Player
+now subtracts his total from that of the attacking, Phasing Player to achieve
+the Basic Assault Differential. Thus, if the Attacker has 6 points and the
+Defender eight, the Basic Assault Differential would be -2.
+
+[#15_27]*[15.27]* The Basic Assault Differential is now adjusted, where
+necessary, for Terrain Effects (Case <<15_3>>), Morale (Case <<15_6>>), or Units
+Size Differential (Case <<15_5>>). These effects result in an adjustment of the
+Differential Co/umn (not the Differential number) either one way or the other,
+and the cumulative effect of all these upon the Assault Differential produces an
+Adjusted Assault Differential, which is then used to determine the results of
+the Assault. Consult the Procedure, Section <<15_0>>.  Remember, the two dice
+are read sequentially (6 and 2= 62) not mathematically (6 and 2 = 8) in Assault
+Combat.
+
+[#15_28]*[15.28]* In Close Assault (and Probe) only, if one Player has fewer
+than 5 Raw Assault Points, he is considered to have zero Close Assault Points,
+and the Differential is determined from that figure. If each Player has fewer
+than 10 Raw Strength Points, the Raw Assault Strength Points are used as if they
+were Actual Assault Strength Points (see also Case <<15_51>>).
+
+[#15_29]*[15.29]* There is a possibility that one or both Players do not
+allocate any units to Assault. In such cases the following occurs:
+
+. If the Defender/Non-Phasing Player, for any
+reason, allocates no units to an Assault ail his units in that hex automatically
+retreat three hexes and earn three Disorganization Points (as if it had taken
+30% losses) in addition to any DP's earned by the move.
+
+. If the Attacker/Phasing Player does not allocate any units to Assault there is no Assault;
+it is ignored. This can occur only under Case 10.31 et seq;
+
+[#18_3]
+=== TERRAIN EFFECTS ON CLOSE ASSAULT
+
+[#15_31]*[15.31]* The terrain which a defending unit occupies, or which an
+attacking unit has to cross, may increase or decrease the differential in favor
+of the attacker/Phasing Player. Players should consult the Terrain Effects Chart
+(Case <<8_37>>) fora complete list of all effects on Assault combat.
+
+[#15_32]*[15.32]* The terrain in a hex occupied by a unit is defending against
+full Close Assault or Probe either has vo effect on the Differential (e.g.,
+Clear Terrain or Sand/Gravel Terrain) or it will decrease the Differential vis a
+vir the Attacker by a specific number of columns on. the Assault Differential
+Combat Results Table. Thus a unit defending ina Mountain hex against a Close
+Assault in which the Basic Assault Differential is + 4 will be Assaulted in the
++ 1 column, because there is a three column shift in favor of the Defender.
+(Players should note that a unit defending in a Salt Marsh hex shifts the column
+one in favor of the Attacker.)
+
+[#15_33]*[15.33]* Assaults across certain types of hexsides also decrease or
+increase the Differential vis a vis the Attacker/Phasing Player; e.g., a unit
+attacking through a Wadi hexside has its Attack Differential decreased by one,
+in addition to any changes for the hex the defender is in. If any units are
+attacking through a given hexside, the Differential is adjusted as if a// units
+were attacking through that hexside.
+
+[#15_34]*[15.34]* Certain terrain prohibits full Close Assaults or Probes by
+certain types of units.  Motorized units may never assault up an Escarpment,
+even if it is crossed by a Track. (You may, of course, take your infantry out of
+the Trucks and then Assault.) Motorized units may not assault units defending in
+Salt Marshes. Any combat unit in the Zone of Control of an Enemy unit which it
+cannot attack must be retreated one hex, unless some other unit attacks that
+Enemy unit.
+
+[#15_35]*[15.35]* Terrain effects on Close Assault are cumulataive, with one
+exception. The defender may benefit from only one type of hexside (15.33) unless
+a unit is actually assaulting through a hexside which contains two types of
+terrain. The latter is quite rare, occurring mostly down in the southern areas
+of the game-map where some of the wadis run along slope' hexsides. (See
+B5810-B5809).
+
+Example: A unit in a Level Two Fortification ina Rough Terrain hex being
+assaulted through a Ridge hexside would shift the Assault Differential six
+columns in favor of the Defender: two for the Fortification, two for the Rough
+Terrain, and two for the Ridge hexside. (This is obviously a good position, one
+that should be assaulted only after being softened up by Barrage and Air
+Bombardment).
+
+[#15_36]*[15.36]* Assaults down slopes or down escarpments benefit the attacker.
+(See Case <<8_37>>, Terrain Effects Chart). If a unit is being attacked through
+both an up slope and a down slope hexside (this is quite possible in some areas
+of the game-map), the benefit to the attacker is offset by the benefit to the
+defender. Thus a unit defending in a hex that is assaulted through a down slope
+hex (+1) and an up-Escarpment hex (~3) would have an adjustment of —2 (~3 +1 =
+~2) in favor of the defender.
+
+[#15_4]
+=== COMBINED ARMS EFFECT ON ASSAULT
+
+The term "Combined Arms”? is used to describe the mutual support of tanks and
+infantry. Tanks (and tanks only — not recce or self-propelled artillery, etc.)
+must be supported by an equal number of infantry to be completely effective.
+Thus, for each TOE Strength Point of tanks engaging in Close Assault, there must
+be an equal number of TOE Strength Point of infantry, machinegun, or heavy
+weapons units engaging in that Close Assault from the same hex. For every one to
+three TOE Strength Points of unsupported tanks, the Actual Close Assault
+Strength of the tanks is reduced by one, Thus, if two TOE Points of tanks, each
+with a Close Assault rating of 7 are assaulting unsupported, the Actual Close
+Assault Strength is reduced to zero. If there were four unsupported tank TOE
+Strength Points, their Actual Close Assault Strength would be reduced to two.
+In no case may the reduction be more than four Actual Assault Points. This
+applies both offensively and defensively.
+
+[#15_5]
+=== EFFECT OF ASSAULTING FORCE ORGANIZATIONAL SIZE ON CLOSE ASSAULT
+
+Regardless of the Basic Assault Differential, the organizational size
+(battalion, division, etc.) has an effect on the relative strength in an
+assault. The greater disparity between the two opposing forces in terms of size
+of organization, the greater the benefit (in terms of a Column Shift on the
+Assault Differential Combat Results Table) to the larger unit. This is another
+rule that reflects the effects of organization and combined arms.
+
+[#15_51]*[15.51]* If, regardless of the Basic Close Assault Differential, one
+side has at least twice the number of Raw Close Assault Strength Points as the
+other, the superior side adjusts the Assault Differential on the Combat Results
+Table two columns (not numbers) in its favor.
+
+Example: 24 Raw Close Assault Strength Points (2 Actual) assaults 12 Raw Close
+Assault Strength Points (or 1 Actual}. Normally, the differential (not taking
+into account any other effects) would be +1. However, because the attacker has
+twice the Raw strength of the defender, he would assault on the +3 Column. This
+adjustment always applies, regardless of any other adjustment to the
+differential (exception: Case <<15_54>>).
+
+[#15_52]*[15.52]* If the /argest (regardless of number of units involved) unit
+in terms of organization of one side in an assault is bigger than the largest
+unit organization on the other side there will be a column shift benefitting the
+side with the larger unit.  Unit equivalents apply here (see Case <<9_2>>).
+
+[#15_53]*[15.53]* The column adjustments for Organizational Size Difference,
+always in favor of the larger unit size, are as follows:
+
+Largest Unit On:
+
+Larger Side Smaller Side Adjustment
+Division 3-point 1
+
+Brigade
+Division 2-point 2
+
+Brigade
+Division Battalion 4
+Division Company 8
+Any Brigade _ Battalion 2
+Any Brigade Company 4
+Battalion Company 2
+
+All of the above are equivalents (<<9_2>>).
+
+[#15_54]*[15.54]* There are certain combat units that have no Defensive Close
+Assault Ratings (e.g., Commonwealth <<5_5>>” howitzers, German 210mm Howitzers).
+If such a unit is alone in a hex and is Close Assaulted by an Enemy unit, such
+zero-rated unit is considered to have a Defensive Close Assault Rating of zero.
+In addition, two other adjustments are made: (1) The attacking unit takes no
+casualties; and (2) there is a three-column adjustment in favor of the Attacker,
+in addition to any adjustments for <<15_53>>. Case <<15_51>> does not apply to
+this situation.
+
+[#15_55]*[15.55]* For the purposes of this case a brigade is attached to a
+division only if the brigade HQ unit (counter) is attached to the division. For
+example, a Commonwealth infantry division with nine infantry battalions and no
+infantry brigade headquarters attached is a shell in Close Assault. Note that
+the two Italian infantry brigade counters (ID Code "m") represent the entire
+brigade.
+
+[#15_6]
+=== EFFECTS OF MORALE ON CLOSE ASSAULT
+
+The Morale of each side involved in a given Close Assault will affect the Close
+Assault Differential.  A complete discussion of Morale is to be found in Section
+<<17_0>>.
+
+[#15_61]*[15.61]* Players first determine their individual Adjusted Morale
+Rating for that assault (Case 17.2). The Phasing/Assaulting Player then
+subtracts the Adjusted Morale Rating of the nonPhasing/ Defending units from
+that of the Phasing units. This Final Adjusted Morale number is the number by
+which the Assault Differential Column will be adjusted. (See Case <<15_64>>).
+
+[#15_62]*[15.62]* A positive (+) Final Adjusted Morale Rating adjusts the
+Assault Differential that number of columns to the right (in favor of the
+Phasing Player/Attacker). A negative (—) Final Adjusted Morale Rating adjusts
+the Assault Differential that number of columns to the left (in favor of the
+non-Phasing/ Defending Player).
+
+[#15_63]*[15.63]* Players should use the "largest unit”' rule, as espoused in
+Case <<6_27>>, to determine Morale Ratings for units with different Morale in
+the same assault.
+
+[#15_64]*[15.64]* Following is an extended example of how Morale would affect a
+given Close Assault:
+
+a. The 15th Panzer Division (Morale of +3) and the Ariete Division (Morale of
++1) are.Close Assaulting the
+
+b. 2nd New Zealand Division (Morale of +1) with the Ist RNF battalion (Morale of
++2) attached.
+
+c. The Axis Divisions both have a Cohesion Level of, say, —4, which will be used
+to adjust their combined Morale Rating of +2 (both are divisions, so their
+Morale is combined and divided by the number of divisions, +3 +1 + 2 = 2), The
+Axis Player now uses his Cohesion Level to adjust his Morale Rating (see Case
+<<17_2>>). Consulting the Morale Modification Table (17.4), he rolls a 43 at —4
+Cohesion Level, obtaining a — 2 adjustment to his Morale. Axis Adjusted Morale
+is now zero (+2 —2=0).
+
+d. The Commonwealth Morale for the assault depends on that of the 2 NZ Division,
+as that is the largest unit. The 2NZ has a + 1 Morale and, say, a Cohesion Level
+of +2. The Commonwealth Player rolls a 63 on the Morale Modification Table, so
+there is no adjustment to the Morale Rating of +1.
+
+e. As the Axis Morale is zero and the Commonwealth Morale is +2, the Final
+Adjusted Morale Rating is —\ (Attacker minus Defender). Therefore, any assault
+will be modified (by Morale) one column in favor of the defender.
+
+[#15_7]
+=== HOW TO USE THE CLOSE ASSAULT COMBAT RESULTS TABLE
+
+[#15_71]*[15.71]* The Close Assault Combat Results Table is a massive Combat
+Results Table that uses, for each Player, the roll of two dice added three
+different ways to determine a great number of results.  It is important to
+remember that each Player throws the two dice only once per assault, with one
+minor exception (Case <<15_73>>d). Players should consult the Assault Combat
+Results Table and become familiar with it before playing.
+
+[#15_72]*[15.72]* The columns of the Assault Combat Results Table are the
+Assault Differentials (see Cases <<15_26>> and <<15_27>>). The rows are
+percentage of losses possible. The numbers in the center of the Combat Results
+Table are the range of numbers needed to produce the losses (in the rows) under
+a particular differential (the column). There are additional results at the
+bottoms of each column: Engaged, Retreat (Defender only), and Captured
+Possibilities. These are determined from the same diceroll as determines the
+losses.
+
+[#15_73]*[15.73]* The Close Assault Combat Results Table uses two dice thrown
+once for each Player to determine all results as follows:
+
+a. To determine his losses, each Player consults the Differential on Ais portion
+of the Combat Results Table (Attacker or Defender), He then throws two dice,
+reading the result sequentially, the larger die first. Thus a 2 on the large die
+anda 5 on the small die would be a 25. The Player would look under the
+Differential column to find where the 25 would fall, then look to his left to
+find his percentage of losses. Example: The Attacker is assaulting at +3. He
+throws a 34 to find his percentage of loss. Looking under the +3 Differential
+Column in the Attacker's portion of the Combat Results Table, we see that 34
+falls in the 5% loss row. The Attacker would suffer losses of 5% (see Case
+<<15_8>>).
+
+b. The same diceroll used in (a) is now used to determine Engaged or Retreat
+results. However, here the dice are added together (3 + 4 = 7).  Engaged results
+are always found on the Attacker's portion of the Combat Results Table; Retreats
+on the Defender's portion. Thus in the above example, the same 3 and 4 would now
+be aaded to produce a 7. As Engaged results (see Case 15.8) occur only on throws
+of 8, 9, 10 or 12 at that Differential, the units are not Engaged. However, if
+that 3 and 4 were the Defender's dice roll, the Defender would have to Retreat
+one hex (or lose an additional 10%) as one-hex Retreats occur on 4,5, 6, and 7
+at that Differential.
+
+c. Using the same procedure as in (b) above, adding the dice together, each
+Player checks (with his individual diceroll) to see if any of his percentage
+losses have been Captured. Still using the +3 column, there are no Attacking
+unit Captured possible in the column, but there are in the +3 Defender Column.
+However, the 7 would not result ina Defender Captured, as a diceroll of 2 or 3
+is needed to produce Captured units.
+
+d. If a Captured does result, this means that a percentage of the losses is
+captured. Thus if the Defending Player in the example we are using threw a 1 and
+a2 (12), he would suffer 20% losses, some of which would be Captured (the "3" of
+1 + 2 = 3). When a Captured results, the Player throws one more die and consults
+the Prisoners Captured Results Table (15.89). In this case, if the Defender
+threw a 4, 50% of all his losses rounded up (the 20% of his force) would have
+been Captured by the Attacker.
+
+[#15_74]*[15.74]* If, for some reason, botha Retreat and an Engaged result
+occurs in the same Close Assault, the Retreat takes priority, and the Engaged
+result is ignored.
+
+[#15_75]*[15.75]* The Attacker and the Defender each roll two dice to determine
+their results. Both Players use the same Differential column, but they each use
+their own section of the Combat Results Table.
+
+[#15_76]*[15.76]* If the diceroll produces a zero loss result, Engaged or
+Retreat results may still occur.
+
+[#15_77]*[15.77]* The +11 to +17 et seq columns of the Assault Combat Results
+Table comprise the Overrun section of the Combat Results Table. Overrun is not a
+voluntary action (as in most games). Overrun in CNA indicates that the Attacker
+has amassed such overwhelming strength that he has broken through the defensive
+line of the Defender, wreaking comparable losses and enabling him to reach and
+possibly destroy many of the defender's guns (see Cases <<15_84>> and
+<<15_86>>). In addition, when Overrun, all Defender losses are rounded up.
+
+[#15_78]*[15.78]* The Assault Combat Results Table is a large and seemingly
+unwieldy Table. However, it is not difficult to work with, and once the Players
+understand the mechanics of the different dicerolls and the method of
+determining losses, they will find that the Assault Combat Results Table
+produces an unusually wide variety of results.
+
+[#15_79]*[15.79]* Close Assault Combat Results Table
+
+(see Charts and Tables)
+
+[#15_8]
+=== DETERMINING CASUALTIES
+
+Eng
+
+[#15_81]*[15.81]* An Engaged result means that all units involved in that
+assault are locked in combat. There are extended Capability Point penalties for
+an Engaged unit leaving an Enemy ZOC (see Case 8.6). Players should place an
+Engaged marker on all units affected to indicate their status. Engaged markers
+are removed at the end of the Operations Stage. (Players should note that all
+units that had assault and are still adjacent are in Contact, if they are not
+Engaged.)
+
+[#15_82]*[15.82]* A Retreat of a specific number of hexes means that the
+affected units (including any units in that hex withheld from combat for any
+reason, such as Pinned or out of ammo) must move a minimum of that number of
+hexes away from the Enemy unit inflicting the Retreat. They must end the Retreat
+at least that number of hexes away and should follow the path of least
+resistance in the direction of their nearest Supply Dump or City.  For each hex
+of mandated Retreat that units cannot or chooses not to Retreat those units
+suffer an additional 10% loss. Retreats cost Capability Points. Units in major
+cities (or retreated into a major city) may ignore retreat results (or the rest
+of any retreat result).
+
+[#15_83]*[15.83]* Percentage Losses are determined in the following manner:
+
+a. The Player affected determines the percentage loss from the Assault Combat
+Results Table then
+
+b. Totals all Raw Combat Assault strength Points involved in the assault. The
+Defending/nonPhasing Player would add to. this total the Raw Assault Strength
+Points of any Pinned or previously retreated units in the hex. In an Overrun,
+a/l Defensive units withheld for any reason are added in.
+
+c. Multiply the percentage of loss times the Total Raw Strength Points. The
+Attacker rounds up to the nearest whole number, while the Defender rounds down
+(but see Case <<15_77>>). Thus a <<35_1>> would be 36 points for the Attacker
+but 35 for the Defender. In an overrun, <<1_1>> Defender Points would equal 2.
+Defenders should remember to add in any loss percentage they must take for hexes
+not retreated (see Case <<15_82>>).
+
+d. The affected Player must now remove enough TOE Strength Points to absorb the
+Raw Points lost. Thus one TOE Strength Point of 2 Defensive Close Assault
+Ratings infantry would absorb two Raw Points. Remember that some units have
+different Close Assault Ratings for Attack and Defense, and that the Attacking
+Player uses Offensive Close Assault Points, etc. (See Case <<15_84>>).  Only
+those units participating in the assault or, for the Defender, that were pinned
+or withheld may be used to absorb losses of Raw Points.
+
+e. All losses must be applied to units in different hexes (if units in more than
+one hex are attacked or involved in an attack) proportionally. Example: If 50%
+of the Raw Strength Points used by the Phasing Player in a Close Assault are in
+one hex and 50% are in a second hex, any losses would be divided evenly between
+both hexes.
+
+[#15_84]*[15.84]* Guns (i.e., Artillery, Anti-Tank units, etc.) take losses in
+Close Assault under the following circumstances:
+
+a. If the Defending units are Overrun all defending guns, whether Forward or
+Back, add their Defensive Close Assault Points (if any) to the total for
+determination of percentage lost. Such units may be used to absorb losses as in
+Case <<15_83>>.
+
+b. Guns that are Forward are subject to losses, based on their Vulnerability
+Rating. The affected Player must remove at least 50% as many Vulnerability
+Points of Forward Guns as he has lost Raw Strength Points in that Assault, with
+the provision that if at least one Raw Close Assault Point is lost then at least
+one Vulnerability Point must be removed (see Case <<14_42>>; Vulnerability uses
+the same mechanics as Armor Protection). AA/Flak units are not affected by this
+rule.
+
+c. In addition to (a), if there is an Overrun situation, all defending guns are
+subject to Vulnerability losses, as in (b). Vulnerability losses are taken after
+percentage losses (a).
+
+[#15_85]*[15.85]* If, as a result of an Assault, a Player has some of his TOE
+Strength Points Captured (see Case <<15_73>>) he takes that percentage of his
+losses as determined in Cases <<15_83>> and <<15_84>> and converts them to
+prisoners or captured equipment, which are then turned over to the Enemy Player.
+Captured percentages are always rounded upwards.
+
+[#15_86]*[15.86]* Determine Captured TOE Strength Points as follows:
+
+a. First determine what TOE Strength Points (and concurrently what units) have
+been eliminated by combat; then
+
+b. Take the Captured percentage of those TOE Strength Points (a);
+
+c. Playerse may use any type of TOE Strength Points to satisfy the Captured
+percentage, remembering that the percentage is taken of Raw Assault Points
+(either Offensive or Defensive, depending on the situation), not TOE Strength
+Points (see Case <<15_83>> for the mechanics of taking losses).
+
+d. Captured infantry-type becomes Prisoner Points, one Prisoner Point for each
+TOE Strength Point. Captured Guns and/or Tanks may be taken and used by the
+Enemy as they see fit (see <<28_0>>, on Prisoners).
+
+[#15_87]*[15.87]* If any Player's losses amount to 30% or more of the TOE
+Strength Points committed to that assault (whether such losses came from
+committed units or not), all of that Player's units involved gain three
+Disorganization Points. It is faintly possible that both Players could be so
+affected, and this is allowed.
+
+[#15_88]*[15.88]* A Player may always voluntarily Surrender his units, rather
+than have them slaughtered. Furthermore, units. out of Ammunition or with a —17
+or worse Cohesion Level that are assaulted automatically Surrender (see also
+Case <<17_25>>).
+
+[#15_89]*[15.89] Prisoners Captured Results Tables*
+
+(See Charts and Tables)
+
+[#15_9]
+=== PROBES
+
+[#15_91]*[15.91]* A Probe is any Close Assault conducted (by the Phasing Player)
+with less than 50% of his available TOE Strength Points participating in that —
+or another — attack (see Case <<10_31>> and <<15_25>>).
+
+[#15_92]*[15.92]* A Probe may be conducted with any number of units, within the
+restrictions of Case 15.91.
+
+[#15_93]*[15.93]* All combat results are the same for both sides, with the
+exception that all Engaged results are ignored, and the units in the Probe —
+both offense and defense — are notin Contact.
+
+[#15_94]*[15.94]* The "Probing" Player does not have to announce that his
+assault is a Probe until after the assault is over. Remember, all units are
+assigned to Close Assault prior to Anti-Armor Combat.
+
+[#15_95]*[15.95]* Ifal/ Probing units are Recce-type units, any losses from
+Close Assault to the Probing units are reduced by 10%.
+
+[#15_96]*[15.96]* If, in a Probe, the Final Adjusted Differential is worse than
+-3, the units defending against the Probe do not use any Capability Points to
+defend against such Probe.
+
+[note]
+====
+*AN EXAMPLE OF COMBAT*
+
+The following is an extended example of a hypothetical combat. It should clarify
+much of the preceding sections, which rules, until actually applied, may seem
+somewhat convoluted and mystical.
+
+The Commonwealth Player, in Hex "A", has an Armored Brigade Group containing one
+battalion of Stuarts (TOE Strength of 8), one battalion of Crusader II's (TOE
+Strength of 7), one motorized infantry battalion (TOE Strength of 5), an
+AntiTank Regiment of 2-pounders (TOE Strength of 6), and a regiment of
+25-pounder Artillery (TOE Strength of 6). The brigade has a Basic Morale of +1
+anda Cohesion Level of — 3. The terrain in the hex is Rough.
+
+The Axis Player has two forces, one in Hex "B”' and one in Hex ‘“‘C", In Hex "B"
+is a Kampfgruppe (Brigade) consisting of a battalion of 8 TOE Points of PzIII
+Specials (Tanks), two battalions of infantry (each with TOE Strength of 7), and
+a regiment of 105mm Guns (TOE Strength of 6). In the adjacent hex ("C") is a
+small force consisting of one infantry battalion (TOE Strength of 7) and a
+battery of 105mm Guns (TOE Strength of 4). The Axis Basic Morale is +2, with a
+Cohesion Level of —2. The Axis Player's units are all German, and he is the
+Phasing Player. He attacks.  (Note that the given Cohesion Levels include the
+Capability Points expended for the at tack/defense.) The Axis Player, wishing to
+get full use from his two Artillery units, places both of them in Forward
+position. The Commonwealth Player, having enough Anti-Tank strength with his two
+tank battalions and anti-tank regiment, decides not to use his 25-pounders in an
+Anti-Tank role and places them Back, for protection. Both Players now choose
+their targets for Barrage. The Axis Player, noting the Commonwealth anti-tank
+strength (he knows there are two tank battalions and two gun units) decides to
+direct his full Barrage against one of the Tank Battalions. He thus totals his
+Barrage Points which can be combined because his Guns are Forward, (ten 105's —
+Barrage Rating 9 — at a TOE Strength of 10 = 90 Raw Barrage Points) and finds he
+has 9 Actual Barrage Points. The Commonwealth Player, with six 25-pounders
+(Barrage Rating of 8) will use all 5 Actual Barrage Points (6 x 8 = 48, or 5)
+against one battalion of infantry (as he fears the Assault more than the
+Anti-Armor fire — a guess, really, as to the Axis intentions — and the Infantry
+unit is an easier target). Both Barrage simultaneously, adjusting for terrain
+(the Axis units are all in Clear Terrain.)
+
+The Axis Player Barrages, using the "7,8" column on the Barrage Table (adjusting
+from "9,10”' because of the Rough Terrain). He needs a roll of 36 or lower to
+pin the Tank battalion and he throws a 25. The result is that his target, which
+turns out to be the battalion of Stuarts, is Pinned and may not participate in
+any further combat.  The Axis Player throws again rolling a "6". This results in
+two Truck Points destroyed although the infantry they are transporting is
+unharmed. The Commonwealth Barrage, on the "5,6”' row results in No Effect when
+the Commonwealth Player rolls a 61. Note that no defending trucks are present so
+no second roll is necessary. Both Players now deduct any Ammunition expended.
+
+The Commonwealth Player decides not to Retreat Before Assault with any of his
+units, and the Players now assign their units to either AntiArmor or Close
+Assault (or nothing). The Axis Player assigns five points (of his 8 available)
+of his PzIII Specials to Anti-Armor and all three of his infantry battalions to
+Close Assault. He does not use his Artillery for Assault as he wishes to save
+ammunition. The Commonwealth Player -assigns his Infantry battalion to Defend
+against the Assault and puts his Crusaders into that Assault.  His Stuarts are
+pinned and cannot participate, but he does use his Anti-Tank guns for Anti-Armor
+Fire. His artillery is Back and may not participate in either Anti-Armor or
+Close Assault.
+
+The Axis Player has 3 Anti-Armor Points (5 TOE Points of PzI[ISpec. with an
+Anti-Tank rating of 5 x 6 = 30, or 3 Actual). The Commonwealth Player has only 2
+(his 6 TOE Points of 2-pounder Anti-Tank, rating of 4 = 24, or 2 Actual). If his
+Stuarts had not been Pinned, they could have aided his Anti-Armor effort. Both
+Players now fire simultaneously. The Axis Player rolls a 51, and the, result on
+the Anti-Armor CRT is a "4". This means that the Commonwealth Player must remove
+enough Crusader TOE Points to absorb 4 Armor Protection Points. (He cannot use
+his Stuarts as they have been pinned and do not enter into Anti-Armor loss
+calculation). As Crusader II's have an Armor Protection Rating of 3, he must
+remove 2 TOE Points of Crusaders to absorb the loss. Likewise, the Commonwealth
+Player fire Anti-Armor, rolls a 55, resulting in a 3. Each Pzlill Special has an
+Armor Rating of 4, so the Axis Player removes 1 TOE of PzIII Specials (taking
+them from those tanks assigned to Anti-Armor, rather than upset his Assault
+power.)
+
+Both Players now determine their Assault Differentials. The Attacking Axis has
+42 Raw Points from Infantry (7 x 2 x 3 = 42) and 21 Raw from his tanks (7 x 3 =
+21) for a total of 63 Raw Points, or 6 Actual. As he has 21 Infantry TOE Points
+and only 3 Tank TOE Points, he has no problems with Combined Arms effects on
+Assault.  The Commonwealth Player has 10 Raw Infantry Points (5 x 2 = 10) plus
+28 from his Crusaders (7 x 4 = 28) for a total of 38, for a 4 Actual.  However,
+as he has two more Tank TOE Points than Infantry (7 to 5), he subtracts 1 Actual
+Point for Combined Arms Effects. The Basic Differential is thus 6 to 3, or +3
+for the Axis.
+
+Each Player now checks for his actual Morale at time of Assault. The Axis Player
+has a +2 Basic Morale with a Cohesion Level of -2; he consults the Morale
+Modification Table, throws a 21, and gets a No Change to his Basic Morale. So
+his Adjusted Morale is +2. The Commonwealth Player has a Basic Morale of + !
+with a Cohesion Level of -3, Using his -3 Cohesion he also consults the Morale
+Modifier Table, throwing a 53. This results in a modification to his Morale of ~
+2, for an Adjusted Morale of —1. Comparing his Morale to that of the Axis Player
+shows a Finalf Adjusted Morale of +3 (+2 — [~1] = +3). This +3 means that the
+Axis Player will adjust the Assault Differential Column three in his favor.
+However, the Commonwealth units are in Rough Terrain, which is a two-column
+adjustment in their behalf, so the final column adjustment is +1 for the Axis.
+(There is no question of a unit Size/Organizational Difference here.) Thus, with
+a Basic Differential of +3, and a one-column adjustment for the Axis, the
+assault takes place on the +4 Column.
+
+Each Player now throws two dice and consults his portions of the Assault Combat
+Results Table to determine his losses. The Axis Player throws a 32.  That means
+he loses 5% of his Assaulting Force, and there are no other results for him
+(i.e., he is not Engaged). The Commonwealth Player throws a 21. He has several
+results from this: (1) He loses 15%; (2) He has 33% of these Captured (an
+additional die roll of 4); and he must Retreat all his units at least one hex
+(or take an additional 10% loss, which would further affect the Captureds).
+
+The Axis Player Assaulted with 63 Raw Points, which he multiplies by his 5% Loss
+to get 3.15, or 4 Raw Points (the Attacker always rounds upwards). He removes
+two Infantry TOE Points (onefrom each of two battalions) to absorb the 4 Raw
+Points (each of his Infantry has an Assault Offensive Rating of 2, so 2 TOE of
+these equals 4 Raw Points). In addition, the Axis Player has his Artillery
+forward, so he must remove 50% of his Raw Points Lost in terms of Vulnerability
+Points.  This means he has lost 2 Points (Vulnerability) of Artillery. As each
+105mm Gun has a Vulnerability of 9, he would have to remove one of his Guns to
+absorb the 2 point loss. The Axis Player's losses are thus 2 TOE Points of
+Infantry (or about 200-300 men), 5 Panzers (1 TOE), and 1 TOE of 105mm guns (or
+4 guns, for this type of gun).
+
+The Commonwealth Player now determines his losses. He used 38 Raw Points; but he
+also has Pinned Stuarts, which must be included in the total.  There are 8 TOE
+of these, with a Defensive Assault Rating of 4, for a total of 32 Raw, for a
+Grand Total of 70 Raw Assault Points. His losses are 15%, or 10.5 Raw Points,
+rounded down to 10. Of these, 33% are captured, or, rounding upwards, 4 Raw
+Points Captured. The Commonwealth Player has 2 Infantry TOE Points Captured (to
+absorb the 4), and eliminates | TOE of Stuart Tanks (4 Raw) and 1 more Infantry
+Point (2 Raw) to satisfy the 10 Points lost. He then Retreats his entire Force
+one hex, rather than incur additional losses.  He has had about 150 men killed,
+about 300 men captured, and lost 5 Stuart and 10 Crusader Tanks. He has also
+lost his position.
+
+The Commonwealth suffers no additional losses to his Cohesion Level, aside from
+those earned in moving the one hex (to Retreat), However, the Axis Player earns
+three Reorganization Points for pushing the Commonwealth Player out of the hex.
+====
+

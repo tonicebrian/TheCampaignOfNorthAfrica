@@ -1,0 +1,276 @@
+[#11_0]
+== THE COMBAT SYSTEM
+
+COMMENTARY:
+
+CNA is an operational-level simulation, and it has been the history of
+operational games to have combat systems of a generally simple level (cf.
+Panzergruppe Guderian, Battle of the Bulge, even War in Europe). However, the
+combat system in CNA is a multi-layered sequence consisting of several steps,
+all of which have been designed to take into effect not only the characteristics
+of the individual types of weapons (small arms fire vis a vis indirect artillery
+fire, etc.) but also the uniqueness of desert warfare. This imparts a tactical
+flavor to combat without resort to actual play-outs of combat on a tactical
+level. Much has been abstracted (the major abstraction being artillery ranges),
+but there is still a wealth of information available as to relative strengths,
+compositions and capabilities of the different units. Above all, we have
+attempted to instill a "combined arms" imperative in the combat system, with the
+result that unit composition is as important as actual strength. The CNA combat
+system requires some mathematical dexterity, but most of all it requires a good
+sense of organization and planning. Most
+
+Players will enter combat "blind", knowing little about the Enemy. Knowing what
+to hold back and where to assign guns and tanks is all important.
+
+The Combat System may appear complex, but it is simply a matter of following the
+sequence and making the necessary calculations as you progress.  This section
+should be referred to when undergoing combat, at least until the mechanics of
+the sequence are well within the grasp of the Players.
+
+GENERAL RULE:
+
+During each Combat Segment, combat is mandatory between opposing units in
+adjacent controlled hexes. There are four basic types of combat activity:
+Barrage, Retreat Before Assault (nonPhasing units only), Anti-Armor, and Close
+Assault (offensive for the Phasing Player's units and defensive for the
+non-Phasing Player's units).  Prior to the resolution of each type of combat,
+the Phasing and non-Phasing Players secretly allocate units to perform one or
+more of these activities, as they choose. The relative ability of a unit to
+perform a combat activity is a function of its basic rating for that activity
+modified by its current TOE Strength Level (excepting Retreat Before Combat,
+which any unpinned units may perform).  Each activity necessitates the
+expenditure of Capability Points.
+
+This Section discusses combat in general terms, as well as showing how the
+combat ratings are used.  Combat resolution for each type of activity is
+discussed specifically in Sections <<12_0>> (Barrage) <<13_0>> (Retreat Before
+Combat), <<14_0>> (Anti-Armor Fire), and <<15_0>> (Close Assault).
+
+PROCEDURE:
+
+Once all movement has ceased (i.e., the Phasing Player's movement and the
+non-Phasing Player's reactions), combat may occur. During a Combat Segment, the
+Phasing Player must attack all Enemy-occupied hexes which have units exerting
+Zones of Control upon Friendly units (see <<10_3>>). Any other Enemy units in
+hexes adjacent to Friendly units may be attacked subject to terrain restrictions
+on combat. After determining which units are undergoing combat, each Player
+decides which Gun-class units in hexes adjacent to Enemy units will be placed in
+a Forward position and which will be considered in a Back position (see Case
+<<12_1>>). This is done "secretly," each Player simply noting on either the TOE
+sheets or some other piece of paper the appropriate positions of his guns. Gun
+units remain in their specified positions throughout that Combat Segment.
+Players now engage in Barrage. Each Player decides which of his units will
+Barrage which Enemy hexes (see Case <<12_2>>), noting the targets secretly on a
+piece of paper. Any adjacent hex containing Enemy units may be barraged. Both
+Players now Barrage individually, hex by hex, but casualties and Pinned results
+are taken after a// Barrages have been completed. Players should note here any
+Barrages undertaken as Holding Off actions to satisfy ZOC combat requirements
+(see Case <<10_3>>).
+
+The non-Phasing Player may now Retreat Before Assault with any of his units that
+were not Pinned during Barrage.
+
+Both Players now (and secretly, again) assign their units (including forward
+Gun-class units) to AntiArmor and/or Close Assault roles. Any unit with an
+Anti-Armor rating may be assigned to the former. An individual unit may be
+assigned to both Anti-Armor Assault and Close Assault. This is done by dividing
+the TOE Strength Points of that unit between both types of Assault. However, an
+individual TOE Strength Point may never be so divided. Players may also choose
+to withhold un pinned Armor or Gun-class units out of combat (for whatever
+reason they so desire; usually ammunition costs). The strengths of these units
+is not considered; see Cases <<15_29>> and <<15_8>>.
+
+Both sides now engage in Anti-Armor Fire, each side firing at the other's
+"armor", All results from Anti-Armor Fire are taken before proceeding to Close
+Assault. All Armor units assigned to AntiArmor or Close Assault are subject to
+Anti-Armor Fire. Withheld armor units are not subject to such fire. Thus, tanks
+assigned to Close Assault roles may be destroyed during Anti-Armor Fire.
+
+After assessing losses from Anti-Armor Fire the Phasing Player engages in Close
+Assault against the non-Phasing Player. Only units assigned to Close Assault are
+used to determine the Assault Differential (however, see Case <<14_26>>).
+Remember to adjust Close Assault Strengths for losses incurred from Anti-Armor
+Fire. Players now take casualties from Close Assault, place "Engaged" markers
+as needed and conduct any Retreats mandated by the Close Assault CRT. This
+concludes the Combat Segment, and the Phasing Player may now release any
+reserves he wishes and proceeds back to his Movement Segment (if he so desires).
+
+The above sequence is general. For a complete description of all activities,
+consult Sections <<12_0>> through <<15_0>>
+
+CASES:
+
+[#11_1]
+=== UNIT COMBAT CHARACTERISTICS
+
+There are seven Land Unit Combat characteristics: Barrage, Vulnerability,
+Anti-Armor, Armor Protection, Offensive Close Assault, Defensive Close Assault,
+and Anti-Aircraft. (The individual OA Sheets carry all the information for each
+unit in the game; the unit counters do not carry this information.) Every Land
+unit has been given a Rating (or a Factor used to multiply by TOE Strength) of
+its capabilities and relative strength in each of these areas. (See Designer's
+Notes for a discussion of how these ratings were arrived at). These are
+described in Case <<3_5>>.
+
+[#11_11]*[11.11]* The Barrage Rating is the measure of a unit's ability to
+engage in long-range indirect fire.  Only Artillery units possess a Barrage
+rating.
+
+[#14_12]*[14.12]* The Vulnerability Rating is an abstraction of a Gun unit's
+susceptibility to Close Assault, or how far back from the front it can operate
+without being affected by direct fire. All Guns — i.e., Artillery and Anti-Tank
+units — possess Vulnerability Ratings.
+
+[#11_13]*[11.13]* The Anti-Armor Rating is a measure of a unit's ability to
+engage in direct fire with and destroy opposing Armored units.
+
+[#11_14]*[11.14]* Armor Protection is a measure of a unit's armor, its strength
+and thickness vis a vis opposing Anti-Armor Ratings. Units that have Armor
+Protection Ratings are usually limited to Tanks, Recce and Armored Car units,
+and Self-Propelled Artillery.
+
+[#11_15]*[11.15]* The two Close Assault Ratings are a measure of a unit's
+ability to perform (Offensive Assault) and defend against (Defensive Assault)
+Close Assault combat.
+
+[#11_16]*[11.16]* The AA Rating of a unit is its ability to shoot down planes.
+For the most part, only AA/Flak units have this rating, but it can be found on
+other units. E.g., some Tanks have AA/Flak capability, as do some HQ units.
+
+[#11_2]*[11.2]*
+=== CAPABILITY POINT
+
+EXPENDITURES FOR COMBAT
+
+[#11_21]*[11.21]* A non-Phasing unit expends three CP's if
+it undergoes an attack. Exception: see Case <<11_27>>.
+This will occur under the following circumstances:
+
+[loweralpha]
+
+. If it Barrages an Enemy (Phasing) unit; or
+
+. If it undergoes any form of Assault (AntiTank, Close) except Probe (2 CP's). This includes
+the situation where a unit Retreats Before Assault into a Friendly hex that is
+later assaulted.
+
+. If it undergoes a Holding Off Barrage (see <<10_3>>).
+
+[#11_22]*[11.22]* A Phasing unit expends five CP's to perform any form of
+attack, other than a Probe. It can never expend more than five CP's in a given
+Combat, although if it engages in a different (new) round of combat after
+completing the first round of combat it will (possibly) expend more CP's. The
+following is a list of circumstances under which a combat unit expends 5 CP's to
+attack:
+
+1. It Barrages an Enemy unit; or
+
+2. It engages in Anti-Armor or Close Assault.
+
+[#11_23]*[11.23]* A Phasing unit expends fewer than 5 CP's under the following
+circumstances:
+
+1. It Probes an Enemy unit (2 CP's), or
+
+2. It undergoes Barrage (3 CP's).
+
+[#11_24]*[11.24]* A non-Phasing unit never expends more than fhree CP's in
+combat in a given Combat Segment, regardless of what happens to it in that
+Segment. A Phasing unit never expends more than five CP's in a given Combat
+Segment. See <<11_27>>.
+
+[#11_25]*[11.25]* CP expenditures apply to a@// units in a hex, even if certain
+units did not participate in combat in any way. This applies to Phasing and
+non-Phasing units. Thus, if the Commonwealth Player Close Assaults with his
+entire 7th Armored Division, but chooses to withhold the Ist KRRC, the entire
+division expends five CP's, including the non-participating Ist KRRC.
+Concurrently, if the Artillery units of the 7th Armored Division had barraged
+Enemy units and then the 7th Armored did nothing else, the entire division (if
+it were all in the same hex) would still expend 5 CP's.
+
+[#11_26]*[11.26]* Generally, Phasing units will expend 5 CP's and non-Phasing
+units 3 CP's ina given combat Segment, except where a Phasing unit chooses to
+Probe. However, remember, if units in the hex with the Probing units Barrage the
+Enemy units those units expend 5 CP's, regardless of the Probe attempt.
+
+[#11_27]*[11.27]* A unit defending against a full (nonProbe) Close Assault in
+which the final Assault Differential is minus four or worse expends only one CP
+to defend.
+
+[#11_3]*[11.3]*
+=== CALCULATION OF COMBAT STRENGTHS
+
+The Combat Strengths of a unit for a given function (Assault, Anti-Tank, etc.)
+are stated in Actual Strength Points, which are arrived at by multiplying the
+TOE Strength by the Combat Rating for that particular function and then dividing
+this Raw Strength by fen (except for A.A). This does not apply to a unit's Armor
+Protection or Vulnerability Ratings, which remain constant and are applied and
+used differently.
+
+[#14_31]*[14.31]* The relative strength value of units during combat (with some
+exceptions noted' below) is expressed in Actual Stength Points. These Actual
+Points are either applied directly to a hex or unit (as in Barrage or
+Anti-Armor) or compared with the Enemy forces (as in Close Assauit or Probe).
+Case <<12_54>> is a minor exception to this rule.
+
+[#11_32]*[11.32]* The formula for arriving at the Actual Strength of a unit is
+as follows: Combat Rating x TOE Strength used + 10 = Actual Strength Points.
+Players should round any decimals to the nearest whole number: 11.4 = 11,
+11.5 = 12.
+
+[#11_33]*[11.33]* A unit that has less than .5 Actual Points (or, to state it
+differently, has only four or less Raw Points) has an Actual Strength of zero
+(0). However, if both sides of a Close Assault or Probe have less than fen Raw
+Points Players should use the Raw Points as if they were Actual Points. See also
+Case <<15_51>>. Raw Points are the numbers arrived at by multiplying the Combat
+Rating by the TOE Strength.
+
+[#11_34]*[11.34]* All Raw Points are totaled before dividing by 10 for Actual
+Strength. This applies for units within a hex as well as units attacking from
+different hexes (against the same target).
+
+[#11_35]*[11.35]* As an example, we will demonstrate how to determine a variety
+of combat strengths for an entire Division, using the German 90th Leichte
+Division as an example (see the OA Sheets for this unit). We will assume the
+unit is at full strength and that all units assigned are currently attached to
+the division and that there are no other units attached.
+
+The Axis Player wishes to use the Artillery in the 90th to Barrage the enemy; it
+has the 361 Artillery Battalion and the 190th Artillery Rgt. to do this.  The
+361 has 3 TOE points of 9-rating Barrage, or 27 Raw Points. The 190 has 3 TOE of
+18 Rating Barrage plus 3 TOE points of 9-Rating Barrage, for a total of 81 Raw
+points (27 + 54 = 81). Thus a combined total of 108 Raw Barrage Points is
+available, which equals 11 Actual Barrage Points (108 + 10 = 10.8, rounded
+up to 11). The 90th may now Barrage with those 11 Actual Points against the
+enemy. The Axis Player could also split up its TOE Strength if he wishes, using
+2 TOE points of the 361st (or 2 Actual Points) against one unit and the other
+TOE point against a different unit. There are restrictions involved, and the
+Section on Barrage (<<12_0>>) covers them all.
+
+Skipping to Close Assault — for demonstration purposes — we see that the 90th
+Leichte has seven Infantry Battalions: the entire 155th Schutzen Regt. (3
+battalions), the two battalions of thé 361st Afrika Regt plus the III/225 and
+the III/347 Battalions. The 155th provides 42 Raw Points, the 361st provides 9
+Raw Points (it would provide 18 on defense) and the two odd battalions an
+additional 14, for a grand total of 65 Raw Offensive Close Assault Points
+(excluding any Artillery firing in Assault), or 7 Actual Points (6.5 rounded
+up). As above, these points could be split, by dividing the TOE points, or
+assigning different battalions to assault different hexes, etc. Each separate
+Close Assault is determined individually.
+
+[#11_36]*[11.36]* It will behoove the Players to keep a running track of all Raw
+and Actual Point totals for his Parent organizations on his TOE Sheets, so he
+knows at a glance what is available and what his strengths are. These strengths
+are to be kept secret from opposing Players, revealed only upon attack.
+
+[#11_37]*[11.37]* AA/Flak Actual Points are calculated the same as other
+strengths, with one major difference. As with anti-armor, close assault, and
+barrage calculations, multiply the TOE Strength by the AA Rating. But do not
+divide by ten; the raw AA Points are the Actual AA Points. Thus, an AA unit with
+a rating of 4 and a strength of 2 would have 8 AA Points.
+
+[#11_38]*[11.38]* The only combat ratings that do not use the above formula
+(multiplying by TOE Strength, etc.) are the Vulnerability and Armor Protection
+ratings. These ratings are used to determine the number of gun and armor losses
+and are discussed in Cases <<14_42>> and <<15_85>>.
+

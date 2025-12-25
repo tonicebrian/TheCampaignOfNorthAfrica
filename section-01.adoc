@@ -1,0 +1,13 @@
+[#1_0]
+== Introduction
+
+*The Campaign for North Africa* (CNA) is a simulation of actual operations in Libya and Egypt from 1940 through early 1943. CNA was designed as a definitive simulation intended for the sophisticated wargamer and the serious student of history. As such, CNA is the most logistically oriented game ever designed and may be considered by some to be overly complex.
+
+In fact, the game system itself is quickly absorbed, and most experienced players will have little problem understanding how to play the game. At the same time, there is a ferocious amount of information for the players to digest and use. The assimilation and coordination of all this information is what makes CNA so formative, challenging, and (hopefully) enlightening. Very little has been abstracted; CNA contains more hard information on the subject than any other single source encountered by the SPI design staff.
+
+CNA is not a game for one, two, or even three players. This is a multi-player game in the true sense of the word. For maximum playability and efficiency, it is recommended that, on each side, one person be assigned to Logistics, one person to Air Forces command, and at least three players to Land Forces command (again, per side). It is also strongly suggested that at least one calculator be available.
+
+Although the rules are quite long, CNA is relatively easy to explain. Someone familiar with the rules can tell other players how to play with remarkable ease.
+
+Each hex represents approximately eight kilometers; each Game-Turn represents one week of “real" time. Units range in size from companies (approximately 100 men) to divisions (approximately 15,000 men).
+

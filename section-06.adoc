@@ -1,0 +1,174 @@
+[#6_0]
+== THE CAPABILITY POINT SYSTEM
+
+GENERAL RULE:
+
+CNA uses a Capability Point system to control all aspects of a given land
+unit's abilities. A unit's Capability Point Allowance (CPA) is a numerical
+representation of a unit's ability to undertake any and all functions: movement
+(including retreats and advances), combat, loading, transporting, construction,
+etc. There is not a function in the game that will not cost a unit some of its
+CPA (with some minor exceptions). CPA thus regulates each and every aspect of
+play. Under certain circumstances units may exceed their CPA. To do so will
+affect a unit's Cohesion, earning it Disorganization Points (which may affect
+Morale). Yet, the ability to exceed its CPA allows a unit to stretch itself to
+the limit, to perform feats it might not ordinarily perform — at a price. Players should thus keep close track of each unit's CP's expended and its Cohesion Level on the Sheets provided.
+
+[#6_1] 
+=== HOW THE CPA SYSTEM WORKS
+
+[#6_11]*[6.11]* Each unit has a Capability Point Allowance (CPA). The CPA for
+each unit is given on the OA Sheets. Certain Gun units have a CPA of "0” these
+units are considered to have a CPA of 10 for all purposes other than movement.
+
+[#6_12]*[6.12]* Every function that a unit would need to perform costs that
+unit some portion of its CPA. The costs of each such function are listed on the
+Capability Point Cost Table, Section <<6_3>>. Except where noted, everything a unit
+does costs CP's.
+
+[#6_13]*[6.13]* The CPA for a given unit refers to the number of Capability
+Poins that unit may use in a given Operations Stage without earning
+Disorganization Points (See <<6_2>>). Thus, a Tank Battalion with a CPA of '25'
+could use 25 CP's in an Operations Stage without garnering any Disorganization
+Points.
+
+[#6_14]*[6.14]* The allotment of CP's for an Operations Stage refers to both
+Players' portions of that Operations Stage. Thus, if the Axis Player goes
+"last" in a given Operations Stage any CP's used by his units in Retreating,
+Reacting, etc., during the Commonwealth portion of that Operations Stage are
+counted against those units' CPA's for that Operations Stage. As the Operations
+Stage progresses, Players should keep track of CP's expended by units on either
+the TOE Sheet for that unit or on the Field Commander Control Sheet. 
+
+*Example*: At the beginning of the first Operations Stage of the September III, 1940
+Game-Turn (Game-Turn 1), the First Royal Northumberland Fusiliers (a
+non-motorized, Machinegun battalion at this point) has a CPA of _eight_. To start
+the game, the Italians move and attack the 1st RNF. They have no artillery and
+do not barrage. The Allied Player decides to Retreat Before Assault three hexes
+at a cost of six CP's. The 1st RNF did not use any CP's to defend, and the
+Italians did not expend any CP's to Close Assault, as the Allied unit retreated
+before any could be expended. Thus when the Commonwealth Player begins his
+portion of that Operations Stage the Ist RNF battalion will have only two CP's
+remaining before it exceeds its CPA and earns Disorganization Points.
+
+[#6_15]*[6.15]* The CPA of a "Parent Formation”' (e.g., division, brigade,
+etc.) is that of the /owest CPA of the units comprising that parent formation,
+regardless of the CPA of any higher-CPA units. If the British 7th Armored
+Division was to move as an entity (consult the OA Sheet for the 7th Arm. Div)
+it would move with a CPA of ‘10', or that of its lowest-CPA unit — the Ist KRRC
+(without trucks).
+
+[#6_16]*[6.16]* A unit does not have to use all of its CP's in a single
+Operations Stage. However, CP's not used in one Operations Stage do not carry
+over into the next Operations Stage (unlike Cohesion Levels, which do). They
+are not transferrable from one unit to another (although an infantry unit may
+assume the CPA ofa truck if it is motorized; see <<6_17>>).
+
+[#6_17]*[6.17]* Certain units may become "motorized" during the game: i.e.,
+Infantry units (those units witha basic CPA of 10 or less) may use Truck units
+to transport them. Infantry units being thus transported by Truck units assume
+the CPA of the Truck unit carrying them. Thus, if the Ist RNF were to be
+motorized by Medium Trucks it would now have a CPA of ‘20', instead of ‘8'.
+(See also Section <<8_9>>). Anti-air units with listed CPAs of 0+ may be motorized by assigning one Medium or one Heavy Truck Point per TOE
+Strength Point of Artillery.
+
+[#6_2] 
+=== COHESION
+
+Cohesion represents a unit's state of exhaustion and disintegration
+(Disorganization) or elation (Reorganization). A unit with a Cohesion Level of
+'0' is its normal self. A unit in Disorganization, with a minus Cohesion
+Level, has probably been exerting itself beyond the normal call of duty, while
+a unit with a plus Cohesion Level (Reorganization) has been winning battles.
+The Cohesion Level of a unit affects its Morale Level at the instant of combat,
+which in turn will affect its performance in that battle. (See Section <<17_0>>).
+
+[#6_21]*[6.21]* Whenever a unit exceeds its CPA within a given Operations Stage
+it earns Disorganization Points (DP's). For each Capability Point that a unit
+uses over its CPA it earns one Disorganization Point. Thus, a unit witha CPA of
+‘15° that uses 18 CP's in an Operations Stage earns three DP's. [A unit may
+also earn DP's as a result of combat.] If a unit (Parent Formation as well as
+all units in that formation) suffers losses of 30% or greater in any one Close
+Assault it earns three DP's. (See also <<15_29b>>).
+
+[#6_22]*[6.22]* DP's are used to decrease the Cohesion Level of a unit. Thus a
+unit with a Cohesion Level of -1 that earns three DP's now has a Cohesion Level
+of -4. DP's accumulate from Segment to Segment; they may be negated only by
+certain actions on the part of the unit (See <<6_23>>). Furthermore, DP's are
+credited immediately — not at the end of an Operations Stage. 
+
+*Example*: the Ist
+RNF, with a CPA of ‘8' and a Cohesion Level of -2 has expended five CP's in a
+Movement Segment. It then assaults an Italian unit, expending the five CP's
+necessary to do so. The Ist RNF has thus exceeded its CPA by two, earning 2
+DP's and reducing its Cohesion Level by that two to -4. The decrease in the
+Cohesion Level takes place before the Close Assault is resolved and the 1st RNF
+uses its new Cohesion Level of -4 in computing any changes to Morale.
+
+[#6_23]*[6.23]* A unit's Cohesion Level may be increased by earning
+Reorganization Points (RP's). Under no circumstances, however, may a units
+Cohesion Level ever go higher than plus ten (+10). RP's earned are added to a
+unit's Cohesion Level in such a way as to make it "better". Thus a unit with a
+Cohesion Level of -3 that earns five RP's has a new Cohesion Level of +2.
+RP's, like DP's, are applied immediately.
+
+[#6_24]*[6.24]* RP's are earned under the following circumstances:
+
+1. For each Operations Stage in which a unit uses absolutely no CP's (except
+for a unit undergoing Training or conducting Training; see <<18_3>>) that unit
+earns five RP's. However, no unit may ever increase his Cohesion Level above
+‘0' by this method. Thus, a unit with a Cohesion Level of -1 that uses no CP's
+for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stage
+(not +4).
+
+2. For each Close Assault in which a unit participates where the defending upit
+vacates its hex completely as a direct result of that Close Assault (not
+Reaction or Retreat Before Assault) that unit (victorious) earns fhree RP's.
+
+[#6_25]*[6.25]* A unit with a positive Cohesion Level (e.g., +3) may have its
+Basic Morale increased in a given Close Assault, while a unit with a negative
+Cohesion Level (e.g., -12) may have its Morale lowered for a given combat (see
+<<17_2>>).
+
+[#6_26]*[6.26]* A unit with a Cohesion Level of -26 (or worse) may not move,
+attack, or defend. If an enemy combat unit moves adjacent to it it Sur renders,
+regardless of the size of the enemy unit. Such "disorganized" units may,
+however, refuel, and they do consume Stores and Water. (Note, that a unit may
+get a level of worse than -26 if it performs a sing/e action, such as an
+attack that would jump it past the -26 level.)
+
+[#6_27]*[6.27]* If a Player has more than one unit (or individual combat
+counter) in a given Close Assault, and those individual units have different
+Cohesion Levels, then the Cohesion Level of the largest (in terms of type:
+division, brigade, etc.) unit prevails. (Use the Stacking Points to determine
+the "Jargest" unit.) When determining any adjustments to Morale through
+Cohesion Level, if there is more than one "largest unit", then the Cohesion
+Levels of all "largest units" are added together and divided by the number of
+contributing counters.
+
+Example: Three brigades are assaulting an enemy unit. The Cohesion Level of the
+Brigades is -4, -1 and +3, respectively. The Player adds the three together
+(-4 + (-)1 + 3 = -2, and then divides by three (-2 + 3 = -1, rounding to the
+nearest whole number). The Cohesion Level for that battle is thus -1.
+
+[#6_28]*[6.28]* If a Parent Formation has many units within it that have
+different Cohesion Levels the largest unit within the Parent Formation
+prevails, as per Case <<6_27>>.
+
+*Example*: An extreme example, and one not likely to occur, is one where a
+Parent Formation has three Brigades, all with different Cohesion Levels; in
+addition, one of the Brigades contains three battalions, each with a different
+Cohesion Level. The Cohesion Level for the latter Brigade would have to be
+determined before averaging the three Brigades to get the final Cohesion Level.
+Again, this will rarely, if ever, occur. 
+
+[#6_29]*[6.29]* Notwithstanding anything said in <<6_27>> or <<6_28>>, each
+unit's Cohesion Level is kept track of individually. As most units ina Parent
+Formation will have the same level at all times, this will not prove to be too
+big a problem. 
+
+[#6_3] 
+=== CAPABILITY POINT COST SUMMARY
+
+(see Charts and Tables)
+
