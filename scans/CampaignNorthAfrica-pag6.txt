@@ -1,0 +1,233 @@
+Infantry-class: All Infantry-Type, Engineers,
+Headquarters possessing a defensive Close Assault
+Rating but not possessing an Armor Protection
+Rating, SGSU, and Recce-Type that do not
+possess an Armor Protection Rating.
+Armor-class: All Tank-Type, Dummy Tank Formations, Tank Recovery Squadrons, headquarters
+possessing an Armor Protection Rating, RecceType possessing an Armor Protection Rating, and
+those Artillery and Anti-tank-Type units possessing an Armor Protection Rating (SPA and Tank
+Destroyers).
+
+Gun-class: All Artillery-Type, Anti-aircraft-Type
+and Anti-tank-Type units comprised of any TOE
+Strength Points not possessing an Armor Protection Rating, includingHQs and infantry with Barrage capability.
+
+Truck-class: All Trucks.
+
+Note: Any Artillery or Anti-tank unit that is comprised of weapons (TOE Strength Points) with an
+Armor Protection Rating and of weapons without
+one are considered ¢wo units for target purposes.
+
+[#3_23]
+==== Combat units consist of all Infantry-Type,
+Tank-Type Recce-Type, Artillery-Type, Antitank-Type, and Anti-aircraft-Type units. For certain determinations, such as Zone of Control,
+Reconnaissance, Barrage and Bombardment, certain non-combat units may be considered combat
+units.
+
+[#3_3]
+=== HEADQUARTERS UNITS
+
+HQ’s serve two functions: They act as command
+coordination for the individual units under them,
+and they also represent, when on the game-map,
+all of the units attached to that HQ.
+
+[#3_31]
+==== HQ units represent all combat units,
+Trucks (and their Supplies), etc. attached to that
+counter. If any combat units are attached, the HQ
+counter itself is considered a combat unit, and
+fights with the combined strengths of all units in it.
+
+[#3_32]
+==== An HQ (and for that matter, all Parent
+Units) have a CPA equal to the CPA of the
+‘slowest’ unit attached to the HQ.
+
+[#3_33]
+==== The Stacking Points printed on the HQ are
+those of a full complement of units. Thus a divisional HQ representing an entire division occupies
+§ Stacking Points of space. The rules on unit
+Equivalents (see Case 9.2) discuss what happens if
+the division operates at less than full strength. If
+an HQ has no combat units attached it occupies
+zero Stacking Points and may use its parenthesized
+Ratings. It is no longer considered to be a combat
+unit and may not voluntarily attack.
+
+[#3_34]
+==== Certain HQ units, mostly with the Italian
+Army, have artillery assigned to regimental HQ’s
+(guns directly under command of the HQ). These
+HQ’s may use their combat strengths, and losses
+for the guns are taken as regular losses. However,
+when all gun TOE Strength Points are eliminated,
+the HQ is not destroyed: it reverts to the status of a
+non-combat HQ.
+
+[#3_35]
+==== Armored Division and Armored Brigade
+HQ units usually have a ‘‘platoon’’ of tanks
+assigned, as Players will note by the ratings of each
+such HQ. These tanks may not be used in combat
+unless the HQ has no combat units attached.
+Tanks assigned to HQ’s may not be transferred to
+combat units, regardless of the situation. If such
+an HQ loses its tanks, they should be replaced by
+the first available Tank Replacement Points. HQ’s
+with tanks attached are not subject to Breakdown.
+
+[#3_36]
+==== An HQ unit that has no combat values,
+either with or without parentheses, is captured instantly if it is in a hex without any combat units
+and an Enemy combat unit places the HQ in its
+Zone of Control. There is no Capability Point ex
+penditure required for such a capture, and the HQ
+is treated as one Prisoner Point.
+
+[#3_4]
+=== COMBAT UNITS
+
+CNA has a great variety of combat units — more
+than 25 different types, not including aircraft.
+Although the structure of the game is operational,
+there has been an attempt to inject a ‘‘tactical’’
+flavor into the game by differentiating between the
+functions of the various units. However, players
+should keep in mind that this is an operational
+game, and that many purely tactical functions
+have been abstracted or ignored. Below is a brief
+resume of the various types of units, noting any exceptions. Some of the completely familiar units
+have been omitted.
+
+Motorized Infantry: These are infantry units that
+are usually transported in Trucks. (The British
+often called their units Lorried infantry.) Motorized Infantry units must actually have Trucks in
+order to use their Motorized CPA (i.e., that of the
+Truck). Otherwise they are regular ‘‘foot’’ Infantry. Units that were usually motorized are so indicated on the units’ Characteristics Charts.
+
+Mechanized Infantry: Primarily, these units were
+not only motorized but also usually supplied
+with some Armored Cars, half-tracks, armored
+Personnel carriers, etc. Unless there is a terrible
+and total emergency, Mechanized Infantry should
+remain motorized at all times.
+
+Motorcycle Infantry/Reconnaissance: These are
+mostly Italian Bersaglierei mitraglieri (motorcycle) units (plus two German battalions of Kradschutzen). The equipment is the popular two-man
+cycle, plus a few jeeps, Armored Cars, etc.
+Weaponry was pretty good, with a high percentage
+of machineguns; thus their relatively high
+firepower. Cycles may not enter hexes prohibited
+to Light Trucks. Moreover, even though motorcycles are vehicles, they do not use Fuel nor do
+they suffer Breakdown.
+
+Heavy Weapons Units: There are several of these
+units, such as the German Schwerste-Infanteriegeschutz units. Equipment varied, but often included machineguns, mortars, some light artillery
+and anti-tank guns, perhaps a light AA battery. It
+varies from unit to unit.
+
+Garrison Infantry: These units are virtually the
+sole property of the Italians — and they are usually
+welcome to them. Most Italian Garrison Infantry
+came from the GaF Settore di Coperture Regiments, comprised of over-age Italians living in
+Libya. Their training was minimal, their spirits
+low, their performance poor. However, units
+labeled as garrison units (with a G on the counter
+— and this includes all types of garrison units)
+stack free in the city or town which they were
+originally assigned to garrison. E.g., the 30th GaF
+infantry units have zero Stacking Poins when in
+Bardia. There is one Commonwealth unit which is
+considered a Garrison: The Matruh Garrison. The
+OA Sheet gives specific instructions on this unit.
+unit.
+
+Airborne Infantry: These are treated as normal infantry, unless they are capable of being paradropped, which capability is listed on the Arrival
+Sheet for that unit. See Case 40.4.
+
+Armored Recce and Armored Car units: Recce
+units usually comprise light armored cars (Bren
+Carriers, Autoblindas, etc.), while the Armored
+Car units have some tanks (Stuarts, PzII’s, etc.)
+and heavier cars. The sole difference is the fact
+that Armored Car units are virtually light Tank
+Battalions. (The British considered Recce as infantry, but Armored Car as Armored units.) Recce
+and AC units have remarkable mobility and are
+
+best used to probe and freeze (Pin) small enemy
+formations.
+
+Artillery: The Artillery units in the game comprise
+a wide variety of weapons, from 65mm Infantry
+guns up to 21cm German howitzers and British
+5.5” howitzers. Some of the minor guns have been
+ignored or combined into one ‘‘piece’’ with similar
+ratings. Italian mortar companies have been melded into the regimental HQ’s and ad hoc artillery
+units. Ratings for guns and howitzers were based
+on Range and Penetration effect, as well as rate of
+fire and type of shell. Unless stated otherwise on
+the Arrival Sheet, all Artillery has its own intrinsic
+(built-in) transport, transport which may never be
+stripped (unless you wish to abandon the guns).
+Artillery units use Fuel (when moving) as well as
+Water. However, they are not subject to Breakdown. Players will also note that certain Artillery
+units have more than one type of gun (e.g., the
+221st Artillery Regt. of the German 90th Light
+Division). All guns belong to the same unit and
+they are treated as one unit.
+
+Self-Propelled Artillery: These are guns mounted
+on Tank or quasi-tank chassis. They fire like guns
+and have Vulnerability Ratings, but they also may
+be destroyed by Anti-Tank Fire. Their advantage
+is in increased mobility and Assault value. SP Artillery consumes Fuel and Water and _ suffers
+Breakdown.
+
+Coastal Defense Guns: These artillery units always
+have a CPA of 10 for combat purposes only,
+unless they have printed CPAs of greater than
+ten. They may not be moved unless Trucks are attached and assigned to that purpose. Guns with a
+‘0’ (not ‘0+’) CPA are emplaced and may never
+be moved. Emplaced Guns do not possess a Vulnerability Rating and may be destroyed only by
+Barrage, Capture or Air Bombardment. Cost
+Defense Artillery that is motorized is subject to
+Breakdown.
+
+Anti-Tank Units: These have ‘‘guns’’ with the
+ability to pierce armor, thus destroying tanks and
+other armored units. There are certain TOE
+Strength Points, not specifically anti-tank, that
+also have this ability: British 25-pdrs., the famous
+German 88mm Flak units, Italian 75mm and
+90mm AA/Flak units, etc. British Heavy Antiaircraft units, with 3.7” guns, theoretically had the
+capability to fire as anti-tank weapons. However,
+British doctrine was such that they were never
+(well, hardly ever) used in this role. (‘‘If they were
+meant to be used as anti-tank guns they would
+have been called anti-tank guns.’’ Apocryphal,
+but true.) Unless self-propelled, anti-tank units
+are notarmored.
+
+Anti-Aircraft/Flak Units: Of all the units in the
+game, AA/Flak unis suffered the most liberties in
+terms of design. The myriad and voluminous
+AA/Flak batteries spread over Africa were often
+combined into larger regiments and battalions,
+making the historical battalions/regiments seem
+larger than they perhaps were. AA/Flak units
+comprise a fairly wide section of weapons: British
+40mm, as well as the ill-used 3.7”s, German 20 and
+88mm’s, plus Italian 20mm’s, 75’s and 90mm’s.
+Many of these guns had other tactical uses, apart
+from shooting down planes. Thus AA/Flak units
+are given a variety of ratings, most of them parenthesized. Some units, especially German 88’s, can
+be used in many roles. These decisions were not
+based on innate capabilities, but rather on tactical
+doctrine and actual usage.
+
+Units with Parenthesized Strengths: Certain combat units — and certain non-combat units — have
+parenthesized Combat Ratings. These ratings may
+be used only if such a unit is in a hex not occupied
+by Friendly combat units with appropriate nonparenthesized ratings is attacked by Enemy units.
+

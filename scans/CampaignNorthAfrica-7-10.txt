@@ -1,0 +1,975 @@
+[#3_5]
+=== UNIT CHARACTERISTICS
+
+Each counter comprises a number of TOE
+Strength Points. The unit's abilities are those of
+the TOE Strength Points comprising it (certain
+counters may exist if there are no TOE Strength
+Points in them; these possess only a Capability
+Point Allowance). The following is a brief explanation of the units' characteristics:
+
+Capability Point Allowance (abbr. CPA): The
+unit's ability to execute movement and combat,
+stated numerically,
+
+Barrage Rating: A combat strength expressing the
+relative capability of that unit to inflict damage
+when firing as an artillery piece (i.e., indirect fire).
+
+Vulnerability: A numerical expression of a gun's
+susceptibility to being destroyed or captured when
+in a Forward Position (see Case 12.1). It is based
+mostly on the gun's range and tactical usage doctrine.
+
+Anti-armor Strength: A numerical expression of a
+unit's ability to destroy armored vehicles.
+
+Armor Protection Rating: The ability of an ar-mored vehicle to withstand enemy anti-armor fire.
+This is based on the vehicle's armor thickness and
+excellence of construction.
+
+Offensive Close Assault Rating: The ability, stated
+numerically, of a unit to engage enemy forces in
+"hand-to-hand" (i.e., Close Assault) combat.
+
+Defensive Assault Rating: The ability, stated
+numerically, of a unit to defend against a Close
+Assault.
+
+Anti-aircraft Rating: A numerical expression of a
+unit's ability to shoot down aircraft (this ability
+occurs, aside from anti-aircraft units, only ina few
+headquarters, tanks, and other units).
+
+Maximum TOE Strength: This is, all things considered, the most important number on the sheet
+(see <<4_46>>). It is the numerical expression of
+the manpower (for infantry), tank platoons (for
+armored units), or batteries (for guns) in that unit.
+The infantry manpower figures are based roughly
+on anywhere from 100 to 200 men, depending on
+the combat function of the individual and his use
+within the unit. The tank platoons are calculated
+in groups of five to eight vehicles. The gun batteries are calculated in groups of four guns.
+
+Basic Morale Rating: A numerical (and somewhat
+subjective) expression of a unit's training, combat
+experience, and esprit d'corps, on a scale of +3
+(excellent) to ""”3 (armed rabble with minimal interest in anything harmful). Certain Commonwealth units must be Trained in order to reach
+their listed Basic Morale.
+
+Fuel Rate: A simplified reduction of the vehicle's
+miles per gallon efficiency.
+
+Breakdown Adjustment Rating: An expression,
+stated numerically, of the general construction
+and ease of maintenance of a vehicle coupled with
+the level of mechanical competence of the unit performing the maintenance.
+
+[#4_0]
+=== GAME EQUIPMENT
+CASES:
+
+[#4_1]
+=== THE GAME-MAPS
+
+The game-map takes up a great deal of space (it is
+almost ten feet in length), and it is virtually impossible to play any scenario without all the maps.
+This is because of the logistical nature of the game
+and the emphasis on supply lines and transport.
+Players will also find that they will be using areas
+of the game-map for dropping counters, piling
+markers, etc. True, there are areas of the maps
+
+that will remain virtually untouched by combat
+units. Simply remember what's in play, and what
+is just being used. Playtesting of CNA, which
+usually took anywhere from six to 12 Players at
+any given time, revealed, among other things, that
+most action took place in one section of the gamemaps. It can get pretty crowded in that area at
+times, so try to keep your displays and other information out of harm's way.
+
+For those Players experiencing difficulties, the five
+Map Sections are labeled A through E and are laid
+long side by long side from west to east respectively (see diagram). The Map Sections should be laid
+so that the Oixx hexrow of a Map Section overlays
+the 39xx hexrow of the Map Section whose letter
+immediately preceeds it in the alphabet (that is,
+Map Section E partially overlays Map Section D
+which partially overlays Map Section C, etc.).
+
+A B
+
+C
+
+D E
+
+[#4_2]
+=== THE COUNTERS
+
+There are actually few counters in play at any one
+given time. However, each division on the gamemap is comprised of a large number of lesser-sized
+units. These battalions and brigades might be
+brought into use at any given time, so the players
+should sort their counters into divisions, and
+organize their divisions so that they know where
+the individual units of that division are. It may
+even be wise to have a separate table for placement
+of such units.
+
+[#4_21]*[4.21]* Sample Units
+
+HEADQUARTERS UNIT Garrison Indicator
+
+Engineering
+Capability
+HQ Indicator and
+
+Stacking Point
+Value
+
+I@""”""”#= Organization Size
+r- Unit Type
+
+Designation
+Parent Formation
+(Garrison Location)
+
+COMBAT UNIT
+
+OFGANIZATION SiZ Component ||
+
+So Uni
+Stacking Point-t""”""”Â»| eg Unit Type
+
+Value . ill {1 LbMie""”-pesignation
+
+Parent Formation-|-""”-""”> Maletti
+
+AXIS COASTAL SHIPPING UNIT
+
+1000 tone Naval Transport
+
+: Capacity
+
+B
+
+$
+I .
+Designation
+
+COMMONWEALTH WARSHIP
+
+Warship Type ""”+-BR 6 1 Deere Aniair
+or
+OnElizabeth
+
+ed.
+Designation
+
+SQUADRON GROUND SUPPORT UNIT
+
+SGSU
+
+Designation mopmommt> ane
+
+20,
+
+Capability Point Allowance
+
+AIR FACILITY MARKER
+
+op Capacity Level
+Facility Type =Â» Geman
+YAP Xx (Squadrons)
+om A
+
+Designation =
+
+FORTIFICATION MARKER
+
+>
+
+TT
+1
+4
+
+l
+Level of Fortification
+
+AIRPLANE CLASS MARKER
+
+(Sub-) Class
+BOMBER <P of Airplane
+
+t=
+
+[#4_22]*[4.22]* Unit Type Symbols
+infantry-Type
+tea] Mechanized Infantry
+
+"""| Motorized Infantry
+
+Motorcycle Infantry
+
+| Motorized Machinegun
+
+Motorized Heavy Weapons
+Motorized Marines
+
+Infantry
+
+Commandos
+Motorized Mountain Infantry
+Airborne Infantry
+
+Machinegun
+
+Heavy Weapons
+
+Marines
+
+Tank-Type
+
+Tank
+
+Recce-Type
+
+Camel Recon
+
+Recon
+
+Motorcycle Recon
+
+Armored Recon
+
+az
+
+Leet} Armored Car
+Artillery-Type
+
+Artillery
+
+Airborne Artillery
+Self-propelled Artillery
+
+eA] Coast Defense Artillery
+
+Aati-tank-Type
+
+er] Anti-tank
+
+x Tank Destroyer
+| Anti-tank/Anti-aircraft
+
+Anti-air- Type
+
+(A Anti-air
+
+VN Heavy Anti-air
+
+Engineer-Type
+[PT] Engineer
+
+Ti] Railroad Engineer
+
+Road Construction
+
+Organization Size. |= Coy, Bty; ll= Bn; Ill= Regt;
+X= Bde; XX= Div; BG = Battlegroup.
+
+Parent Formation Line. /ta/ics indicate garrison;
+""˜*-"? indicates independent (no Parent Forma-.
+tion); "*"""' indicates that Parent Formation did not
+see service in North Africa; Maletti (e.g.) indicates
+Parent Formation; Tul/LTC (e.g.) indicates
+brigade/division Level Parent Formation; 288
+Sonlll (e.g.) indicates independent brigade-level
+Parent Formation.
+
+[#4_23]*[4.23]* Counter Summary
+
+Front
+
+1
+
+SGSU
+8/Ill
+
+JG 53
+25
+
+SGSU
+127RAF
+25
+
+TNKOEL
+=.
+
+eae e
+
+POW
+1
+
+PRISON
+GUARD
+
+if
+
+RDG 1
+
+Ge
+
+CA 4/8
+
+York
+
+1000 ton
+
+ehLie
+A
+
+INF
+REPL
+
+GUN
+REPL
+
+oe
+D
+
+GameTurn
+
+Op
+Stage
+
+Initiafive
+
+Trucks in Convoy
+(unattached, 2nd/3rd line)
+
+German Squadron Ground
+Support Unit
+
+Commonwealth/Italian
+Squadron Ground
+Support Unit
+
+Tank Delivery (CW)/Tank
+Recovery (Gm) Squadron
+
+Axis POW's
+CW POW's
+
+Axis Prisoner Guards
+
+CW Prisoner Guards
+
+Desert Raider
+
+Commonwealth Warship
+
+Axis Coastal Shipping
+
+Infantry
+Replacement Points
+
+Gun
+Replacement Points
+
+Tank
+Replacement Points
+
+{4.24] Informational Marker Summary
+
+Game-Turn
+
+Operations Stage
+
+Initiative
+
+Back
+
+Front
+
+>
+
+Me
+GUT
+
+POW
+
+1
+
+PRISON
+GUARD
+
+K
+
+Temp
+Repair
+Facility
+
+-"""~
+\
+/
+
+~~
+
+f
+\
+
+\
+/
+
+""""
+~~
+
+/
+\
+
+tt
+
+tt
+
+i]
+
+PINNED
+
+a
+:
+
+BLOCKED
+HARBOR
+
+Rain Storm
+
+Construction Underway
+
+Supply Dump
+
+Airfield
+
+Air Landing Strip
+
+Flying Boat Basin
+
+Flying Boat Alighting Area
+
+Temporary Repair Facility
+
+Minefield
+(status unknown)
+
+Real Minefield
+
+Minefield
+(status unknown)
+
+Dummy Minefield
+
+Fortification
+Level 1
+
+Fortification Level 0
+
+Fortification
+Level 1
+
+Fortification Level 2
+
+Pinned
+
+Road Ends
+
+Construction Underway
+
+Destroyed Road
+
+Railhead
+
+Blocked Harbor
+
+Destroyed Railroad
+
+a
+
+Front
+
+Repair
+Facility
+Damagd
+
+FIGHTER
+Monoplane
+
+FIGHTER
+
+FIGHTER
+Biptane
+
+BOMBER
+
+FLYING
+BOAT
+
+iim
+
+DIVE
+Bomber
+
+na
+
+TRANSPORT
+
+~~
+Bou
+
+PRISON
+CAMP.
+
+3
+
+Short of
+Stores/
+Water
+
+Repair Facility Damaged
+
+Destroyed Road
+
+Italian Fighter
+
+(single-wing)
+
+CW/German Fighter
+
+Italian Fighter
+(biplane)
+
+Bomber
+
+Flying Boat
+
+Dive Bomber
+
+Transport
+
+Mined Harbor
+
+Axis POW Camp
+
+CW POW Camp
+
+Destroyed Tank
+
+Broken Down Vehicle
+
+Abandoned Vehicle
+
+Short of Stores
+
+and/or Water
+
+Destroyed Pipeline
+
+Off Road/Track
+
+Air Bombardment/ Artillery
+Barrage Impact
+
+Back
+
+Front Back
+
+Destroyed Pipeline
+
+in
+In Training Training
+Reserve | Reserve! Reserve
+1 Reserve 2 2 .
+
+e Town/Village Well e)
+Depleted
+
+Dep! &
+
+Engaged
+Contact
+In Contact
+
+PRISON
+CAMP
+
+3
+
+Off
+Road
+
+[#4_25]*[4.25]* Counter Deployment
+
+""˜A unit attached to another unit is not represented
+by a counter on the game map.
+
+For example: The First Greek Infantry Brigade
+Group is comprised of the Ist Greek Brigade HQ
+counter, the Ist Greek Field Artillery Regiment
+counter and the Ist Greek Infantry, 2nd Greek Infantry and 3rd Greek Infantry Battalions
+counters. If the three infantry battalions and the
+artillery regiment were attached to the headquarters unit, the entire brigade would be
+represented on the game map by the headquarters
+counter. Unless specifically stated, all assigned
+units beginning a scenario in the same hex as their
+parent unit are attached to that parent unit. The
+counters representing said units are therefore not
+deployed on the game-map.
+
+[#4_26]*[4.26]* Holding Boxes
+
+Certain hexes on the game-map """""˜attract"""' a large
+number of counters. These hexes are represented
+by Holding Boxes which are nothing more than
+large spaces for deploying all of the counters
+which are actually located in the hex the Holding
+Box is representing.
+
+[#4_3]
+=== CHARTS AND TABLES
+
+There are an inordinate number of Charts and
+Tables in CNA. Most of them can be found in the
+Charts and Tables Booklet. However, some are
+located on separate loose sheets of paper or
+printed on the game-map or in the Rules booklets.
+
+[#4_4]
+=== ORGANIZATION
+AND ARRIVAL SYSTEM
+
+In any given scenario, the Players receive units via
+the Initial Deployment (given in each scenario) and
+via the Reinforcement Schedules. In addition to
+these, Players may plan for Replacement Points to
+augment depleted units; the discussion of these can
+be found in Case 20.2. The Cases below give the
+Players a base for using and understanding the terminology and location of the terms and tables for
+acquiring and using units.
+
+[#4_41]*[4.41]* There are three types of charts which the
+Player will refer to in order to gain information on
+his units. These are the Characteristics Charts,
+which show what capabilities and characteristics
+each unit or unit-type has (in terms of. ratings and
+numbers), the "OA'' Sheets, which list the
+organization of units and arrival dates for each
+parent unit (usually division), and the Reinforcement Schedules, which list the names and dates of
+all newly arriving land units. Air units have
+separate reinforcement charts and tables which
+determine their arrival.
+
+[#4_42]*[4.42]* The following procedure is used to determine which units arrive during a Game-Turn and
+the abilities of those arriving units. The Player
+consults the appropriate Reinforcement Schedule
+and determines the current Operations Stage of the
+Game-Turn in progress; noting the units arriving,
+he finds the OA (Organization at Arrival) Chart
+for each of those units. Parent Formations are
+easy to find (e.g., divisions and brigades); smaller
+detachments arriving piecemeal are usually given
+their parent formation for easy reference to the
+correct OA Sheet. Having located the correct OA
+Sheet for each unit, the Player notes the
+Characteristics Code for each individual unit (that
+has arrived) in that Parent, and refers to the
+Characteristics Charts to determine the
+capabilities of those units. Each Parent unit arrives with all lesser units listed on the OA Chart,
+unless the unit has a later arrival date and/or is
+listed as excluded on the Reinforcement Track.
+Players should then draw up a TOE Sheet for each
+such Parent Formation (and its lesser units). To
+more clearly understand the above procedure,
+Players should at this time run through a sample
+turn of Reinforcements, using any turn on the
+Track. Such a brief examination will quickly show
+how this process operates.
+
+Note: The Player is provided with an inter-locking
+series of charts and tables, each dependent on the
+other for information. Although there are a lot of
+tables and the profusion may seem confusing, just
+a brief scanning of these tables and tracks will be
+enough to show how they work. Remember, each
+different table or track provides a piece of information, and the tables and tracks often contain information found on the other such tracks or tables
+for purposes of cross-checking. Example: The
+Reinforcement Schedule shows the arrival of the
+18th Australian Brigade. The Commonwealth
+Player, noting that, looks forthe OA Sheet for the
+18th Australian Brigade. The OA Sheet also gives
+the Arrival Date, which is a cross-check with the
+Reinforcement Schedule. The Player now notes
+the units within the brigade, their Characteristic
+Code Letters, and consults the Unit
+Characteristics Charts for those units to determine
+what their capabilities are. This information is
+then placed on the TOE Sheet for the 18th
+Brigade, along with any other information needed
+or desired.
+
+[#4_43]*[4.43]* Reinforcement Schedules
+(see Charts and Tables)
+
+[#4_44]*[4.44]* Aircraft Characteristics Charts
+
+There are two identically organized Aircraft
+Characteristics Charts ""” one for each Player.
+Within each nationality the planes are grouped into those needing pilots and those not requiring
+pilots. Each plane is listed individually. Certain
+bear two or more rows of information. With these
+planes the owning Player may freely choose which
+line of characteristics and capabilities he will
+assign that plane every time he readies it. The explanation of the various ratings is discussed in
+Case 34.1 of the Air Game. Â°
+
+[#4_45]*[4.45]* Organization At Arrival Charts (OA)
+
+A great deal of time (perhaps too much time) was
+spent in arriving at the most accurate Order of Battle possible. As with any major campaign, sources
+differed, and the designers were forced, for a
+variety of reasons, to make several decisions which
+abstracted some units (especially anti-aircraft
+units). We feel that CNA has, by far, the most accurate Order of Battle ever done for the Campaign
+for North Africa. However, if you have information to the contrary about a specific unit, feel free
+to adjust the game to fit that information. If you
+feel like it, we would also like to hear about that information.
+
+10
+
+There are three identically organized OA Charts,
+one for Allied units, one for German units, and
+one for Italian units. Each chart is subdivided into
+sections hereafter termed sheets. Each sheet contains game and historical information on a major
+unit or grouping of units (e.g., all unassigned artillery units; 50th Infantry Division) of that
+Player's forces. The sheet is laid out as follows: the
+name of the major unit or regrouping is at the top.
+Below that is the Basic Morale Rating for all of the
+counters comprising that unit (untrained Commonwealth unit's morale at instant of arrival is indicated in parentheses where needed). This is
+followed by a list of the counters comprising the
+unit and any notes at the bottom of the sheet. The
+counters comprising the unit are arranged with the
+headquarters unit (if any) for that group at the
+top. Any units assigned directly to that HQ are indented, and any unit assigned to a subsidiary unit
+is further indented and listed in the rows directly
+below their brigade level parent unit. The explanation of the information contained under the column headings is as follows:
+
+Unit Name: The historical name of that unit. Certain abbreviations have been made for each nationality and they are listed at the end of the Chart.
+
+Counter Abbreviation: The type as it appears on
+the counter.
+
+ID Code: One, two, or three letters which summarize the unit's characteristics. The unit's ratings
+for a particular ID Code are listed on the Unit
+Characteristics Chart for that nationality.
+
+TOE and Weapons Systems: A unit comprised of a
+single type of weapons system (i.e., TOE Strength
+Points with identical cHaracteristics) bears an
+N(ormal), U(nderstrength), or. O(verstrength) indicator. If the unit is normal, it arrives (or begins
+deployed) at its maximum possible TOE Strength.
+If the unit arrives understrength or overstrength its
+TOE Strength at arrival will follow the U or O. If,
+on arrival, a unit comprises tank, artillery, or antitank TOE Strength Points, the number and then
+the type of the different TOE Strength Points will
+be listed.'
+
+Arrives: The Operation Stage/Game-Turn on
+which the unit arrives. If the unit beings the first
+scenario already deployed on the map, it is noted
+as a D. This column is a check on the Reinforcement Schedule.
+
+The OA Sheets are needed for a purpose other
+than pure numerical information. The OA Sheets
+list the units originally assigned to a Parent unit.
+This is important, as units assigned to a Parent
+unit may stack and unstack, attach and detach
+themselves quite freely compared to other units being attached to that same Parent unit. The OA
+Sheets also, on occasion, list units that were
+historically attached to a Parent Formation at certain times during the Campaign.
+
+There are numerous units that are not assigned toa
+division. These may be brigades (the Commonwealth Player has many of these) or simply
+solitary battalions, artillery regiments, etc. These
+units are grouped on OA Sheets according to their
+most important assignment characteristics (i.e., all
+of the British unassigned anti-air units are on a
+single OA Sheet).
+
+The designers of CNA have chosen the division/brigade/battalion terminology system
+because it was (1) the basic system of a majority of
+the units in the campaign, and (2) the system with
+which they were most familiar. In many places it
+does not reflect the actual organizational levels of
+a unit. This is further exacerbated by the maddening British desire to calleverything a regiment or a
+brigade when, in fact, it is a battalion. Thus, the
+7th Rifle Brigade is, in game terms, a battalion (actually the 7th Battalion, the Rifle Brigade) and
+
+most of the "Tank Regiments"""' are battalion-size
+units. Most Players familiar with the campaign
+should have little trouble with items such as these
+(few people will think that the 1st King's Royal Rifle Corps is, in fact, an actual Corps).
+
+(4.46] Unit Characteristics Charts
+
+There are three identically organized Unit
+Characteristics charts, one for Allied units, one
+for German units and one for Italian units. The
+Unit Characteristics Chart lists each ID Code's
+maximum TOE Strength Points and its values for
+the various Ratings. Unless otherwise indicated on
+the chart, all tank, artillery, anti-tank, and certain
+HQ units may comprise any combination of the
+variety of the weapons systems listed. These units
+take on the characteristics of the assigned TOE
+Strength Points (weapons systems). A unit comprising multiple weapons systems is a single unit
+for all purposes. However, all actions are undertaken using the ratings of the individual TOE
+Strength Points (e.g., an artillery unit comprising
+two TOE Strength Points of eighteen pounder
+guns and four TOE Strength Points of twenty-five
+pounder guns engaging in Barrage will fire at two
+times the eighteen pounder gun Barrage Rating
+plus four times the twenty-five pounder gun Barrage Rating). Note that a unit comprising different
+TOE Strength Points normally possess a CPA of
+that of the slowest TOE Strength Point. The
+characteristics of the individiual weapons systems
+are listed on the appropriate nationality's Tank
+and Gun Characteristics' Chart. Certain unit
+posses parenthesized combat ratings. These units
+are discussed in Case 3.4. Certain headquarters
+units' maximum limit in assigned TOE Strength
+Points are enclosed in parentheses. Any weapons
+system TOE Strength Points assigned to such a
+unit operate with parenthesized combat values.
+Players should note that the maximum number of
+assigned TOE Strength Points for British Tank
+Regiments (battalion-equivalents) changes slightly
+in early 1942, with the influx of the first American
+tanks. Tank regiments with only American tanks
+(Grants and/or Shermans and/or Stuarts) now
+have a maximum of 9 TOE Strength Points, not
+ten. The reason for this decision is not clear; the
+allotment of tanks to a regiment, however, was
+dropped from 52 to 44 when the tanks were
+American. This was readjusted later on.
+[#4_47]*[4.47]* Commonwealth Tank and Gun
+
+Characteristics Chart
+
+(see charts and tables)
+This chart lists the values for TOE Strength Points
+of a specific type of tank or gun. The definitions of
+these characteristics are listed in Case 3.5.
+
+[#4_48]*[4.48]* Italian Tank and Gun
+Characteristics Chart
+(see Charts and Tables)
+
+[#4_49]*[4.49]* German Tank and Gun
+Characteristics Chart
+(see Charts and Tables)
+
+[#4_5]
+=== LOG SHEETS
+
+Because of the enormous amount of information
+provided with CNA, and because of the game
+system devised for its use, there are a great number
+of Play-aids, in the form of Informational Sheets.
+The playing counters themselves have little combat
+information other than the unit designations and
+Stacking Points, and there are few "tracks'' by
+which the Players can keep visual record of
+various supply levels. The reasons for this are
+many: the desire of the designer to include as much
+information as possible; the problem of keeping
+vital information secret from other Players; the
+fact that the game-map itself is so large that having
+a plethora of charts and tracks would make it
+necessary to rent The Hearst Estate at San Simeon
+
+to play it, etc. Therefore, players will keep track of
+virtually all the information they need ""” which is
+quite extensive ""” on the various sheets. The
+following sections describe these sheets, although
+we hope that they have been so designed that their
+utilization becomes self-evident. Players should
+feel free to devise any other sheets or methods they
+feel necessary to ease the flow of the game; most of
+the sheets in CNA were "designed'' by the playtesters.
+
+One copy of each type of Log Sheet is provided
+with CNA. Players should therefore produce as
+many copies of each form as they need, The
+designers suggest you use pencils and write lightly
+to make complete erasures easy.
+
+[#4_51]*[4.51]* The Log Sheets have been divided into four
+groups on the basis of their ""˜owning' Player's
+usage. This is simply a presentation decision and
+has no effect on who actually uses what in a game.
+
+[#4_52]*[4.52]* Field Commander's Group
+
+These forms are used by the Players in charge of
+frontline fighting combat units.
+
+Field Commander Control Sheet: This is designed
+to help the Field Commander coordinate his
+forces. Each row on the sheet is meant for each
+counter on the game-map under the Player's control. These counters will normally be Division-Eq,
+and a few Brigade-Eq's. Space is provided for
+keeping track of the unit's Capability Point expenditure(s) in that Operations Stage, its Capability
+Point Allowance (CPA), current Cohesion Level,
+Actual Points the unit could contribute to a Barrage and Offensive and Defensive Close Assault,
+and its reserves of Ammo and Fuel. There is space
+for your "weekly'' Stores requirements for the
+units as a whole (Players rarely transport Stores on
+Attached Trucks, because the Stores are required
+only once per game-week). The bottom section of
+the sheet is for notes, normally detailing
+peculiarities of certain of the units attached to the
+counters listed above them on the sheet.
+
+TOE Log Sheets: There are three of these in order
+to ease handling five basic division formation and
+organization structures and counters representing
+Brigade-Eq and smaller units. The TOE Log
+Sheets are the equivalent, for play purposes, of a
+giant combat unit counter. Each Parent Unit
+possesses its own TOE Log Sheet, and on it the
+Players keep track of the various strengths and
+ratings of the units within that formation, the
+changes to them and the supplies and trucks carried by and attached to that unit. The sheets can all
+be divided into the following sections or information areas:
+
+A. Counter Identity: This is the area on the top
+of the sheet. The counter's historical name, its
+Basic Morale, its Current Morale (if 'Commonwealth), and any other useful information (such as
+its assigned Parent Unit, if any, Garrison location,
+engineering capability, etc.) should be written in
+this section.
+
+E. Logistics: This is the area marked "1st Line
+Transport.'' The area is sub-divided into Trucks
+Available and Supplies. The first grouping consists of two paired rows of three boxes. They are
+for indicating the total attached Trucks and of
+those trucks, which are currently transporting
+nothing, by division into Heavy, Medium and
+Light trucks. The second grouping is for supplies
+and troops and/or guns being motorized by the attached trucks by the amount and the number of
+trucks and the type that are carrying them.
+
+F. Combat Information: Boxes for recording
+(usually the maximum) number of actual Points
+that the unit is capable of in each of the categories.
+
+D. Augmentation: This is for recording the
+attachment of units over that formation's
+
