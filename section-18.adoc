@@ -48,7 +48,7 @@ Phase. No unit may be placed in Reserve during the Movement/Combat Phase.
 [#18_2]
 === EFFECTS OF RESERVE STATUS
 
-[#18_21]*[18.21]* There are two states of Reserve: Reserve I and Reserve IT. The
+[#18_21]*[18.21]* There are two states of Reserve: Reserve I and Reserve II. The
 Reserve marker on top of the units indicate their current Reserve Status.
 
 [#18_22]*[18.22]* In a Movement Segment, units in Reserve I status may move one
@@ -66,12 +66,12 @@ Operations Stage; and
 
 2. lt may engage in only one offensive Close Assault in that Operation State.
 
-[#18_24]*[18.24]* A unit in Reserve IT Status may be released in any Reserve
+[#18_24]*[18.24]* A unit in Reserve Il Status may be released in any Reserve
 Release Segment subsequent to the first Reserve Release Segment of a given
 Operations Stage. Such a unit may then move and fight with the following
 restrictions:
 
-1. It may' not voluntarily exceed one-half its Capability Point Allowance
+1. It may not voluntarily exceed one-half its Capability Point Allowance
 (rounded down) in that Operations Stage. Thus, a non-motorized infantry unit
 emerging from Reserve II Status would have a CPA of ‘5' that Operations Stage,
 which it could not voluntarily exceed; and

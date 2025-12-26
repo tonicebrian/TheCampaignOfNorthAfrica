@@ -12,7 +12,7 @@ CP's; it should not be confused with Reaction (<<8_5>>).
 === WHICH UNITS MAY RETREAT BEFORE ASSAULT
 
 Any non-Phasing Unit that is not Pinned may Retreat Before Assault. Units with a
-Cohesion Level of ~26 or worse may not Retreat Before Assault.
+Cohesion Level of -26 or worse may not Retreat Before Assault.
 
 [#13_2]
 === HOW TO OF RETREAT BEFORE ASSAULT

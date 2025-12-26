@@ -48,14 +48,14 @@ do not barrage. The Allied Player decides to Retreat Before Assault three hexes
 at a cost of six CP's. The 1st RNF did not use any CP's to defend, and the
 Italians did not expend any CP's to Close Assault, as the Allied unit retreated
 before any could be expended. Thus when the Commonwealth Player begins his
-portion of that Operations Stage the Ist RNF battalion will have only two CP's
+portion of that Operations Stage the 1st RNF battalion will have only two CP's
 remaining before it exceeds its CPA and earns Disorganization Points.
 
 [#6_15]*[6.15]* The CPA of a "Parent Formation”' (e.g., division, brigade,
-etc.) is that of the /owest CPA of the units comprising that parent formation,
+etc.) is that of the lowest CPA of the units comprising that parent formation,
 regardless of the CPA of any higher-CPA units. If the British 7th Armored
 Division was to move as an entity (consult the OA Sheet for the 7th Arm. Div)
-it would move with a CPA of ‘10', or that of its lowest-CPA unit — the Ist KRRC
+it would move with a CPA of '10', or that of its lowest-CPA unit — the Ist KRRC
 (without trucks).
 
 [#6_16]*[6.16]* A unit does not have to use all of its CP's in a single
@@ -67,9 +67,10 @@ assume the CPA ofa truck if it is motorized; see <<6_17>>).
 [#6_17]*[6.17]* Certain units may become "motorized" during the game: i.e.,
 Infantry units (those units witha basic CPA of 10 or less) may use Truck units
 to transport them. Infantry units being thus transported by Truck units assume
-the CPA of the Truck unit carrying them. Thus, if the Ist RNF were to be
+the CPA of the Truck unit carrying them. Thus, if the 1st RNF were to be
 motorized by Medium Trucks it would now have a CPA of ‘20', instead of ‘8'.
-(See also Section <<8_9>>). Anti-air units with listed CPAs of 0+ may be motorized by assigning one Medium or one Heavy Truck Point per TOE
+(See also Section <<8_9>>). Anti-air units with listed CPAs of 0+ may be motorized
+ by assigning one Medium or one Heavy Truck Point per TOE
 Strength Point of Artillery.
 
 [#6_2] 
@@ -97,10 +98,10 @@ of -4. DP's accumulate from Segment to Segment; they may be negated only by
 certain actions on the part of the unit (See <<6_23>>). Furthermore, DP's are
 credited immediately — not at the end of an Operations Stage. 
 
-*Example*: the Ist
+*Example*: the 1st
 RNF, with a CPA of ‘8' and a Cohesion Level of -2 has expended five CP's in a
 Movement Segment. It then assaults an Italian unit, expending the five CP's
-necessary to do so. The Ist RNF has thus exceeded its CPA by two, earning 2
+necessary to do so. The 1st RNF has thus exceeded its CPA by two, earning 2
 DP's and reducing its Cohesion Level by that two to -4. The decrease in the
 Cohesion Level takes place before the Close Assault is resolved and the 1st RNF
 uses its new Cohesion Level of -4 in computing any changes to Morale.
@@ -131,10 +132,10 @@ Cohesion Level (e.g., -12) may have its Morale lowered for a given combat (see
 <<17_2>>).
 
 [#6_26]*[6.26]* A unit with a Cohesion Level of -26 (or worse) may not move,
-attack, or defend. If an enemy combat unit moves adjacent to it it Sur renders,
+attack, or defend. If an enemy combat unit moves adjacent to it it surrenders,
 regardless of the size of the enemy unit. Such "disorganized" units may,
 however, refuel, and they do consume Stores and Water. (Note, that a unit may
-get a level of worse than -26 if it performs a sing/e action, such as an
+get a level of worse than -26 if it performs a single action, such as an
 attack that would jump it past the -26 level.)
 
 [#6_27]*[6.27]* If a Player has more than one unit (or individual combat
@@ -148,7 +149,7 @@ contributing counters.
 
 Example: Three brigades are assaulting an enemy unit. The Cohesion Level of the
 Brigades is -4, -1 and +3, respectively. The Player adds the three together
-(-4 + (-)1 + 3 = -2, and then divides by three (-2 + 3 = -1, rounding to the
+(-4 + (-1) + 3 = -2, and then divides by three (-2 + 3 = -1, rounding to the
 nearest whole number). The Cohesion Level for that battle is thus -1.
 
 [#6_28]*[6.28]* If a Parent Formation has many units within it that have

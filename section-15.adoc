@@ -41,11 +41,11 @@ CASES:
 [#15_11]*[15.11]* All units which possess a Close Assault Rating may use their
 ratings to aid in either Offensive Assault or Defense Against Assault. (Units
 without Ratings may also participate, even though they add nothing to the point
-total; see Case 15.17.)
+total; see Case <<15_17>>.)
 
 [#15_12]*[15.12]* Pinned units and units retreated before assault into a hex
 under Close Assault attack may not add their Ratings to Defensive Close Assault.
-However, the TOE strengths of sucvh defending units are considered for purposes
+However, the TOE strengths of such defending units are considered for purposes
 of determining casualties vis a vis the number of TOE Strength Points in a hex,
 a percentage of which will be eliminated. This pertains only to non-Phasing
 defending units.
@@ -71,7 +71,7 @@ purposes, and such units are Assaulted, they automatically Surrender en masse
 [#15_16]*[15.16]* A given Phasing unit may split its TOE Strength Points and
 make one Close Assault with some Points and another with the rest, or simply
 withhold a portion from any Offensive Close Assault. A non-Phasing Player may
-withhoid individual TOE Strength Points, too, but, unlike Phasing units, these
+withhold individual TOE Strength Points, too, but, unlike Phasing units, these
 Points are considered in determining percentage losses. Note: The same hex may
 never be Close Assaulted more than once per Combat Segment.
 
@@ -134,7 +134,8 @@ Assault. You must Close Assault with 50% or more of your available strength
 (although some of those Points may be directed elsewhere) to attack with a
 normal Close Assault (see Section <<16_0>>).
 
-Example: A unit with a TOE Strength of 7 uses 2 Points to assault Hex A and |
+[example]
+A unit with a TOE Strength of 7 uses 2 Points to assault Hex A and |
 Point to assault Hex B, withholding the other Point because of ammunition
 problems. Neither assault is a full Close Assault; both are Probes. If he used 3
 Points against Hex A instead of 2, both would be considered Full Assaults, as he
@@ -167,12 +168,12 @@ were Actual Assault Strength Points (see also Case <<15_51>>).
 allocate any units to Assault. In such cases the following occurs:
 
 . If the Defender/Non-Phasing Player, for any
-reason, allocates no units to an Assault ail his units in that hex automatically
+reason, allocates no units to an Assault all his units in that hex automatically
 retreat three hexes and earn three Disorganization Points (as if it had taken
 30% losses) in addition to any DP's earned by the move.
 
 . If the Attacker/Phasing Player does not allocate any units to Assault there is no Assault;
-it is ignored. This can occur only under Case 10.31 et seq;
+it is ignored. This can occur only under Case <<10_31>> et seq;
 
 [#18_3]
 === TERRAIN EFFECTS ON CLOSE ASSAULT
@@ -180,7 +181,7 @@ it is ignored. This can occur only under Case 10.31 et seq;
 [#15_31]*[15.31]* The terrain which a defending unit occupies, or which an
 attacking unit has to cross, may increase or decrease the differential in favor
 of the attacker/Phasing Player. Players should consult the Terrain Effects Chart
-(Case <<8_37>>) fora complete list of all effects on Assault combat.
+(Case <<8_37>>) for a complete list of all effects on Assault combat.
 
 [#15_32]*[15.32]* The terrain in a hex occupied by a unit is defending against
 full Close Assault or Probe either has vo effect on the Differential (e.g.,
@@ -208,13 +209,14 @@ cannot attack must be retreated one hex, unless some other unit attacks that
 Enemy unit.
 
 [#15_35]*[15.35]* Terrain effects on Close Assault are cumulataive, with one
-exception. The defender may benefit from only one type of hexside (15.33) unless
+exception. The defender may benefit from only one type of hexside (<<15_33>>) unless
 a unit is actually assaulting through a hexside which contains two types of
 terrain. The latter is quite rare, occurring mostly down in the southern areas
 of the game-map where some of the wadis run along slope' hexsides. (See
 B5810-B5809).
 
-Example: A unit in a Level Two Fortification ina Rough Terrain hex being
+[example]
+A unit in a Level Two Fortification ina Rough Terrain hex being
 assaulted through a Ridge hexside would shift the Assault Differential six
 columns in favor of the Defender: two for the Fortification, two for the Rough
 Terrain, and two for the Ridge hexside. (This is obviously a good position, one
@@ -226,13 +228,13 @@ Bombardment).
 both an up slope and a down slope hexside (this is quite possible in some areas
 of the game-map), the benefit to the attacker is offset by the benefit to the
 defender. Thus a unit defending in a hex that is assaulted through a down slope
-hex (+1) and an up-Escarpment hex (~3) would have an adjustment of —2 (~3 +1 =
-~2) in favor of the defender.
+hex (+1) and an up-Escarpment hex (-3) would have an adjustment of —2 (-3 +1 =
+-2) in favor of the defender.
 
 [#15_4]
 === COMBINED ARMS EFFECT ON ASSAULT
 
-The term "Combined Arms”? is used to describe the mutual support of tanks and
+The term "Combined Arms" is used to describe the mutual support of tanks and
 infantry. Tanks (and tanks only — not recce or self-propelled artillery, etc.)
 must be supported by an equal number of infantry to be completely effective.
 Thus, for each TOE Strength Point of tanks engaging in Close Assault, there must
@@ -261,17 +263,18 @@ side has at least twice the number of Raw Close Assault Strength Points as the
 other, the superior side adjusts the Assault Differential on the Combat Results
 Table two columns (not numbers) in its favor.
 
-Example: 24 Raw Close Assault Strength Points (2 Actual) assaults 12 Raw Close
+[example]
+24 Raw Close Assault Strength Points (2 Actual) assaults 12 Raw Close
 Assault Strength Points (or 1 Actual}. Normally, the differential (not taking
 into account any other effects) would be +1. However, because the attacker has
 twice the Raw strength of the defender, he would assault on the +3 Column. This
 adjustment always applies, regardless of any other adjustment to the
 differential (exception: Case <<15_54>>).
 
-[#15_52]*[15.52]* If the /argest (regardless of number of units involved) unit
+[#15_52]*[15.52]* If the largest (regardless of number of units involved) unit
 in terms of organization of one side in an assault is bigger than the largest
 unit organization on the other side there will be a column shift benefitting the
-side with the larger unit.  Unit equivalents apply here (see Case <<9_2>>).
+side with the larger unit. Unit equivalents apply here (see Case <<9_2>>).
 
 [#15_53]*[15.53]* The column adjustments for Organizational Size Difference,
 always in favor of the larger unit size, are as follows:
@@ -317,14 +320,14 @@ Assault Differential.  A complete discussion of Morale is to be found in Section
 <<17_0>>.
 
 [#15_61]*[15.61]* Players first determine their individual Adjusted Morale
-Rating for that assault (Case 17.2). The Phasing/Assaulting Player then
-subtracts the Adjusted Morale Rating of the nonPhasing/ Defending units from
+Rating for that assault (Case <<17_2>>). The Phasing/Assaulting Player then
+subtracts the Adjusted Morale Rating of the nonPhasing/Defending units from
 that of the Phasing units. This Final Adjusted Morale number is the number by
 which the Assault Differential Column will be adjusted. (See Case <<15_64>>).
 
 [#15_62]*[15.62]* A positive (+) Final Adjusted Morale Rating adjusts the
 Assault Differential that number of columns to the right (in favor of the
-Phasing Player/Attacker). A negative (—) Final Adjusted Morale Rating adjusts
+Phasing Player/Attacker). A negative (-) Final Adjusted Morale Rating adjusts
 the Assault Differential that number of columns to the left (in favor of the
 non-Phasing/ Defending Player).
 
@@ -350,12 +353,12 @@ Cohesion Level, obtaining a — 2 adjustment to his Morale. Axis Adjusted Morale
 is now zero (+2 —2=0).
 
 d. The Commonwealth Morale for the assault depends on that of the 2 NZ Division,
-as that is the largest unit. The 2NZ has a + 1 Morale and, say, a Cohesion Level
+as that is the largest unit. The 2NZ has a +1 Morale and, say, a Cohesion Level
 of +2. The Commonwealth Player rolls a 63 on the Morale Modification Table, so
 there is no adjustment to the Morale Rating of +1.
 
 e. As the Axis Morale is zero and the Commonwealth Morale is +2, the Final
-Adjusted Morale Rating is —\ (Attacker minus Defender). Therefore, any assault
+Adjusted Morale Rating is -1 (Attacker minus Defender). Therefore, any assault
 will be modified (by Morale) one column in favor of the defender.
 
 [#15_7]
@@ -380,6 +383,7 @@ losses.
 [#15_73]*[15.73]* The Close Assault Combat Results Table uses two dice thrown
 once for each Player to determine all results as follows:
 
+[lowercase]
 a. To determine his losses, each Player consults the Differential on Ais portion
 of the Combat Results Table (Attacker or Defender), He then throws two dice,
 reading the result sequentially, the larger die first. Thus a 2 on the large die
@@ -549,7 +553,7 @@ Disorganization Points. It is faintly possible that both Players could be so
 affected, and this is allowed.
 
 [#15_88]*[15.88]* A Player may always voluntarily Surrender his units, rather
-than have them slaughtered. Furthermore, units. out of Ammunition or with a —17
+than have them slaughtered. Furthermore, units. out of Ammunition or with a -17
 or worse Cohesion Level that are assaulted automatically Surrender (see also
 Case <<17_25>>).
 
@@ -565,7 +569,7 @@ with less than 50% of his available TOE Strength Points participating in that �
 or another — attack (see Case <<10_31>> and <<15_25>>).
 
 [#15_92]*[15.92]* A Probe may be conducted with any number of units, within the
-restrictions of Case 15.91.
+restrictions of Case <<15_91>>.
 
 [#15_93]*[15.93]* All combat results are the same for both sides, with the
 exception that all Engaged results are ignored, and the units in the Probe —
@@ -575,7 +579,7 @@ both offense and defense — are notin Contact.
 assault is a Probe until after the assault is over. Remember, all units are
 assigned to Close Assault prior to Anti-Armor Combat.
 
-[#15_95]*[15.95]* Ifal/ Probing units are Recce-type units, any losses from
+[#15_95]*[15.95]* If all Probing units are Recce-type units, any losses from
 Close Assault to the Probing units are reduced by 10%.
 
 [#15_96]*[15.96]* If, in a Probe, the Final Adjusted Differential is worse than
@@ -595,15 +599,15 @@ battalion of Stuarts (TOE Strength of 8), one battalion of Crusader II's (TOE
 Strength of 7), one motorized infantry battalion (TOE Strength of 5), an
 AntiTank Regiment of 2-pounders (TOE Strength of 6), and a regiment of
 25-pounder Artillery (TOE Strength of 6). The brigade has a Basic Morale of +1
-anda Cohesion Level of — 3. The terrain in the hex is Rough.
+anda Cohesion Level of -3. The terrain in the hex is Rough.
 
-The Axis Player has two forces, one in Hex "B”' and one in Hex ‘“‘C", In Hex "B"
+The Axis Player has two forces, one in Hex "B”' and one in Hex "C", In Hex "B"
 is a Kampfgruppe (Brigade) consisting of a battalion of 8 TOE Points of PzIII
 Specials (Tanks), two battalions of infantry (each with TOE Strength of 7), and
 a regiment of 105mm Guns (TOE Strength of 6). In the adjacent hex ("C") is a
 small force consisting of one infantry battalion (TOE Strength of 7) and a
 battery of 105mm Guns (TOE Strength of 4). The Axis Basic Morale is +2, with a
-Cohesion Level of —2. The Axis Player's units are all German, and he is the
+Cohesion Level of -2. The Axis Player's units are all German, and he is the
 Phasing Player. He attacks.  (Note that the given Cohesion Levels include the
 Capability Points expended for the at tack/defense.) The Axis Player, wishing to
 get full use from his two Artillery units, places both of them in Forward
@@ -671,11 +675,10 @@ for the Axis.
 Each Player now checks for his actual Morale at time of Assault. The Axis Player
 has a +2 Basic Morale with a Cohesion Level of -2; he consults the Morale
 Modification Table, throws a 21, and gets a No Change to his Basic Morale. So
-his Adjusted Morale is +2. The Commonwealth Player has a Basic Morale of + !
+his Adjusted Morale is +2. The Commonwealth Player has a Basic Morale of +1
 with a Cohesion Level of -3, Using his -3 Cohesion he also consults the Morale
-Modifier Table, throwing a 53. This results in a modification to his Morale of ~
-2, for an Adjusted Morale of —1. Comparing his Morale to that of the Axis Player
-shows a Finalf Adjusted Morale of +3 (+2 — [~1] = +3). This +3 means that the
+Modifier Table, throwing a 53. This results in a modification to his Morale of -2, for an Adjusted Morale of -1. Comparing his Morale to that of the Axis Player
+shows a Finalf Adjusted Morale of +3 (+2 — (-1) = +3). This +3 means that the
 Axis Player will adjust the Assault Differential Column three in his favor.
 However, the Commonwealth units are in Rough Terrain, which is a two-column
 adjustment in their behalf, so the final column adjustment is +1 for the Axis.
@@ -709,7 +712,7 @@ of these, with a Defensive Assault Rating of 4, for a total of 32 Raw, for a
 Grand Total of 70 Raw Assault Points. His losses are 15%, or 10.5 Raw Points,
 rounded down to 10. Of these, 33% are captured, or, rounding upwards, 4 Raw
 Points Captured. The Commonwealth Player has 2 Infantry TOE Points Captured (to
-absorb the 4), and eliminates | TOE of Stuart Tanks (4 Raw) and 1 more Infantry
+absorb the 4), and eliminates 1 TOE of Stuart Tanks (4 Raw) and 1 more Infantry
 Point (2 Raw) to satisfy the 10 Points lost. He then Retreats his entire Force
 one hex, rather than incur additional losses.  He has had about 150 men killed,
 about 300 men captured, and lost 5 Stuart and 10 Crusader Tanks. He has also

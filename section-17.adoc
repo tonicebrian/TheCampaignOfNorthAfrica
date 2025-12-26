@@ -23,7 +23,7 @@ CASES:
 Each unit in the game has a Basic Morale Rating, listed on its OA Sheet, which,
 with the exception of Training (Case <<17_3>>), never changes (although it may
 be adjusted by Cohesion for individual assaults). The Morale Ratings run from +3
-to —3. The Basic Morale Rating of a battalion (or brigade) is always that of its
+to -3. The Basic Morale Rating of a battalion (or brigade) is always that of its
 assigned Parent Formation, unless the unit has been attached to another force or
 has been out onits own.
 
@@ -40,7 +40,10 @@ its Basic Morale Rating, the Players use the Morale Modification Table
 (11-66), with the diceroll taking up the "center" of the Table. In this case,
 the Cohesion Level of the unit is on the left, comprising the rows of the Table,
 while the Morale Modifier — the number the Player is rolling for — is on the top
-of the Table, comprising the columns. Example: A unit has a Basic Morale Rating
+of the Table, comprising the columns. 
+
+[example] 
+A unit has a Basic Morale Rating
 of +1. It goes into an Assault with a Cohesion Level of —4. The Player consults
 the Morale Modification Table and throws two dice, getting a 42. Locating the
 row for —4 Cohesion, the Player reads across until he finds the column in which
@@ -53,11 +56,11 @@ unit can ever have is +3, and the minimum — 3,
 regardless of what mathematical possibilities occur. Thus a unit with a +2 Basic Morale Rating
 that earns a + 4 modifier does not get an Adjusted
 Rating of +6, but just +3 (exception: see Case
-17,28).
+<<17_28>>).
 
-[#17_24]*[17.24]* Ail Cohesion Levels of ~— 17 or worse use
-the "- 17 et seq'? row. All Cohesion Levels of +8
-or higher use the " + 8”' row.
+[#17_24]*[17.24]* Ail Cohesion Levels of -17 or worse use
+the "-17 et seq" row. All Cohesion Levels of +8
+or higher use the "+8" row.
 
 [#17_25]*[17.25]* The farthest column on the right is the Surrender column. If a
 combination of Cohesion Level and diceroll places the Modifier in that column,
@@ -67,9 +70,9 @@ get a Surrender Modifier, the Surrenders are ignored, no assault occurs, and
 both sides are Engaged.
 
 [#17_26]*[17.26]* If a unit or a Formation with a Basic Morale (individual or
-combined) of + 1 or better is involved in a Morale Adjustment computation, such
+combined) of +1 or better is involved in a Morale Adjustment computation, such
 unit follows the Morale Adjustment Table normally with one exception: it ignores
-all Surrenders (treating them as a —4 adjustment).  However, it does not ignore
+all Surrenders (treating them as a -4 adjustment).  However, it does not ignore
 the "Surrender" it one of the following is in effect:
 
 a. The unit has a Cohesion Level of -11 or worse; or
@@ -97,7 +100,7 @@ undergo Training.
 To forestall questions on the subject, only Commonwealth units must undergo
 training for a variety of reasons. Most German units had already undergone
 considerable combat before arriving in Africa, and, although they were no more
-desertacclimated than any other forces, this previous experience counted for
+desertac climated than any other forces, this previous experience counted for
 much, in the designers' minds. As for the Italians, most of these units had
 served in Africa, had seen, combat, or are of too low a designated morale to
 bother with training.  Those Commonwealth units designated for Training are
@@ -117,7 +120,7 @@ Points during an Operations Stage. If, for any reason whatsoever, a unit expends
 CP's during an Operations Stage, its Training has been interrupted.
 
 [#17_34]*[17.34]* For every six Operations Stages that a unit undergoes
-Training, it raises its Untrained Basic Morale Rating one point. (Thus, a —1
+Training, it raises its Untrained Basic Morale Rating one point. (Thus, a -1
 would become a 0, a +1 a +2, etc.) It may never exceed its designated Basic
 Morale.
 
@@ -181,10 +184,10 @@ not attempt to destroy anything that may not be moved or may only be moved in
 his Phasing Truck Convoy or Repair Phase.
 
 [#17_56]*[17.56]* The Player may attempt to destroy any portion of his eligible
-material. Two determina tions are made, one for tanks and guns and one for
-trucks/Motorization Pointr The Player determines how his attempt at destroying
+material. Two determinations are made, one for tanks and guns and one for
+trucks/Motorization Points The Player determines how his attempt at destroying
 tanks and guns has fared by rolling one die, subtracting one from the die roll
-and then multiplying by 10% (e.g., aroll of 4 results in the destruction of 30%
+and then multiplying by 10% (e.g., a roll of 4 results in the destruction of 30%
 of all designated tank and gun TOE Strength Points).  Trucks/Motorization Point
 destruction is determined in a similar manner except that the modified die roll
 is multiplied by 20%. Round fractions down.

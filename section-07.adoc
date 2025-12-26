@@ -3,7 +3,7 @@
 
 GENERAL RULE:
 
-Initiative is an abstract, numerical rating represen tative of the strategic
+Initiative is an abstract, numerical rating representative of the strategic
 leadership capabilities of a given army. It is used, in the game, to determine
 who has the choice to act first within a given Operations Stage. The fact that a
 Player has the ability to choose when he will move is a great advantage, and the
@@ -21,7 +21,7 @@ beginning of each Game-Turn (not Operation Stage). The Player who gains the
 Initiative keepts that Initiative for all three Operations Stages in that
 Game-Turn. Thus, the Player with Initiative may choose to move first in the
 first Operations Stage, last in the second stage and then first in the third
-Stage (which would give him, in effect, two "turns" ina row).
+Stage (which would give him, in effect, two "turns" in a row).
 
 [#7_13]*[7.13]* Each side possesses an Initiative Rating (<<7_2>>), which is
 dependent on the date of the GameTurn.
@@ -39,7 +39,7 @@ whether he wants to move first or last in the Operations Stage for each of
 three Operations Stages in the Game-Turn.
 
 [#7_15]*[7.15]* The Player with Initiative for the first Game-Turn of a given scenario
-is usually predetermined, Check the individual scenarios for who has the
+is usually predetermined. Check the individual scenarios for who has the
 Initiative for the first Game-Turn.
 
 [#7_16]*[7.16]* For purposes of the Sequence of Play, the Player who moves

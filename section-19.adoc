@@ -12,7 +12,8 @@ brigades forma Division. This Section discusses which units are Assigned to a
 Parent Unit and which units may be Attached, how to Attach and Detach units, and
 when and how units may be built up to maximum strength,
 
-Important: Players should be aware that this Section is one that could cause
+[important] 
+Players should be aware that this Section is one that could cause
 considerable problems unless certain basic tenets are understood. First of all,
 this Section is an attempt to formulize Organizational Doctrine; the Players are
 being forced to mold and use their armies in much the same way as the commanders

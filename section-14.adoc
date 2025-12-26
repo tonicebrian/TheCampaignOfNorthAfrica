@@ -3,7 +3,7 @@
 
 GENERAL RULE:
 
-Anti-Armor Combat is fire by units with an AntiArmor Rating directed against
+Anti-Armor Combat is fire by units with an Anti-Armor Rating directed against
 Enemy units with an Armor Protection Rating. Anti-Armor Combat occurs before
 Close Assault, and all losses from Anti-Armor are taken before proceeding to
 Close Assault, irrespective of what type of combat the armored unit has been
@@ -26,8 +26,8 @@ resolved).
 Anti-Armor fire is directed against a specific hex designated by the Phasing
 Player and affects only those units in that hex that have an Armor Protection
 Rating (see Case <<14_23>>) which have not been withheld. Each Player totals his
-Actual AntiArmor Strength Points firing in that hex (see Case 11.32), rolls two
-dice, and consults the AntiArmor Combat Results Table (14.6) to see how many
+Actual AntiArmor Strength Points firing in that hex (see Case <<11_32>>), rolls two
+dice, and consults the AntiArmor Combat Results Table (<<14_6>>) to see how many
 Damage Points he has inflicted. These points are then applied by the owning
 (fired upon, so to speak) Player to remove (eliminate) TOE Points with Armor
 Protection Ratings in that hex (see Case <<14_4>>, Assessing Anti-Armor Damage),
@@ -65,7 +65,7 @@ Vulnerability Rating of 2.
 === RESTRICTIONS ON ANTI-ARMOR COMBAT
 
 [#14_21]*[14.21]* Units withheld from both Anti-Armor and Assault Combat are not
-affected by AntiArmor fire (although defending units withheld may be affected by
+affected by Anti Armor fire (although defending units withheld may be affected by
 Close Assault).
 
 [#14_22]*[14.22]* No hex may be attacked by Anti-Armor fire more than once in a
@@ -81,9 +81,7 @@ up to % (rounded down) of those AntiArmor points to Close Assault for that
 Combat Segment. Only when there are no defending Armor units in a Target hex may
 this occur.
 
-[#14_24]*[14.24]* Ammunition for removed as expended.
-
-Anti-Armor fire is
+[#14_24]*[14.24]* Ammunition for Anti-Armor fire is removed as expended.
 
 [#14_25]*[14.25]* Certain terrain influences the effectiveness of Anti-Armor
 fire, and these effects are noted on the Terrain Effects Chart (see Case
@@ -118,7 +116,7 @@ roads, or down a Slope hexside uncrossed by a Road or Track, or down an
 Escarpment uncrossed bya Track.
 
 [#14_35]*[14.35]* If a terrain effect shifts the Anti-Armor Strength Point Row
-/ower than ‘1', use the "0” row.
+lower than '1', use the '0' row.
 
 [#14_4]
 === ASSESSING ANTI-ARMOR DAMAGE
@@ -127,17 +125,18 @@ Escarpment uncrossed bya Track.
 Damage Points. Damage Points are applied to the Armor Protection Ratings of any
 Armor TOE Strength Points in the hex being fired upon,
 
-[#14_42]*[14.42]* The Armor Protection Rating is ,the number of Damage Points that Point
+[#14_42]*[14.42]* The Armor Protection Rating is the number of Damage Points that Point
 can absorb before it is destroyed. All units comprising Points with an Armor
 Protection Rating may be affected by anti-tank fire and thus take losses because
 of it.
 
-[#14_43]*[14.43]* The Player undergoing Anti-Armor fire must remove at /eastas
+[#14_43]*[14.43]* The Player undergoing Anti-Armor fire must remove at least as
 many TOE Strength Points as are affected by absorbing Damage Points.  Thus,
 armor units with higher Armor Protection Ratings can absorb more Damage Points
 and are thus harder to destroy.
 
-Example: The Commonwealth Player fires five Actual Anti-Armor Strength Points
+[example]
+The Commonwealth Player fires five Actual Anti-Armor Strength Points
 into a hex containing six TOE Points of Italian M/11's and three TOE Points of
 M/13's. The Commonwealth Player rolls a 35 on the dice and earns seven Damage
 Points. The Axis Player must remove enough TOE Strength Points to absorb at
@@ -150,7 +149,7 @@ Protection Rating in the target hex, regardless of whether they were assigned to
 AntiArmor or Close Assault. However, Armor units withheld from both types of
 combat are not affected by Anti-Armor Fire (see Case <<13_28>>).
 
-[#14_45]*[14.45]* Damage Points in excess of those necessary to destroy a//l
+[#14_45]*[14.45]* Damage Points in excess of those necessary to destroy all
 armor units in a hex are ignored.
 
 [#14_46]*[14.46]* Destroyed Tanks are noted with Destroyed Tank Markers, which

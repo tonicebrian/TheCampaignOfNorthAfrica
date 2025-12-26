@@ -66,7 +66,7 @@ involved, not all units which are called "brigades”' are brigade equivalents.
 The Italians used a Regimental designation as their next lowest organizational
 level (see any Italian infantry division).  Such a Regiment is considered to be
 a Brigade equivalent for game purposes. Furthermore, the British had a
-propensity for using the terms “‘brigade" and "regiment" for a whole host of
+propensity for using the terms "brigade" and "regiment" for a whole host of
 lesser-sized units, usually battalions. (E.g., the 7th Rifle Brigade is really a
 battalion-sized infantry unit while the 7th Motor Brigade is a Brigade).
 Players should be guided through this maze not by the unit designation on the
@@ -81,14 +81,16 @@ Stacking Point value when in doubt.
 
 [#9_24]*[9.24]* Regardiess of its organizational designation, every artillery
 unit in the game, with the exception of certain scattered batteries, has a
-Stacking Point value of ‘1". (The rare Artillery HQ unit may have a larger
+Stacking Point value of '1'. (The rare Artillery HQ unit may have a larger
 Stacking Point value).
 
 [#9_25]*[9.25]* There are a number of companies and batteries in the game with a
 Stacking Point value of "?", due to the miniscule number of men and combat
 impact those units had. Nevertheless, unless directly attached or assigned to a
 parent unit, no more than five such companies or batteries may ever be stacked
-in any one hex, in addition to whatever else is in that hex. Exception: there is
+in any one hex, in addition to whatever else is in that hex. 
+
+*Exception*: there is
 no limit to the number of such units which may be placed in a Major City hex.
 Note: an HQ unit that has no combat units attached to it has a Stacking Point
 value of "0".
@@ -99,20 +101,21 @@ attached to it. E.g., if a division which may have a maximum of two brigades
 assigned currently has only one brigade attached to it (ignore any independent
 battalions or whatever), the division is considered a shell. A brigade is
 considered to be a shell if less than 2/3rds of the total number of battalions
-(combat units) that may be assigned to it are attached to it. Exception: a
-brigade to which a maximum of two battalions may be assigned is not considered a
+(combat units) that may be assigned to it are attached to it. 
+
+*Exception*: A brigade to which a maximum of two battalions may be assigned is not considered a
 shell if two battalions are attached to it and at least one of them is not
 itself a shell. A battalion is considered to be a shell when less than 50% of
 its maximum TOE Strength Points are attached to it, unless it is an Artillery
 battalion (or regiment or whatever); an artillery unit must be less than 25% of
 TOE strength to bea shell.
 
-[#9_27]*[9.27]* If a unit attached to a parent formation isa shell, it does not
+[#9_27]*[9.27]* If a unit attached to a parent formation is a shell, it does not
 count as one of the pre-requisite lower level units necessary to allow the
 parent unit to qualify as a full-strength unit. For example, a division to which
 a maximum of three brigades may be assigned has three brigades attached to it,
 but two of the brigades are shells. The division itself is thus considered to
-bea shell.
+be a shell.
 
 [#9_28]*[9.28]* A unit that is a shell is reduced one level to the next
 lowest-level formation for purposes of Unit Differentiation on Close Assault
@@ -122,7 +125,7 @@ equivalent, and a battalion shell a company equivalent.
 
 [#9_29]*[9.29]* First line (attached) Trucks do not count in any way towards
 unit organizational size or for road space stacking limits. Furthermore, Truck
-Convoys (unattached, see Case <<9_3>>) that are ina hex do not count against any
+Convoys (unattached, see Case <<9_3>>) that are in a hex do not count against any
 stacking limits, except those concerning road space, for which they do count.
 
 [#9_3]
@@ -146,13 +149,16 @@ see <<9_33>> and <<9_35>>.
 using a Road or Track to facilitate movement may not exceed the five point Road
 or Track Stacking Limit by moving through a Friendly unit or units on that Track
 or Road. Ifa unit using a Road or Track would create such a situation it must
-“‘move around”' the non-moving units, entering that hex without the Road or
-Track benefit. Note: some terrain is prohibited to motorized units and such
+"move around" the non-moving units, entering that hex without the Road or
+Track benefit. 
+
+*Note*: some terrain is prohibited to motorized units and such
 units could not move off a road to "go around”? in such terrain. A unit ending
 its movement in a hex that it entered along a Road or Track counts against the
 Road/Track Stacking limit for any other motorized unit(s) using that Road/Track.
-For this rule, Trucks in Convoy are treated separately. See Case <<9_29>>. Note:
-Off-road markers are provided with the game.  They may be used to indicate units
+For this rule, Trucks in Convoy are treated separately. See Case <<9_29>>. 
+
+*Note*: Off-road markers are provided with the game.  They may be used to indicate units
 moved into a road hex without using the Road Bonus, and therefore are not "on
 the road" for purposes of this Case.
 

@@ -17,9 +17,7 @@ compositions and capabilities of the different units. Above all, we have
 attempted to instill a "combined arms" imperative in the combat system, with the
 result that unit composition is as important as actual strength. The CNA combat
 system requires some mathematical dexterity, but most of all it requires a good
-sense of organization and planning. Most
-
-Players will enter combat "blind", knowing little about the Enemy. Knowing what
+sense of organization and planning. Most Players will enter combat "blind", knowing little about the Enemy. Knowing what
 to hold back and where to assign guns and tanks is all important.
 
 The Combat System may appear complex, but it is simply a matter of following the
@@ -63,7 +61,7 @@ Players now engage in Barrage. Each Player decides which of his units will
 Barrage which Enemy hexes (see Case <<12_2>>), noting the targets secretly on a
 piece of paper. Any adjacent hex containing Enemy units may be barraged. Both
 Players now Barrage individually, hex by hex, but casualties and Pinned results
-are taken after a// Barrages have been completed. Players should note here any
+are taken after all Barrages have been completed. Players should note here any
 Barrages undertaken as Holding Off actions to satisfy ZOC combat requirements
 (see Case <<10_3>>).
 
@@ -116,7 +114,7 @@ described in Case <<3_5>>.
 engage in long-range indirect fire.  Only Artillery units possess a Barrage
 rating.
 
-[#14_12]*[14.12]* The Vulnerability Rating is an abstraction of a Gun unit's
+[#11_12]*[11.12]* The Vulnerability Rating is an abstraction of a Gun unit's
 susceptibility to Close Assault, or how far back from the front it can operate
 without being affected by direct fire. All Guns — i.e., Artillery and Anti-Tank
 units — possess Vulnerability Ratings.
@@ -137,7 +135,7 @@ Close Assault combat.
 For the most part, only AA/Flak units have this rating, but it can be found on
 other units. E.g., some Tanks have AA/Flak capability, as do some HQ units.
 
-[#11_2]*[11.2]*
+[#11_2]
 === CAPABILITY POINT
 
 EXPENDITURES FOR COMBAT
@@ -174,12 +172,12 @@ circumstances:
 
 2. It undergoes Barrage (3 CP's).
 
-[#11_24]*[11.24]* A non-Phasing unit never expends more than fhree CP's in
+[#11_24]*[11.24]* A non-Phasing unit never expends more than three CP's in
 combat in a given Combat Segment, regardless of what happens to it in that
 Segment. A Phasing unit never expends more than five CP's in a given Combat
 Segment. See <<11_27>>.
 
-[#11_25]*[11.25]* CP expenditures apply to a@// units in a hex, even if certain
+[#11_25]*[11.25]* CP expenditures apply to all units in a hex, even if certain
 units did not participate in combat in any way. This applies to Phasing and
 non-Phasing units. Thus, if the Commonwealth Player Close Assaults with his
 entire 7th Armored Division, but chooses to withhold the Ist KRRC, the entire
@@ -197,7 +195,7 @@ Enemy units those units expend 5 CP's, regardless of the Probe attempt.
 which the final Assault Differential is minus four or worse expends only one CP
 to defend.
 
-[#11_3]*[11.3]*
+[#11_3]
 === CALCULATION OF COMBAT STRENGTHS
 
 The Combat Strengths of a unit for a given function (Assault, Anti-Tank, etc.)
@@ -207,7 +205,7 @@ this Raw Strength by fen (except for A.A). This does not apply to a unit's Armor
 Protection or Vulnerability Ratings, which remain constant and are applied and
 used differently.
 
-[#14_31]*[14.31]* The relative strength value of units during combat (with some
+[#11_31]*[11.31]* The relative strength value of units during combat (with some
 exceptions noted' below) is expressed in Actual Stength Points. These Actual
 Points are either applied directly to a hex or unit (as in Barrage or
 Anti-Armor) or compared with the Enemy forces (as in Close Assauit or Probe).
@@ -235,6 +233,7 @@ Division as an example (see the OA Sheets for this unit). We will assume the
 unit is at full strength and that all units assigned are currently attached to
 the division and that there are no other units attached.
 
+[example]
 The Axis Player wishes to use the Artillery in the 90th to Barrage the enemy; it
 has the 361 Artillery Battalion and the 190th Artillery Rgt. to do this.  The
 361 has 3 TOE points of 9-rating Barrage, or 27 Raw Points. The 190 has 3 TOE of

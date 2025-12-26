@@ -39,7 +39,10 @@ for Reconnaissance.
 
 [#16_12]*[16.12]* The Phasing Player subtracts — or rather detaches — TOE
 Strength Points from the unit/TOE types allowable (Case <<16_11>>) and designates
-them as Patrol Points. Example: a Phasing Player detaches two Recce TOE Strength
+them as Patrol Points. 
+
+[example]
+A Phasing Player detaches two Recce TOE Strength
 Points from a Recce battalion in Hex A and assigns them as Patrol Points to
 Reconnoiter Enemy-occupied Hex B. The Player notes on his TOE Log sheets the
 assignment and any resultant casualties.
@@ -54,8 +57,8 @@ capability of combining forces for a Reconnaissance operation.
 [#16_15]*[16.15]* No unit with a Cohesion Level of -8 or worse may assign TOE
 Strength Points to patrol duty.
 
-[#16_16]*[16.16]* For each Patrol! Point sent out on Reconnaissance, the Phasing
-Player expends one Am munition Point and 2 Fuel Points. These supplies must be
+[#16_16]*[16.16]* For each Patrol Point sent out on Reconnaissance, the Phasing
+Player expends one Ammunition Point and 2 Fuel Points. These supplies must be
 present in the hex the Patrol Points originate from, and they are expended
 regardless of the result of the patrol.
 
@@ -72,7 +75,7 @@ given Operations Stage, he may not Reconnoiter any hex which has undergone any
 type of Barrage or Air Bombardment. A Phasing Player may launch as many patrols
 as he wishes.
 
-[#16_22]*[16.22]* Patrol. Points may reconnoiter any Enemy-occupied hex within
+[#16_22]*[16.22]* Patrol Points may reconnoiter any Enemy-occupied hex within
 five hexes of the hex the Patrol Points originate from. The five-hex path may
 not include any terrain impassable to the units in the patrol (see Case <<16_11>>),
 nor may they pass through an Enemy-controlled or occupied hex other than a hex
@@ -149,7 +152,7 @@ of knowing that this is a dummy or not (until he attacks).
 of Close Assault, the Dummy Tank Battalion is eliminated. If a formation
 undergoes Anti-Armor fire and has no armor — or loses all its armor — the Dummy
 Tank Battalion is eliminated. Anti-Armor fire committed against Dummy Tanks may
-not be switched to Assault if the only "armor" is Dummy Tanks!
+not be switched to Assault if the only "armor" is Dummy Tanks.
 
 [#16_47]*[16.47]* For the historians, The Household Cavalry Regiment, a
 Commonwealth Armored Car unit, was assigned to North Africa. However, it does
@@ -187,7 +190,7 @@ about Engineer units.
 does not wish to receive in formation, and the non-Phasing Player may not choose
 such units to satisfy the requirements of Case <<16_5>>. (Presumably, such units
 would be ones that the Phasing Player already had adequate information about,
-because of previous patrols or combats.)
+because of previous patrols or combats).
 
 [#16_6]
 === PATROL SURVIVAL TABLE

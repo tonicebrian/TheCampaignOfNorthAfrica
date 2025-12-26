@@ -22,10 +22,10 @@ desire. To resolve a Barrage, the Barraging Player states his Target (either by
 type or number, as explained in Case <<12_24>>, or by specific unit I.D., if he
 has that information), states the number of Actual Barrage Points (see Case
 <<11_32>>) directed at that Target and then consults the Barrage Results Table
-(12.6), selecting the appropriate portion depending on the type of unit being
+(<<12_6>>), selecting the appropriate portion depending on the type of unit being
 fired at (Gun, Armor, or Infantry), He then rolls two dice, combining the
 results such that the larger die's result is stated first and the small die's
-second (e.g., a "27"/*5" is considered a "25").  The result is cross
+second (e.g., a "2"/"5" is considered a "25").  The result is cross
 referenced with the Target type and the Actual Barrage Points expended. The
 Player then repeats the process to determine whether any trucks in the hex are
 affected. Results are noted, and applied at the end of the Barrage Step. The
@@ -52,7 +52,7 @@ other artillery units (in a Forward position) from the same or different hexes.
 i.e., they may combine its Barrage Strength with that of other units directed at
 a given target.
 
-[#12_14]*[12.14]* fralian units in a Forward position may co-ordinate Barrage
+[#12_14]*[12.14]* Italian units in a Forward position may co-ordinate Barrage
 fire only with units within the same hex.
 
 [#12_15]*[12.15]* Artillery units in a Forward position may split their TOE
@@ -79,7 +79,7 @@ rounded up. Thus a unit with a 7 Vulnerability Rating would have a 4
 Vulnerability Rating if it chose to participate in Offensive Close Assault.
 Note: the higher a unit's Vulnerability Rating, the /ess vulnerable it is.
 
-[#12_19]*[12.19]* Artillery units used in an Anti-Armor (14.0) role assume an
+[#12_19]*[12.19]* Artillery units used in an Anti-Armor (<<14_0>>) role assume an
 automatic Vulnerability Rating of ‘2'.
 
 [#12_2]
@@ -145,13 +145,13 @@ Artillery. Artillery units may Barrage any unit to which they are adjacent.
 [#12_4]
 === EXPLANATION OF ARTILLERY BARRAGE RESULTS
 
-[#12_41]*[12.41]* The Artillery Barrage Table (12.6) is a CRT that covers
+[#12_41]*[12.41]* The Artillery Barrage Table (<<12_6>>) is a CRT that covers
 artillery fire against personnel, Armor, Artillery and concurrent effects on
 Trucks. Regardless of the target (see Case <<12_5>>) the Player will use the
 Artillery Barrage Table for his results.
 
 [#12_42]*[12.42]* The Artillery Barrage Table uses a twodice sequential
-read-out; i.e., a ‘3' anda ‘4' are 34, reading the larget die first. These die
+read-out; i.e., a ‘3' and a ‘4' are 34, reading the larget die first. These die
 rolls comprise the columns of the Table, while the total Barrage Points applied
 to the Target comprise the rows of the table. The "meat" of the table — the
 center portion — is the results, divided according to target type.
@@ -166,7 +166,7 @@ tanks, or artillery) and obtains the result.
 nor may they engage in Anti-Armor Fire or Close Assault. Pinned units are
 subject to casualties(see Case <<15_12>>). Place a Pinned marker on all Pinned
 units; remove the marker at the end of the Combat Segment. "Pin" results from
-Barrage do not occur againstGun-class units or Artillery HQ units.
+Barrage do not occur against Gun-class units or Artillery HQ units.
 
 [#12_45]*[12.45]* A number as a result (e.g., 1 or 2) indicates the number of
 TOE Strength Points are destroyed by the Barrage. Casualties are taken after all
