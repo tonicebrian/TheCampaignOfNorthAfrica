@@ -1,0 +1,2935 @@
+THE AL.
+GAME
+
+The following rules Sections cover the air war in
+CNA. In essence, all planes are represented in-
+dividually, and fighters have pilots. Each type of
+plane has differing characteristics and mission
+capabilities. All of these are listed in the Aircraft
+Characteristics Charts for each nationality. Yet, in
+keeping with the tone of the land game, the feel of
+the game is operational. While there is plane-to-
+plane combat, it is not resolved tactically, and all
+strengths have been considered operationally.
+
+Ideally, the air portion of the game requires a
+separate Player for each side. There is a large
+amount of paperwork involved, and, even though
+there were relatively few planes in Africa, a
+Player may have to juggle operations for 500 to
+1000 aircraft during a given OpStage. The rules for
+the Air Game are a lot simpler than those for the
+land game. Air Commanders should simply keep
+their Characteristics Charts handy and be
+prepared to doa lot of planning.
+
+[33.0] SEQUENCE OF PLAY:
+Air Game
+
+Note: It is possible to use the Land Game and Air
+Game Rules while omitting the Logistics Game
+Tules.
+
+LAND/AIR GAME-TURN
+SEQUENCE OF PLAY
+
+Play of the game should proceed in accordance
+with the following outline.
+
+I. INITIATIVE DETERMINATION STAGE
+
+The Players determine who will have the initiative
+for the coming Game-Turn (see Section 7.0). The
+Player going first within the Operations Stage (see
+below) is known as ‘‘Player A’’; the other is
+“Player B’’.
+
+Il. STRATEGIC AIR PLANNING STAGE
+
+A. Designation Phase:
+The Players assign their airplanes to fly Land Sup-
+port or Strategic missions.
+
+B. Axis Malta Availability Determination Phase
+The Axis Player determines the amount of support
+he’ will receive from his abstracted N. African
+Theatre airforce for Raids on Malta.
+
+C. Strategic Mission Assignment Phase
+
+Planes designated as flying. Strategic missions are
+assigned. The Axis Player assigns his planes to
+Raids on Malta or naval convoy protection. The
+Commonwealth Player assigns his planes to naval
+Recon missions or Bombing Reserve.
+
+D. Malta Raid Phase
+
+The Axis Player resolves flak suppression, anti-
+aircraft fire and bombing missions against Maltese
+air facilities (Note that Commonwealth warships
+stationed at Valetta may only be attacked by Land
+Support Missions).
+
+Ill. NAVAL CONVOY STAGE
+
+A. Naval Convoy Schedule Phase
+
+The Axis Player refers to the Axis Naval Convoy
+Level Chart and then to the Axis Convoy Capacity
+Table and rolls one die to determine the total ton-
+nage available for the next Game-Turn. He then
+plans what specific cargoes the convoys will carry
+and their routes.
+
+B. Convoy Resolution Phase
+
+1, Naval Convoy Reconnaissance Segment: The
+Allied Player resolves Strategic Convoy
+Reconnaissance missions.
+
+2, Convoy Lane Assignment Segment: Axis con-
+voy protection aircraft are assigned CAP missions
+in specific Convoy Lanes. Commonwealth Bomb-
+ing Reserve aircraft are assigned CAP, Flak Sup-
+pression or Convoy Bombing missions in specific
+convoy lanes.
+
+3. Convoy Bombing Segment: All air-to-air com-
+bat, Flak Suppression, anti-aircraft, and convoy
+bombing is carried out.
+
+IV. FIRST OPERATIONS STAGE
+
+A. Initiative Declaration Phase
+
+The Player who gained the initiative in Stage I now
+states whether he will be ‘‘Player A’’ or ‘‘Player
+B’’ for this particular Operations Stage.
+
+B. Weather Determination Phase
+
+The Player with initiative rolls for weather (see
+Section 29,0). All adjustments for unusual
+weather are made at this time, including any addi-
+tional evaporation of Fuel/Water from ‘‘Hot
+Weather.”
+
+C. Organization Phase
+(The following Segments are undertaken in any
+order desired).
+1. Reorganization Segment: Attachment and/or
+assignment of reinforcements, replacements, or
+any other non-assigned units including Trucks
+may be undertaken. Detachment of attached units
+may also be done.
+2. Construction Segment:
+a. Construction Completion Step: Any work
+scheduled for completion is finished, markers
+being removed or added as required. Units that
+have completed construction may freely be
+moved.
+b. Construction Initiation/Continuation Step:
+Any continuing (or ensuing) work on projects is
+noted. Any units involved in such work may not
+be moved (voluntarily) during the remainder of
+the current Operations Stage.
+
+3. Training Segment:
+a. Training Completion Step: Units and
+Replacement Points completing a level of train-
+ing are noted and the effects in Morale Applied.
+b. Training Initiation/Continuation Step: Any
+units beginning or continuing training are
+noted. They may not be moved (voluntarily) in
+the remainder of the Operations Stage (excep-
+tion: Reaction).
+
+4. Supply Distribution Segment: Supplies in the
+
+same.hex as land units may be redistributed at this
+
+time, subject to the maximum innate capacity of
+
+the unit(s) and the hex. Trucks may be
+loaded/unloaded:
+34
+
+5. Tactical Shipping Strength; Both Players ex-
+ecute the transport of cargo between African
+ports. Note: Axis coastal ships are represented in
+the game by counters. Allied coastal shipping is
+not represented by counters, and is limited only by
+the port capacities.
+
+D. Naval Convoy Arrival Phase
+
+All land and air reinforcements, Replacement
+Points, and Supplies scheduled for arrival (and ac-
+tually arriving) appear in their designated ports of
+arrival or entrance hexes. Check Reinforcement
+Tables and Convoy Rules. The Axis Player plans
+for the arrival of future Replacement Points from
+the Axis Replacement Points Pool, if he is the
+phasing Player. In his first Naval Convoy Arrival
+
+Phase of each month, the Commonwealth Player
+consults the Commonwealth Production Table
+and determines how many Replacement Points he
+will receive one morith hence and plans for their
+arrival.
+
+E. Commonwealth Fleet Phase
+
+1. Fleet Assignment Segment: The Com-
+monwealth Player assigns his Ships to any Sea or
+Coastal hexes for Bombardment purposes.
+
+2. Fleet Repair Segment: Any Repair work on
+ships is undertaken at this time.
+
+F. Land Support Air Phase
+
+(Only those planes assigned to Land Support Mis-
+sions may be used in this Phase.)
+
+I, Mission Assignment Segment: All planes that
+are fueled may be assigned Missions by the Player.
+
+2, Mission Deployment Segment: Counters
+representing each type of plane assigned a Mission
+are placed in their hex of assignment.
+
+3. Air-to-Air Combat Resolution Segment: Com-
+bat between opposing aircraft, including any caus-
+ed by Scramble and Interception, is resolved. Mis-
+sion aborts may take place before combat resolu-
+tion.
+
+4, Flak Resolution Segment: Aircraft in the same
+hex as enemy anti-aircraft units undergo Flak fire.
+
+3. Mission Completion Segment: All missions
+that can be completed (e.g., bombing, strafing,
+etc.) are completed. Aborts may take place here,
+too.
+
+6. Return to Base Segment: All surviving aircraft
+are returned to their base of origin (excepting
+those on transfer missions and some other rare oc-
+casions).
+
+7. Tactical Maintenance Segment: Both Players
+may attempt to ready all planes eligible to fly land
+support missions for the next OpStage.
+
+G. Reserve Designation Phase
+
+Player ‘‘A’’ designates which of his units he is
+placing in Reserve Status, indicating that with a
+Reserve marker (see Section 18.0).
+
+H. Movement and Combat Phase
+The following four Segments comprise the Move-
+ment and Combat Phase. Player ‘‘A”’ may, if he
+so wishes, repeat Segments 1 through 4 as many
+times as he desires within the restrictions of the
+Continual Movement rules (8.2). Each repetition
+must include all four Segments.
+1, Movement Segment: All units except unattach-
+ed trucks and tank recovery squadrons not in
+reserve and eligible to be moved may be moved.
+Non-Phasing Player (‘‘B’’) may move units in ac-
+cordance with the Reaction movement rules (see
+Case 8.6).
+2. Breakdown Determination Segment: All
+vehicles and Motorized units of both sides are
+checked for Breakdown (Section 21.0). Broken
+down vehicles are indicated with an appropriate
+marker.
+3. Combat Segment:
+a. Position Determination Step: Both Players
+determine the “position” (Front or Back) of all
+Gun and Armor class units. °
+b. Barrage Step: Players secretly plot and then
+execute any barrages.
+c. Retreat Before Assault Step: Player “B”’ may
+retreat before assault any of his units eligible to
+be so moved (see Section 13.0).
+d. Force Assignment Step: Both Players secret-
+ly assign TOE Strength Points to anti-armor or
+close assault. Player “A” determines which
+assaults will be probes (although he need not
+reveal this decision) and which TOE Strength
+Points will be withheld from assault.
+e. Anti-Armor Step: Both of the Players simul-
+
+taneously resolve any anti-armor fire, extract-
+ing any casualties. Destroyed tank markers are
+deployed as required.
+f. Close Assault Step: Close Assaults are resolv-
+ed in any order as determined by Player “A.”
+He announces which of them are actually probes
+after each is resolved.
+4, Reserve Release Segment: Player ‘‘A’’ may
+release any of his reserves that he wishes to. ~
+J. Truck Convoy Movement Phase
+Player ‘‘A’’. may move his Second and Third Line
+(unattached) Trucks, replacement points and any
+POW’s and Guards.
+K. Commonwealth Rail Movement Phase
+If Player ‘‘A’’ is the Commonwealth Player, he
+may utilize rail movement (see Case 8.7) to move
+land units or supplies. Otherwise this Phase is
+omitted.
+
+L. Repair Phase
+
+1. Towing Segment: Player ‘‘A’’ may tow broken
+down and recovered vehicles.
+
+2. Maintenance Segment: Player ‘‘A’’ may at-
+tempt to repair broken down, or destroyed
+vehicles which were not towed in this Phase.
+
+M. Patrol Phase
+
+If the Phasing Player has not engaged in Assault,
+he may use patrols for reconnaissance purposes.
+
+At this point, Phases G, H, J, K, L, and M are
+repeated, except that for ‘‘Player ‘A’”’ read
+“Player ‘B’’’,
+
+V. SECOND OPERATIONS STAGE
+
+Both Players repeat all facets of the First Opera-
+tions Stage.
+
+VI. THIRD OPERATIONS STAGE
+
+Both Players repeat all facets of the First Opera-
+tions Stage.
+
+VII. STRATEGIC AIR RECOVERY STAGE
+
+A. Return to Base Phase
+All surviving planes from missions flown in Stage
+Il are returned to their base or origin if possible.
+
+B. Aircraft Maintenance Phase
+
+Both Players may attempt to ready planes that
+have flown missions during the Strategic Air
+Stage.
+
+VILL. END OF GAME-TURN
+
+You have now completed one full Game-Turn,
+replete with airplanes and sandstorms and the lot!
+Congratulations. You may put in for a transfer,
+but before doing so, keep in mind that the Russian
+Front is the only other active Theatre.
+
+[34.0] THE AIRCRAFT
+GENERAL RULE:
+
+Players will be handling individual aircraft in
+CNA, each type of plane having its own
+characteristics. There are, basically, seven dif-
+ferent types of planes: fighters, fighter-bombers,
+bombers (also classified as to night bombing
+capabilities), dive-bombers, transports, pure rec-
+connaissance (some planes with additional
+capabilities may also fly recon), and flying boats.
+These planes can perform a variety of missions, all
+of which fit into one of the following roles: patrol
+(support of other planes), combat (bombing or
+strafing), recon, or transport.
+
+Each plane is assigned to a specific squadron,
+whose Squadrons Ground Support Unit (base) is
+placed on the game-map — usually in an air facili-
+ty (airfield, air landing strip, flying boat basin or
+flying boat alighting area). The Squadron Ground
+Support Unit (SGSU) services the planes for that
+squadron. The planes themselves are rated as to
+
+range, tactical air combat, bomb load and/or
+transport capacity, maneuver capability, fuel con-
+sumption and mission capability. Fighters are also
+assigned individual Pilots. Planes are useful only if
+they have been fueled and refitted after a mission.
+
+CASES:
+
+[34.1] AIRCRAFT CAPABILITIES
+{34.11] Range
+
+A Plane’s range is the maximum distance, in hex-
+es, that it may be flown fo a hex io perform a mis-
+sion. It is also the maximum distance from which it
+may return to a base from a mission. There is one
+exception to this: planes flying a transfer mission
+(simply moving from one air facility to the next)
+may be flown a distance equal to twice that of their
+listed range. Example: An Mel09E based on a
+Landing Strip in hex C3101 may fly to hex C3133
+for a strafing mission — a distance of 32 hexes,
+within its Range of 41 — and then fly back to its
+squadron base at C3101. The Mel09E could not
+be flown from the mission hex to an Axis airfield
+in A0915 for two reasons: it is too far away and,
+generally, all planes must return to their Base of
+origin. Planes may not save hexes not flown
+(within a plane’s Range) going out and use them
+coming back (e.g., the Me109E flies only 10 hexes
+to a Mission; it still has a Range of 41 on its
+Return, not 41 + 31 — the hexes not used flying fo
+the Mission hex.
+
+[34.12] Certain aircraft have more than one listed
+Range, usually as a result of an increased fuel
+capacity or bombload. Players are free to choose
+whichever range load they wish.
+
+[34.13] Tactical Air Combat (TacAir)
+
+This is the aircraft’s combat rating vis a vis other
+aircraft, based on the number and type of arma-
+ment carried by the plane. A unit with a paren-
+thesized TacAir Rating (3) may not initiate air-to-
+air combat.
+
+[34.14] Bombload Capacity
+
+This is the number of Bomb Points, called tonnage
+(but not actually in tons), that a Plane can carry. If
+a Plane can carry torpedoes that fact is listed along
+with the bombload capacity.
+
+[34.15] Transport Capacity
+
+This is the capacity of the plane, given in TOE
+Strength Points (infantry) and/or tons of supplies
+(see Case 54.5 for tonnage equivalents).
+
+[34.16] Maneuver
+
+This is a somewhat abstract rating that simulates
+the ability of a plane to fly faster, higher, and with
+greater agility than other planes. Maneuver ratings
+are always considered in relation to other planes.
+Maneuver ratings are used to modify Basic TacAir
+Differentials.
+
+[34.17] Fuel Consumption
+
+This is the number of Fuel Points a plane requires
+to perform any mission or emergency flight (see
+Case 37.3). All Fuel Points are consumed during a
+mission, regardless of the type or distance of the
+mission.
+
+[34.18] Mission Capability
+
+These are the types of missions that the plane can
+undertake. Planes may only undertake missions
+for which they have capability. For a more com-
+plete description, consult the Section on missions,
+39.0.
+
+[34.19] All aircraft Ratings are listed on the Alr-
+craft Characteristics Chart, 34.6. No aircraft
+counter contains any numbers; players keep track
+of all ratings on their various sheets.
+
+FIGHTER FIGHTER
+
+Monoptane
+
+FIGHTER FIGHTER
+
+Biplane
+
+[34.2] FIGHTERS
+
+[34.21] Fighters, as a class of plane, include
+fighters (F) as well as fighter-bombers (FB).
+Fighter-bombers may fly either as a fighter or
+bomber, but not both at the same time. Thus a
+fighter-bomber on a bombing mission may not
+break off to initiate air-to-air combat, although it
+may defend against such normally.
+
+(34.22] Fighters and fighter-bombers usually fly
+Combat Air Patrol (CAP) missions; i.e., support
+and protection for bombers or a ground facility.
+Certain fighters may also strafe Enemy
+units/facilities. See the individual missions for
+details.
+
+[34.23] Every fighter and fighter-bomber is
+assigned a pilot (see Case 40.1). Pilots affect the
+plane’s air-to-air combat capability.
+
+[34.24] Certain fighters/fighter-bombers may fly
+reconnaissance misssions. Fighters and fighter-
+bombers flying recon may not initiate air-to-air
+and may not bomb.
+
+DIVE
+Bomber
+
+BOMBER BOMBER
+
+[34.3] BOMBERS
+
+[34.31] Bombers, as a class of plane, includes
+bombers, dive-bombers and fighter-bombers.
+
+[34.32] Most Bombing Missions are concerned
+with dropping bombs (air bombardment) on
+targets in order to destroy, reduce or otherwise in-
+capacitate them. Different bombers have varied
+capabilities ds regards this.
+
+[34.33] Bombers, in and of themselves, are usual-
+ly considered as one or sometimes more of the
+following: Bombers, Night Bombers (NB), Dive
+Bombers (DB), Torpedo Bombers (TB).
+
+[34.34] Dive-bombers are the same as regular
+bombers, with one difference: they can perform
+two Missions at once. Dive-bombers may both
+bomb and strafe the same target.
+
+[34.35] Bombers may never initiate air-to-air
+combat; they may only defend if attacked.
+However, bombers may increase their TacAir
+Ratings if they fly in large formations (see Case
+45,36).
+
+[34.36] Certain bombers are capable of transpor-
+ting (TT) personnel or supplies.
+
+FLYING FLYING
+BOAT BOAT
+
+||
+
+[34.4] FLYING-BOATS (SEAPLANES)
+
+Several planes in the game are flying boats, or
+seaplanes (FlyBt). These aircraft have all the nor-
+mal range of capabilities that other planes have,
+with one exception: they may not be based in, take
+off from, or land in airfields or air landing strips.
+They must use flying boat basins or flying boat
+alighting areas.
+
+TRANSPRT
+
+[34.5] TRANSPORTS
+
+[34.51] Both sides are given planes of minimal
+combat value that are used for transporting (TT)
+personnel and/or supplies.
+
+[34.52] Transports are given a Transport Capaci-
+ty, expressed in TOE strength points or Supply
+tons they can carry. Thus, a Ju52 can carry up to
+2% tons (or 20 Points) of Fuel or 1 TOE point of
+infantry. Transports can never transport vehicles
+or motorized units of any type (except motorcycle
+units).
+
+[34.53] Transports may never initiate air-to-air
+combat. They receive no benefit from formation
+flying, as do bombers. Transports are relatively
+
+helpless in the air and must have heavy CAP to in-
+sure their arrival.
+
+[34.6] AIRCRAFT CHARACTERISTICS
+CHARTS (see Charts and Tables)
+
+[34.7] AIRCRAFT COUNTERS
+
+[34.74] The aircraft counters do not represent in-
+dividual planes in the game; they are used to note
+the location of planes and facilitate air-to-air com-
+bat.
+
+[34.72] Planes on the ground are not represented
+by the Squadron Ground Support Unit counter
+(see Section 35.0). The actual types and numbers
+of plane in that squadron are kept on the
+Squadron Composition Sheet. No aircraft
+counters are needed.
+
+[34.73] When placing a squadron or squadrons
+(or part of a squadron) of planes in a target hex
+(the hex in which the mission will occur) the Player
+simply places one aircraft counter for each class of
+planes (fighter, bomber, transport) in the target
+hex to denote that planes of that class are in the
+hex. The counters are lettered so that the Players
+can note which planes/squadrons are represented
+by what counters.
+
+[34.74] If any planes are eliminated, the Player
+simply reflects those losses by adjusting that total
+on his sheet, not by changing counters. The
+counter representing the planes remains in place.
+
+{34.75] When resolving air-to-air combat, Players
+may want to use aircraft counters to represent in-
+dividual fighters, bombers, etc., so that they may
+better visualize what is happening. Players may
+therefore take any aircraft counters not on the
+game-map and use them as they see fit in represen-
+ting the individual planes.
+
+[34.8] AIRFORCE REINFORCEMENTS
+AND WITHDRAWLS
+
+The Players receive airforce reinforcements in the
+forms of individual pilots, individual planes and
+Squadron Ground Support Units (SGSU’s). Low
+ranked pilots arrive as needed while higher ranked
+pilots arrive randomly. SGSU’s arrive as needed.
+Airplane reinforcements follow a fixed schedule:
+in addition, the Commonwealth Player is required
+to remove various squadrons during the course of
+the game.
+
+[34.81] The Commonwealth Player’s airforce
+reinforcements may be placed in any air facility in
+Malta, Cairo, Alexandria, or Off-map except
+Ethiopia. The reinforcements may be divided
+amongst the recieving air facilities in any distribu-
+tion the Commonwealth Player chooses except as
+follows:
+
+A/No more than 10% of a month’s airplane
+reinforcements may be sent to Malta.
+
+B/No airplane reinforcements may be sent to a
+Malta/N African Off-map air facility in excess of
+the facility’s current squadron capacity.
+
+The Axis Player’s airforce reinforcements may
+be divided amongst the bases in the
+Tripoli/Tunisia boxes and Italy/Sicily/Crete as he
+chooses within the requirements concerning bas-
+ing German bombers in the Mediterranean (see
+Case 43.1).
+
+[34.82] SGSU’s arrive in the Naval Convoy Ar-
+rival Phase of the Operations Stage. Axis SGSU’s
+may arrive in any Tripoli/Tunisia box. Com-
+monwealth SGSU’s may arrive in any Alexan-
+dria/Cairo hex. SGSU reinforcements may be
+brought in as the Players desire subject to the
+following restrictions:
+
+Both Players: An SGSU lost through enemy ac-
+tion may not be replaced for one complete Game-
+Turn. This is in adddition to any restrictions
+below.
+
+Commonwealth Player: A/U.S. Army Airforce
+
+SGSU’s (i.e., those with “USAAF” historical
+designations and CPA’s of 30) may not be
+brought in until August, 1942 (1/91 Game-Turn).
+B/The Commonwealth Player may never have
+more SGSU’s in play than the total number of his
+planes at on-mapfacilties divided by twelve, plus
+two. E.g., if the Commonwealth Player has 438
+planes at on-map facilities he may have 39 GSU’s
+438 + 12=36%4 +2=39 (rounded up).
+C/ The Commonwealth Player may, because of a
+counter shortage, find that he is somewhat short
+of SGSU’s (there are enough commonwealth
+counters to hold approximately 1,200 planes). The
+Commonwealth Player may create additional
+SGSU counters only if he has the maximum
+number of planes possibly based at Com-
+monwealth N. Africa off map air facilities (i.c.,
+calculate the number from the base’s printed
+rather than current capacity). In such a case, he
+may create SGSU counters but is still bound by
+“B”’ above. These counters may not be U.S.
+SGSU’s.
+
+Axis Player:
+
+A/ The Axis Player may never have more German
+SGSU’s in play than the total number of his Ger-
+man planes based at on-map facilties divided by
+ten. E.G., if the Axis player has 286 planes based
+on-map he may have 29 German SGSU’s.
+
+B/ The restrictions on Italian SGSU’s in play are
+the same as those for German SGSU’s.
+
+C/ Captured Commonwealth planes may count as
+part of the on-map planes for the Axis nation to
+whose SGSU they are assigned.
+
+D/ The Axis Player may run short of Italian
+and/or German SGSU counters. He may only
+create more SGSU’s for a nation if at least 30% of
+that nation’s total airforce is based at off-map (N.
+African and/or Meditteranean) air facilities. This
+percentage is of total planes, not by types.
+
+[34.83] One-to Six-Rated Pilot reinforcements ar-
+rive during the Naval Convoy Arrival Phase of the
+First Op Stage of each month. The Players always
+possess as many zero-rated pilots as needed for
+any situation (including emergency flight).
+
+The Players determine the number and rating
+of pilot reinforcements once a month, at the instant
+
+of their arrival. The owning player consults the ap- .
+
+propriate Pilot Arrival Table (Case 34.88 or 34.89)
+and if pilots are available, makes a single roll of
+two dice (although separate rolls for the German
+and Italian pilots). The Player adds the dice
+together and cross indexes the result under: all of
+the columns to determine the number of pilots of
+that nationality of each rating that he receives for
+that month (note that Hauptmann Hans-Joachim
+Marseille arrives automatically.)
+
+[34.84] Airplane reinforcements arrive. in the
+Naval Convoy Arrival Phase. The reinforcements
+are listed as to the total of each type of plane arriv-
+ing during that month (the beginning of the cam-
+paign has arrivals during certain specific game-
+turns instead of months). The planes must be
+divided amongst the weeks as evenly as possible
+and all of the planes arriving during a game-turn
+may arrive in the First Op Stage of that game-turn
+at the owning Player’s choice (i.e., the Players
+need only divide the total by four, not twelve). The
+
+individual planes arriving are determined freely by
+the owning Player. E.g., in January of 1941 the
+Commonwealth Player receives a total of 59
+planes (44 Hurricanes, 12 Blenheims, 2 Well-
+ingtons and 1 Maryland). The Commonwealth
+Player could have 15 Hurricanes arrive the first
+game-turn; 10 Hurricanes, 2 Blenheims, the
+Maryland and both Wellingtons arrive the second
+game-turn; 15 Hurricanes arrive the third game-
+turn and 10 Blenheims and 4 Hurricanes arrive the
+fourth game-turn.
+
+[34.85] The Commonwealth Player is required to
+withdraw certain squadrons during the course of
+the game. The dates, squadron types and plane re-
+quirements are listed in the Commonwealth
+Airplane Reinforcement and Squadron Withdrawl
+Schedule (Case 34.86). Squadron withdrawls are
+performed at the beginning of the month in-
+dicated. Squadrons may be withdrawn from any
+air facility on Malta or game map section “‘E’’.
+The Commonwealth Player simply removes from
+play all of the planes and pilots assigned to that
+squadron. :
+
+SGSU’s are not removed unless they now exceed
+the limit determined in Case 34.82.
+
+[34.86] Commonwealth Airplane Reinforcement
+and Squadron Withdrawal Schedule
+(see Charts and Tables)
+
+[34.87] Axis Airplane Reinforcement Schedule
+(see Charts and Tables)
+
+[34.88] Commonwealth Pilot Arrival Table.
+(see Charts and Tables)
+
+[34.89] Axis Pilot Arrival Tables.
+(see Charts and Tables)
+
+[35.0] SQUADRON GROUND
+SUPPORT UNITS
+
+COMMENTARY:
+
+All planes are attached to a specific squadron, and
+each squadron is represented by a Squadron
+Ground Support Unit (SGSU), which is the base
+for that squadron. Each squadron has its own
+Squadron Composition Sheet, and the planes and
+pilots — as well as supplies — attached and avail-
+able to that squadron are listed on it. The
+squadron is the basic unit for the Air Game, and
+finds its counterpart in the German ‘‘Staffel’’ and
+Italian ‘‘Squadriglia.’’ Actually, the Squadron
+was next-to-lowest in air hierarchy (above the
+Flight); squadrons were part of wings, which were,
+in turn, part of groups (and their Axis counter-
+parts). However, most of this was for purely ad-
+ministrative purposes. Therefore, the only
+organizational level CNA covers is the Squadron.
+
+GENERAL RULE:
+
+Squadrons — specifically the SGSU’s — are used
+to maintain and supply the ‘aircraft assigned to
+them. Each SGSU may contain only one class of
+airplane, and it is limited-as to the number of
+planes it may handle effectively. The SGSU
+counters are considered vehicles (medium trucks)
+and have their own Capability Point Allowance
+printed on the counter. They have no combat
+values.
+
+[35.1] SGSU CHARACTERISTICS
+
+[35.11] An SGSU counter acts as base for all
+planes assigned to that squadron. Each SGSU
+counter is placed on the game-map to indicate
+where that squadron is located. They are usually
+placed at air facilities. SGSU counters do not in-
+clude the airplanes attached to the squadron;
+
+SGSU’s are the mechanics, trucks, equipment,
+etc., that are part of that squadron. They are not
+“air” units.
+
+[35.12] SGSU’s have their Capability Point
+Allowance printed on the counter; they are
+vehicles. SGSU’s move in the Truck Convoy
+Phase. They have no Stacking Point Value and
+may stack freely with other units. (Their capability
+to handle the planes in their squadron is limited by
+the Capacity Level of the air facility they are based
+at.) SGSU’s have no combat strength of any type;
+if an Enemy combat unit moves adjacent to an
+SGSU that has no Friendly combat unit stacked
+with it, that SGSU may react (if possible). If it can-
+not react, it is eliminated.
+
+[35.13] SGSU‘s arrive according to the orders of
+the player (See Case 34.8). Each SGSU has a unit
+designation (squadron ID number). These
+numbers are historical, but they are not used
+historically. If an SGSU counter is eliminated, it
+may be returned to play, as per 34.8, one Game-
+Turn later.
+
+[35.14] SGSU’s require a certain amount of sup-
+plies themselves to function. Each SGSU must ex-
+pend one Stores Point per Game-Turn. In addi-
+tion, each SGSU requires one Fuel Point and one
+Water Point per Operations Stage. SGSUs without
+the required supplies (for themselves) may not
+repair their planes. (Maintaining the planes will, of
+course, require additional supplies of Fuel and
+Ammunition).
+
+[35.15] Truck units may be attached to an SGSU
+as First Line Transport. They are used to carry the
+supplies that the SGSU needs to keep its planes fit
+and readied.
+
+[35.16] SGSUs may be used to construct air land-
+ing facilities or flying boat alighting areas (see
+Case 24.7).
+
+[35.17] SGSUs are necessary to refuel and refit
+airplanes; only SGSUs can perform such tasks.
+Aircraft may refuel at any SGSU: their own
+squadron or another squadron base. However,
+refitting must be performed at their assigned
+squadron base (SGSU) for maximum efficiency. If
+a plane attempts to refit at an SGSU other than its
+assigned squadron, the Player adds one to his
+dieroll for refit. In addition, Players should
+remember that planes may not be refueled or refit-
+ted beyond the capacity of the air facility (see Case
+36.12, 36.2, 36.3 and 36.4).
+
+[35.18] The United States Army Air Force (USAF
+on the counters) SGSU’s may not be used prior to
+Aug. 1, 1942.
+
+[35.2] SQUADRON COMPOSITION
+
+[35.21] Each Squadron must contain the same
+
+class of aircraft: i.e., bomber, fighter or transport
+(recon planes may be assigned anywhere). Fighter-
+bombers may go into either. Furthermore, it is
+recommended (but nota rule) that only one type of
+plane (e.g., Hurricane IIC or Ju87D, etc.) be
+assigned to a squadron. The latter is for ease in
+handling and supervision. The composition of
+each squadron is noted on the squadron’s Com-
+position Sheet.
+
+[35.22] Planes may not change squadron assign-
+ments, with two exceptions:
+
+a. The squadron’s SGSU has been eliminated. In
+such case the aircraft are free to transfer to any
+other squadron, or they may be placed in reserve.
+b. A squadron falls below 50% ready Capacity.
+Planes may then be transferred from other
+squadrons to bring that squadron back to a more
+than 50% capacity.
+
+Planes reassigned to a new squadron are given a
+transfer mission (to fly to their new base), unless
+the new SGSU is in the same hex as the plane.
+
+[35.23] The number of planes that may be assign-
+ed to a squadron is limited and dependent on the
+nationality of the squadron. Each squadron’s limit
+is the maximum number of ready planes it can
+handle; a squadron can always keep 4 more in
+reserve (whether ready or not). Thus, a squadron
+with a capacity of 12 may contain 16 planes: 12
+ready to fly, and 4 (4 of 12) in reserve (and in-
+capable of performing a mission). The capacities
+are as follows:
+
+Ready Reserve
+Nationality Capacity Capacity
+Italian Squadriglia 9 3 (12 total)
+German Staffel 12 4 (16 total)
+Commonwealth
+Squadron
+(1940-June ’41) 15 5 (20 total)
+Commonwealth
+
+Squadron (July 41-43) 18 6 (24 total)
+
+Players will note that starting with July 1941 Com-
+monwealth Squadrons increase their capacity.
+
+[35.24] Pilots (see Case 40.1) for fighter and
+fighter bombers are assigned to squadrons, not to
+specific planes. A record of pilots in a squadron is
+kept on the Squadron Composition Sheet, and
+pilots are given specific planes when they fly mis-
+sions.
+
+[35.25] Assignment and transfer of planes, where
+flying is unnecessary, is done in the Organization
+Phase. Otherwise, assignment and transfer are
+done in the Mission Deployment Segment (as a
+transfer mission).
+
+[35.26] As noted, each squadron may keep a cer-
+tain number of planes in reserve. These planes may
+be readied and armed (or not, as the Player sees
+fit), but they cannot fly if the ready capacity of
+that squadron is flying. Reserves are used to sup-
+plement aircraft that were not readied. Reserves
+may not scramable. They amy use emergency
+flight (see Case 37.3).
+
+(35.27] If an SGSU is eliminated (see Case 35.12)
+and there are planes on the ground with the SGSU,
+the plaries are captured. They may be used by the
+opposing Player one Game-Turn later or
+destroyed as he sees fit.
+
+[35.28] Italian and German planes may not coex-
+ist in the same squadron. They require separate
+maintenance. However, Italian squadrons may
+consist entirely of German planes (but ot vice ver-
+sa).
+
+[35.29] A historical note: Although the Com-
+monwealth and Italian SGSU’s are in-
+distinguishable as to type of aircraft handled (at
+least on the face of the counter), the German
+SGSU’s are not. Each SGSU represents a specific
+type of plane. The Players need not follow this
+representation, as the SGSU’s do not represent
+strict squadron OB. However, for those so inclin-
+ed, JG Squadrons are Fighters, St.G. Squadrons
+are for Dive Bombers, KG for Bombers, ZG for
+Fighter-Bombers, and H and F Squadrons for
+Recon. (All, of course, with a few exceptions.)
+
+[36.0] ADR FACILITIES
+GENERAL RULE:
+
+Air facilities include airfields, air landing strips,
+flying boat basins and flying boat alighting areas.
+These facilities are differentiated by the type and
+number of planes they can handle in terms of flight
+and maintenance. Air facilities are constructed
+(see Case 24.7), and counters are provided for that
+purpose for each type of air facility. Some air
+facilities exist at the start of each Scenario; these
+
+are noted in the instructions for that Scenario. Air
+facilities may be damaged and/or destroyed by
+Enemy bombardment. The number of SGSU’s
+and airplaines which can use an air facility is
+dependent upon its current capacity level. Thus
+take-off, recovery, and maintenance are limited.
+
+6
+CASES:
+
+(36.1) AIRFIELDS
+
+[36.11] Airfields are fully-equipped and
+engineered air facilities, with repair shops, full
+maintenance facilities and runway capacity for a
+large number of squadrons. Airfield construction
+is covered in Case 24.7. Each airfield is noted by an
+airfield counter in the hex in which the airfield has
+been constructed.
+
+[36.12] Each Airfield has a capacity level of six
+(maximum). This means that it may handle a max-
+imum of six squadrons (regardless of squadron
+size) at any one time. There may never be more
+than six SGSU’s in a given airfield hex. However,
+see Case 36.5.
+
+[36.13] If an airfield is landing six squadrons
+planes in a given Operations Stage, it may not
+receive any more airplanes, even in an emergency.
+Such excess planes must seek other fields or strips
+at which to land. Likewise, no more than six
+squadron’s worth of planes may be readied at a
+given airfield (see Aircraft Maintenance Section
+38.0).
+
+EE
+
+[36.14] The capacity of an airfield (its levels) may
+be reduced by enemy bombardment (air or ar-
+tillery). Players should keep track of the capacity
+level of an airfield. Thus, if bombing has reduced
+the capacity of an airfield from six to three, that
+airfield may handle only three squadrons at a time,
+until it is built back up to six. Note that, regardless
+of the capacity of an airfield, each airfield may still
+have six SGSU’s with it, even though some may
+not be able to function because of a reduced
+capacity level. If an airfield is reduced to zero
+capacity, it is considered destroyed for all ‘pur-
+poses.
+
+[36.15] Airfields may also be damaged by desert
+raiders. However, normal land units never damage
+airfields (except by barrage; see Cases 36.14 and
+12.5). Land combat units may capture or destroy
+(entirely) an airfield by occupying its hex. Airfields
+are, in essence, non-denominational; they may be
+used by anyone.
+
+[36.16] Players should keep in mind that, while it
+is the airfield that has the capacity for
+maintenance, it is the SGSU that actually performs
+that maintenance (see Case 35.17).
+
+[36.17] An airfield is a supply dump for supplies
+to be used by the SGSU’s on that airfield. Fuel,
+ammunition, stores, etc., may be stored at an air-
+field as if it were a dump. Land units may no? use
+airfield supply dumps unless it is an emergency.
+(Exactly what constitutes an emergency is left to
+the Player.) Any SGSU at an airfield may make
+use of the supplies there to maintain and ready its
+planes.
+
+[36.18] Airfields have an intrinsic anti-aircraft
+Strength Point of one (in addition to any other
+anti-aircraft units present). The Strength Point
+may only be used against planes on strafing
+and/or dive-bombing combat missions.
+
+fal
+
+H
+
+[36.2] AIR LANDING STRIPS
+
+Air landing strips are simply locations cleared and
+leveled for take-offs and landings, with only
+minimal maintenance facilities. They are
+
+represented by air landing strip counters, and they
+are treated exactly as airfields except that each air
+landing strip has a maximum squadron capacity of
+one. If that capacity level is destroyed, the strip is
+eliminated and removed from the game-map (see
+Case 24.7 for construction details, and Case 36.1
+for capacity details).
+
+Be
+
+[36.3] FLYING BOAT BASINS
+
+Flying boat basins are ‘‘airfields’’ for flying boat
+seaplanes. All flying boats must use a flying boat
+basin (or alighting area) for landing and
+maintenance. They may not use airfields or lan-
+ding strips. Basins have the same features as an air-
+field, with the exception that their Capacity is
+three Squadrons. Construction details are in Case
+24.7. Players should note that they can bring sup-
+plies to a flying boat basin simply by bringing
+trucks into the hex; they need no other transport.
+Flying boat basins are placed in any coastal hex.
+As with airfields, flying boat basins have one in-
+trinsic Strength Point of anti-air (see Case 36.18).
+Flying boat basins may not be used for normal air-
+craft.
+
+wa"
+[36.4] FLYING BOAT T
+ALIGHTING AREAS
+
+Alighting Areas are the same as flying boat basins,
+except that they have a capacity of one Squadron
+and they are immune to artillery barrage. They are
+still susceptible to Air Bombardment (see Cases
+24.7 and 41.36).
+
+[36.5] OFF-MAP AIR FACILITIES
+
+There are several off-map air facilities: e.g., the
+Tunisia boxes, the Commonwealth facilities such
+as Deversoir, on map E, et cetera. These are
+treated the same as other, on-map facilities with
+three exceptions:
+
+a) There are unlimited supplies for airplane
+maintenance and repair;
+
+b) They may exceed the SGSU limit up to the
+limit listed on the field;
+
+3) They may never be destroyed by bombing
+(although they may be reduced to zero), and may
+be rebuilt using the Malta AirFacility Construc-
+tion Table (one roll gives total levels for all CW air
+facilities each game-turn).
+
+Axis Mediterranean bases are also different in
+
+one other way: they may not be bombed.
+
+[37.0] FLIGHT
+
+GENERAL RULE:
+
+Flight is movement of aircraft. Flight is handled
+operationally: planes are simply assigned to fly to
+a given hex from a given hex. The path of flight in
+hexes may not exceed the plane’s range. When the
+plane is to be moved, it is simply placed in its target
+hex, noting the path of flight (hexes it flies
+through) for purposes of CAP interception.
+Planes must be refueled to fly, and all planes ex-
+cept those flying transfer missions must be refitted
+to fly again (after they have flown any other mis-
+sion). Flight is never affected by the presence of
+ground units, with the exception of flak fire.
+
+CASES:
+
+[37.1] THE MECHANICS OF FLIGHT
+
+{37.11] All planes have a range (see Case 34.11).
+This determines how far a plane may fly in any one
+direction (unless the plane is flying a transfer mis-
+sion, in which case it may double its range for the
+one-way flight).
+
+[37.12] To move a plane, the Player notes the
+location of the target hex for that mission and
+counts the distance in hexes, using any path he
+wishes, from the base/air facility to the target hex.
+If the number of hexes falls within the range of the
+plane, the plane may be flown to that hex (see
+Cases 37.4 and 56.18).
+
+[37.13] Having determined the path of flight, the
+Player takes an aircraft counter to represent each
+class of plane that is assigned to a mission in that
+hex and places that counter (or counters) in the
+target hex. The Player will have a record of what
+missions each squadron is undertaking. Flight
+takes place in the Mission Deployment Segment of
+the Land Support Air Phase, or in the Malta and
+Convoy Bombing Segments of the Strategic Air
+Stage.
+
+[37.14] There is a form of flight called scramble,
+wherein planes on the ground may take off to
+counterattack a nearby air threat (see Case 40.3).
+
+[37.15] No plane may fly unless it has been fueled.
+Furthermore, other than units flying transfer mis-
+sions, no plane may fly unless it has been refitted
+(see Case 37.32).
+
+[37.16] If a plane that has been fueled flies any
+distance it uses a// its Fuel and must be refueled to
+fly again.
+
+[37.17] Planes may be flown without Ammuni-
+tion, although this could be a dangerous practice.
+
+[37.2] RESTRICTIONS ON FLIGHT
+
+[37.21] Planes may never exceed their range in any
+one direction, unless they are flying transfer mis-
+sions. Planes flying transfer may double their
+range for the one-way transfer trip.
+
+[37.22] No plane may fly into or out of a sand-
+storm or rainstorm hex.
+
+[37.23] Planes must return to their base of origin;
+i.e., where the Flight started from. If, for some
+reason, that air facility had been so reduced that it
+cannot hold the returning planes then — and only
+then — may planes attempt to land elsewhere. If
+such a plane cannot land at any air facility it must
+crash land as close to an air facility as it can get.
+The Player then rolls one die. If he rolls a 1, 2, or 3
+the plane — and pilot — survive the landing. The
+plane and the pilot are recovered during the next
+OpStage, and both may be ready to fly (pending
+refitting, etc.) in the following OpStage. If the
+plane does not survive (a roll of 4, 5, or 6), roll the
+die again. If the Player rolls a 1 or 2 the second
+time, the pilot survives the crash and escapes
+
+serious injury and may return to play one Game-
+
+Turn following his crash.
+
+[37.24] No planes may fly in excess of the air
+facility’s capability level. Moreover, no planes
+may fly in excess of an SGSU’s ready capacity (see
+Case 33.23). Thus, if there are five SGSU’s on an
+airfield, but the capacity level of that airfield has
+been reduced to two, only two of those SGSU’s
+may refit and ready their planes (thus enabling
+them to fly). The other three squadrons are forced
+to remain inactive because of the reduced field
+capacity. Likewise, an Italian squadron (for ex-
+ample) could send no more than nine planes on a
+mission, regardless of how many planes it has
+ready (as reserves).
+
+[37.3] EMERGENCY FLIGHT
+
+37.31] Ifan Enemy land combat unit moves adja-
+cent to a Friendly air facility that has readied
+planes on the ground, and those planes are in
+danger of being destroyed or captured by that
+Enemy unit, the readied planes may attempt an
+emergency flight to escape such danger. Emergen-
+cy flight is a transfer mission
+
+[37.32] Only fueled planes — including reserves
+— may make an emergency flight.
+
+[37.33] The Player assigns pilots and then rolls
+once for each plane attempting to escape. Using
+one die, if the plane is a fighter or fighter bomber
+and he rolls a 1, 2, or 3, or if the plane is a bomber,
+recon, or transport and the Player rolls a 1 or 2,
+then the plane escapes. On any other die roll, the
+plane must remain on the ground.
+
+[37.34] Emergency flight follows all normal rules
+of flight, except that it occurs out of sequence.
+Planes performing emergency flight may be flown
+up to double their range.
+
+[37.35] The Player must exercise this option im-
+mediately. If an Enemy unit moves adjacent and
+the Friendly Player does not roll for emergency
+flight prior to the movement of another Enemy
+unit, all planes are stuck on the ground.
+
+[37.4] DISTANCE CHARTS
+(see Charts and Tables)
+
+The Air Distance Table is provided as a handy
+reference to determining distances in hexes bet-
+ween major points. Considering the size of the
+game-map, counting hexes can bea chore.
+
+[38.0] AIRCRAFT
+MAINTENANCE
+
+GENERAL RULE:
+
+In order to fly, planes must by ready. A readied
+plane is one that is refitted and fueled (being arm-
+ed is optional, although it is a major contributor to
+plane survival). SGSU’s have the capability of rea-
+dying (i.e., performing maintenance on) planes.
+Aircraft maintenance is limited to each air facility’s
+current squadron capacity. Planes may be refueled
+and rearmed by an SGSU without penalty,
+although refitting is performed with maximum ef-
+ficiency by the squadron’s own SGSU.
+
+CASES:
+
+[38.1] READYING AIRCRAFT
+
+An airplane that is readied is one capable of per-
+forming a mission. Readying aircraft is perform-
+ing maintenance so that the planes may be capable
+of flight and combat. There are three different
+types of maintenance. The different types of
+maintenance are:
+
+a. Fuel. A plane must have fuel to fly; no plane
+may fly without being refueled up to its capacity.
+
+b. Refit. Refitting is repairing wear and tear from
+the previous mission. Desert flying proved ex-
+tremely tough on planes, and keeping them flying
+was even tougher.
+
+c. Arming. In order to engage in air-to-air a plane
+must have ammunition. In order to engage in
+bombing missions, a bomber must have bombs.
+
+[38.2] REFUELING AIRCRAFT
+
+[38.21] Planes must have fuel to fly. The amount
+of fuel needed to refuel a plane is its Fuel Con-
+sumption Rating, listed on the Aircraft
+Characteristics Chart. That is the number of Fuel
+Points required to enable one plane of that type to
+fly any one mission.
+
+[38.22] Planes are refueled at air facilities by
+SGSU’s. The SGSU does the actual refueling; the
+airfield or air strip simply limits the number of
+SGSU’s that may operate there.
+
+[38.23] An SGSU may refuel planes from any
+squadron. However, it may never refuel more
+planes than the maximum capacity of that SGSU
+
+(readied plus reserve). Therefore, an Italian SGSU
+can handle refueling chores for a total of 12
+planes, regardless of squadron assignment, in a
+given Operations Stage or 12 planes in a given
+Strategic Maintenance Phase.
+
+[38.24] To refuel a plane the necessary fuel must
+be in the hex containing the air facility (which
+usually acts as a supply dump for its planes). The
+fuel is subtracted from the total supply in the air
+facility, and the plane is marked as refueled on the
+Squadron Composition Sheet. This is done. for
+each plane that a Player wishes to refuel. Refuel-
+ing takes place in the Tactical Maintenance Seg-
+ment or the Strategic Maintenance Phase, depen-
+ding on the class of mission assigned.
+
+[38.25] Planes do not have to be refueled (if the
+Player does not wish to use them), nor do refueled
+planes have to fly. Planes in reserve for a squadron
+may be refueled. Planes may sit refueled without
+flying for the entire game; fuel never gets stale.
+
+[38.26] Players will note that certain aircraft have
+the capability of adding to their range by carrying
+extra fuel (or, to be exact, extra fuel tanks). This
+decreases their maneuverability but adds greatly to
+their range. Such tangs may be jettisoned if the
+planes become involved in air-to-air combat, in
+order to increase their maneuverability. In such
+case the Maneuver Rating reverts to its highest
+(normal) value, but the range of the plane also
+reverts to its lower range. This could cause pro-
+blems in terms of getting back to base.
+
+[38.3] REFITTING AIRCRAFT
+
+Refitting aircraft is repairing and maintaining
+them so that they can fly another mission. In order
+to fly any mission other than a transfer, a plane
+must be refitted.
+
+[38.31] At the start of a Scenario, all planes are
+considered refitted, unless otherwise indicated. As
+soon as a plane flies any mission other than
+transfer, it must be refitted again. A plane that is
+not refitted may fly no mission other than
+transfer, even if it is refueled.
+
+[38.32] Refitting takes place in the Tactical
+Maintenance Segment, for planes assigned tactical
+missions, and in the Strategic Mainteriance Phase,
+‘for planes assigned strategic missions.
+
+[38.33] Planes are refitted at air facilities by their
+SGSUs. It is the capacity of the SGSU that counts;
+the air facility only limits the number of SGSUs
+allowed. Each SGSU can refit up to the maximum
+planes the SGSU can contain (Ready plus
+Reserve). An SGSU can Refit planes from other
+squadrons; however, when doing so, the Player
+must add one to his refit dieroll if the plane being
+refitted is not assigned to the SGSU doing the
+
+work.
+SGSU
+274RAF
+25
+
+[38.34] Refitting is not a guaranteed process, like
+refueling. Players must roll for each squadron
+undergoing refit. If planes not belonging to that
+squadron undergo,a refit attempt, they are rolled
+for separately from the rest of the squadron. The
+Player simply determines the number of aircraft in
+the squadron undergoing refit and throws one die,
+making any adjustments (see Case 38.35) and con-
+sulting the Aircraft Refit Table (38.38). The
+table gives him the percentage of planes successful-
+ly refitted. (Round all fractions up.)
+
+[38.35] When rolling for refit, the Player adds one
+
+to his die roll if the planes do not belong to the
+squadron attempting the refit. If the planes at-
+
+tempting refit are Italian, the Player (be he Axis or
+Commonwealth) adds two to the dieroll. If the
+planes are German, add one to the dieroll. The af-
+fects may be cumulative.
+
+[38.36] For every squadron undergoing an at-
+tempted refit — whether successful or not — the
+Player must have present and actually expend one
+Stores Point. A Player is not required to try to refit
+any plane; the choice to refit or not is up to him.
+
+[38.37] Twenty percent (rounded up) of all re-
+fitted planes in a hex on the ground in which there
+is a sandstorm must be refitted again before they
+can be flown. Players should distribute this effect
+as equally as possible.
+
+[38.38] Aircraft Refit Table
+(see Charts and Tables)
+
+[38.39] Players wishing to use a more painstaking
+if (slightly) more accurate, method of refitting
+planes may roll for each plane individually. The
+Player, in this case, rolls two dice. The Com-
+monwealth Player refits a plane on a roll of 2
+through 8; the Axis Player refits German planes on
+a roll of 2-7, the Italian planes on 2-6. The effects
+of Case” 38.35 are increased to adding two to the
+diceroll to account for the ‘‘wrong’’ squadron.
+(This was, with some minor variations, the method
+used by the Playtesters. I can’t truthfully say they
+lovedit...).
+
+[38.4] ARMING AIRCRAFT
+
+[38.41] Aircraft are armed to provide them with
+ammunition for combat and bombing. Arming is
+not necessary for flight; it is necessary to fly a
+bombing mission — and for safety.
+
+[38.42] Planes are rearmed by SGSU’s with the
+same limits and restrictions as applied to refueling.
+Ammunition comes from the air facility (supply
+dump).
+
+[38.43] Each squadron requires one Ammunition
+Point to allow its planes to use their TacAir
+Rating. If that point is not supplied, each plane
+has a TacAir Rating of zero and may not fire at
+any Enemy planes (see Case 46.21).
+
+[38.44] For bomb tonnage, one Ammunition
+Point is required for all bombs loaded onto a
+plane. Thus a bomber with a tonnage capacity of
+15 would need and expend only one Ammunition
+Point to carry its maximum bomb load (see Case
+41.22).
+
+[38.45] A plane’s bombload, whether used or not,
+is expended during a mission including Emergency
+Flight. (It was dangerous to land with bombs, so if
+unused after an abort they were often dropped in
+the sea or into the desert).
+
+[38.46] The armament status of a plane may be
+noted on the Squadron Composition Sheet.
+
+[38.47] The cost in Ammo Points to load a
+bomber with mines (see Case 41.39) or torpedoes
+(see Case 41.7) is one Point.
+
+[39.0] MISSIONS
+
+GENERAL RULE:
+
+No plane may fly without being given.a specific
+mission. A mission is a one or two word descrip-
+tion of the undertaking, the reason the plane is fly-
+ing and what it is supposed to do. Generally, no
+plane may perform more than one mission at any
+one time. Theré are a large variety of missions, and
+they are all dependent on the class of plane and the
+target. The various missions and their descriptions
+are covered in a series of Cases following 39.1,
+which is general in nature. Missions may be
+aborted, or discontinued before completion.
+
+Note: Often players may not know precisely what
+is in a hex, but will have to assign missions
+“blindly,’? and only find out what target are pre-
+sent when the planes arrive.
+
+PROCEDURE:
+
+Most missions involve different planes going after
+different types of targets. However, virtually all
+missions (except transfer) follow the same pattern.
+The sequence below should be followed for all
+missions, with exceptions taken as specifically
+noted in a mission description.
+
+a. All Planes are placed in their mission target
+hex.
+
+b. Resolve all interception and scramble.
+
+c. Any air-to-air combat between fighters is
+resolved.
+
+d. Fighters on CAP that sutvive air-to-air may,
+under certain circumstances, attack Enemy non-
+fighter planes.
+
+e. Any planes remaining in hex after air-to-air
+undergo flak fire if there are Enemy AA/Flak
+units in that hex.
+
+f. Each mission is run in any order the Player
+wishes, the opposing Player noting and taking any
+damage inflicted.
+
+g. Allsurviving planes return to base.
+
+CASES:
+
+[39.1] MISSIONS IN GENERAL
+
+[39.11] Unless a plane is attempting emergency
+flight (see Case 37.3), no plane may fly unless it
+has been assigned a specific mission. Nor may any
+plane be flown if an Enemy land combat unit is ad-
+jacent (see 37.3).
+
+[39.12] Each Player may use any shorthand he
+wishes to note which mission is which. Each
+Squadron Composition Sheet has a section for
+listing the mission that a specific plane is under-
+taking in a given Operations Stage or Strategic Air
+Phase. The Player simply writes the mission next
+to the plane, and that plane will attempt that mis-
+sion.
+
+[39.13] There are two major areas of missions:
+strategic air missions and Tactical Land Support.
+The former refers to any Commonwealth Missions
+flown against Axis Naval Convoys as well as any
+Axis Missions flown against Malta. Both of these
+Missions are flown only in the Strategic Air Phase
+of the Sequence of Play; moreover, they are flown
+only once per Game-Turn.
+
+[39.14] Tactical land support missions are mis-
+sions flown during an Operations Stage of the
+Game-Turn, affecting the movements and usage
+of land (or naval) units. Tactical land support mis-
+sions are numerous in type and they are flown a
+possible three times a Game-Turn (or once an
+Operations Stage).
+
+[39.15] There is no limit to the number of planes
+that may be assigned to a given mission to a given
+hex. There is a restriction to the type and class of
+plane that can undertake a given mission, as no
+plane may perform a mission for which it does not
+have the Capability. Plane Capabilities are listed
+on the Aircraft Characteristics Chart (34.6).
+
+[39.16] Planes from different squadrons may be
+assigned to the same mission (or even target), and
+planes from the same squadron may be assigned to
+different missions. However planes from the same
+squadron may not be divided between strategic
+and land support missions.
+
+[39.17] There is no limit to the number of the type
+of missions that may occur in (or rather over) a
+given hex (limited, of course, by what is in that hex
+
+worth going after). Players should keep the planes
+assigned to each specific mission separate, so as to
+avoid confusion.
+
+[39.18] There are basically five ‘‘types’’ of mis-
+sions: fighter, bomber, transport recon and
+transfers. The later mission is the only mission that
+may be undertaken by any plane (see Case 42.1)
+
+[39.19] Generally, a plane may fly only one mis-
+sion per Operations Stage or Strategic Phase (with
+the exception of certain fighters and dive bombers;
+Case 39.2). A plane flying a mission in an Opera-
+tions Stage may not fly in the Strategic Phase of
+that Game-Turn and Vice versa.
+
+[39.2] COMBINED MISSIONS
+
+Planes can generally fly only one mission per
+flight. However, certain fighter aircraft had the
+ability to carry small bombloads, dropping them
+as they strafed a target. The Stukas, as dive
+bombers, also had this capability, although their
+armament placement prohibited them from per-
+forming in a fighter capacity. Thus, any plane with
+a capability notation of D(‘‘dual’’) may strafe and
+bomb the same target as a combined mission.
+
+[39.3] VOLUNTARILY ABORTED
+MISSIONS
+
+{39.31] An aborted mission is one that is cancelled
+before any action is taken to complete that mis-
+sion. No mission may be voluntarily aborted once
+some action, be it bombing, strafing, or even air-
+to-air combat, has taken place.
+
+[39.32] To voluntarily abort a mission a Player
+simply states that he wishes to abort; he then sends
+his planes back to base — if they qualify (see Cases
+39.36 and 39,37).
+
+[39.33] Aborted missions consume fuel, and
+bombers must expend their bombload, even
+though they do not use it.
+
+[39.34] A Player is not required to abort all his
+planes on a given mission. He may choose to con-
+tinue with some and send some back. The choice,
+when available, is up to him, within the restric-
+tions below.
+
+{39.35] Any fighter (any plane with a pilot, in-
+cluding fighter-bombers) may voluntarily abort if
+its Maneuver Rating is no lower than 10 Points the
+highest maneuver-rated Enemy Fighter on CAP in
+the Target hex. To determine this, subtract the
+“aborting’’ fighter’s Maneuver Rating from that
+of the Enemy CAP fighter. If the result is — 10 or
+better (—8, —2, +3, etc.) the plane may abort. Of
+course, if there is no Enemy CAP, the fighters may
+always abort (exception: see Case 40.26).
+
+[39.36] Non-fighters flying with a sufficient
+fighter Screen (Friendly fighters flying CAP for
+that hex; see Case 39.37) may abort if they wish. If
+there is not sufficient fighter Screen, they may not
+abort, unless the planes’ Maneuver Rating is
+higher than the best Enemy fighter (a highly
+unlikely occurrance).
+
+[39.37] A sufficient fighter screen is defined as a
+number of Friendly fighters (simply counting
+numbers of planes, not ratings) equivalent to at
+least 25% of the number of Enemy Fighters flying
+CAP in that hex. Thus a bomber raid with 12
+fighters as escort encountering 40 Enemy fighters
+on CAP could be aborted; if there were 50 Enemy
+planes flying CAP, the bomber mission could not
+be aborted. Fighters acting as such a screen may
+not abort if they act as a screen. Fighters cannot
+screen fighters,
+
+[39.38] Aircraft may also abort involuntarily;
+e.g., as aresult of AA/flak fire (see Case 46.3 and
+45.14).
+
+[39.4] NIGHT MISSION
+
+{39.41] Night Missions are essentially a Phase
+within the Land SupportAir Phase. All Night
+Scramble, air-to-air combat, anti-aircraft fire and
+land support bombing are conducted separately
+from other Land Support Missions.
+
+[39.42] Only certain missions may be flown at
+night and only planes with night missions capabili-
+ty may participate in any night missions actions
+(exceptions see Case 39.43).
+
+[39.43] Planes, with the exception of planes
+assigned Offensive CAP or Scramble missions,
+may only perform a mission at night if specifically
+assigned a night mission. In all other situations a
+plane, even if it possesses night mission capability,
+is considered to be performing a regular Land Sup-
+port Mission.
+
+[39.44] Planes flying at night benefit from the
+decrease in the ability of enemy aircraft to find
+them (e.g., planes on night missions may not be In-
+tercepted), may not engage enemy aircraft in air-
+to-air combat, and benefit from a decrease in the
+effectiveness of anti-aircraft fire. Conversely,
+non-fighters may not benefit from Formation Fly-
+ing while performing a night mission.
+
+[39.5] AIR MISSION SUMMARY
+(see Charts and Tables)
+
+[40.0] FIGHTER COMBAT
+
+GENERAL RULE:
+
+Fighters may fly a variety of missions. The most
+common fighter mission is combat air patrol (or
+CAP). Fighters may also fly strafing missions and
+flak suppression missions. Fighters are also
+capable of scramble, a form of interception CAP.
+A number of fighters are capable of carrying
+bombloads (especially fighter-bombers); these
+fighters are so noted and they may participate in
+bombing missions (see Section 41.0). Each fighter
+is flown by a pilot, whose Pilot Rating will affect
+the plane’s air-to-air combat ability. Fighters may
+be assigned to only one mission in an Operations
+Stage (three in one Game-Turn) or Strategic Air
+Stage (one in one entire Game-Turn; see Case
+39.2).
+
+PROCEDURE:
+
+Players assign each fighter/fighter-bomber or
+squadron a mission in a specific hex. Once the
+planes reach the target hex, the Player must then
+assign each plane or squadron to a particular
+target of the type previously selected (e.g., fighters
+assigned to offensive CAP would be assigned par-
+ticular Enemy aircraft to atack only after they
+were in their target hex; fighters assigned to a
+strafing mission against ‘‘first-line Trucks’’ would
+be assigned trucks attached to a specific parent
+formation only after the planes had reached the
+hex (and any air-to-air combat and flak fire had
+been resolved).
+
+[40.1] PILOTS
+
+[40.11] Pilots are not represented by counters.
+Rather, pilots enter the game through the Rein-
+forcement Track as ‘‘numbers,’’ the number refer-
+ring to the pilot’s Rating. Each Player notes the
+pilots he is receiving and assigns them to his
+squadrons as they arrive. Consult the various Pilot
+Arrival Tables to see how this works.
+
+[40.12] Pilots are assigned to squadrons. They are
+assigned to a particular squadron — and become
+available for use by that squadron — in the first
+Operations Stage of the turn of their Arrival. As
+each squadron usually contains only one type of
+plane, that is the type of plane the pilot is trained
+to fly. Thus a pilot assigned to a squadron of Hur-
+ricanes is trained to fly Hurricanes.
+
+(40.13) Pilots may be reassigned to different
+squadrons at any time. A pilot is reassigned simply
+by switching him from one Squadron’s Composi-
+tion List to another. A pilot that is being reassign-
+ed may not fly in the Operations Stage (or
+Strategic Air Phase) of his reassignment.
+
+[40.14] If a pilot is reassigned to a squadron that
+contains planes of a different type than for which
+he was trained, the pilot must be trained to fly
+those new planes. It requires one full Game-Turn
+(or three Operations Stages) to train a pilot. Thus a
+pilot switching from a squadron of Hurricanes toa
+squadron of Beaufighters may not fly for three
+Operations Stages.
+
+[40.15] The Pilot Rating is his capability, Pilot
+Rating’s are either 1,2,3,4, or 6. (The 6 pilot)
+represents the infamous Hans-Joachim Mar-
+sielles, the German Desert Ace). The Pilot Ratings
+are added to the plane’s TacAir Rating when that
+plane is involved in any air-to-air combat. Thus an
+ME Bf109F with Marseilles would have a TacAir
+Rating of 14.
+
+[40.16] As Pilots are assigned to squadrons, the
+Player may have them fly any plane within that
+squadron (remember Case 40.14). Any plane that
+does not have a pilot assigned for a mission is con-
+sidered to have a zero-rated pilot. There is an
+unlimited supply of zero-rated pilots.
+
+[40.17] If a fighter is shot down, there is a chance
+that the pilot bailed out and can be recovered (see
+45.65). If the pilot has been recovered, he may fly
+again three Operations Stages after his Recovery.
+He is returned to his squadron of assignment.
+
+[40.18] There is an Optional Rule available for
+Players who are attempting a full campaign game
+and wish to create their own Aces. In such a case,
+all pilots start the game with a zero Rating; there is
+no need to bring in Reinforcement Pilots (ignore
+any Reinforcement Pilots). However, for each five
+‘kills’? a pilot gets, he increases his Rating by one.
+A kill is any Enemy plane destroyed in air-to-air
+combat. There is no limit how high a rating a pilot
+may get. This should not be used for the shorter
+Scenarios.
+
+[40.2] COMBAT AIR PATROL (CAP)
+
+[40.21] Any plane that has F (fighter) capability
+(see the individual capabilities on the Aircraft
+Characteristics Charts) may fly Combat Air
+Patrol. Usually, fighters fly CAP. To denote that
+a fighter is flying a CAP mission, write CAP and
+the target hex in his mission column on the
+Squadron Composition Sheet. He should also
+denote whether this is offensive CAP (CAP-O) or
+defensive CAP (CAP-D).
+
+[40.22] Offensive CAP concerns flying to a hex
+with the intention to shoot down Enemy planes.
+Defensive CAP is undertaken by fighters wishing
+to protect Friendly bombers or transport (flying as
+escort/screen for them) or to protect an installa-
+tion or facility. The distinctions can sometimes
+become a bit blurred. .
+
+[40.23] If three or more fighters are assigned to
+offensive CAP in a given hex, the fighters possess
+the equivalent of an air Zone of Control (i.e., they
+are flying CAP over the hex they are in as well as
+all six hexes surrounding that hex). They may thus
+engage any Enemy planes that enter any one of
+those seven hexes.
+
+[40.24] Fighters (or any plane with F capability)
+may fly CAP over any hex on the game-map that is
+within range. However, no plane based in Africa
+(on the game-map) may fly CAP of any type for or
+against Axis Naval Convoys. Commonwealth
+planes based on Malta may fly CAP
+
+10
+
+against Axis Naval Convoys only. Axis planes bas-
+ed in Italy, Sicily, and Crete may fly CAP for Axis
+convoys. Remember, a plane flying CAP may not
+fly any other mission in that Stage.
+
+[40.25] Example of CAP Missions
+
+The Axis Player wishes to bomb Tobruk. He sends
+two squadrons of Ju88’s to accomplish this. He
+also sends to the same target hex (Tobruk) as
+escort/screen two squadrons of ME Bf109B’s and
+a squadron of Italian CR. 42’s. (They could have
+come from any air facility within range.) The
+Commonwealth Player has placed on defensive
+CAP above Tobruk two squadrons of Hurricanes.
+The Commonwealth Hurricanes and Axis MEB’s
+and CR 42’s engage in air-to-air to see whether the
+bombers can get through to complete their mis-
+sion,
+
+[40.26] Using the example in Case 40.25 we can
+best illustrate the differences between offensive
+and defensive CAP. If the Commonwealth planes
+were flying defensive CAP they would, first off,
+have no air Zone of Control (40.23). They would
+also not automatically initiate air-to-air combat.
+However, the Axis Squadrons would have to get
+through the defensive CAP to perform their Mis-
+sion. If the Hurricanes were flying offensive CAP,
+they would have an air Zone of Control and they
+could initiate combat against the Axis planes.
+There is one additional — and important — dif-
+ference. If fighters are flying offensive CAP, they
+would have to attack any Enemy planes entering
+their hex or any hex in their Zone of Control to
+perform a mission in that hex; they could not
+decide to not have combat. Exception: only
+Enemy planes in one such hex must be attacked.
+Defensive CAP planes may decline combat and
+abort; offensive CAP planes may not.
+
+[40.27] Fighters flying Offensive CAP may in-
+tercept Enemy planes whose paths of flight enter
+the hex they are in or their air ZOC. After all plane
+counters have been placed to indicate their mission
+target hex, but before revealing the numbers of
+planes involved, a Player with fighters on offen-
+sive CAP may ask to see a path of flight. If that
+path coincides with his fighters, the Player with
+the offensive CAP may choose to intercept the
+Enemy mission right there. If so, air-to-air combat
+will take place, and any surviving planes may con-
+tinue their mission. Fighters on offensive CAP
+may intercept only one mission per Operations
+Stage.
+
+[40.3] SCRAMBLE
+
+There may be a time when a Player wishes to either
+conserve fuel or, perhaps, retain some flexibility
+with his fighter force. Scramble gives him the abili-
+ty to do that. Planes assigned to scramble missions
+are planes that stay on the ground until Enemy air-
+craft come within range. They may then, under
+certain circumstances, take-off and engage the
+Enemy in air-to-air combat.
+
+[40.31] Only planes with scramble capability may
+be assigned a scramble mission. Planes assigned a
+scramble mission are noted with an SC in the Mis-
+sion column. No hex is assigned. Scramble mission
+may be assigned only in the Land Support Air
+Phases.
+
+[40.32] Scramble occurs at the end of the Mission
+Deployment Segment. After all planes have been
+placed in their assigned mission hexes, any fighters
+assigned to scramble may take off and engage
+Enemy planes within scramble interception range.
+The farther the range, the lesser the chance of suc-
+cessful interception. A Player is not required to
+scramble his planes even if they are assigned to a
+scramble mission, but only planes assigned a
+scramble mission may scramble.
+
+[40.33] If a Player decides to scramble his fighters
+so assigned he notes the hex which he wants them
+to fly to and consults the Scramble Table (40.4),
+determining the distance in hexes from the base of
+the scrambling planes to the target hex. The path
+of flight may not include a hex (other than the
+target hex) containing other enemy fighters. The
+Player then rolls one die and checks the table to see
+if the scramble has succeeded. If it has, the planes
+have made contact with the Enemy. They are con-
+sidered to be on offensive CAP now and will at-
+tack those enemy planes. If the Scramble is unsuc-
+cessful, the planes have flown and they still must
+refuel and refit. The choice of whether to Scram-
+ble is up to the Player, but all decisions are made in
+secret and revealed at the same time (at the end of
+the Mission Deployment Segment).
+
+[40.34] The Player wishing to scramble rolls for
+each squadron separately, even if more than one
+squadron is heading for the same target.
+Squadrons may not be split between different
+hexes for scramble purposes.
+
+[40.4] SCRAMBLE TABLE
+(see Charts and Tables)
+
+[40.5] STRAFING
+
+[40.51] Any plane with strafing capability (STR)
+may strafe ground forces asnd other selected
+targets. Mostly, fighters have strafing capabilities.
+Dive-bombers have the capability to both Strafe
+and Bomb a given target. Strafing is a mission, and
+precludes the undertaking of any other mission
+(with the exception of planes with STR/B
+capability).
+
+[40.52] Planes ona strafing mission are assigned a
+target hex and a specific type of. target (Case
+40.54). This would be listed as, say,
+STR/C1234/dump. Strafing missions follow the
+general course of all missions (39.0).
+
+[40.53] Each individual plane may strafe only one
+target in a hex, regardless of how many different
+types or number of target of a single type there are
+in that hex. Furthermore, strafing is resolved as a
+single attack against a target; it is not a repeated
+series of attacks against, say, each truck in a con-
+voy. Note: a group of fighters assigned to strafe,
+for example, ‘‘infantry-type units’? may attack
+each of two battalions attached to a Brigade in a
+target hex, so long as no one plane attacks more
+than one battalion.
+
+[40.54]
+Strafed:
+Infantry-type types of units
+Trucks in Convoy
+
+First Line Trucks (attached)
+Supply Dumps
+
+Grounded Aircraft
+
+Tanks (only Hurricaine IT D’s)
+Ports
+
+Water Pipeline
+
+The following types of targets may be
+
+Fe re ao ss
+
+[40.55] Strafing may not occuein major city hex-
+es.
+
+[40.6] STRAFING PROCEDURES
+
+[40.61] Infantry Units. The strafing Player totals
+his TacAir Points (Remember, do not add Pilot
+Ratings in here; they apply only to Air-to-Air) and
+consults the Strafing Table. The Player may strafe
+as many infantry-type battalions or companies as
+he wishes, but each plane may strafe only one
+target (battalion) per mission. The Player then
+rolls two dice and checks that diceroll under the
+column for the number of TacAir points applied
+to that battalion/company. The result is the
+number of TOE Strength Points eliminated. If
+such infantry toe Strength Points were actually be-
+ing transported by trucks, such trucks are also
+eliminated.
+
+[40.62] Truck Convoys. This is treated in the same
+fashion as Case 40.61, with losses being in Truck
+Points. The Player being strafed determines which
+trucks are eliminated, except that the losses must
+be distributed as evenly as possible between the
+various types of ‘‘cargo’’ (i.e., water, fuel,
+Replacement Points, etc.) A strafing Player may
+choose to go after first line attached trucks in the
+same fashion. In such a case he would strafe the
+parent unit, designating its attached trucks as the
+target. Again, losses are distributed as evenly as
+possible.
+
+[40.63] Grounded Aircraft Treated similarly to
+Case 40.61, with the target being planes on the
+ground. The result on the Strafing Table however,
+is not the number of planes but rather the number
+of dice that the strafing Player must roll to see how
+many planes are shot up. Thus, if he gets a 1 on the
+Strafing Table, that Player then rolls one die; the
+result of that dieroll is the number of planes straf-
+ed and destroyed on the ground. Strafed Planes
+may be Recovered (45.6).
+
+[40.64] Supply Dumps: The mechanics are the
+same as 40.62, the results are in the percentage of
+all supplies in that dump destroyed. Thus a result
+of Lequals 10%, 2 equals 20%, etc.
+
+[40.65] Tanks: Strafing of enemy tanks by planes
+was done only towards the end of the campaign,
+and only by certain planes equipped with heavy-
+enough cannon to pierce the tank’s armour. The
+commonwealth Hurricane Mark JID’s were the
+only planes so equipped (with Vickers 40mm can-
+non). Strafing Tanks is accomplished much the
+same as strafing planes, with the second die or
+dice-roll producing the minimum number of Ar-
+mour Protection Points that must be removed.
+Anything with an armour protection rating may be
+strafed. Any dummy tank counter strafed is
+automatically removed from play.
+
+[40.66] Ports. Strafing of ports is combined —
+and is considered part of — a bombing raid on the
+port. The Player adds his Strafing TacAir Points
+then halves them, rounding down. He adds this to
+the total bombload delivered on the target (the
+port), and consults the Air Bombardment Table
+(See 41.5)
+
+GOOG
+
+[40.67] Water Pipeline. Planes may strafe an
+Enemy pipeline in order to render it useless. The
+Player assigns the fighters a mission to strafe the
+pipeline in a given hex, uses-the Strafing Table,
+and rolls the dice. If he obtains any result of 2 or
+more, the pipeline is destroyed. (This is not a ‘‘cost
+efficient’? way of destroying a pipeline.)
+
+[40.7] FIGHTER FLAK SUPPRESSION
+
+[40.71] Fighters may use their TacAir Strength to
+“*suppress’’ enemy anti-aircraft fire before it is us-
+ed against Friendly planes.
+
+[40.72] Fighter flack suppression does not pro-
+duce any losses on either side. Rather the fighters
+divert the flak fire and cover for the other planes.
+However, any unsuppressed flak may fire at any
+planes in the hex, including any fighters on a flak
+suppression mission, Flak suppression is a mis-
+sion.
+
+[40.73] Fighter flak suppression is flown after air-
+to-air is resolved but before any flak fire against
+planes is undertaken.
+
+[40.74] For every three fighters (individual
+planes) that fly flak suppression, ove point of anti-
+aircraft/flak fire is neutralized and may not be us-
+ed that Operations Stage. Only light AA points
+
+and ship AA points may be suppressed by fighters.
+Heavy AA points may not be suppressed by
+fighters.
+
+[40.75] Fighters flying flak suppression expend
+ammunition. The flak units neutralized also ex-
+pend ammunition, as they are firing at the
+fighters!
+
+[40.76] Anti-aircraft units may only be destroyed
+by bombing; see Case 41.3
+
+[40.77] Planes may strafe ships to suppress flak, as
+a regular flak suppression run. They may not
+damage a ship by strafing. Ships may be damaged
+by bombing and torpedoes (41.34). Remember
+39.2 (Combined missions).
+
+[40.8] STRAFING TABLE
+(see Charts and Tables)
+
+[40.9] NIGHT FIGHTERS
+
+[40.91] Night fighters (so indicated on the Air-
+craft Characteristics Chart) have all the
+characteristics or regular fighters, with one excep-
+tion: night fighters may scramble against a night
+bombing mission, but when they do, the Player
+rolling for scramble adds two to the die roll.
+
+[40.92] The following night fighters have their
+Maneuver Ratings lowered by 4 points when used
+during the day: Blenheim IVF, Bf 110, and Ju88c.
+
+[40.93] Planes on offensive CAP have no 20C at
+night.
+
+[40.94] Any CAP must be designated as being
+flown at night, and such CAP/Escort has no ef-
+fect on other missions.
+
+[41.0] BOMBING MISSIONS
+
+GENERAL RULE:
+
+Any plane with a Bombload Capacity greater than
+“zero”? may engage in a bombing mission. There are
+many varieties of bombing missions, delineated by
+the target type. In addition, certain planes have the
+capability of engaging in night bombing missions,
+which decrease the chances of getting attacked by
+enemy CAP, while lessening the likelihood of
+damage to a target. Certain planes can engage in
+bombing missions while strafing. See 39.2. To
+determine the effect of a bombing mission the
+Player simply totals the Bombload Points (Tons)
+delivered to the target and consults the Air Bom-
+bardment CRT corresponding to the target type to
+see what damage, if any, has resulted.
+
+PROCEDURE:
+
+During the Strategic Air Planning Stage of each
+Game-Turn, the Players must assign any bombers
+that they wish to use in that Game-Turn either to
+land support missions, (not specifying what mis-
+sions each plane or squadron will perform, but
+just assigning them to general.land support mis-
+sions for that Game-Turn), or to strategic convoy
+reconnaissance and/or bombing missions (com-
+monwealth player only). All such assignments
+should be in writing. Any Malta bombing missions
+are resolved immediately, in the Strategic Air
+Planning Stage, and any bombers assigned to such
+a mission may not be reassigned or used again until
+the next Game-Turn. Any convoy missions are
+resolved during the appropriate Segments of the
+Convoy Resolution Phase of the Naval Convoy
+Stage of each Game-Turm; any bombers assigned a
+convoy mission may not be reassigned or used un-
+til the following Game-Turn. During each Land
+Support Air Phase (there are three in each Game-
+Turn, one in each Operations Stage), both Players
+may assign any eligible bombers assigned to ‘‘land
+
+support missions’’ to specific missions and after
+air-to-air combat and flak fire are resolved, the
+missions themselves are resolved.
+
+[41.1] RESTRICTIONS ON BOMBERS
+
+Note: The term ‘‘bombers’’ generally refers to
+planes that do not require pilot points.
+
+[41.11] Bombers may not scramble, nor do
+bombers have an air zone of control.
+
+[41.12] Bombers may bomb only one target per
+mission, and that target must be selected prior to
+actual flight. (Sorry, you can’t drop your excess
+bombs on Tobruk on the way back.)
+
+[41.13] Bombers may abort before dropping their
+bombs on their selected target. (See Case 41.3.)
+However, whether the bombers abort or not, they
+are considered to have dropped their bombs
+somewhere, and thus expend their ammunition.
+[41.14] In order to fly any mission (excepting
+Transfer), a bomber must be refueled and refitted
+(as well as armed).
+
+[41.15] Players will note that bombers have
+parenthesized TacAir Ratings. This means that
+they may not be used except to fire back at Enemy
+fighters that attack them. See the Section on Air-
+to-Air combat. (45.0).
+
+[41.16] Certain planes may undertake two mis-
+sions simultaneously (see Case 39.2) dive bombers
+may strafe and bomb the same target and fighters
+with bombload capacities may both strafe and
+bomb a target, if they have a ‘‘D’’ capability.
+However, fighter-bombers may either bomb or
+undertake a fighter mission; they do not have the
+capacity to undertake both types of missions at
+once. If a fighter-bomber is flying a bombing mis-
+sion,it is considered to have a parenthesized
+TacAir Rating (unless it jettisons bombload).
+
+[41.17] Torpedoes may be used only against ships
+and ports.
+
+[41.2] LAND SUPPORT MISSION
+PROCEDURE
+
+[41.21] Land support missions are concerned with
+bombing land installations, ports, personnel and
+equipment in furtherance of operations on land.
+Bombers assigned to land support missions for a
+Game-Turn are assigned a specific mission in a
+specific hex during the Mission Assignment Seg-
+ment of a Land Support Air Phase. Thus, to assign
+a squadron of Wellingtons to bomb the port
+facilities at Tobruk, the Commonwealth Player
+would write ‘‘B-PF/Tobruk’”’? (or any other
+reasonable representation of that intent). A
+counter representing all of the bombers of each
+type assigned to a particular mission in a hex is
+placed in that target hex (players will have to keep
+track on paper of which bombers are represented
+by each counter), unless they are intercepted en
+route by Enemy CAP (see Case 40.27). (That is
+why it is important for a Player to be aware of the
+path of flight; if it passes through an enemy offen-
+sive CAP Air ZOC, the Enemy fighters may attack
+the bombers). Bombers may also be intercepted by
+Enemy fighters assigned to scramble missions.
+
+[41.22] Once a bomber has reached the target hex,
+any air-to-air combat is resolved. Then any flak
+fire is resolved. Then, after any losses are sub-
+tracted, any remaining bombers may drop their
+bombload, and the opposing Player determines
+the effects of same. He does this by totaling the
+number of bomb tons delivered against the par-
+ticular target and referencing the proper portion of
+the Air Bombardment and Secondary Barrage
+Target Combat Results Table (41.5). He then rolls
+two dice reading sequentially and applies any
+results. Any surviving planes are then returned to
+base (subject to Enemy CAP interception on the
+way).
+
+(41.3] LAND SUPPORT BOMBING
+MISSIONS
+
+All Land Support bombing missions except ‘‘min-
+ing harbors’’ are resolved using the Air Bombard-
+ment and Secondary Barrage Target Combat
+Results Table (41.5). Mining harbor attempts are
+resolved using the Mining Harbors by Plane Table
+(41.9).
+
+[41.31] Bombing Personnel (B-CU): The effect of
+the anti-personnel bombing mission is to Pin a
+number of units (battalion-equivalent) in the
+target hex; see Case 41.9 for the explanation of Air
+bombardment pins. The Player totals his bomb
+total and consults the Air Bombardment CRT. He
+rolls two dice, reads the results sequentially, and
+cross-references that diceroll with the bombload
+tonnage. The result is the number of battalion-
+equivalent units Pinned. However,for this pur-
+pose, each tank or gun (artillery/anti-tank) unit is
+worth fwo units (AA/Flak units may be pinned in
+the way). The choice of units to be Pinned is deter-
+mined the same as an artillery barrage (See 12.2).
+There is one exception to this section: Units in Ma-
+jor Cities may not be bombed unless and until the
+fortification level of the city is reduced to one (1)
+or less.
+
+[41.32] Bombing Truck Convoys (B-TC): The
+results are given in the number of truck units
+destroyed. The defending Player must divide the
+losses as evenly as possible amongst type of trucks
+and types of cargo. Trucks in major cities may not
+be bombed by air until the city is reduced to zero
+(‘0’). In addition, first line trucks (attached) may
+be bombed in similar fashion, except that first line
+trucks may be bombed only by planes with a ‘“‘D”’
+capability. The method and results are the same,
+however.
+
+[41.33] Flak Destruction (B-FS): The results are in
+terms of the number of TOE strength points with
+an Anti-Air rating that are destroyed. Flak/AA
+may also be pinned; see B-CU above. Flak destruc-
+tion bombing takes place after flak fire, unlike
+fighter flak suppression.
+
+[41.34] Bombing Ships (B-CF): The result is the
+number of Damage Points inflicted on the ships in
+the hex (See 30.34). Bombing of the Com-
+monwealth Fleet may not be undertaken at night.
+Torpedoes may be used against ships (See 41.7).
+See also 41.6. Axis coastal shipping may not be
+bombed.
+
+[41.35] Bombing Supply Dumps (B-SD): The
+result is the percentage of each type of supply in
+that dump that is destroyed. In addition, if there
+are any unattached trucks in the hex, for every
+10% of supplies destroyed, one Truck Point is
+lost, choice of defender, dividing losses as evenly
+as possible.
+
+[41.36] Bombing Air Facilities (B-AF): The result
+is the number of capacity levels. That that facility
+
+is reduced. In addition, for every level destroyed,.
+
+remove 10% of the planes on the ground (e.g., 2
+levels, 20% planes), rounded down.
+
+[41.37] Bombing Major Cities/Fortifications
+(B-F/C): Any major city or hex with fortifications
+may be bombed. If the target is a major city, the
+mission may be flown at night (41 -4). Only one
+level of fortification may be destroyed in any
+Operations Stage. See also 22.35. Players may use
+this mission to neutralize a temporary repair facility
+that is not in a major city hex. If the Player obtains
+a result that would reduce the fortification level by
+one, the temporary facility is neturalized (and may
+not be used) for one Operations Stage.
+
+[41.38] Bombing Roads or Railroads (B-R or
+B-RR): This is done in the same fashion as Bomb-
+ing Cities, using the same table (but a different
+row, according to the target). Roads may be
+bombed at night if the Road is in a Coastal Hex.
+
+11
+
+12
+
+The results are simply having the road or railroad
+hex destroyed. (Railroads are very easy to repair;
+whether they are worth the effort to destroy is the
+player’s problem.)
+
+[41.39] A. Mining Harbors (B-MH): Players use
+the Harbor Mining Table, with the Player rolling
+for each six bombers attempting to successfully lay
+the mines. Rolling one die, if the Player succeeds,
+place one mine counter in the port hex. The result
+of a mine is the same as blocking harbors: Note:
+The capacity column refers to the average
+bombload for all six planes (Not this total of six).
+B. Bombing Ports (B-P): The Purpose of this mis-
+sion is to reduce the efficiency level (55.1) of the
+port. Players .total, bombload and _ strafing
+delivered to the hex and consult the Air Bombard-
+ment Table. The number result is the loss in effi-
+ciency rating for that port. (See Case 41.8 for bom-
+bing Tripoli, etc.) Torpedoes may be used against
+ports.
+
+[41.4] NIGHT BOMBING MISSIONS
+
+[41.41] Certain bombers may fly night missions.
+Bombers capable of flying and bombing at night
+have a capability code of ‘‘N’’ or ‘‘O”’ in their
+capability column.
+
+[41.42] In night bombing, accuracy is sacrificed
+for the sake of safety. Only fighters with night
+fighting capacity may escort bombers on night
+missions.
+
+[41.43] The Player must designate that a given
+bombing mission is a night mission as such:
+B-P(N). See the Air Mission Summary (Case 39.5)
+for a list of which missions may be flown at night.
+
+[41.44] All regular missions are resolved before
+night missions, and the ‘‘defending’’ Player must
+be informed if a given mission is a night mission
+prior to ali resolving of missions, scramble, etc.
+
+[41.45] Bombers flying night missions have their
+bombload tonnage halved, rounded .down.
+Torpedoes may not be used at night.
+
+[41.46] Only Night Fighters may Scramble against
+a Night Bombing Mission (see Case 40.9). Fighters
+without NF capability may be given an offensive
+CAP versus night raid mission, but have no ZOC,
+and may only search for (and thus attack) Enemy
+planes with a mission in the same hex (see Case
+41.96). Night Fighters also go through the search
+procedure in 41.96
+
+[41.47] Fighters of CAP as well as Enemy night
+fighters scrambling against night bombers must go
+through a search procedure in order to find the
+bombers. The Player rolls one die for each
+Squadron; if he rolls a ‘1’ the fighters have found
+the bombers (and any NF escort). Subtract ‘2’
+from any search die roll involving squadrons of
+night fighters (at night). If the die roll is not good,
+search is unsuccessful and the fighters go home.
+Any air-to-air combat proceeds normally.
+
+[41.48] Flak/AA fire against night missions is ad-
+justed one column to the left. If already in the
+lowest column, the flak fire is considered ineffec-
+tive.
+
+[41.49] Night bombers do not get any benefits
+from formation flying (45.36).
+
+[41.5] AIR BOMBARDMENT TABLES
+(see Charts and Tables)
+
+[41.51] Air Bombardment & Secondary
+Barrage Table
+
+[41.52] Mining Harbors by Plane Table
+
+[41.6] STRATEGIC PHASE BOMBING
+MISSIONS: AXIS NAVAL
+CONVOYS
+
+[41.61] The Axis Player uses the convoy shipping
+lanes to place his arriving convoys of supplies and
+
+personnel (see 55.1). Each of these convoy ship-
+ping lanes has distances in hexes from certain key
+cities listed in the lane. This is the airflight distance
+from that city (see 56.18).
+
+[41.62] Commonwealth bombers assigned to the
+Strategic Air Phase may fly bombing missions
+against Axis naval convoys. This includes Africa-
+based bombers as well as those based on Malta.
+The only requirement is that the distance flown is
+within that plane’s range. In tracing the range
+from Africa-based air facilities, the planes must
+fly to one of the cities listed in the lane and then fly
+to the lane from that point. The two distances are
+added to obtain the full distance.
+
+[41.63] Axis fighters based in North Africa may
+not fly CAP for Axis Naval Convoys. Axis
+fighters based in the Mediteranean may fly CAP
+for any Convoy Lane within range. Com-
+monwealth fighters may fly CAP or Flak Suppres-
+sion missions to any Convoy Lane within range.
+The distances to the Convoy Lanes are given in the
+Axis Naval Convoy Air Distance Chart (Case
+56.18). Note that planes flying from North Africa
+must be able to fly to one of the cities listed plus
+the additional distance from that city to the Con-
+voy Lane.
+
+(41.64] The Commonwealth Player may only at-
+tack Axis Convoys that he has located. Axis Con-
+voys may only be located as a result of a Strategic
+Convoy Reconnaissance Mission.
+
+[41.65] The procedure for resolving attacks
+against Axis Naval Convoys is as follows:
+
+A. The Players divide their planes between those
+assigned to Land Support and those assigned to
+Strategic Missions. The Axis Player subdivides his
+planes to those performing Air Raids on Malta
+and those flying convoy protection.
+
+B. The Commonwealth Player performs his naval
+recon missions. Note that the planes may not be at-
+tracted by air-to-air combat or anti-aircraft fire.
+
+C. The Axi Player assigns his c6nvoy protection
+aircraft CAP missions in specific Convoy Lanes.
+The Commonwealth Player assigns his planes to a
+CAP, flak suppression, or bombing mission in any
+convoy lane in which a convoy has been located
+(remember range restrictions). If no convoys have
+been located, the planes never take off and
+therefore do not have to undergo readying.
+
+D. Air-to-air combat is resolved in the individual
+convoy lanes.
+
+E. Flak Suppression of the convoy is performed.
+
+F. Anti-aircraft fire attacks from the convoy are
+resolved.
+
+G. Commonwealth bombing of the convoy is
+resolved. The Axis Naval Convoy Missions are
+now completed. All of the surviving planes will
+return in base during the Strategic Air Recovery
+Stage.
+
+[41.66] Convoy bombing is resolved on the Air
+Bombardment and Secondary Barrage Target
+Results Table. The Commonwealth Player totals
+his attacking bomb points, modifying for torpedos
+if necessary (see Case 41.7), and rolls two dice. The
+cross-indexed result is in tens of percent of the
+cargo in that convoy lost.
+
+[41.67] All losses are evenly divided percentage-
+wise among the various cargo types, rounding
+fractions up. All truck replacement points are con-
+sidered to be one cargo type. All Italian tanks are
+considered to be one cargo type. All German tanks
+are considered to be one cargo type. All Italian
+guns are considered to be one cargo type. All Ger-
+man guns are considered to be one cargo type.
+
+[41.68] Bombing of Axis Naval convoys never af-
+fects the arrival of listed reinforcements.
+
+(41.7) TORPEDOES
+
+[41.71] Certain planes have the capability of car-
+rying torpedoes, which are effective against ships
+and port facilities (See Case 38.47 for arming
+Bombers with Torpedoes.)
+
+[41.72] When Axis planes are carrying torpedoes
+against Enemy ships (this refers to Axis plane vs.
+Commonwealth Fleet) the Axis Player uses the
+torpedo line, not the normal bombload line.
+Thus, if he has a mixture of planes (some carrying
+bombs and some carrying torpedoes) he rolls
+twice for that mission: once for the bomb-carrying
+planes and once for the torpedo-carrying planes.
+
+[41.73] When Commonwealth planes fly against
+Axis convoys and at least 50% of the planes are
+carrying torpedoes, in determining the level (Case
+41.66), increase the bombing tonnage by 25%,
+rounding upward. Thus, if 160 tons of bombs were
+delivered to convoy route Nr. 3 via 30 planes, 17 of
+which were armed with torpedoes, the tonnage
+would be increased to 200 tons (effective).
+
+[41.74] Torpedoes may be used against port
+facilities, but as such count as normal bombs.
+
+[41.75] Only planes with ‘‘T’’ capability can carry
+torpedoes.
+
+[41.8] BOMBING TRIPOLI
+
+[41.81] Commonwealth bombers may bomb the
+Tripoli/Tunisia boxes in order to reduce the port
+capacity level and destroy any planes on the
+ground. These are the only two types of missions
+that may be flown against Tripoli, etc.
+
+[41.82] Distances from game-map hexes to
+Tripoli, etc., are printed on the Air Distance Chart
+Add that distance to any actually flown on the
+Game-Map to get the actual flight distance for the
+raid.
+
+[41.83] Bombing missions against Tripoli (the
+port) or Bizerta (Tunis) are conducted as any other
+similar mission, and the results are the same as any
+such mission. (See Case 41.39)
+
+[41.84] Bombing missions against grounded Axis
+planes in Tripoli/Tunisia air facilities are con-
+ducted as a Bombing Air Facilities Mission,
+although the results against the facility are ignored
+(see Case 41.36).
+
+[41.85] The AA/Flak capacity for Tripoli, et al, is
+constant, non-destructable, and printed in the
+respective boxes. CAP coverage depends on the
+Axis Player, but any CAP coverage is for all
+targets in that box.
+
+[41.86] Night missions may be flown against the
+port of Tripoli.
+
+[41.9] PINNED BY BOMBING
+
+The effect of a Pinned result inflicted on a unit by
+Air Bombardment is different from an artillery
+barrage pinned. (This rules Section supercedes the
+somewhat incorrect definition of Pinned given in
+Case 3.1; in essence this case is an early errata.)
+The Pinned by Bombing result depends on
+whether the ‘‘pinned’’ unit belongs to the ‘‘A”’
+Player or the ‘‘B’’ Player.
+
+[41.91] Pinned Unit: ‘“‘A’’ Player
+
+The following results occur from a Pin to a unit
+belonging to the A Player for that OpStage:
+
+1. The unit may voluntarily use only “% (rounded-
+down) of its CPA; and
+
+2. Such unit may not voluntarily enter an Enemy
+ZOC; and
+
+3. If such unit is in an enemy ZOC when Pinned
+such unit may not leave that ZOC; and
+
+4. Such unit may not voluntarily engage in com-
+bat; i.e., it may not barrage or use Offensive Close
+Assault or Anti-Armour.
+
+As soon as the OpStage switches to the B Player
+these results are no longer in effect.
+
+[41.92] Pinned Unit: ‘‘B’’ Player
+
+The following results occur from’a Pin to a unit
+belonging to the B Player for that OpStage: such
+unit may not move voluntarily or engage in com-
+bat voluntarily during A OpStage. As soon as it is
+B’s turn, the effects of Section 41.91 apply. The
+unit becomes unpinned at the end of that OpStage.
+
+[42.0] NON-COMBAT
+MISSIONS
+
+[42.1] TRANSFER MISSIONS
+
+[42.11] A transfer mission is flying a plane from
+one air facility to another.
+
+[42.12] Transfer missions should be flown before
+undertaking any other missions, so as not to forget
+them in the heat of battle. Unless they run into
+Enemy CAP (see 40.27) they should not run into
+any problems.
+
+[42.13] Planes flying transfer missions may dou-
+ble their range. Transfer is a one-way flight;
+transfer planes do not (cannot) return to their base
+of origin.
+
+[42.14] Planes flying transfer need not be refitted
+to fly. However, a plane completing a transfer
+mission must be refitted to fly another mission in
+the next Stage or Turn. Transfer missions consume
+fuel; whether planes conducting them are armed is
+a question of choice.
+
+[42.15] To assign a plane a transfer mission, write
+‘‘Transfer to’’ and the hex of destination in the
+mission box of the Squadron Control Sheet.
+The plane is then placed in the new hex. Transfers
+are flown only in Tactical Land Support Phases of
+the Operations Stage.
+
+[42.2] RECONNAISSANCE MISSIONS
+
+[42.21] Reconnaissance (Recon) missions may be
+flown by any plane with a Recon Capability
+¢ ‘R? ).
+
+[42.22] The object of a Recon mission is to find
+out what units—in general terms—the Enemy has
+in a given hex. Therefore, Recon missions are
+flown over a specific hex with an Enemy unit in it.
+Recon missions may be flown over any hex except
+for major cities.
+
+[42.23] The Player assigns a number of planes to
+fly Recon to a specific hex. After all air-to-air and
+flak, the Player totals the number of planes on
+Recon in that hex and consults the Air Recon-
+naissance Table (42.27), rolling one die. The result
+is the number of units in hex the Player has learned
+information about (42.24).
+
+[42.24] For each battalion-sized unit the player
+flying Recon can learn about, the opposing Player
+must reveal the type of unit and its TOE strength
+under the following conditions:
+
+a. All tank units (including dummy tank
+units, which are considered to have a TOE
+Strength of ‘‘three’’ for this purpose)
+revealed first, then infantry, then artillery.
+
+b. The opposing player must give the TOE
+strength, but may ‘‘lie’’ in either direction
+to a deviation of ‘2’. Thus, for a unit witha
+TOE of ‘3’ he could say it had ‘1’ or ‘5’ or
+any number in between.
+
+[42.25] No Recon mission may be flown in a hex
+that is undergoing air bombardment,
+
+[42.26] Land Recon missions are flown in the Tac-
+tical Land Support Air Phase of the OpStage.
+Planes flying Recon require refit. Recon missions
+
+against Axis Naval convoys are flown during the
+Strategic Air Phase.
+
+[42.27] Air Reconnaissance of Land Units Table
+(see Charts and Tables)
+
+[42.3] TRANSPORT MISSIONS
+
+[42.31] Certain planes with transport capability
+may transport personnel or supplies by air. The
+cargo capacity of each transport is listed on the
+Aircraft Characteristics Chart in terms of TOE
+Strength Points or tons of supplies.
+[42.32] For a Transport to carry a TOE Strength
+Point or supplies to a given hex, that ‘‘cargo’”’
+must start the Operations Stage in the hex with the
+transport. The transport may then fly one type
+of transport mission:
+a. The Transport flies to the target hex, lands
+the cargo, and flies back; or
+b. The transport flies to the target hex and
+lands, remaining in that hex. In this case,
+the transport may use its transfer range
+(double its normal range).
+
+[42.33] Transport missions must be flown to
+Friendly air facilities, as the planes have to land.
+Supplies and personnel may be airdropped under
+special circumstances (See 42.4)
+
+[42.34] Personnel transported by air may not
+voluntarily move in the Operations Stage they are
+transported in, having used their allotted CPA.
+‘Personnel may be flown into a hex in an Enemy
+Zone of Control; however, such units may not be
+used for any attacks. That is, they may not volun-
+tarily expend CP’s on combat. They may defend.
+Personnel air-transported may never voluntarily
+exceed their basic CPA, through reaction or
+retreat before assault.
+
+[42.35] Supplies air-transported may be used as
+soon as they can be assigned to a dump or specific
+units. They cannot be used directly ‘‘off the
+plane.’’ They must be distributed in the Organiza-
+tion Phase first.
+
+[42.36] Transport missions may be flown only in
+Operations Stages. Planes require refitting,even
+when flying Transport Missions.
+
+[42.37] Only infantry (without trucks), motorcy-
+cle infantry/recce units, and airborne units may be
+transported by air. Exception: dead camels may be
+transported by air. Live camels may nor be
+transported by air.
+
+[42.4] AIRDROP MISSIONS
+(PARATROOPS)
+
+Although there were several airborne units in the
+desert campaign (The Ramcke Brigade and the
+Folgore Division), there were no major airborne
+missions. The following rules are, in. essence,
+hypothetical.
+
+[42.41] Units capable of being airdropped are so
+noted on the OA Sheets. Such units may be air-
+dropped by transport planes during a tactical land
+support Air Phase, under certain circumstances.
+
+[42.42] An airborne mission is the same as a
+transport mission (42.32a). The only difference is
+that the units are dropped into the hex, not landed,
+so an air facility is not needed for the transports.
+However, they must start from a Friendly air
+facility.
+
+[42.43] Units may be airdropped into any clear,
+gravel or desert hex. They may not be airdropped
+into major cities and they may not be airdropped
+into hexes occupied by Enemy units or hexes in an
+Enemy Zone of Control. Units may be airdropped
+into a Friendly occupied hex, within stacking
+restrictions, as long as such hex is not in an
+Enemy ZOC. In addition, the drop-zone hex may
+not be more than two hexes from a recognizable
+land feature (42.44).
+
+[42.44] A recognizable land feature is a major ci-
+ty, a road (unfinished, destroyed or not) or
+railroad hex, a village, air facility, or oasis.
+
+[42.45] Airdrops may not occur in sandstorms or
+rainstorms. However, there is no drift; units
+always drop in the target hex. There are no
+casualties in an airdrop.
+
+[42.46] Airdropped units require and use supplies
+the same as any unit: they are not commandos.
+Thus, only certain types of supplies may be air-
+dropped: ammunition and stores may be airdrop-
+ped (using the precepts of 42.42 and 42.43). Sup-
+plies may be airdropped into a Friendly-occupied
+hex even if it is in an Enemy Zone of Control. In
+the latter case, there is no need to use the
+recognizable land feature provision of the airdrop
+rule. Airdropped supplies may be used as soon as
+they arrive, unlike transported supplies (42.35).
+
+[42.47] Airdropped combat units may move and
+fight normally, with one exception: they may not
+voluntarily exceed their CPA in the Operations
+Stage in which they are dropped.
+
+[42.48] There is no limit to the number of TOE
+Strength Points that may be dropped (within the
+limits of how many transport planes you can
+muster). However, no unit may be airdropped
+more than once a month (every 12 Operations
+Stages).
+
+[42.5] NAVAL CONVOY
+RECONNAISSANCE MISSIONS
+
+[42.51] The Commonwealth Player may fly recon-
+naissance missions in Convoy Lanes to determine
+the existence and size of the Axis Naval Convoy
+assigned to that Lane.
+
+[42.52] The Commonwealth Player must assign
+each reconnoitering plane to a specific Convoy
+Lane. A plane may only be assigned to a naval
+recon mission if it posses Recon capability (R). A
+plane may be assigned to any Lane within its
+range. The distances to the convoy lanes are listed
+in the Axis Naval Convoy Air Distance Chart
+(Case 56.18). A plane flying a recon mission from
+North Africa must possess a range.at least equal to
+the distance from its air facility to one of the key
+cities listed on the chart plus the distance from that
+city to the Lane.
+
+[42.53] Naval recon missions are resolved on the
+Air Reconnaissance of Axis Naval Convoys Table.
+If a successful reconnaissance of the convoy lane
+has been made the Axis Player must indicate
+whether or not a convoy is assigned to that lane
+this game-turn; and if so, its approximate tonnage.
+
+[42.54] Planes flying naval recon missions may
+not be attacked in air-to-air combat or by anti-
+aircraft fire.
+
+[42.55] Naval recon missions are Strategic mis-
+sions that are flown in the Naval Convoy Stage
+
+[42.56] Naval convoy recon missions are assigned
+in the Strategic Mission Assignment Phase of the
+Strategic Air Planning Stage. An unlimited
+number of planes may be assigned recon missions
+in the same convoy lane. Naval recon missions are
+resolved in the Naval Convoy Reconnaissance Seg-
+ment of the Convoy Resolution Phase.
+
+[43.0] AXIS ITALIAN-
+AEGEAN AIR BASES
+
+GENERAL RULE:
+
+The Northern ‘‘shore’’ of the Mediterranean was
+almost exclusively controlled by the Axis, especial-
+ly after the fall of Greece and Crete in early 1941.
+The Axis often used Italy, Sicily, Greece and Crete
+to base its bombers, so that they could be used for
+multi-purpose duty. The German Player is,
+
+13
+
