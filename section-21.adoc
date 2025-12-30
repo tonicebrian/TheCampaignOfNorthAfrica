@@ -6,7 +6,7 @@ COMMENTARY:
 The great problem with the desert was not really the heat, which was bad enough.
 The major problem was the incredible wear and tear that vehicles incurred. The
 desert got into everything, and this deadly combination of heat, sand, and rocky
-ground wreaked havoc on all moving parts. Tanks used to going <<10_0>> miles
+ground wreaked havoc on all moving parts. Tanks used to going 1000 miles
 without an overhaul would collapse after one day's hard travel. The rules for
 Breakdown and Repair attempt to simulate this facet of the Desert Campaign. Like
 many other rules in CNA, Breakdown requires working with a lot of numbers. The
@@ -43,7 +43,7 @@ Strength Points whether they comprise part of a unit or are Replacement Points.
 
 [#21_12]*[21.12]* Each specific type of TOE Strength Point has its own Breakdown
 Adjustment Rating (BAR). BAR's are listed below and in the various Tank & Gun
-Characteristics Charts. For example, an Italian M <<13_40>> has a BAR of 2R
+Characteristics Charts. For example, an Italian M 13/40 has a BAR of 2R
 while the Commonwealth Sherman has a BAR of zero.
 
 [#21_13]*[21.13]* The Breakdown Adjustment Rating is used to adjust the
@@ -82,7 +82,7 @@ to, from or amongst the Axis off-map Tripoli/Tunisia boxes.
 === WHEN BREAKDOWN OCCURS
 
 [#21_21]*[21.21]* Each hex (or rather the terrain in the hex) possesses a
-Breakdown Point Value, which is listed on the Terrain Effects Chart (8.37). In
+Breakdown Point Value, which is listed on the Terrain Effects Chart (<<8_37>>). In
 addition, certain types of hexsides (e.g., Wadis) also have a Breakdown Point
 Value. The Breakdown Point Value is the number of Breakdown Points a motorized
 unit or vehicle accumulates when moving into that type of terrain/hex and/or
@@ -103,7 +103,7 @@ whether it has finished its Movement for that Operations Stage or will be moving
 again under the Continual Movement Rule — the owning Player must check for
 possible Breakdown.
 
-[#21_25]*[21.25]* Ali Breakdown Points garnered by a unit during a given
+[#21_25]*[21.25]* All Breakdown Points garnered by a unit during a given
 Operations Stage are accumulated until the end of that Stage. Simply because a
 Player checks for Breakdown for a unit does not mean those Breakdown Points
 accumulated up to that point are discharged; they continue to accumulate up
@@ -135,47 +135,48 @@ Adjustment Rating.
 
 [#21_28]*[21.28]* Breakdown is determined separately for each type of unit:
 Trucks, Tanks (including S.P.  Guns), or Armored Recce and A/C vehicles.
-Furthermore, if there are tanks and/or Guns
-
-In the above example, the Italian LI] (M) Tank Battalion — containing, for
-example's sake, all M/13's — has accumulated 15 Breakdown Points for the
-illustrated movement: 4 Breakdown Point
-
-within a stack/Parent formation with differing Breakdown Adjustment Ratings the
+Furthermore, if there are tanks and/or Guns within a stack/Parent formation with differing Breakdown Adjustment Ratings the
 Player checks separately for each group of tanks andGuns witha different Rating.
 A different Breakdown diceroll is used for each separate type.
 
-[#21_29]*[21.29]* Important: In addition to Case <<21_28>>, Players must check
+[example]
+In the above example, the Italian LII (M) Tank Battalion — containing, for
+example's sake, all M/13's — has accumulated 15 Breakdown Points for the illustrated movement: 1/2 Breakdown Point for each of the two Road hexes
+(it was using Road Movement), 8 for entering the Rough terrain hex, 2 for
+crossing the Ridge hexside and 4 for entering the Clear Terrain hex
+
+[#21_29]*[21.29] Important*: In addition to Case <<21_28>>, Players must check
 separately for each type of unit in a stack that is in a different Breakdown
 Point column.
 
-Example: A Recce unit moves and accumulates 15 Breakdown Points, entering.a hex
-with a second Recce unit (which has not moved), Recce #1 continues to move along
-with Recce #2, both units picking up 23 more Breakdown Points.  Recce #1 has
-accumulated 38 Breakdown Points, Recce #2, 23. Recce #1 and Recce #2 determine
+[example] 
+A Recce unit moves and accumulates 15 Breakdown Points, entering.a hex
+with a second Recce unit (which has not moved), Recce \#1 continues to move along
+with Recce \#2, both units picking up 23 more Breakdown Points.  Recce \#1 has
+accumulated 38 Breakdown Points, Recce \#2, 23. Recce \#1 and Recce \#2 determine
 their Breakdown separately, because they are using different Breakdown Point
 columns.
 
 [#21_3]
 === HOW BREAKDOWN IS DETERMINED
 
-[#21_31]*[21.31]* To determine Breakdown, the Breakdown Table (21.38) is used.
+[#21_31]*[21.31]* To determine Breakdown, the Breakdown Table (<<21_38>>) is used.
 Each column on the Breakdown Table corresponds to a Range of Breakdown Points
 accumulated. Thus <<31_40>> means anywhere from 31 to 40 Breakdown Points
 accumulated at the time of Breakdown check (all fractions are rounded up:
-<<20_5>> = 21). The Breakdown Table uses two dice, read sequentially. :
+20.5 = 21). The Breakdown Table uses two dice, read sequentially. :
 
 [#21_32]*[21.32]* After the Player checking for Breakdown notes the Breakdown
 Points accumulated for a given unit, he takes into effect any Breakdown
-Adjustment Rating (21.13) as well as any adjustments to Breakdown Rates because
-of Weather (see Case 21.37). These two are cumulative: a 2 column left Breakdown
-Adjustment Rating plus a_ onecolumn-higher shift for Weather makes for a final
+Adjustment Rating (<<21_13>>) as well as any adjustments to Breakdown Rates because
+of Weather (see Case <<21_37>>). These two are cumulative: a 2 column left Breakdown
+Adjustment Rating plus a onecolumn-higher shift for Weather makes for a final
 adjustment of one column lower.
 
 [#21_33]*[21.33]* Units accumulating more than 71 Breakdown Points use the 71+
 column. You cannot adjust higher than that column, and that column is considered
 as one column for purposes of adjustment. Units that have their column adjusted
-lower than the <<4_10>> column do not suffer Breakdown.  Remember the
+lower than the 4-10 column do not suffer Breakdown.  Remember the
 adjustments are in columns, not in points accumulated.
 
 [#21_34]*[21.34]* Having determined the Breakdown Column, the Player throws two
@@ -184,22 +185,21 @@ Breakdown Column. The result is the percentage of TOE Strength Points Broken
 down within the units for which the Player is rolling (remember Cases <<21_28>>
 and <<21_29>>). Each Truck Point is equivalent to a TOE Strength Point for this
 purpose. (Remember that it is the TOE Strength Points that break down, not the
-units.) Example: A stack with 30 Truck Points and 20 TOE Strength Points of
-Crusader I's accumulates 35 Breakdown Points and stops. The Player checks for
-Breakdown. The Trucks have a Breakdown Adjustment for each of the two Road hexes
-(it was using Road Movement), 8 for entering the Rough terrain hex, 2 for
-crossing the Ridge hexside and 4 for entering the Clear Terrain hex.
+units.) 
 
-Rating of 2L, and the Weather is Hot, so the 31-40 column is adjusted one lower
-(—2 and +1 = —1). The Player rolls a 33, consults the <<21_30>> column and sees
+[example] 
+A stack with 30 Truck Points and 20 TOE Strength Points of
+Crusader I's accumulates 35 Breakdown Points and stops. The Player checks for
+Breakdown. The Trucks have a Breakdown Adjustment Rating of 2L, and the Weather is Hot, so the 31-40 column is adjusted one lower
+(—2 and +1 = —1). The Player rolls a 33, consults the 21-30 column and sees
 that 10% of his Truck Points (or 3 Truck Points) have Broken down. He then
 checks for his Crusaders: they have a Breakdown Adjustment Rating of 1R, plus 1
-more for the Hot Weather, adjusting the <<31_40>> column up to the 51-60 column.
+more for the Hot Weather, adjusting the 31-40 column up to the 51-60 column.
 The Player rolls a 61, and 33% (or 1/3) of his Crusader I's — or 7 TOE Strength
 Points — have Broken down.
 
 [#21_35]*[21.35]* All Breakdown fractions are rounded up, (as the <<6_7>> Tank
-TOE Strength Points in Case 21.34 became 7). Exception: If the Player is
+TOE Strength Points in Case <<21_34>> became 7). Exception: If the Player is
 checking for a unit that has only one TOE Strength Point, all percentage results
 of 10% are ignored.
 
@@ -235,7 +235,7 @@ a game-map with Sandstorms ‘adjust the Breakdown column one higher (1R).
 which the units checking for Breakdown have ceased movement. However, if a unit
 checking for Breakdown started its movement within two hexes (with no Friendly
 units, Friendly ZOC's; or impassable intervening terrain) of an Enemy combat
-unit /arger than a single battalion, then at least 50% of all TOE Strength
+unit larger than a single battalion, then at least 50% of all TOE Strength
 Points that Break down must be placed in the hex in which that unit began
 movement.
 
@@ -260,7 +260,7 @@ Towing, Case <<21_6>>).
 [#21_45]*[21.45]* Supplies on broken down Trucks may be transferred to working
 Trucks in the same hex at the time of Breakdown at a cost of 2 Capability Points
 (the same as to load/unload). Infantry TOE Strength Points in broken down trucks
-may ‘dismount'? (1 CP) from the trucks and start walking. Any Capability Points
+may 'dismount' (1 CP) from the trucks and start walking. Any Capability Points
 they have accumulated while in a Truck count against their non-motorized
 Allowance of 10 (or 8), with the exception that if they have used more than 10
 (or 8) while motorized they are considered to have used only that 10 (or 8) —
@@ -318,7 +318,7 @@ it is a Medium Truck.
 
 [#21_64]*[21.64]* No vehicle may ever be towed if it is in an Enemy-controlled
 hex with the exception of towing at the instant of capture (see Cases <<21_55>>
-and 14,53). This restriction applies at a// times during the Repair Phase.
+and <<14_53>>). This restriction applies at all times during the Repair Phase.
 Friendly units negate Enemy Zones of Control.
 
 [#21_65]*[21.65]* Towing incurs no costs for Fuel, Stores or Water. Towed

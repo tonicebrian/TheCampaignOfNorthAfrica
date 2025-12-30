@@ -279,20 +279,19 @@ side with the larger unit. Unit equivalents apply here (see Case <<9_2>>).
 [#15_53]*[15.53]* The column adjustments for Organizational Size Difference,
 always in favor of the larger unit size, are as follows:
 
-Largest Unit On:
+.Largest Unit On:
+[cols="1,1,1", options="header"]
+|===
+| Larger Side | Smaller Side | Adjustment
 
-Larger Side Smaller Side Adjustment
-Division 3-point 1
-
-Brigade
-Division 2-point 2
-
-Brigade
-Division Battalion 4
-Division Company 8
-Any Brigade _ Battalion 2
-Any Brigade Company 4
-Battalion Company 2
+| Division    | 3-point      | 1 Brigade
+| Division    | 2-point      | 2 Brigade
+| Division    | Battalion    | 4
+| Division    | Company      | 8
+| Any Brigade | Battalion    | 2
+| Any Brigade | Company      | 4
+| Battalion   | Company      | 2
+|===
 
 All of the above are equivalents (<<9_2>>).
 
