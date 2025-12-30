@@ -1,5 +1,6 @@
 :numbered:
-:xrefstyle: short 
+:xrefstyle: short
+:doctype: book
 
 = The Campaign for North Africa : The dessert war 1940-43
 :toc:
@@ -101,3 +102,11 @@ include::section-27.adoc[]
 include::section-28.adoc[]
 
 include::section-29.adoc[]
+
+include::section-30.adoc[]
+
+include::section-31.adoc[]
+
+include::section-32.adoc[]
+
+include::section-33.adoc[]

@@ -18,4 +18,4 @@ perl -CS -e 's/â\x{80}[\x{9C}\x{9D}]/"/g' chapter.adoc
 perl -pi -e 's/-\n//' chapter.adoc
 
 # Create references
-perl -pi -e 's/[\s\(.](\d+)\.(\d+)[\s\).]/<<\1_\2>>/g' chapter.adoc
+perl -pi -e 's/[\s\(.](\d+)\.(\d+)[\s\).]/ <<\1_\2>>/g' chapter.adoc
