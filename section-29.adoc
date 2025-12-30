@@ -1,1221 +1,140 @@
 [#29_0]
 == WEATHER
+
 GENERAL RULE:
 
-“Whether there's weather or no, we must have
-weather, you know," In any case, weather is determined for each individual Operations Stage. There
-are four types of weather: normal, hot, sandstorms, and rainstorms. The probability of a given
-type of weather occuring depends on the season
-and the area of the game-map. Weather affects
-movement and breakdown.
+Whether there's weather or no, we must have weather, you know," In any case,
+weather is determined for each individual Operations Stage. There are four types
+of weather: normal, hot, sandstorms, and rainstorms. The probability of a given
+type of weather occuring depends on the season and the area of the game-map.
+Weather affects movement and breakdown.
 
 CASES:
 
 [#29_1]
 === WEATHER DETERMINATION
 
-The Player with initiative rolls two dice and consults the Weather Table <<29_6>>, using the proper
-row, in terms of season. The dice results are read
-sequentially. The Weather Table gives the weather
-for that Operations Stage (e.g., a diceroll of 53
-during summer results in Hot Weather).
+The Player with initiative rolls two dice and consults the Weather Table
+<<29_6>>, using the proper row, in terms of season. The dice results are read
+sequentially. The Weather Table gives the weather for that Operations Stage
+(e.g., a diceroll of 53 during summer results in Hot Weather).
 
 The Seasons are as follows:
 
-Season Starts Ends (inclusive)
-Spring March III June II
-Summer June III September IT
-Fall September III December II
-Winter December III March II
+[%header]
+|===
+|Season|Starts|Ends (inclusive)
+|Spring|March III|June II
+|Summer|June III|September IT
+|Fall|September III|December II
+|Winter|December III|March II
+|===
 
-If a "sandstorm”' or "rainstorm”' result is obtained, the Player consults the Foul Weather Location
-Table <<29_7>> and rolls one die. This determines the
-map sections affected. Unaffected map sections
-have normal weather. Note: Weather never affects
-Malta, Italy, Sicily, Crete, or Tunesia-Tripoli.
-Weather effects on map E do affect Allied offmap airfields.
+If a "sandstorm”' or "rainstorm”' result is obtained, the Player consults the
+Foul Weather Location Table <<29_7>> and rolls one die. This determines the map
+sections affected. Unaffected map sections have normal weather. Note: Weather
+never affects Malta, Italy, Sicily, Crete, or Tunesia-Tripoli.  Weather effects
+on map E do affect Allied offmap airfields.
 
 [#29_2]
 === NORMAL WEATHER
 
-Normal weather in North Africa means hot during
-the day and cold at night. But, for game purposes,
-normal weather has no effect on the play of the
-game. The effects of such weather are already built
-into the system.
+Normal weather in North Africa means hot during the day and cold at night. But,
+for game purposes, normal weather has no effect on the play of the game. The
+effects of such weather are already built into the system.
 
 [#29_3]
 === HOT WEATHER
 
-[#29_31]*[29.31]* When hot weather occurs, it occurs on ail
-sections of all game-maps.
+[#29_31]*[29.31]* When hot weather occurs, it occurs on ail sections of all
+game-maps.
 
-[#29_32]*[29.32]* When undergoing construction, the sites,
-exclusive of the requirements of units there, require water rations (see Case<<24_21>> in hot
+[#29_32]*[29.32]* When undergoing construction, the sites, exclusive of the
+requirements of units there, require water rations (see Case<<24_21>> in hot
 weather.
 
-[#29_33]*[29.33]* When determining Breakdown during hot
-weather, adjust the. Breakdown Column one column higher (to the right), see Case 21.37.
+[#29_33]*[29.33]* When determining Breakdown during hot weather, adjust the.
+Breakdown Column one column higher (to the right), see Case 21.37.
 
-[#29_34]*[29.34]* If the weather is hot, a// Fuel and Water
-Levels (not including water in wells or oases) are
-reduced by five per-cent (5%). This includes water
-and fuel in dumps as well as in trucks. However,
-do not count the water/gas actually being consumed by a unit (in the radiators and gas tanks, as it
-were.) This is done during the Weather Determination Phase.
+[#29_34]*[29.34]* If the weather is hot, all Fuel and Water Levels (not
+including water in wells or oases) are reduced by five per-cent (5%). This
+includes water and fuel in dumps as well as in trucks. However, do not count the
+water/gas actually being consumed by a unit (in the radiators and gas tanks, as
+it were.) This is done during the Weather Determination Phase.
 
-[#29_35]*[29.35]* During hot weather, water requirements
+[#29_35]*[29.35]* During hot weather, water requirements for all units are
+doubled.
 
-for all units are doubled.
-SAND
-STORM
 [#29_4]
 === SANDSTORMS Cees
 
-Sandstorms are whirling maelstroms of grit and
-dust, blinding personnel and clogging machinery
-for days. Visibility falls to zero, and all action
-comes to a virtual standstill. Most men preferred
-combat to the raging sandstorms.
+Sandstorms are whirling maelstroms of grit and dust, blinding personnel and
+clogging machinery for days. Visibility falls to zero, and all action comes to a
+virtual standstill. Most men preferred combat to the raging sandstorms.
 
-[#29_41]*[29.41]* Sandstorms occur only on certain sections
-of the game-map, as per the Weather Table <<29_6>>.
-Regardless of where a sandstorm occurs, it mever
-occurs over delfa hexes (Game-Map E). The
-Weather for game-maps on which there is no sandstorm is normal.
+[#29_41]*[29.41]* Sandstorms occur only on certain sections of the game-map, as
+per the Weather Table <<29_6>>.  Regardless of where a sandstorm occurs, it
+mever occurs over delfa hexes (Game-Map E). The Weather for game-maps on which
+there is no sandstorm is normal.
 
-[#29_42]*[29.42]* No construction may occur in a hex in
-which there is a sandstorm (see Case<<24_22>>.
+[#29_42]*[29.42]* No construction may occur in a hex in which there is a
+sandstorm (see Case<<24_22>>.
 
-[#29_43]*[29.43]* No aircraft may fly into or out of a hex
-with a sandstorm.
+[#29_43]*[29.43]* No aircraft may fly into or out of a hex with a sandstorm.
 
-[#29_44]*[29.44]* A// movement costs for hexes with a sandstorm are doubled.
+[#29_44]*[29.44]* All movement costs for hexes with a sandstorm are doubled.
 
-[#29_45]*[29.45]* If a unit expends 50% or more of its
-Capability Points for movement in sandstorm
-hexes during a given Movement Phase, the Player
-adjusts his Breakdown Point column one higher
-(to the right) when rolling for breakdown (see Case
-21.37).
+[#29_45]*[29.45]* If a unit expends 50% or more of its Capability Points for
+movement in sandstorm hexes during a given Movement Phase, the Player adjusts
+his Breakdown Point column one higher (to the right) when rolling for breakdown
+(see Case <<21_37>>).
 
-[#28_46]*[28.46]* Sandstorms do not extend out into the
-Mediterranean (they stop in the coastal hexes).
+[#28_46]*[28.46]* Sandstorms do not extend out into the Mediterranean (they stop
+in the coastal hexes).
 
-[#29_47]*[29.47]* Sandstorms may damage Grounded Aircraft (see Case<<38_5>>
+[#29_47]*[29.47]* Sandstorms may damage Grounded Aircraft (see Case<<38_5>>)
 
 [#29_5]
 === RAINSTORMS
 
-Sudden downpours in the desert were a lot more
-common than is supposed. Aside from the blessing
-of having water, these rainstorms often wreaked
-havoc on movement, turning roads into morasses
-of mud and flooding heretofore empty wadis with
-swollen — and deep — rivers of rainwater.
+Sudden downpours in the desert were a lot more common than is supposed. Aside
+from the blessing of having water, these rainstorms often wreaked havoc on
+movement, turning roads into morasses of mud and flooding heretofore empty wadis
+with swollen — and deep — rivers of rainwater.
 
-[#29_51]*[29.51]* Rainstorms occur only on certain gamemaps; see the Weather Table <<29_6>>. Any gamemap that does not have a rainstorm has normal
-weather.
+[#29_51]*[29.51]* Rainstorms occur only on certain gamemaps; see the Weather
+Table <<29_6>>. Any gamemap that does not have a rainstorm has normal weather.
 
-[#29_52]*[29.52]* No aircraft may fly into or out of a
-rainstorm hex. Note: Rainstorms do extend to the
-northern edge of the map; i.e., into the Mediterranean,
+[#29_52]*[29.52]* No aircraft may fly into or out of a rainstorm hex. Note:
+Rainstorms do extend to the northern edge of the map; i.e., into the
+Mediterranean,
 
-[#29_53]*[29.53]* All depleted wells are filled during a
-rainstorm.
+[#29_53]*[29.53]* All depleted wells are filled during a rainstorm.
 
-[#29_54]*[29.54]* No construction may occur during a
-rainstorm (see Case<<24_22>>.
+[#29_54]*[29.54]* No construction may occur during a rainstorm (see
+Case<<24_22>>.
 
-[#29_55]*[29.55]* All wadi hexsides are uncrossable during a
-rainstorm, except by Roads (see Case<<29_56>>.
-Players may not use wadis to draw water.
+[#29_55]*[29.55]* All wadi hexsides are uncrossable during a rainstorm, except
+by Roads (see Case<<29_56>>.  Players may not use wadis to draw water.
 
-[#29_56]*[29.56]* All road hexes have the same Movement
-Cost and Breakdown Rate as tracks during
-rainstorms. Tracks, themselves, remain as tracks,
-with the exception of Case 29.55.
+[#29_56]*[29.56]* All road hexes have the same Movement Cost and Breakdown Rate
+as tracks during rainstorms. Tracks, themselves, remain as tracks, with the
+exception of Case <<29_55>>.
 
-[#29_57]*[29.57]* All river hexsides not crossed by roads or
-railroads are impassable.
+[#29_57]*[29.57]* All river hexsides not crossed by roads or railroads are
+impassable.
 
-[#29_58]*[29.58]* No vehicle or motorized unit may enter a
-delta hex, unless it is on a road or railroad. Units in
-a delta hex at the start of a rainstorm must remain
-there for that Operations Stage, unless they are on
-aroad or railroad.
+[#29_58]*[29.58]* No vehicle or motorized unit may enter a delta hex, unless it
+is on a road or railroad. Units in a delta hex at the start of a rainstorm must
+remain there for that Operations Stage, unless they are on aroad or railroad.
 
 [#29_6]
 === WEATHER TABLE
+
 (see Charts and Tables)
 
 [#29_7]
-=== FOUR WEATHER
-LOCATION TABLE
+=== FOUR WEATHER LOCATION TABLE
 
 (see Charts and Tables)
 
-[#30_0]
-== THE MEDITERRANEAN
-FLEET (Commonwealth)
-
-GENERAL RULE:
-
-The Commonwealth Player is supplied with a
-number of battleships, cruisers and destroyers,
-which he may use for barrage and anti-aircraft
-purposes, They may not engage in naval combat
-(as there is none in the game). The ships — and
-their usage — are somewhat abstracted, as Naval
-movement by the British Fleet was extensive and
-erratic, and records of such are often inaccurate
-and misleading. Each ship has a Barrage Strength
-which is equivalent to Actual (not Raw) Barrage
-
-Points. They may be used to bombard. Ships may
-be subject to air attack as well as fire from land
-units. The Axis Player may try to cripple the
-British fleet with a daring Italian ‘“‘Chariot”' raid.
-The Italian Navy does not appear in this game; its
-actions are abstracted into the Axis Convoy Rules
-(see Section<<51_0>>.
-
-CASES:
-
-[#30_1]
-=== COMMONWEALTH NAVAL
-COUNTERS
-
-[#30_11]*[30.11]* Commonwealth naval units are, in
-essence, abstracted battleships, cruisers and
-destroyers. They have been given names (of ships
-actually in the Med at the time) for identification
-purposes. However, the British Fleet was never a
-stable affair, in terms of position, and thus the
-Naval units represent types of ships available,
-rather than an actual ships.
-
-[#30_12]*[30.12]* The naval counters have two strength
-numbers: their Gun Rating and'their AA Rating.
-The Naval Gun Rating is equivalent to Actual Barrage Strength Points. The unit's AA/Flak rating is
-actual AA Points. Thus, the Queen Elizabeth, a
-battleship, has an (initial) Barrage Strength of 6
-and an Anti-aircraft strength of 12 AA points.
-
-[#30_13]*[30.13]* The Gun Rating of a unit/ship also
-represents its ability to withstand damage. (I said
-this was abstracted.) Thus, each point of Gun
-Rating is like a Strength Point. To completely sink
-a ship, all points of Gun Rating must be elimianted. AA points are reduced in ratio to loss of
-Gun Points.
-
-[#30_14]*[30.14]* Naval units have no Stacking Points; they
-stack freely in any coastal or all-sea hex. They have
-no effect — in terms of their presence — on land
-movement, or air movement, or other Naval
-Movement, Enemy or friendly.
-
-[#30_15]*[30.15]* Commonwealth Naval units have a Range
-of 100 sea hexes. This means they may reach any
-hex within 100 sea hexes of Alexandria (I.e., they
-may not be placed further West than hexrow xx29
-on Map Section ‘B'.). They do not actually move;
-they are simply placed in their hex of assignment at
-the beginning of a given OpStage.
-
-[#30_16]*[30.16]* Naval units need no fuel, ammunition, or
-water within the requirement that they must spend
-two Operations Stages in Port for every one in action. In addition, no single ship may spend more
-than three consecutive Op-Stages at sea. (This, in
-turn, would require six Op-Stages in port.)
-
-[#30_17]*[30.17]* The Italians do have a ship: The San
-Giorgio. Unfortunately, it has been partially sunk
-to block the harbor at Tobruk. It operates as if it
-were an artillery unit, until its removal or complete
-sinking by enemy engineers. The San Giorgio may
-not move. It may fire into adjacent hexes. It may
-fire at Commonwealth ships adjacent hexes
-through sea hexsides.
-
-[#30_18]*[30.18]* Commonwealth ships may be moved to
-and from the port of Valetta (Malta). No more
-than five ships may be in Valetta at any one time.
-Valetta is a port (like Alexandria) for "recovery”'
-purposes. Ships in Valletta may be moved only to
-Alexandria. Movement between these ports takes
-one Op-Stage; it is not considered a turn"at-sea"
-for purposes of refit.
-
-[#30_2]
-=== OFF-SHORE BOMBARDMENT
-
-(30.21] Commonwealth ships may bombard any
-coastal hex they are in. In addition, battleships
-and heavy cruisers (4-pointers) may bombard any
-hex adjacent to the coastal hex they are in.
-
-[#30_22]*[30.22]* Ship Gun Ratings are used as if they were
-Actual Artillery Strength Points, with the exception that they need no ammunition. The Commonwealth Player just considers them as if they
-
-A]
-
-42
-
-were Artillery units in determining the effect of the
-naval guns, with one exception: battleships and
-heavy cruisers firing at 2 hexes distant (see Case
-30.21) have their strength halved.
-
-[#30_23]*[30.23]* To use ships for Off-Shore Bombardment, the Commonwealth Player simply moves
-the ship frem its home Port (which is usually Alexandria) to any hex within Movement Range it
-wishes to barrage from. Example: The British
-Player wishes to use the Valiant (a BB) and the Ajax (Heavy Cruiser) to bombard Derna. He places
-both ships in the Derna hex (00000) in the Commonwealth Fleet Assignment Segment; in any one
-Barrage Step of that Operations Stage they may
-bombard Derna and any hexes ajdacent to it.
-
-[#30_24]*[30.24]* Any one ship may use its Barrage Strength
-only once in an Operations Stage; it may not fire
-repeatedly, like an artillery unit (e.g., in the example in Case 30.23, the Commonwealth Player
-could fire twice, once with each ship). However,
-the Barrage Step that the ships fire in is up to the
-Commonwealth Player.
-
-[#30_25]*[30.25]* If a Commonwealth ship engages in OffShore Bombardment, it must spend the next two
-Operations Stages in Alexandria. This requirement has nothing to do with a ship firing antiaircraft guns at Enemy planes.
-
-[#30_3]
-=== ATTACKING SHIPS
-AND THEIR REPAIR
-
-[#30_31]*[30.31]* Ships may be damaged by airbombardment (see Case<<39_3>>, Coastal Guns (Case<<30_36>>,
-or, in a special case, an Italian Chariot Raid (Case
-30.4).
-
-[#30_32]*[30.32]* Enemy bombers, fighter bombers, and
-torpedo-carrying planes may bomb a ship counter
-in an effort to damage the ship, reduce its Gun
-Rating, and put it out of action. Planes bomb
-ships when they are in the same hex.
-
-[#30_33]*[30.33]* Bombing ships is a mission; a plane must
-be assigned to such mission in order to attack the
-ship. Even if it is in the same hex but is not assigned to bomb the ship it may not attack the ship. See
-Cases<<41_3>>and<<41_7>>for Ship Bombardment.
-
-[#36_34]*[36.34]* Damage on ships is taken in Gun Rating
-Points. The Air Bombardment Table gives the
-number of Damage Points in Gun Rating Points
-lost as a result of that mission. The Gun Rating of
-such ship is reduced accordingly. Thus, if the Ajax
-(a 4) were to suffer two Damage points, it would
-now have a Gun Rating of two (and an AA Rating
-of 4). Players should keep track of the Gun
-Ratings and Damage Levels of ships on their Ship
-Assignment Sheet. Ships always fire with their
-reduced (if any) Gun and AA Ratings.
-
-[#30_35]*[30.35]* Artillery units (with Vulnerability Ratings
-of 6 or more) and emplaced guns may be used
-against Enemy ships in the same hex as the artillery
-unit. The Player simply notes that the artillery is
-firing against the ships (separately from any Air
-Bombardment). Such artillery may not fire that
-Stage against land units. The Player takes the total
-Raw Artillery Points firing (not actual) and halves
-that total. He then uses the Air Bombardment
-Table, using the Artillery Points as if they were
-Bomb Points. Emplaced Guns (those Guns with a
-zero CPA) do not halve their Raw Points.
-
-[#30_36]*[30.36]* If a ship's Gun Rating falls to less than
-50% of its Face Value, it may not leave Port until it
-has been repaired to better than 50% of its value.
-If a ship's entire Gun Ratings have been
-eliminated, it is sunk (and unrepairable).
-
-[#30_37]*[30.37]* To repair one Gun Rating level, a Ship
-must stay in Alexandria for six consecutive Operations Stages. No engineer is needed, and no supplies are expended. If the ship moves before the six
-Stages are finished, all work must start again.
-
-[#30_38]*[30.38]* Ships may a@/ways fire as anti-aircraft guns
-regardless of where they are or what else they are
-doing — even repair.
-
-[#30_39]*[30.39]* The San Giorgio may fire at Commonwealth ships using its gun rating as Bombardment Points. See Case 30.35.
-
-[#30_4]
-=== THE ITALIAN 10TH
-LIGHT FLOTILLA:
-Chariot Raids
-
-In one of the most daring raids of the war, six men
-of the Italian 10th Light Flotilla, piloting slowspeed torpedoes called "Chariots" (or, affectionately, "Pigs"), slipped through the defense
-nets of Alexandria harbor on the night of 18
-December, 1941 and extensively damaged the
-Valiant, the Queen Elizabeth and two other ships,
-thoroughly crippling the British Fleet in the
-Eastern Mediterranean. The following rule
-simulates this remarkable feat of, daring and
-courage.
-
-[#30_41]*[30.41]* Starting in July of 1941, the Axis Player
-may attempt a "chariot”' raid on Alexandria. His
-object: to damage Commonwealth shipping.
-
-[#30_42]*[30.42]* The raid must be planned two weeks (six
-Operation Stages) in advance. The raid actually
-occurs on the seventh Operations Stage following
-the Stage in which it is planned. The Axis Player
-simply notes on a piece of paper the date of the
-plan of the raid and its execution.
-
-[#30_43]*[30.43]* The raid takes place in the Air Mission
-Completion Segment of the Land Support Air
-Phase (after all ships have been sent out on any
-missions in the Ship Assignment Phase).
-
-{30.44] The Axis Player announces the Frogman
-Raid and rolls one die, consulting the "Chariot”'
-Table <<30_46>>. The results on that table are selfexplanatory.
-
-[#30_45]*[30.45]* No supplies are needed or expended.
-However, the Chariot raid may be attempted only
-once in the game. It may be used only in a Campaign Game — not in an abbreviated scenario.
-
-[#30_46]*[30.46]* The Chariot Table
-(see Charts and Tables)
-
-[#30_5]
-=== NAVAL TRANSPORT
-OF TROOPS
-
-Only the Commonwealth has the ability to transport troops by sea; the Axis had little viable coastal
-shipping in North Africa. What they had was used
-for supplies. This section applies only to personnel; transporting of supplies by sea is covered-in
-Case 00.00.
-
-[#30_51]*[30.51]* The Commonwealth may transfer units
-from one port to another, dependent on the personnel capacity of the port. Furthermore, ports
-may be incapacitated as a result of Enemy Air
-Bombardment (Case<<39_3>>, in which event they are
-incapable of receiving or shipping out any personnel.
-
-[#30_52]*[30.52]* The Commonwealth Player may make only one transfer of personnel per Operations Stage
-per port. Naval Transport and Transfer of troops
-takes place in the Truck Convoy Movement Phase.
-Thus, regardless of the ports used, or the direction
-of the transfer/transport (east-west), only one
-transfer/transport operation may occur per
-Operations Stage in any one port.
-
-[#30_53]*[30.53]* All transfer of personnel from one port to
-another may affect any shipments of supplies
-received (see Case<<30_57>>.
-
-[#30_54]*[30.54]* The number of troops that may be debarked or embarked at a given port is dependent on the
-Port Personnel Capacity. The Port Personnel
-Capacity is the number of Sfacking Points that
-that port can take in or send out in a given Opera
-tions Stage. Understandably, the capacity of the
-transfer will be limited by the port with the
-smallest capacity, be it the port of embarkation or
-debarkation.
-
-[#30_55]*[30.55]* To be transferred, a unit or units must
-start the Operations Stage in the port of debarkation. It may expend no Capability Points during
-the Phases prior to the Truck Convoy Segment. In
-the Truck Convoy Segment, it is transferred to the
-port of embarkation, where it is landed at a cost in
-Capability Points equivalent to its Capability
-Point Allowance.
-
-[#36_56]*[36.56]* Transfers may not take place between
-ports when one is incapacitated because of Enemy
-Air Bombardment (see Case<<39_3>>. Transfer may
-take place between any Friendly-controlled Ports.
-(Control means the last Player to occupy the hex.)
-
-[#36_57]*[36.57]* Whenever a Player transports troops by
-way of a port, the ability of that port to handle
-
-‘supplies is reduced by the percentage listed in Case
-
-30.59. Thus, if Benghazi brought in any troops, its
-supply transport capacity (reduced or maximum
-level) is reduced by 25% for that Operations Stage.
-
-[#30_58]*[30.58]* Ports may be blocked by mines, etc. (see
-Case<<50_2>>. This does not affect a port's capacity
-to receive personnel (as above) until and unless
-that port is reduced to /ess than 2/3 (67%) capacity, rounded up. In such case, the port may not
-receive or send any personnel. Any port that is
-totally incapacitated by bombing may not, of
-course, receive or send personnel.
-
-[#30_59]*[30.59]* Port Capacity Chart
-(see separate sheet)
-
-[#30_6]
-=== Commonwealth Fleet Reinforcement
-Schedule
-
-[#31_0]
-== ROMMEL
-GENERAL RULE:
-
-The Axis Player receives a counter representing
-General Rommel. The Rommel counter aids the
-Axis Player in several ways (see also Raid on Rommel, Section<<27_6>>:
-
-1. Rommel has a Movement Capability Point
-Allowance of sixty (60); the Rommel counter is
-considered a vehicle (treat as 4-wheel drive
-medium truck with AM radio only and no ).
-He has no combat ratings.
-
-2. Rommel may react and retreat before assault
-when approached by any unit except an LRDG.
-He may Retreat through an Enemy Zone of Control with impunity.
-
-3. If Rommel is in the same hex as a unit involved
-in combat during the Combat Phase, all units in
-that stack have their Morale increased by one.
-
-4. If Rommel starts an Operations Stage with a
-unit(s) and remains with that unit for the entire
-Operations Stage, such unit may increase its
-Capability Point Allowance by five points.
-
-In addition to the above, there is a chance that
-Rommel has been called back to Berlin or has
-flown to Germany for health reasons. At the
-beginning of each Game-Turn that Rommel is present the Axis Player rolls two dice. If he rolls a 12
-Rommel is in Germany, and the Axis Initiative
-falls to 3 for that Game-Turn. Rommel returns the
-next Game-Turn (unless the Player throws another
-12).
-
-A brief Designer's Note: The inclusion of Rommel
-as a counter (without using other specific commanders) was a pure design decision. While Rommel did have a great affect on tactical operations
-and decisions, including only him in the game is a
-Design Affectation, pure and simple. However,
-the effect of the Rommel counter /s historical.
-
-[#32_0]
-== ABSTRACT LOGISTICS
-AND AIR RULES
-
-COMMENTARY:
-
-The design thrust of CNA is logistics: the
-availability and proper use of supplies and trucks.
-As a simple experiment to test the efficacy of this,
-try motorizing all Italian divisions in 1940, doubling Italian initial supply outlay and arrival. Watch
-them winter in Cairo. However, both designer and
-developer, men of some mercy, felt that there were
-those who might want to try CNA from a purely
-military viewpoint. To this end, they have formulated the rules below, enabling players to work
-within a simpler logistics format. The game is not
-really simplified, it is just a lot less work; it should
-also cut playing time in half (from endless to simply horrendous).Moreover, because virtually all of
-the design effort went into the stardard game, using these rules will have some effect on game
-balance. How much is up to how well and how
-historically the players perform. (see Section
-65.0).
-
-GENERAL RULE:
-
-This Section applies if the Players are playing the
-Land Game without the Air and Logistics Games.
-All supply expenditures in the Land and Air
-‘Games rules are ignored and are replaced by those
-Ammo andFuel costs listed in this section. Players
-will not receive any trucks but rather receive
-Motorization Points which may beused to increase
-the CPA of non-motorized units or to transport
-“Supply Units." Supply Units contain Ammo and
-Fuel Points which must be expended in order for
-units to move and fight. Supply units are received
-in lieu of and, with some adjustments, in the same
-manner as standard supplies.
-
-[#32_1]
-=== SUPPLY UNITS AND SUPPLY
-
-[#32_11]*[32.11]* The Players ignore all references to usage
-and expenditure of Ammo, Fuel, Stores and
-Water. (Thus, no unit will ever suffer attrition
-from lack of Stores, etc.). Only those rules for sup
-ply given below apply.
-
-9
-
-[#32_12]*[32.12]* The Players will be receiving Supply
-Units, which are abstract substitutes for all of the
-aforementioned points. A Supply Unit is
-represented by a Supply Dump counter.
-
-{32.13] A Supply Unit has no combat capabilities.
-If any enemy combat unit enters a Supply Unit's
-hex, that unit is captured (and its supplies used immediately and freely).
-
-[#32_14]*[32.14]* A Supply Unit possesses a stacking value
-of zero. However, only five such units may be
-placed in a Major City hex while only three units
-may be placed in any other type of hex off-map.
-The boxes of the Tripoli/Tunisia region may contain an unlimited number of Supply Units.
-
-[#32_15]*[32.15]* A Supply Unit initially contains and may
-never contain more than 40 Ammo Points and 60
-Fuel Points. Expenditures will reduce these
-numbers, When both Ammo and Fuel Points are
-at zero, the Supply Unit is removed. Supplies may
-be rearranged (at no cost) among Supply Units occupying the same hex during the Organization
-Phase. Movement and combat supply requirements may be satisfied by any Friendly Supply Unit within range.
-
-[#32_16]*[32.16]* A Supply Unit may be drawn upon by any
-Friendly combat unit if it is within one-half (1/2)
-of that combat unit's CPA. Thus, a nonmotorized infantry unit would have to be within 5
-CP's of a Supply Unit, while a heavy weapons unit
-
-being transported by Motorization Points would
-
-ave to be within 10 CP's and a typical recce unit
-unit within 23 CP's. The distance is calculated
-from the unit to the Supply Unit as though it is being traversed by a medium Truck unless the unit is
-a non-motorized infantry unit in which case it is
-traced as infantry movement. The supply line may
-not be traced thru impassable terrain or enemy
-ZOC's unoccupied by Friendly units.
-
-[#32_17]*[32.17]* Players may attempt to destroy Supply
-Units they are with. To do.so the Player expends
-one-half of the CPA of all units in the hex (rounding upwards) and rolls one die for each Supply
-Unit in the hex. If he rolls a 1, 2 or 3 the Supply
-Unit is destroyed, any other result and it is unaffected. If the sum of the Stacking Points in the hex
-during the attempt is one or less, add one to the die
-roll. Attempting destruction of Supply Unit(s) occurs prior to any movement in a given sub-segment
-of a Movement/Combat Segment. Only one attempt may be made per Supply Unit per subSegment.
-
-[#32_18]*[32.18]* Players may use dummy Supply Units to
-confuse their opponent(s). For every three Supply
-Units a Player receives and/or begins a scenario
-with, a Player may place one dummy Supply Unit
-on the map. It is moved int he same fashion as the
-real thing (although it requires less Motorization
-Points) and is removed upon discovery.
-
-[#32_2]
-=== SUPPLY EXPENDITURES
-
-The Players will be required to keep track of the
-number of Ammo and Fuel Points in each supply
-unit. The Supply Dump, Truck Convoy and TOE
-Log Sheets may be used for this purpose. Note that
-for this Case's purposes, the Commonwealth Fleet
-and TOE Strength Points being used to Patrot do
-not require supplies.
-
-[#32_21]*[32.21]* Ammo Points are expended by the
-number of individual battalion-equivalents supplied (that is, a five Stacking Point value division
-expends ammo by its component counters — not
-as a whole). A non-Phasing Bn-Eq requires one
-Ammo Point to participate in an Assault and two
-Ammo Points to participate in a Barrage. A Phasing unit requires twice the appropriate number of
-Ammo Points as a non-Phasing Unit.
-
-[#32_22]*[32.22]* Ammo Points must be expended at the instant of combat.
-
-[#32_23]*[32.23]* Fuel Points are expended per Operations
-State. Basically, each battalion-equivalent expends one Fuel Point in any Operations State in
-which it is moved by land (as opposed to rail or
-sea). In each Operations Stage, the first time a fuel
-requiring unit is moved, the required one (or two)
-Fuel Points are expended from a Supply Unit. This
-unit may now be moved up to its CPA in any combination of movements and halts within that
-Operations State. If the unit exceeds its CPA in
-that OpStage, additional Fuel Points must be expended at the instant the unit exceeds its CPA.
-
-[#32_24]*[32.24]* Each tank battalion equivalent requires
-two fuel points for movement. Each tank
-Company-Eq requires one fuel point to move, All
-Gun-Class and Recce-type (excluding camel reconnaissance) battalion-equivalents require one Fuel
-Point to move. Any Motorization Points transporting infantry units (not Replacement Points) or
-gun unit battalion-equivalents or a real Supply
-Unit require one Fuel Point. (Companyequivalents or Motorization Points used for purposes other than listed above do not require Fuel
-Points).
-
-{32.25] Patrolling does not require supply expenditure.
-
-[#32_3]
-=== MOVEMENT OF SUPPLY UNITS
-
-[#32_31]*[32.31]* Supply Units may be moved by land, -rail, _
-
-sea, and air. A Supply Unit may be moved by land
-or rail during the OpStage in which it arrives.
-
-[#32_32]*[32.32]* Supply Units may be transported by
-Motorization Points. Thirty Motorization Points
-are required to transport one real supply unit. Six
-Motorization Points are required to transport a
-dummy supply unit. Motorization Points may be
-attached/detached to supply units only during the
-Organization Phase of an OpStage. A supply unit
-not assigned the minimum necessary number of
-Motorization Points may not be moved.
-
-{32.33] A supply unit being transported by
-Motorization Points may be moved in the owning
-Player's Movement/Combat Phase or Truck Convoy Phase but not both. It may be moved in the
-friendly Movement and Combat Phase only if it
-begins and remains stacked with a Friendly combat unit. Not that this restriction has no effect on
-the normal non-Phasing movement.
-
-{32.34] The Commonwealth Player may
-transport any two supply units (real and/or dummy) by rail in any one direction as the total load for
-a given Operation Stage. Normal rail movement
-rules apply.
-
-[#32_35]*[32.35]* The Axis Player may transport supply
-units by Axis Coastal Shipping. Each supply unit
-requires 2000 tons of coastal shipping (he may use
-two ships on one mission).
-
-[#32_36]*[32.36]* The Commonwealth Player may
-transport a total of one supply unit per OpStage by
-sea to/from the ports of Alexandria, Benghazi,
-and Torbruk. The port of destination must currenly possess an efficiency level permitting the usage
-of at least 50% of the port's listed capacity. This
-sea transport occurs during the Naval Convoy Arrival Phase andis in lieu of any combat unit
-transport from the port of origin and into the port
-of destination.
-
-[#32_37]*[32.37]* Only supply units may be transported by
-air. Each Player may air transport one supply unit
-per Game-Turn. The air transport occurs during
-the Organization Phase of an OpStage (Motorization Points may be detached in order for the supply unit to be air transported). The supply unit is
-simply picked up and placed in a new hex. The hex
-of origin and destination must be a major city,
-village, or Tripoli/Tunisia box. The owning
-Player must expend 12 Fuel Points before
-transport from any supply unit in the hex or
-origin. The supply unit may not be transported
-from a hex if there are any Enemy combat units
-within five hexes of that hex. The supply unit may
-not be transported further east (if Axis), or west (if
-Commonwealth) than the easternmost/westernmot hexrow (respectively) occupied
-by a Friendly division (shell or full). In addition,
-the destination hex must be occupied by a Friendly
-division or brigade (not battle-group) headquarters counter. An air-transported supply unit
-(and its supplies) may not be moved at all by the
-owning Player that OpStage, although it may be
-drawn upon (see Case<<32_16>>.
-
-[#32_4]
-=== AVAILABLILITY OF
-SUPPLY UNITS
-
-[#32_41]*[32.41]* At the start of each scenario the Players
-receive a specified number of Supply Units (see the
-Simplified Supply case in each scenario). In addition, the Players receive Supply Units from the
-Simplified Supply Unit Availability Tables (see
-case<<32_46>>and<<32_47>>.
-
-[#32_42]*[32.42]* Supply Units for the Axis Player arrive as
-per convoy, see<<32_6>>Commonwealth Supply Units
-are placed in Cairo unless more than three are
-received in a single Game-Turn. In sucha case, one
-Supply Unit for every three received may be placed
-in Alexandria.
-
-43
-
-[#32_43]*[32.43]* At the beginning of each Game-Turn, the
-Players plan for the arrival of their supply units.
-The Axis Player plans two Game-Turns in advance, the Commonwealth four Game Turns in
-advance. Players may do as much planning as is
-necessary to that, with the exception of the starting
-Game-Turn of a scenario, Supply Units arrive on
-all Game-Turns (if permitted by the planning die
-rolls).
-
-[#32_44]*[32.44]* The Axis Player plans his supply using the
-following procedure. He consults the Axis Naval
-Convoy <<00_00>> and determines the appropriate
-Availability Chart Tonnage Availability Letter for
-the month in which he is planning (not the month
-in which it is arriving). He then consults the Axis
-Simplified Supply Availability Table. He rolls one
-die and cross indixes the roll with the column matching the letter. The result is the number ‘of Real
-Supply Units he may bring in on Axis Naval Convoys two Game-Turns from then.
-
-[#32_43]*[32.43]* The Commonwealth Player plans his supply using the following procedure. He consults the
-Commonwealth Simplified Supply Availability
-Table and determines the time period involved.
-This time period is that of the arrival of the Supply
-Units, not the one in which they are being planned.
-He then rolls one die, cross indexing it with the
-proper column. The result is the number of Real
-Supply Units he receives four Game-Turns hence.
-
-[#32_46]*[32.46]* Axis Simplified Supply Availability Table
-(see Charts and Tables)
-
-[#32_47]*[32.47]* Commonwealth Simplified Supply
-Availability Table
-(see charts and tables)
-
-[#32_5]
-=== MOTORIZATION POINTS
-
-[#32_53]*[32.53]* Motorization Points are used in place of
-Truck Points. They are used to transport
-(motorize)units and may also be assigned to
-transport Supply Units. Motorization Points are
-treated in all aspects as Medium Truck Points except as modified in this Major Case.
-
-[#32_52]*[32.52]* Each scenario lists the number of
-Motorization Points initially available to the
-Players. Additional Motorization Points are
-received as reinforcements as per scenario instructions. In addition, Players may bring in Motorization Points as Replacements at a rate equal to their
-ability to bring in Mdium Truck Replacement
-Points.
-
-[#32_53]*[32.53]* Motorization Points may be used to
-transport units and all Guns with a CPA of 0+.
-All normal units are considered to possess their
-own ‘built-in' transport, as in the standard game.
-
-[#32_54]*[32.54]* All ‘leg' infantry units may be motorized.
-However, a Player must assign Motorization
-Points sufficient to transport all historically
-motorized infantry units (i.e., those with CPA's of
-8+ and 10+) before assigning them to any other
-infantry-type units.
-
-[#32_55]*[32.55]* Motorization points are not subject to
-Breakdown. All other Breakdown rules apply.
-
-[#32_56]*[32.56]* Motorization Points are normally subject
-to loss only if the unit they are assigned to is
-eliminated. If their assigned unit is captured, the
-Motorization Points are also captured and may be
-used by the Enemy. Note that a Barrage Combat
-Result against Trucks never occurs.
-
-[#32_57]*[32.57]* Motorization Points are subject to
-(abstract) loss from various factors (mostly Enemy
-aircraft). During the first Naval Convoy Stage of
-each month, Motorization Points losses for the
-previous month are determined. The Players consult the Abstract Motorization Point Loss Chart
-and read the result for the appropriate month. The
-number to the left of the stroke is the percentage of
-
-Motorization Points lost by the Commonwealth
-Player; the number to the right of the stroke the
-percentage lost by the Axis Player. The percentage
-is that of the total Motorization Points belonging
-to the Player on the map (which includes
-Tripolitania-Tunis boxes) at that point in time.
-The points lost may be removed from anywhere on
-map Section E for the Commonwealth Player or
-anywhere on Section A (including the off-map
-region) for the Axis Player.
-
-[#32_58]*[32.58]* Motorization Points transporting a supply unit have the following attributes:
-
-A. They possess a CPA of 15.
-
-B.If forced to exceed their CPA for any reason,
-they must be returned to the last hex in which
-they had not exceeded their CPA.
-
-C. Are not required to expend CP's if stacked with
-combat units participating in combat.
-
-D.May react unless the unit moving adjacent
-possesses a CPA of 35 or more.
-
-[#32_59]*[32.59]* Abstract Truck/Motorization Loss Chart.
-
-(see Charts and Tables)
-
-[#32_6]
-=== SIMPLIFIED AXIS
-NAVAL CONVOYS
-
-[#32_61]*[32.61]* In the abstract Logistics game system,
-Axis Naval Convoys consist of all Supply Units,
-Motorization Points and Replacement Points for
-that Game-Turn. These items may be divided and
-assigned to any Convoy Lane available, as per
-rules for such assignment <<56_0>>. These are no tonnage limitation.
-
-[#32_62]*[32.62]* The Axis Player may never assign more
-than three Supply Units and twenty Motorization
-Points to any one Convoy Lane in any one Naval
-Convoy Stage. Note that the Axis Player is limited
-by the Replacement Pool's charts as to the maximum number of each type item that may be
-assigned to Axis Naval Convoys (total) for arrival
-during a particular Game-Turn.
-
-[#32_63]*[32.63]* The Commonwealth Player may attempt
-to destroy whatever is being shipped by a particular convoy. He may attack all convoys
-regardless of the weather on the map. The attack(s) occur in the Naval Convoy Phase of the
-OpStage. The Axis Player announces which convoy lanes are being used. The Commonwealth
-Player then attacks each arriving convoy separately.
-
-[#32_64]*[32.64]* Each attack is carried out as follows: The
-Commonwealth Player consults the Simple Axis
-Naval Convoy Bombing Chart <<32_66>> and reads
-down the proper Convoy Lane column until
-reaching the westernmost location of a qualifying
-Commonwealth division. He then reads across
-that row to determine the number of Bomb Points
-to be used in the attack. The Commonwealth
-Player then consults the Air Bombardment Combat Results Table, rolls two dice reading them sequentially and refers to the previously determined
-Bomb Points column to yield the result. The result
-is expressed in percentage of supply units,
-Motorization Points and Replacement Points
-assigned to that convoy lane that are destroyed.
-
-[#32_65]*[32.65]* The result obtained above on the Axis
-Naval' Convoy is modified as follows:
-
-A.A result of 10% applies only to Motorization
-Points and Replacement Points, rounding fractions down for the former and rounding fractiongs
-up for the latter.
-
-B.A result of 20% or greater applies to all items
-being conveyed, rounding fractions down. However, at least one point of each and Supply Unit is
-always eliminated.
-
-Losses of tanks and guns, within each nationality,
-are in percentages of the total, not the individual
-
-types. For example, a convoy carrying one point
-of CV 33's, two points of PzII's, two points of
-PzIIIJ's and two points of PzIVH's that suffers a
-10% loss only has the CV 33 and one German tank
-point eliminated (the Axis Player's choice).
-
-[#32_66]*[32.66]* Simple Axis Naval Convoy Bombing Chart
-(see Charts and Tables)
-
-[#32_7]
-=== BOMBARDMENT OF THE
-COMMONWEALTH FLEET
-
-[#32_71]*[32.71]* The Axis Player may perform a limited
-number of Bombardment attacks on the Commonwealth Fleet in Alexandria Harbor.
-
-[#32_72]*[32.72]* The Axis Player determines the number of
-such attacks he is permitted to make in the
-scenario as follows: He rolls one die secretly, adding two to the number if playing a Campaign
-Game. The result is the number of attacks the Axis
-Player may perform against Commonwealth ships
-using the Air Bombardment and Secondary Barrage Targets Combat Results Table in that
-Scenario.
-
-[#32_73]*[32.73]* The Axis Player may only perform one
-such attack per Operations Stage. Each attack
-must be plotted secretly during the' Commonwealth Fleet Assignment Segment of an
-Operations Stage. Once planned, it occurs in the
-Tactical Naval Movement Segment of that Operations Stage.
-
-[#32_74]*[32.74]* The attack is performed as follows:
-
-a. The Axis Player determines the strength of the
-attack by consulting the Air Bombardment and
-Secondary Barrage Target Combat Results Table
-and rolling one die, adding two to the die roll if
-playing the Campaign Game. The attack is determined on that number of columns in from the left
-hand side of the table (that is, a roll of 1 would
-result in the attack being performed on the Bomb
-Points: 1-20 column, etc.)
-
-b. The Axis Player rolls two dice, reading them sequentially. He cross-indexes the dice roll with the
-proper column to determine the result. The result
-is the number of damage points (see the Chariot
-Raid Table,<<30_46>> inflicted upon the ships in
-Alexandria Harbor (only). The Axis Player may
-distribute these Damage Points in any manner he
-wishes.
-
-[#32_75]*[32.75]* No Bombardment attack may be made if
-Game-map section "E"'s weather is either rain
-storm or sand storm.
-
-[#32_8]
-=== ANTI-ARR UNIT MODIFICATIONS
-
-[#32_81]*[32.81]* The Commonwealth Player removes all
-Anti-air units and all Light and Heavy Anti-air
-TOE Strength Points (regardless of where
-assigned) from play. This includes anti-air
-Replacement Points. Captured Axis anti-air TOE
-Strength Points are immediately removed from
-play.
-
-[#32_82]*[32.82]* The Axis Player removes all German antiair units with ID Codes of "z,”' and "bb" from
-play. All assigned light anti-air TOE Strength
-Points and Replacement Points are removed from
-play. Heavy anti-air TOE Strength Points and
-Replacement Points are unaffected.
-
-[#32_83]*[32.83]* The Axis Player's Italian forces are affected as follows:
-
-1. All anti-air units (.e., those with ID Codes of
-“ss,'? “tt? and "uu") are removed from play.
-
-2. All anti-air TOE Strength Points assigned to
-emplaced gun units (ID Code "pp") are removed
-from play (just the AA points);
-
-3. Artillery units that may be assigned anti-air
-points (ID Code "kk") lose all assigned Heavy
-anti-air TOE Strength Points.
-
-4. All Heavy anti-air (i.e., 75mm and 90mm)
-Replacement Points are lost.
-
-5. Light anti-air Replacement Points may only be
-brought in at a rate of one per month (effectively
-halving the number of available points).
-
-[#32_84]*[32.84]* All of the above modifications and restrictions apply to anti-air TOE Strength Points and
-Replacement Points. They do not affect non-antiair TOE Strength Points/Replacement Points that
-possess an anti-air rating.
-
-[#32_9]
-=== ROAD AND TRACK STACKING
-MODIFICATION
-
-The Players ignore all Road and Track (only)
-Stacking Point restrictions listed in Section 9.0.
-
-ADDENDA
-
-The following addenda to the rules and counters
-of Campaign for North Africa are the result of
-continuing testing and fine tuning by the
-design/development team. In a game the size of
-CNA, it is a virtual certainty that some points will
-be in need of clarification — or even correction,
-despite the most elaborate precautions. The
-following addenda are included as the game goes
-to press in order to provide the most up-to-date
-game possible.
-
-[#3_1]
-=== (clarification) Parent Unit. The terms
-Parent Unit and Parent Formation have been used
-interchangeably. It was intended that they express
-the following distinction: a Parent Unit has
-counters attached while a Parent Formation has
-counters assigned.
-
-[#3_4]
-=== (clarification) Coast Defense Guns. There
-are three types of coast defense guns in CNA:
-
-A. Inname only: A number of units possess the title of Coastal Defense Artillery that are nothing of
-the sort. These may be distinguished by. the fact
-that their guns possess CPA's of 15. They were
-simply artillery units (theoretically) assigned to a
-coastal defense role. They may contain any type of
-artillery.
-
-B. Sited Guns: These units and/or TOE Strength
-Points possess a CPA of ‘0+." This indicates
-that while the guns did not possess organic
-transport, had transport been available, the guns
-could have been moved with little trouble.
-
-C. Emplaced Guns: The units and/or TOE
-Strength Points possess a CPA of "0.'? This indicates that the guns have been "fixed" in
-revetments and may never be moved. Note that
-there were emplaced guns at Benghazi that are not
-represented in CNA due to their inability to fire at
-shoreward targets coupled with the game restriction as to how far west Commonwealth warships
-may operate.
-
-[#3_6]
-=== LIMITED INTELLIGENCE
-(addition)
-
-CNA relies heavily on the Players' willingness to
-trust one another. Virtually all of the information
-in the game is kept hidden from your opponent.
-Even in land combat, only the totals are revealed,
-not the units producing them.
-
-{3.61] Players are not entitled to any knowledge
-of the status, composition, or any other attributes
-of any opposing counter in CNA except as expressly indicated in the rules.
-
-[#3_62]*[3.62]* The following is a partial listing of the information available to opposing Players:
-
-Map. A Player may examine any stack of counters
-on the game map. What is in those counters is
-another story.
-
-Anti-armor Fire. The types of tanks and selfpropelled guns, presence of armored recce-type
-and/or halftracks actively participating in Assault
-in a hex but not the numbers, hex(es) of origin or
-which TOE Strength Points absorbed the Damage
-Points.
-
-Close Assault. The unit types actively participating in Close Assault (or forced into it via
-
-Overrun) but not the numbers, weapon systems
-what took losses, etc.
-
-?
-
-Prisoners. Nothing. All you get is the prisoners
-and captured equipment; they may not be quizzed.
-
-Patrol. No mention of the state of supplies or attached trucks (other than whether the unit is
-motorized).
-
-Broken down vehicles/destroyed tanks/abandoned vehicles. The contents of the marker is secret.
-
-POW's/POW Camps/Guards. The numbers (and
-nationality, if Axis) are secret.
-
-Construction, The item undergoing construction/demolition is secret.
-
-Trucks & Replacement Points. The numbers,
-types, etc., are secret.
-
-Air reconnaissance. Even less detail than Patrol.
-
-Planes. The Players are entitled to know the exact
-makes of opposing planes engaged in air-air
-combat but the pilot ratings are secret up to the instant of combat. Land units without any Anti-air
-TOE Strength Points or an SGSU in a hex in which
-a bombing or strafing mission occurs are not entitled to know the numbers or types of planes
-engaged in the mission(s), only the type of mission
-being performed.
-
-[#12_0]
-== (clarification) For the purposes of this Section, all references to artillery units apply to any
-unit comprised of TOE Strength Points with a
-Barrage Rating.
-
-[#12_23]*[12.23]* (addition) Commonwealth warships are
-always considered to be historically identified
-targets.
-
-[#12_46]*[12.46]* (clarification) Trucks do not receive terrain benefits.
-
-[#14_0]
-== (clarification) Anti-armor fire occurs
-within a hex occupied by the non-Phasing Player's
-units. However, either Player may be the attacker
-and/or the defender.
-
-[#14_15]*[14.15]* (addition) A parenthesized anti-armor
-rating may only be used if there are no units comprising TOE Strength Points possessing nonparenthesized anti-armor ratings. Note that
-replacement points do not affect this ability.
-
-[#14_27]*[14.27]* (clarification) The Phasing Player may
-send TOE Strength Points from a unit into different hexes, regardless of whether all are engaging
-in anti-armor or all in close assault.
-
-[#16_51]*[16.51]* (clarification) Note that the Patrolling
-Player does not identify the types of TOE Strength
-Points comprising the unit. Example: A tank battalion comprising four Shermans, two Stuarts,
-and two Mark VI Lights (8 TOE Points) can be
-simply reported as a tank battalion of six points (8
-+ 2 points).
-
-[#19_62]*[19.62]* (addition) Any eliminated unit whose
-maximum TOE Limit is one or two TOE Strength
-Points. If the unit's assigned spot has been taken
-by the time it is recreated, it is treated as an independent unit.
-
-[#20_63]*[20.63]* The Axis Player is required to schedule at
-least fwo weeks in advance, those Replacement
-Points (from his Axis Replacement Pool) he is sen
-ding to NorthAfrica via the Axis naval convoys.
-Replacement Points may be scheduled to arrive
-during any OpStage of a Game-Turn, as per the
-naval convoy rules. For example, Replacement
-Points arriving during the third week of August,
-1941 must be scheduled for Axis naval convoys in
-the first week of August's Naval Convoy Schedule
-Phase. (Players should note that the maximum
-tonnage that the Axis naval convoys of the third
-week of August is determined during the second
-week of August!)
-
-[#21_11]*[21.11]* (addition) TOE Strength Points comprising a headquarters unit are not subject to
-breakdown, regardless of type.
-
-[#21_63]*[21.63]* (clarification) Any portion of the broken
-down vehicles in a hex may be towed. However, if
-only some are towed, the owning Player will have
-to place an additional marker in the new location
-and adjust his information on the control sheet
-(see Case<<21_67>>.
-
-[#21_67]*[21.67]* (addition) Players should avoid proliferating masses of broken down vehicles and
-destroyed tank markers over the game map.
-
-[#23_15]*[23.15]* (addition) The Commonwealth Player
-receives, via the Reinforcement Track, two tank
-battalions completely refitted (re-equipped) with
-Scorpion tanks (historically the 42nd and 44th
-Royal Tank Regiments). These two battalions are
-engineer units but possess only anti-minefield
-capabilities. Each battalion is considered to
-possess engineer unit status while it contains at
-least six Scorpion TOE Strength Points. Note that
-the points may not be transferred to other units for
-any reason, including the elimination of the
-"tank" battalion.
-
-[#24_79]*[24.79]* (addition) A maximum of one flying boat
-facility and one non-flying boat facility may be
-built in any hex. Air landing strips and flying boat
-alighting areas may be upgraded to airfield and
-flying boat basin status respectively. However, the
-facility may not be used while the upgrading is
-underway and no benefit in reduction of construction is applied.
-
-[#27_32]*[27.32]* (clarification) This includes pipeline in
-railroad hexes (although the railroad itself may not
-be harmed by a raid).
-
-[#30_36]*[30.36]* (addition) If the warship is eliminated
-while transporting a commando unit, the commando unit is also eliminated.
-
-COUNTER ADDENDA
-
-Counter Section Nr. 1
-
-A. The following headquarters units are missing
-their identifying stripe: 63 Cir, 157 (63), 158 (63),
-64 Cat, 141 (64), 142 (64), 101 Tst, 65 (101), 66
-(101), 9 Brs (101), 102 Trn, 61 (102), 62 (102), 7 Brs
-(102), Ariete, 132 RC (Ariete), 8 Brs (Ariete), Littorio, 133 RC (Littorio), 12 Brs (Littorio), and the
-136 GGFF.
-
-B. The 101st Trieste Division's divisional and
-regimental headquarters counters (i.e., 102 Tst,
-65, and 66) should show a motorized infantry instead of mechanized infantry symbols.
-C. The 2/8Brs (Ariete) Anti-tank Battalion is
-assigned directly to the Ariete's divisional headquarters and should bear a counter abbreviation
-and parent formation indicator of “‘2 (Ariete)." It
-is correctly listed on the Ariete's OA Sheet.
-
-D. 141st Regiment of the 64th Catanzaro Division
-is missing its organization size indicator of “‘IIf."
-
-E. The IV/66 (101st Trieste) Company should
-show Heavy Weapons and not an Anti-tank symbol.

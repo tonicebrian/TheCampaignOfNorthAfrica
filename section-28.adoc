@@ -3,136 +3,103 @@
 
 GENERAL RULE:
 
-At any time that a unit surrenders, it becomes a
-prisoner. Every infantry TOE Strength Point
-becomes one Prisoner Point. Prisoners must be
-fed, kept in detention, and eventually herded to
-aDeparture Point for shipment elsewhere. For the
-latter purposes, guard units may be formed.
-Prisoners may not be massacred; historically, both
-sides in the African Campaign showed a sense of
-chivalry and common decency unknown in any
-other theatre.
+At any time that a unit surrenders, it becomes a prisoner. Every infantry TOE
+Strength Point becomes one Prisoner Point. Prisoners must be fed, kept in
+detention, and eventually herded to aDeparture Point for shipment elsewhere. For
+the latter purposes, guard units may be formed.  Prisoners may not be massacred;
+historically, both sides in the African Campaign showed a sense of chivalry and
+common decency unknown in any other theatre.
 
 CASES:
 
 [#28_1]
-=== THE CARE AND FEEDING
-OF PRISONERS
+=== THE CARE AND FEEDING OF PRISONERS
 
-[#28_11]*[28.11]* Each Infantry TOE Strength Point that
-Surrenders — not tanks or guns —- becomes a
-Prisoner Point. Prisoner Points are represented by
-counters, which may be used like "change." They
-are available as needed.
+[#28_11]*[28.11]* Each Infantry TOE Strength Point that Surrenders — not tanks
+or guns —- becomes a Prisoner Point. Prisoner Points are represented by
+counters, which may be used like "change." They are available as needed.
 
-[#28_12]*[28.12]* Immediately upon surrendering, all
-Prisoner Points may be moved up to three hexes in
-any direction by the capturing Player. They may
-not enter an Enemy-controlled or Enemyoccupied hex or enter or pass through impassable
-terrain during that "free'? movernent.
+[#28_12]*[28.12]* Immediately upon surrendering, all Prisoner Points may be
+moved up to three hexes in any direction by the capturing Player. They may not
+enter an Enemy-controlled or Enemyoccupied hex or enter or pass through
+impassable terrain during that "free'? movernent.
 
-[#28_13]*[28.13]* Prisoner Points have a Capability Point
-Allowance of eight, which may be used for movement purposes only. They move in the captor's
-Convoy Movement Segment. They cannot, of
-course, engage in combat; their Capability Point
-Allowance is used for movement only. Prisoners
-may never exceed their Capability Point
-Allowance. If their guards are forced to retreat,
-they stand still.
+[#28_13]*[28.13]* Prisoner Points have a Capability Point Allowance of eight,
+which may be used for movement purposes only. They move in the captor's Convoy
+Movement Segment. They cannot, of course, engage in combat; their Capability
+Point Allowance is used for movement only. Prisoners may never exceed their
+Capability Point Allowance. If their guards are forced to retreat, they stand
+still.
 
-[#28_14]*[28.14]* The maximum number of prisoners allowed in any one hex is 40 Points. If there are more
-than five points "standing" (not moving) in a
-given hex, the Player may put a POW Detention
-Camp marker in the hex to indicate that prisoners
-are being held there. Prisoner Point markers
-always remain on the game-map until they reach
-their Point of Departure.
+[#28_14]*[28.14]* The maximum number of prisoners allowed in any one hex is 40
+Points. If there are more than five points "standing" (not moving) in a given
+hex, the Player may put a POW Detention Camp marker in the hex to indicate that
+prisoners are being held there. Prisoner Point markers always remain on the
+game-map until they reach their Point of Departure.
 
-{28.15] For every five Prisoner Points in a hex, the
-capturing Player must expend one Store Point per
+[#28_15]*[28.15]* For every five Prisoner Points in a hex, the capturing Player
+must expend one Store Point per Operations Stage (not Game-Turn). These Stores
+are expended before any other stores may be allocated. They need not be present;
+they are subtracted from the nearest supply dump, etc.
 
-Operations Stage (not Game-Turn). These Stores
-are expended before any other stores may be
-allocated. They need not be present; they are subtracted from the nearest supply dump, etc.
+[#28_16]*[28.16]* Prisoners can be dealt with by captors in any fashion they
+wish, as long as they are fed and kept alive. The best course, however, is to
+get them off the game-map. To do this they are marched to Departure Points. The
+Axis Departure Point is the Sirte box on game-map A; for the Commonwealth, the
+Departure Point for their prisoners is either Alexandria or Cairo. As soon as
+Prisoner Points enter their Point of Departure they are removed from the game —-
+permanently. (They will not be used in factories to promote your war effort.)
 
-[#28_16]*[28.16]* Prisoners can be dealt with by captors in
-any fashion they wish, as long as they are fed and
-kept alive. The best course, however, is to get them
-off the game-map. To do this they are marched to
-Departure Points. The Axis Departure Point is the
-Sirte box on game-map A; for the Commonwealth, the Departure Point for their prisoners is
-either Alexandria or Cairo. As soon as Prisoner
-Points enter their Point of Departure they are
-removed from the game —- permanently. (They
-will not be used in factories to promote your war
-effort.)
+[#28_17]*[28.17]* Each detention camp requires the presence of one Guard Point
+(see Case<<28_2>>.  When moving, one Guard Point is requried for each 1 Prisoner
+Points. Any prisoners without a guard "escape" (see Case<<28_23>>.
 
-[#28_17]*[28.17]* Each detention camp requires the
-presence of one Guard Point (see Case<<28_2>>.
-When moving, one Guard Point is requried for
-each 1 Prisoner Points. Any prisoners without a
-guard "escape" (see Case<<28_23>>.
-
-[#28_18]*[28.18]* Prisoners may be transported by trucks, if
-you are feeling profligate with your transport.
+[#28_18]*[28.18]* Prisoners may be transported by trucks, if you are feeling
+profligate with your transport.
 
 [#28_2]
 === GUARDS AND ESCAPES
 
-{28.21] Guards are needed to watch and escort
-prisoners.
+[#28_21]*[28.21]* Guards are needed to watch and escort prisoners.
 
-[#28_22]*[28.22]* Guards may be formed from any infantrytype unit. Simply subtract a TOE Strength Point
-from the combat unit and replace it with a guard
-counter, Each Guard Point is an infantry unit worth one TOE Strength Point, with assault ratings of
-0/1. Guards have a Capability Point Allowance of
-10, but they are usually moving at a rate of 8, the
-same as their prisoners. Guards are capable of
-combat, reaction, etc. Players should note that if
-guards react or retreat before combat, their
-prisoners do not. Unused Guard Points may be
+[#28_22]*[28.22]* Guards may be formed from any infantrytype unit. Simply
+subtract a TOE Strength Point from the combat unit and replace it with a guard
+counter, Each Guard Point is an infantry unit worth one TOE Strength Point, with
+assault ratings of 0/1. Guards have a Capability Point Allowance of 10, but they
+are usually moving at a rate of 8, the same as their prisoners. Guards are
+capable of combat, reaction, etc. Players should note that if guards react or
+retreat before combat, their prisoners do not. Unused Guard Points may be
 returned to their unit of origin.
 
-[#28_23]*[28.23]* If Guards abandon prisoners at any time,
-or there are prisoners in excess of the guard
-requirements (see Case<<28_17>>, those prisoners
-escape. (There are no organized prison breaks
-here; this is Africa, not Colditz).
+[#28_23]*[28.23]* If Guards abandon prisoners at any time, or there are
+prisoners in excess of the guard requirements (see Case<<28_17>>, those
+prisoners escape. (There are no organized prison breaks here; this is Africa,
+not Colditz).
 
-[#28_24]*[28.24]* If escaped prisoners are within eight
-Capability Points of a Friendly unit — not counting Enemy Zones of Control or units — they are
-placed with that Friendly unit. They are then
-removed from play and one month later aretreated
-as Replacement Points, to be brought back for
-Training, etc. They may not be used to assign or
-attach to units. If the escapees are farther than
-eight Capability Points, they may start to move
-towards Friendly units. All they require is water. If
-they have water, they survive. For every Operations Stage without water, they lose 10% of their
-strength, rounded up. They stop moving when
-they reach a Friendly unit or Friendly major city,
-or if they are recaptured (an Enemy unit enters
-their hex). Escapees move in the Truck Convoy
-Phase. (Players may not escort Prisoners into the
-deep desert and then remove their guards in order
-that the escapees will die of thirst before reaching
+[#28_24]*[28.24]* If escaped prisoners are within eight Capability Points of a
+Friendly unit — not counting Enemy Zones of Control or units — they are placed
+with that Friendly unit. They are then removed from play and one month later
+aretreated as Replacement Points, to be brought back for Training, etc. They may
+not be used to assign or attach to units. If the escapees are farther than eight
+Capability Points, they may start to move towards Friendly units. All they
+require is water. If they have water, they survive. For every Operations Stage
+without water, they lose 10% of their strength, rounded up. They stop moving
+when they reach a Friendly unit or Friendly major city, or if they are
+recaptured (an Enemy unit enters their hex). Escapees move in the Truck Convoy
+Phase. (Players may not escort Prisoners into the deep desert and then remove
+their guards in order that the escapees will die of thirst before reaching
 safety.)
 
-[#28_25]*[28.25]* Escapees have no combat values at all.
-However, they may never be attacked in any way.
-Escaped prisoners are automatically recaptured if
-an Enemy unit is moved into‘a hex containing just
-them.
+[#28_25]*[28.25]* Escapees have no combat values at all.  However, they may
+never be attacked in any way.  Escaped prisoners are automatically recaptured if
+an Enemy unit is moved into‘a hex containing just them.
 
-[#28_26]*[28.26]* The above rules for escapees should be
-taken cum grano salis. They are meant as fun; this
-is not a game of escape and evasion. Use the rule
+[#28_26]*[28.26]* The above rules for escapees should be taken cum grano salis.
+They are meant as fun; this is not a game of escape and evasion. Use the rule
 judiciously and with common sense.
 
 [#28_3]
 === CAPTURED EQUIPMENT
 
-Note that captured equipment, unlike prisoners,
-may be used against their former Player's units, as
-long as it has been repaired.
+Note that captured equipment, unlike prisoners, may be used against their former
+Player's units, as long as it has been repaired.

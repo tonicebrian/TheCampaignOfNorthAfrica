@@ -1,0 +1,237 @@
+[#30_0]
+== THE MEDITERRANEAN FLEET (Commonwealth)
+
+GENERAL RULE:
+
+The Commonwealth Player is supplied with a number of battleships, cruisers and
+destroyers, which he may use for barrage and anti-aircraft purposes, They may
+not engage in naval combat (as there is none in the game). The ships — and their
+usage — are somewhat abstracted, as Naval movement by the British Fleet was
+extensive and erratic, and records of such are often inaccurate and misleading.
+Each ship has a Barrage Strength which is equivalent to Actual (not Raw) Barrage
+Points. They may be used to bombard. Ships may be subject to air attack as well
+as fire from land units. The Axis Player may try to cripple the British fleet
+with a daring Italian ‘“‘Chariot”' raid.  The Italian Navy does not appear in
+this game; its actions are abstracted into the Axis Convoy Rules (see
+Section<<51_0>>.
+
+CASES:
+
+[#30_1]
+=== COMMONWEALTH NAVAL COUNTERS
+
+[#30_11]*[30.11]* Commonwealth naval units are, in essence, abstracted
+battleships, cruisers and destroyers. They have been given names (of ships
+actually in the Med at the time) for identification purposes. However, the
+British Fleet was never a stable affair, in terms of position, and thus the
+Naval units represent types of ships available, rather than an actual ships.
+
+[#30_12]*[30.12]* The naval counters have two strength numbers: their Gun Rating
+and'their AA Rating.  The Naval Gun Rating is equivalent to Actual Barrage
+Strength Points. The unit's AA/Flak rating is actual AA Points. Thus, the Queen
+Elizabeth, a battleship, has an (initial) Barrage Strength of 6 and an
+Anti-aircraft strength of 12 AA points.
+
+[#30_13]*[30.13]* The Gun Rating of a unit/ship also represents its ability to
+withstand damage. (I said this was abstracted.) Thus, each point of Gun Rating
+is like a Strength Point. To completely sink a ship, all points of Gun Rating
+must be elimianted. AA points are reduced in ratio to loss of Gun Points.
+
+[#30_14]*[30.14]* Naval units have no Stacking Points; they stack freely in any
+coastal or all-sea hex. They have no effect — in terms of their presence — on
+land movement, or air movement, or other Naval Movement, Enemy or friendly.
+
+[#30_15]*[30.15]* Commonwealth Naval units have a Range of 100 sea hexes. This
+means they may reach any hex within 100 sea hexes of Alexandria (I.e., they may
+not be placed further West than hexrow xx29 on Map Section ‘B'.). They do not
+actually move; they are simply placed in their hex of assignment at the
+beginning of a given OpStage.
+
+[#30_16]*[30.16]* Naval units need no fuel, ammunition, or water within the
+requirement that they must spend two Operations Stages in Port for every one in
+action. In addition, no single ship may spend more than three consecutive
+Op-Stages at sea. (This, in turn, would require six Op-Stages in port.)
+
+[#30_17]*[30.17]* The Italians do have a ship: The San Giorgio. Unfortunately,
+it has been partially sunk to block the harbor at Tobruk. It operates as if it
+were an artillery unit, until its removal or complete sinking by enemy
+engineers. The San Giorgio may not move. It may fire into adjacent hexes. It may
+fire at Commonwealth ships adjacent hexes through sea hexsides.
+
+[#30_18]*[30.18]* Commonwealth ships may be moved to and from the port of
+Valetta (Malta). No more than five ships may be in Valetta at any one time.
+Valetta is a port (like Alexandria) for "recovery”' purposes. Ships in Valletta
+may be moved only to Alexandria. Movement between these ports takes one
+Op-Stage; it is not considered a turn"at-sea" for purposes of refit.
+
+[#30_2]
+=== OFF-SHORE BOMBARDMENT
+
+[#30_21]*[30.21]* Commonwealth ships may bombard any coastal hex they are in. In
+addition, battleships and heavy cruisers (4-pointers) may bombard any hex
+adjacent to the coastal hex they are in.
+
+[#30_22]*[30.22]* Ship Gun Ratings are used as if they were Actual Artillery
+Strength Points, with the exception that they need no ammunition. The
+Commonwealth Player just considers them as if they were Artillery units in
+determining the effect of the naval guns, with one exception: battleships and
+heavy cruisers firing at 2 hexes distant (see Case 30.21) have their strength
+halved.
+
+[#30_23]*[30.23]* To use ships for Off-Shore Bombardment, the Commonwealth
+Player simply moves the ship frem its home Port (which is usually Alexandria) to
+any hex within Movement Range it wishes to barrage from. Example: The British
+Player wishes to use the Valiant (a BB) and the Ajax (Heavy Cruiser) to bombard
+Derna. He places both ships in the Derna hex (00000) in the Commonwealth Fleet
+Assignment Segment; in any one Barrage Step of that Operations Stage they may
+bombard Derna and any hexes ajdacent to it.
+
+[#30_24]*[30.24]* Any one ship may use its Barrage Strength only once in an
+Operations Stage; it may not fire repeatedly, like an artillery unit (e.g., in
+the example in Case 30.23, the Commonwealth Player could fire twice, once with
+each ship). However, the Barrage Step that the ships fire in is up to the
+Commonwealth Player.
+
+[#30_25]*[30.25]* If a Commonwealth ship engages in OffShore Bombardment, it
+must spend the next two Operations Stages in Alexandria. This requirement has
+nothing to do with a ship firing antiaircraft guns at Enemy planes.
+
+[#30_3]
+=== ATTACKING SHIPS AND THEIR REPAIR
+
+[#30_31]*[30.31]* Ships may be damaged by airbombardment (see Case<<39_3>>
+Coastal Guns (Case <<30_36>>, or, in a special case, an Italian Chariot Raid
+(Case 30.4).
+
+[#30_32]*[30.32]* Enemy bombers, fighter bombers, and torpedo-carrying planes
+may bomb a ship counter in an effort to damage the ship, reduce its Gun Rating,
+and put it out of action. Planes bomb ships when they are in the same hex.
+
+[#30_33]*[30.33]* Bombing ships is a mission; a plane must be assigned to such
+mission in order to attack the ship. Even if it is in the same hex but is not
+assigned to bomb the ship it may not attack the ship. See
+Cases<<41_3>>and<<41_7>>for Ship Bombardment.
+
+[#36_34]*[36.34]* Damage on ships is taken in Gun Rating Points. The Air
+Bombardment Table gives the number of Damage Points in Gun Rating Points lost as
+a result of that mission. The Gun Rating of such ship is reduced accordingly.
+Thus, if the Ajax (a 4) were to suffer two Damage points, it would now have a
+Gun Rating of two (and an AA Rating of 4). Players should keep track of the Gun
+Ratings and Damage Levels of ships on their Ship Assignment Sheet. Ships always
+fire with their reduced (if any) Gun and AA Ratings.
+
+[#30_35]*[30.35]* Artillery units (with Vulnerability Ratings of 6 or more) and
+emplaced guns may be used against Enemy ships in the same hex as the artillery
+unit. The Player simply notes that the artillery is firing against the ships
+(separately from any Air Bombardment). Such artillery may not fire that Stage
+against land units. The Player takes the total Raw Artillery Points firing (not
+actual) and halves that total. He then uses the Air Bombardment Table, using the
+Artillery Points as if they were Bomb Points. Emplaced Guns (those Guns with a
+zero CPA) do not halve their Raw Points.
+
+[#30_36]*[30.36]* If a ship's Gun Rating falls to less than 50% of its Face
+Value, it may not leave Port until it has been repaired to better than 50% of
+its value.  If a ship's entire Gun Ratings have been eliminated, it is sunk (and
+unrepairable).
+
+[#30_37]*[30.37]* To repair one Gun Rating level, a Ship must stay in Alexandria
+for six consecutive Operations Stages. No engineer is needed, and no supplies
+are expended. If the ship moves before the six Stages are finished, all work
+must start again.
+
+[#30_38]*[30.38]* Ships may a@/ways fire as anti-aircraft guns regardless of
+where they are or what else they are doing — even repair.
+
+[#30_39]*[30.39]* The San Giorgio may fire at Commonwealth ships using its gun
+rating as Bombardment Points. See Case 30.35.
+
+[#30_4]
+=== THE ITALIAN 10TH LIGHT FLOTILLA: Chariot Raids
+
+In one of the most daring raids of the war, six men of the Italian 10th Light
+Flotilla, piloting slowspeed torpedoes called "Chariots" (or, affectionately,
+"Pigs"), slipped through the defense nets of Alexandria harbor on the night of
+18 December, 1941 and extensively damaged the Valiant, the Queen Elizabeth and
+two other ships, thoroughly crippling the British Fleet in the Eastern
+Mediterranean. The following rule simulates this remarkable feat of, daring and
+courage.
+
+[#30_41]*[30.41]* Starting in July of 1941, the Axis Player may attempt a
+"chariot”' raid on Alexandria. His object: to damage Commonwealth shipping.
+
+[#30_42]*[30.42]* The raid must be planned two weeks (six Operation Stages) in
+advance. The raid actually occurs on the seventh Operations Stage following the
+Stage in which it is planned. The Axis Player simply notes on a piece of paper
+the date of the plan of the raid and its execution.
+
+[#30_43]*[30.43]* The raid takes place in the Air Mission Completion Segment of
+the Land Support Air Phase (after all ships have been sent out on any missions
+in the Ship Assignment Phase).
+
+[#30_44]*[30.44]* The Axis Player announces the Frogman Raid and rolls one die,
+consulting the "Chariot”' Table <<30_46>>. The results on that table are
+selfexplanatory.
+
+[#30_45]*[30.45]* No supplies are needed or expended.  However, the Chariot raid
+may be attempted only once in the game. It may be used only in a Campaign Game —
+not in an abbreviated scenario.
+
+[#30_46]*[30.46]* The Chariot Table
+
+(see Charts and Tables)
+
+[#30_5]
+=== NAVAL TRANSPORT OF TROOPS
+
+Only the Commonwealth has the ability to transport troops by sea; the Axis had
+little viable coastal shipping in North Africa. What they had was used for
+supplies. This section applies only to personnel; transporting of supplies by
+sea is covered-in Case 00.00.
+
+[#30_51]*[30.51]* The Commonwealth may transfer units from one port to another,
+dependent on the personnel capacity of the port. Furthermore, ports may be
+incapacitated as a result of Enemy Air Bombardment (Case<<39_3>>, in which event
+they are incapable of receiving or shipping out any personnel.
+
+[#30_52]*[30.52]* The Commonwealth Player may make only one transfer of
+personnel per Operations Stage per port. Naval Transport and Transfer of troops
+takes place in the Truck Convoy Movement Phase.  Thus, regardless of the ports
+used, or the direction of the transfer/transport (east-west), only one
+transfer/transport operation may occur per Operations Stage in any one port.
+
+[#30_53]*[30.53]* All transfer of personnel from one port to another may affect
+any shipments of supplies received (see Case<<30_57>>.
+
+[#30_54]*[30.54]* The number of troops that may be debarked or embarked at a
+given port is dependent on the Port Personnel Capacity. The Port Personnel
+Capacity is the number of Sfacking Points that that port can take in or send out
+in a given Opera tions Stage. Understandably, the capacity of the transfer will
+be limited by the port with the smallest capacity, be it the port of embarkation
+or debarkation.
+
+[#30_55]*[30.55]* To be transferred, a unit or units must start the Operations
+Stage in the port of debarkation. It may expend no Capability Points during the
+Phases prior to the Truck Convoy Segment. In the Truck Convoy Segment, it is
+transferred to the port of embarkation, where it is landed at a cost in
+Capability Points equivalent to its Capability Point Allowance.
+
+[#36_56]*[36.56]* Transfers may not take place between ports when one is
+incapacitated because of Enemy Air Bombardment (see Case<<39_3>>. Transfer may
+take place between any Friendly-controlled Ports.  (Control means the last
+Player to occupy the hex.)
+
+[#36_57]*[36.57]* Whenever a Player transports troops by way of a port, the
+ability of that port to handle supplies is reduced by the percentage listed in
+Case <<30_59>>. Thus, if Benghazi brought in any troops, its supply transport
+capacity (reduced or maximum level) is reduced by 25% for that Operations Stage.
+
+[#30_58]*[30.58]* Ports may be blocked by mines, etc. (see Case<<50_2>>. This
+does not affect a port's capacity to receive personnel (as above) until and
+unless that port is reduced to /ess than 2/3 (67%) capacity, rounded up. In such
+case, the port may not receive or send any personnel. Any port that is totally
+incapacitated by bombing may not, of course, receive or send personnel.
+
+[#30_59]*[30.59]* Port Capacity Chart (see separate sheet)
+
+[#30_60]*[30.59]* Commonwealth Fleet Reinforcement Schedule
+
