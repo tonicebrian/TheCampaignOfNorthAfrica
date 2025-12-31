@@ -1,0 +1,323 @@
+[#40_0]
+== FIGHTER COMBAT
+
+GENERAL RULE:
+
+Fighters may fly a variety of missions. The most common fighter mission is
+combat air patrol (or CAP). Fighters may also fly strafing missions and flak
+suppression missions. Fighters are also capable of scramble, a form of
+interception CAP.  A number of fighters are capable of carrying bombloads
+(especially fighter-bombers); these fighters are so noted and they may
+participate in bombing missions (see Section <<41_0>>. Each fighter is flown by
+a pilot, whose Pilot Rating will affect the plane's air-to-air combat ability.
+Fighters may be assigned to only one mission in an Operations Stage (three in
+one Game-Turn) or Strategic Air Stage (one in one entire Game-Turn; see Case
+39.2).
+
+PROCEDURE:
+
+Players assign each fighter/fighter-bomber or squadron a mission in a
+specific hex. Once the planes reach the target hex, the Player must then assign
+each plane or squadron to a particular target of the type previously selected
+(e.g., fighters assigned to offensive CAP would be assigned particular Enemy
+aircraft to atack only after they were in their target hex; fighters assigned to
+a strafing mission against "first-line Trucks" would be assigned trucks attached
+to a specific parent formation only after the planes had reached the hex (and
+any air-to-air combat and flak fire had been resolved).
+
+[#40_1]
+=== PILOTS
+
+[#40_11]*[40.11]* Pilots are not represented by counters.  Rather, pilots enter
+the game through the Reinforcement Track as "numbers," the number referring to
+the pilot's Rating. Each Player notes the pilots he is receiving and assigns
+them to his squadrons as they arrive. Consult the various Pilot Arrival Tables
+to see how this works.
+
+[#40_12]*[40.12]* Pilots are assigned to squadrons. They are assigned to a
+particular squadron — and become available for use by that squadron — in the
+first Operations Stage of the turn of their Arrival. As each squadron usually
+contains only one type of plane, that is the type of plane the pilot is trained
+to fly. Thus a pilot assigned to a squadron of Hurricanes is trained to fly
+Hurricanes.
+
+[#40_13]*[40.13]* Pilots may be reassigned to different squadrons at any time. A
+pilot is reassigned simply by switching him from one Squadron's Composition List
+to another. A pilot that is being reassigned may not fly in the Operations Stage
+(or Strategic Air Phase) of his reassignment.
+
+[#40_14]*[40.14]* If a pilot is reassigned to a squadron that contains planes of
+a different type than for which he was trained, the pilot must be trained to fly
+those new planes. It requires one full Game-Turn (or three Operations Stages) to
+train a pilot. Thus a pilot switching from a squadron of Hurricanes toa squadron
+of Beaufighters may not fly for three Operations Stages.
+
+[#40_15]*[40.15]* The Pilot Rating is his capability, Pilot Rating's are either
+1,2,3,4, or 6. (The 6 pilot) represents the infamous Hans-Joachim Marsielles,
+the German Desert Ace). The Pilot Ratings are added to the plane's TacAir Rating
+when that plane is involved in any air-to-air combat. Thus an ME Bf109F with
+Marseilles would have a TacAir Rating of 14.
+
+[#40_16]*[40.16]* As Pilots are assigned to squadrons, the Player may have them
+fly any plane within that squadron (remember Case <<40_14>>. Any plane that does
+not have a pilot assigned for a mission is considered to have a zero-rated
+pilot. There is an unlimited supply of zero-rated pilots.
+
+[#40_17]*[40.17]* If a fighter is shot down, there is a chance that the pilot
+bailed out and can be recovered (see <<45_65>>). If the pilot has been
+recovered, he may fly again three Operations Stages after his Recovery.  He is
+returned to his squadron of assignment.
+
+[#40_18]*[40.18]* There is an Optional Rule available for Players who are
+attempting a full campaign game and wish to create their own Aces. In such a
+case, all pilots start the game with a zero Rating; there is no need to bring in
+Reinforcement Pilots (ignore any Reinforcement Pilots). However, for each five
+"kills" a pilot gets, he increases his Rating by one.  A kill is any Enemy plane
+destroyed in air-to-air combat. There is no limit how high a rating a pilot
+may get. This should not be used for the shorter Scenarios.
+
+[#40_2]
+=== COMBAT AIR PATROL (CAP)
+
+[#40_21]*[40.21]* Any plane that has F (fighter) capability (see the individual
+capabilities on the Aircraft Characteristics Charts) may fly Combat Air Patrol.
+Usually, fighters fly CAP. To denote that a fighter is flying a CAP mission,
+write CAP and the target hex in his mission column on the Squadron Composition
+Sheet. He should also denote whether this is offensive CAP (CAP-O) or defensive
+CAP (CAP-D).
+
+[#40_22]*[40.22]* Offensive CAP concerns flying to a hex with the intention to
+shoot down Enemy planes.  Defensive CAP is undertaken by fighters wishing to
+protect Friendly bombers or transport (flying as escort/screen for them) or to
+protect an installation or facility. The distinctions can sometimes become a bit
+blurred. .
+
+[#40_23]*[40.23]* If three or more fighters are assigned to offensive CAP in a
+given hex, the fighters possess the equivalent of an air Zone of Control (i.e.,
+they are flying CAP over the hex they are in as well as all six hexes
+surrounding that hex). They may thus engage any Enemy planes that enter any one
+of those seven hexes.
+
+[#40_24]*[40.24]* Fighters (or any plane with F capability) may fly CAP over any
+hex on the game-map that is within range. However, no plane based in Africa (on
+the game-map) may fly CAP of any type for or against Axis Naval Convoys.
+Commonwealth planes based on Malta may fly CAP against Axis Naval Convoys only.
+Axis planes based in Italy, Sicily, and Crete may fly CAP for Axis convoys.
+Remember, a plane flying CAP may not fly any other mission in that Stage.
+
+[#40_25]*[40.25]* Example of CAP Missions The Axis Player wishes to bomb Tobruk.
+He sends two squadrons of Ju88's to accomplish this. He also sends to the same
+target hex (Tobruk) as escort/screen two squadrons of ME Bf109B's and a squadron
+of Italian CR. 42's. (They could have come from any air facility within range.)
+The Commonwealth Player has placed on defensive CAP above Tobruk two squadrons
+of Hurricanes.  The Commonwealth Hurricanes and Axis MEB's and CR 42's engage in
+air-to-air to see whether the bombers can get through to complete their mission,
+
+[#40_26]*[40.26]* Using the example in Case <<40_25>>we can best illustrate the
+differences between offensive and defensive CAP. If the Commonwealth planes were
+flying defensive CAP they would, first off, have no air Zone of Control
+<<40_23>>. They would also not automatically initiate air-to-air combat.
+However, the Axis Squadrons would have to get through the defensive CAP to
+perform their Mission. If the Hurricanes were flying offensive CAP, they would
+have an air Zone of Control and they could initiate combat against the Axis
+planes.  There is one additional — and important — difference. If fighters are
+flying offensive CAP, they would have to attack any Enemy planes entering their
+hex or any hex in their Zone of Control to perform a mission in that hex; they
+could not decide to not have combat. Exception: only Enemy planes in one such
+hex must be attacked.  Defensive CAP planes may decline combat and abort;
+offensive CAP planes may not.
+
+[#40_27]*[40.27]* Fighters flying Offensive CAP may intercept Enemy planes whose
+paths of flight enter the hex they are in or their air ZOC. After all plane
+counters have been placed to indicate their mission target hex, but before
+revealing the numbers of planes involved, a Player with fighters on offensive
+CAP may ask to see a path of flight. If that path coincides with his fighters,
+the Player with the offensive CAP may choose to intercept the Enemy mission
+right there. If so, air-to-air combat will take place, and any surviving planes
+may continue their mission. Fighters on offensive CAP may intercept only one
+mission per Operations Stage.
+
+[#40_3]
+=== SCRAMBLE
+
+There may be a time when a Player wishes to either conserve fuel or, perhaps,
+retain some flexibility with his fighter force. Scramble gives him the ability
+to do that. Planes assigned to scramble missions are planes that stay on the
+ground until Enemy aircraft come within range. They may then, under certain
+circumstances, take-off and engage the Enemy in air-to-air combat.
+
+[#40_31]*[40.31]* Only planes with scramble capability may be assigned a
+scramble mission. Planes assigned a scramble mission are noted with an SC in the
+Mission column. No hex is assigned. Scramble mission may be assigned only in the
+Land Support Air Phases.
+
+[#40_32]*[40.32]* Scramble occurs at the end of the Mission Deployment Segment.
+After all planes have been placed in their assigned mission hexes, any fighters
+assigned to scramble may take off and engage Enemy planes within scramble
+interception range.  The farther the range, the lesser the chance of successful
+interception. A Player is not required to scramble his planes even if they are
+assigned to a scramble mission, but only planes assigned a scramble mission may
+scramble.
+
+[#40_33]*[40.33]* If a Player decides to scramble his fighters so assigned he
+notes the hex which he wants them to fly to and consults the Scramble Table
+<<40_4>>, determining the distance in hexes from the base of the scrambling
+planes to the target hex. The path of flight may not include a hex (other than
+the target hex) containing other enemy fighters. The Player then rolls one die
+and checks the table to see if the scramble has succeeded. If it has, the planes
+have made contact with the Enemy. They are considered to be on offensive CAP now
+and will attack those enemy planes. If the Scramble is unsuccessful, the planes
+have flown and they still must refuel and refit. The choice of whether to
+Scramble is up to the Player, but all decisions are made in secret and revealed
+at the same time (at the end of the Mission Deployment Segment).
+
+[#40_34]*[40.34]* The Player wishing to scramble rolls for each squadron
+separately, even if more than one squadron is heading for the same target.
+Squadrons may not be split between different hexes for scramble purposes.
+
+[#40_4]
+=== SCRAMBLE TABLE
+
+(see Charts and Tables)
+
+[#40_5]
+=== STRAFING
+
+[#40_51]*[40.51]* Any plane with strafing capability (STR) may strafe ground
+forces asnd other selected targets. Mostly, fighters have strafing capabilities.
+Dive-bombers have the capability to both Strafe and Bomb a given target.
+Strafing is a mission, and precludes the undertaking of any other mission (with
+the exception of planes with STR/B capability).
+
+[#40_52]*[40.52]* Planes ona strafing mission are assigned a target hex and a
+specific type of. target (Case <<40_54>>). This would be listed as, say,
+STR/C1234/dump. Strafing missions follow the general course of all missions
+<<39_0>>.
+
+[#40_53]*[40.53]* Each individual plane may strafe only one target in a hex,
+regardless of how many different types or number of target of a single type
+there are in that hex. Furthermore, strafing is resolved as a single attack
+against a target; it is not a repeated series of attacks against, say, each
+truck in a convoy. Note: a group of fighters assigned to strafe, for example,
+"infantry-type units" may attack each of two battalions attached to a Brigade in
+a target hex, so long as no one plane attacks more than one battalion.
+
+[#40_54]*[40.54]* The following types of targets may be Strafed:
+
+[loweralpha]
+. Infantry-type types of units
+. Trucks in Convoy
+. First Line Trucks (attached)
+. Supply Dumps
+. Grounded Aircraft
+. Tanks (only Hurricaine II D's)
+. Ports
+. Water Pipeline
+
+[#40_55]*[40.55]* Strafing may not occur in major city hexes.
+
+[#40_6]
+=== STRAFING PROCEDURES
+
+[#40_61]*[40.61]* Infantry Units. The strafing Player totals his TacAir Points
+(Remember, do not add Pilot Ratings in here; they apply only to Air-to-Air) and
+consults the Strafing Table. The Player may strafe as many infantry-type
+battalions or companies as he wishes, but each plane may strafe only one target
+(battalion) per mission. The Player then rolls two dice and checks that diceroll
+under the column for the number of TacAir points applied to that
+battalion/company. The result is the number of TOE Strength Points eliminated.
+If such infantry toe Strength Points were actually being transported by trucks,
+such trucks are also eliminated.
+
+[#40_62]*[40.62]* Truck Convoys. This is treated in the same fashion as Case
+40.61, with losses being in Truck Points. The Player being strafed determines
+which trucks are eliminated, except that the losses must be distributed as
+evenly as possible between the various types of "cargo" (i.e., water, fuel,
+Replacement Points, etc.) A strafing Player may choose to go after first line
+attached trucks in the same fashion. In such a case he would strafe the parent
+unit, designating its attached trucks as the target. Again, losses are
+distributed as evenly as possible.
+
+[#40_63]*[40.63]* Grounded Aircraft Treated similarly to Case 40.61, with the
+target being planes on the ground. The result on the Strafing Table however, is
+not the number of planes but rather the number of dice that the strafing Player
+must roll to see how many planes are shot up. Thus, if he gets a 1 on the
+Strafing Table, that Player then rolls one die; the result of that dieroll is
+the number of planes strafed and destroyed on the ground. Strafed Planes may be
+Recovered  <<45_6>>.
+
+[#40_64]*[40.64]* Supply Dumps: The mechanics are the same as 40.62, the results
+are in the percentage of all supplies in that dump destroyed. Thus a result of
+Lequals 10%, 2 equals 20%, etc.
+
+[#40_65]*[40.65]* Tanks: Strafing of enemy tanks by planes was done only towards
+the end of the campaign, and only by certain planes equipped with heavyenough
+cannon to pierce the tank's armour. The commonwealth Hurricane Mark JID's were
+the only planes so equipped (with Vickers 40mm cannon). Strafing Tanks is
+accomplished much the same as strafing planes, with the second die or dice-roll
+producing the minimum number of Armour Protection Points that must be removed.
+Anything with an armour protection rating may be strafed. Any dummy tank counter
+strafed is automatically removed from play.
+
+[#40_66]*[40.66]* Ports. Strafing of ports is combined — and is considered part
+of — a bombing raid on the port. The Player adds his Strafing TacAir Points then
+halves them, rounding down. He adds this to the total bombload delivered on the
+target (the port), and consults the Air Bombardment Table (See <<41_5>>)
+
+
+[#40_67]*[40.67]* Water Pipeline. Planes may strafe an Enemy pipeline in order
+to render it useless. The Player assigns the fighters a mission to strafe the
+pipeline in a given hex, uses-the Strafing Table, and rolls the dice. If he
+obtains any result of 2 or more, the pipeline is destroyed. (This is not a "cost
+efficient'? way of destroying a pipeline.)
+
+[#40_7]
+=== FIGHTER FLAK SUPPRESSION
+
+[#40_71]*[40.71]* Fighters may use their TacAir Strength to "suppress" enemy
+anti-aircraft fire before it is used against Friendly planes.
+
+[#40_72]*[40.72]* Fighter flack suppression does not produce any losses on
+either side. Rather the fighters divert the flak fire and cover for the other
+planes.  However, any unsuppressed flak may fire at any planes in the hex,
+including any fighters on a flak suppression mission, Flak suppression is a
+mission.
+
+[#40_73]*[40.73]* Fighter flak suppression is flown after airto-air is resolved
+but before any flak fire against planes is undertaken.
+
+[#40_74]*[40.74]* For every three fighters (individual planes) that fly flak
+suppression, ove point of antiaircraft/flak fire is neutralized and may not be
+used that Operations Stage. Only light AA points and ship AA points may be
+suppressed by fighters.  Heavy AA points may not be suppressed by fighters.
+
+[#40_75]*[40.75]* Fighters flying flak suppression expend ammunition. The flak
+units neutralized also expend ammunition, as they are firing at the fighters!
+
+[#40_76]*[40.76]* Anti-aircraft units may only be destroyed by bombing; see Case
+<<41_3>>
+
+[#40_77]*[40.77]* Planes may strafe ships to suppress flak, as a regular flak
+suppression run. They may not damage a ship by strafing. Ships may be damaged by
+bombing and torpedoes  <<41_34>>. Remember 39.2 (Combined missions).
+
+[#40_8]
+=== STRAFING TABLE
+
+(see Charts and Tables)
+
+[#40_9]
+=== NIGHT FIGHTERS
+
+[#40_91]*[40.91]* Night fighters (so indicated on the Aircraft Characteristics
+Chart) have all the characteristics or regular fighters, with one exception:
+night fighters may scramble against a night bombing mission, but when they do,
+the Player rolling for scramble adds two to the die roll.
+
+[#40_92]*[40.92]* The following night fighters have their Maneuver Ratings
+lowered by 4 points when used during the day: Blenheim IVF, Bf 110, and Ju88c.
+
+[#40_93]*[40.93]* Planes on offensive CAP have no 20C at night.
+
+[#40_94]*[40.94]* Any CAP must be designated as being flown at night, and such
+CAP/Escort has no effect on other missions.
