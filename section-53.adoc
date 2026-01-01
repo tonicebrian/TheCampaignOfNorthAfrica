@@ -1,0 +1,168 @@
+[#53_0]
+== TRUCKS AND TRANSPORT
+
+COMMENTARY:
+
+Transport is the lifeline of the Player. The Player
+who fails to grasp the overriding importance of
+transport (or, as it is called throughout the rules,
+trucks) to his military effort will be a losing Player.
+Trucks are the game; without a well-organized and
+efficient truck convoy system your entire military
+effort will fall apart.
+
+GENERAL RULE:
+
+Trucks are used for one of two purposes: carrying
+supplies or transporting men (motorizing infantrytype units). Each one "point"? of trucks is
+equivalent to ten actual trucks. Heavy Trucks are
+those of the (approximately) three ton or heavier
+variety, including heavy-duty lorries and partiallytracked vehicles. Medium trucks are the equivalent
+of all transport vehicles of around 30 cw. Light
+trucks are all transport lighter than the 30 cw limit.
+Trucks consume fuel and water when they move,
+and they suffer breakdown.
+
+CASES:
+
+[#53_1]
+=== FIRST, SECOND, AND THIRDLINE TRUCKS
+
+There are three truck formations: First, Second,
+and Third Line Trucks. These formations (or
+rather definitions) delineate what the Trucks in
+that formation are doing and where they belong.
+These definitions are provided not so much in the
+form of rigid rules but rather as a system—based
+on one actually used in the campaign—so that the
+player may better visualize what he can accomplish
+and what he has to doit with.
+
+ <<53_11>>) First Line Trucks
+
+These are trucks attached directly to the parent
+combat unit (division, brigade, battalion, etc.).
+They are used to carry men and/or supplies of that
+parent combat unit. First line trucks are not
+represented by counters; the Player notes on his
+TOE Sheet for a parent combat unit the number
+and type of truck attached as first line and assigns
+men or supplies to each truck unit. First line trucks
+may be detached (in the Organization Phase), in
+which case they will be represented by a counter
+and are no longer considered to be first line trucks.
+
+10
+
+[#53_12]*[53.12]* Second Line Trucks
+These truck units essentially operate between combat units and the forward supply dumps from
+which they are retrieving supplies. These trucks are
+not limited to carrying supplies; they may, like all
+trucks, carry anything not specifically forbidden.
+Second line trucks are represented by counters.
+Players keep track of all second line trucks on their
+truck and Major End Items sheets. They move
+during the Truck Convoy Movement Segment of
+the Operations Stage, as they are not attached toa
+regular unit.
+
+ <<53_13>>) Third Line Trucks
+
+These trucks operate between the major ports of
+entry (e.g., Alexandria, Tripoli, Cairo, Tobruk,
+etc.) where supplies and reinforcements originate,
+and the forward supply dumps. Third line trucks
+rarely transport directly to combat units, although
+there is no rule restricting such transport. Third
+line trucks are similar in all ways to second line
+trucks, with the sole exception of the name,
+which distinguishes them in any supply network
+you may devise.
+
+[#53_14]*[53.14]* Three Tier Organization: The most efficient system for hauling supplies and reinforcements is a three-tiered effort: third line trucks
+pick up supplies from the port of entry and
+transport them to forward dump areas; second line
+trucks pick up supplies at those forward dump
+areas and drive them directly to the combat units,
+where the supplies are then loaded on to that unit's
+first line trucks. They are now available for instant
+use by the unit. This system is recommended by the
+designers and the playtesters; it is not, however, a
+rule.
+
+[#53_2]
+=== RESTRICTIONS ON THE USE OF
+TRUCKS
+
+[#53_21]*[53.21]* Trucks acting as convoys may move only
+in the Truck Convoy Movement Segment (See
+8.18). This applies only to trucks not attached toa
+combat unit or HQ. Thus, truck counters on the
+game maps are, by definition, convoys and will
+move only in the Truck Convoy Movement Segment.
+
+[#53_22]*[53.22]* Trucks moving in a Convoy Movement
+Segment have an extended CPA: heavy and
+medium trucks havea CPA of thirty (30), and light
+trucks have a CPA of forty (40). However, Trucks
+moving in a Truck Convoy Movement Segment
+may never, under any circumstances, exceed their
+extended CPA. If, for some reason, they are forced to exceed their extended .CPA they are considered to have suffered breakdown  <<21_0>>) at the
+instant they exceed their extended CPA. First line
+trucks use their basic CPA (20 or 25) and may exceed their CPA as their parent unit does (See <<6_1>>).
+
+[#53_23]*[53.23]* Any combat unit with a cohesion level of
+minus five (-5) or worse may not voluntarily
+detach its first line trucks. Conversely, second and
+third line trucks attached as first line trucks
+assume the cohesion level of the parent unit.
+
+[#53_24]*[53.24]* There is a Capability Point cost to load
+and/or off-load supplies and men. (See <<6_3>>). Supplies for one truck unit must have been off-loaded
+by that truck before another truck unit may load
+and carry them. This applies even if both truck
+units are attached to the same parent combat unit
+or convoy. Furthermore, supplies and/or men carried by second and third line trucks that have
+reached their full extended CPA's may not be offloaded (and picked up by another truck) if such action will cause that truck unit to exceed its extended CPA. Exceptions: During the Supply Distribution Segment, trucks may freely be loaded and
+
+unloaded; during the Combat and Movement Segment, ammunition and fuel loaded in trucks that
+hex may be expanded with no unloading cost.
+
+{53.25} "Leapfrogging" is not permitted. Leapfrogging is defined as having truck "A" carrying
+supplies to a hex, then having truck "B" pick up
+the same supplies in the same Movement Segment
+and move them on to another truck, which then
+picks them up, and so on. If this were allowed, a
+given cache of supplies could be moved from one
+end of the game-map to the other in one Segment!
+Thus, for this purpose, supplies and men being
+transported by trucks are considered to have and
+to have used the same number of CP's that the
+trucks carrying them expended, and they may
+never exceed the CPA of the first truck they
+started with in the Operations Stage.
+
+[#53_3]
+=== ABANDONED VEHICLES
+
+[#53_31]*[53.31]* Trucks, or any prohibited vehicles, that
+are in a salt marsh hex and not on a road or track
+are automatically abandoned (see <<8_44>>). If the
+abandoned vehicle was carrying infantry-type
+units or is an artillery unit and there is an Enemy
+combat unit within three traversable hexes
+(counted from Enemy unit to salt marsh hex) and
+there are no Friendly combat units (at the end of
+the Movement Stage) within those same three hexes, those infantry units surrender and the guns are
+captured. If there is no Enemy around, the infantry is now on foot and walking (starting next
+Movement Stage) and the guns are abandoned.
+
+[#53_32]*[53.32]* Abandoned vehicles and guns may be
+recovered by any unit in an adjacent non-salt
+marsh hex with engineering capability  <<23_1>>). The
+cost to recover such vehicles (or guns) is 10 CP's to
+both units. (Note: The abandoned vehicle is considered to have its full CPA.) Recovery may not be
+performed if either the recovering unit or the
+abandoned unit is adjacent to an Enemy combat
+unit. Recovered vehicles become attached to the
+recovering unit.

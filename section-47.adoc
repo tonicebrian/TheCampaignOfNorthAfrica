@@ -1,0 +1,281 @@
+[#47_0]
+== ABSTRACT LOGISTICS
+RULES
+
+The Players use the Abstract Logistics and Air
+Rules (Section <<32_0>>) except as modified below.
+
+[#47_1]
+=== SUPPLY UNITS AND SUPPLY
+
+[#47_13]*[47.13]* Alloff-map (N. African and Mediterranean) air facilities possess unlimited supplies for
+aircraft maintenance.
+
+[#47_12]*[47.12]* Cairo and Alexandria have unlimited supplies for Commonwealth aircraft maintenance for
+any-SGSU occupying a Cairo/Alexandria hex or
+within supply range (see Case <<47_13>>).
+
+[#47_13]*[47.13]* An SGSU may draw supplies from any
+
+friendly supply unit per Case <<32_16>> (or Cairo/
+Alexandria) that is within 15 Capability Points.
+
+[#47_14]*[47.14]* The Players receive regular (i.e., those
+described in Section <<32_0>>) and Depot supply units.
+A Depot initially contains 180 Fuel and 40 Ammo
+Points. It retains its Depot status until it contains
+
+17
+
+18
+
+no more than 60 Fuel Points, at which time it is
+treated as a regular supply unit. Depots may never
+absorb fuel or ammo points. Supplies may be
+withdrawn from a depot only for use by SGSU's
+and motorization points engaged in transporting
+that depot (i.e., supplies may not be redistributed
+to other supply units nor used by combat units or
+motorization points not actively engaged in moving that depot).
+
+[#47_2]
+=== SUPPLY EXPENDITURES
+
+[#47_21]*[47.21]* Only Gun-class units are required to expend ammo in order to fire at enemy aircraft. A
+gun-class unit must expend | Ammo Point in order
+to perform anti-aircraft fire against a target group.
+
+[#47_22]*[47.22]* Fighter and fighter-bomber squadrons do
+not require ammo expenditures to enable their
+planes to use their TacAir and Bombload ratings.
+Non-fighter squadrons are entirely rearmed with
+the expenditure of one Ammo Point.
+
+[#47_23]*[47.23]* Fighter/Fighter-bomber squadrons require the expenditure of one Fuel Point to refuel
+the entire sqaudron. Axis non-fighter squadrons
+require the expenditure of two Fuel Points in order
+to refuel the squadron. Commonwealth nonfighter squadrons require the expenditure of three
+Fuel Points in order to refuel the squadron.
+
+[#47_3]
+=== MOVEMENT OF SUPPLY UNITS
+
+{47.31] Fifty motorization points are required to
+transport a depot.
+
+[#47_32]*[47.32]* A depot may only be transported in the
+Truck Convoy Movement Phase (i.e., it may not
+be attached to a combat unit).
+
+[#47_33]*[47.33]* A depot counts as two supply units if being transported by rail. The Commonwealth
+Player'may not transport a depot by sea.
+
+[#47_34]*[47.34]* The Axis Player may transport a depot by
+Axis Coastal Shipping. Each depot requires 3,000
+tons of coastal shipping.
+
+[#47_35]*[47.35]* Regular supply units may be transported
+by air. The Axis Player may air transport regular
+supply units as follows: Any thirty planes with air
+transport capability may transport a supply unit
+containing up to 8 Ammo Points and up to 20 Fuel
+Points, any sixty planes with transport capability
+may transport a regular supply unit with any level
+of supplies. The Commonwealth Player may air
+transport regular supply units as follows: Any
+twenty planes with transport capability may air
+transport a supply unit containing up to 10 Ammo
+and up to 25 Fuel Points. Any fifty planes with
+transport capability may transport a regular supply unit with any level of supplies. Either player
+may transport a dummy supply unit with any ten
+planes with transport capability. Note that the
+supply unit counter must be physically transferred
+from one location to another.
+
+[47:4] AVAILABILITY OF SUPPLY
+UNITS
+
+[#47_41]*[47.41]* The Axis Player receives Depot supply
+units as an addition to the regular supply units produced by the Axis Simplified Supply Availability
+Table. He receives one Depot for each regular supply unit produced.
+
+[#47_42]*[47.42]* The Commonwealth Player receives
+Depot supply units as an addition to the regular
+supply units produced by the Commonwealth Simple Supply Availability Table. During time period
+I he receives one Depot per game turn. During time
+period II he receives two Depots per game-turn.
+During time period III he receives three Depots per
+game-turn.
+
+[#47_5]
+=== MOTORIZATION POINTS
+
+[#47_51]*[47.51]* Cases <<32_57>> and <<32_59>> are ignored and
+Case <<32_56>> is modified as follows: Motorization
+
+Points may be attacked (and destroyed) as though
+they are trucks as per the Strafing (Cases <<40_5>> and
+40.6) and Land Support Bombing (Cases <<41_2>>,
+41.3 and <<41_5>>) rules in the Air Game.
+
+[#47_52]*[47.52]* The initial motorization points available
+to the Players are calculated in the same manner as
+listed in <<32_5>> except that Second/Third Line trucks
+listed as available at air facilities are included in
+the calculations.
+
+[#47_53]*[47.53]* Motorization points may be received as
+though they are truck replacements. The Players'
+ability to bring in motorization points is equal to
+their ability to bring in Medium plus Heavy Truck
+Points (i.e., each medium/heavy truck point is
+equal to one motorization point) as per the Axis
+Truck Production Chart of the Axis Replacement
+Pool and the Commonwealth Truck Production
+Table of the Commonwealth Production System.
+
+[#47_6]
+=== SIMPLIFIED AXIS NAVAL
+CONVOYS
+These rules replace those listed in Case <<32_6>>.
+
+[#47_61]*[47.61]* In the abstract Logistics game system,
+Axis Naval Convoys consist of all Supply Units,
+Motorization Points and Replacement Points for
+that Game-Turn. These items may be divided and
+assigned to any Convoy Lane available, as per
+rules for such assignment. There are no tonnage
+limitations.
+
+[#47_62]*[47.62]* The Axis Player may never assign more
+than three regular and three depot supply units
+and twenty-five motorization points to any one
+Convoy Lane in any one Naval Convoy Stage.
+Note that the Axis Player is limited by the Replacement Pool as to the maximum number of replacement points of each type of item that may be
+assigned to Axis Naval Convoys (total) for arrival
+during a particular Game-Turn.
+
+[#47_63]*[47.63]* If the Commonwealth Player successfully
+performs a Axis Naval Convoy reconnaissance
+mission, he is informed as to the composition of
+the convoy in total'number of: Regular supply
+units, depot supply units, motorization points,
+tank replacement points, infantry replacement
+points, gun replacement points and armored
+recce/armored car replacement points.
+
+[#47_64]*[47.64]* Attacks against a convoy are carried out
+as per the Axis Naval Convoy Bombing rules.
+
+[#47_65]*[47.65]* The result of an attack on an Axis Naval
+Convoy is modified as follows:
+
+A/A result of 10% applies only to motorization
+points and replacement points, rounding fractions
+down for the former and rounding fractions up for
+the latter.
+
+B/A result of 20% applies to all items except
+Depoit supply units, rounding fractions down.
+However, at least one regular supply unit at one
+point of each class of replacement point is always
+eliminated.
+
+C/A result of 30% or greater is applied as “B”'
+above with the modification that at least one supply unit of any type must be eliminated (supply
+units are considered as a total for loss determination).
+
+[#42_7]
+=== BOMBARDMENT OF THE
+COMMONWEALTH FLEET
+
+Ignore Case <<32_7>> Bombardment of the Com
+monwealth Fleet is carried out as per the Air Game
+
+Rules. :
+
+[#42_8]
+=== STACKING MODIFICATIONS
+
+[#42_81]*[42.81]* The Players ignore all Road and Track
+(only) Stacking Point limits as listed in Section <<9_0>>.
+[#42_82]*[42.82]* The Players may stack one Depot supply
+
+unit in addition to the regular supply unit stacking
+limits listed in Case <<32_14>>.
+
+LOGISTICS
+GAME
+
+The Logistics Game allows the players to
+realistically experience the constraints that actually applied to the armies which fought in North
+Africa. Basically, there are four distinct "flavors"
+of supply in CNA: water, fuel, stores, and ammo.
+The Logistics Game requires that players keep
+track of the amount of each of these that each unit
+possesses and consumes. Also included are detailed naval convoy rules that cover the movement of
+the supply types to Africa for the Axis and rules
+covering the use of truck transport to move the
+supplies.
+
+The Logistics Game constitutes the heart and
+soul of Campaign for North Africa. The entire
+design emphasis is on recreating the difficulties of
+supply in desert warfare. Overall commanders will
+soon find out that their most important weapon is
+not their tanks or their 88's or their long-range
+bombers; it is their Trucks.
+
+Over a year of intensive testing has proven at
+least one thing: no one can do well in this game if
+he does not have a definitive grasp of the logistical
+situation and, moreover, a far-sighted plan on
+how to handle it. This goes double for the Axis
+Player, who is often so far away from his base of
+supply that it will seem to take forever just to
+“‘feed”' his troops. Players should learn to‘use the
+three-tiered ‘“‘Line" system for their trucks, and
+they must set up a system whereby trucks and the
+shipment of supplies is handled with a maximum
+of efficiency and speed. Any Stage in which supplies are not constantly being moved forward is a
+wasted three days (game-time). The thoughtful use
+of Supply Dumps is an absolute must.
+
+The general feeling that players will get
+throughout the game, vis a vis the logistics,is
+frustration (albeit more so on the part of the Axis
+Player. than the Allied Player). The Axis Player
+will have countless opportunities to smash weaklyheld Allied positions, only to find he has neither
+the fuel the ammunition to carry out his plans;
+they are somewhere on trucks 200-300 miles to his
+rear. The player who best minimizes this problem
+will most often be the winner.
+
+Much research was done on the logistics portion
+of the game. Statistics are available, but not in a
+form that is easily translatable to game terms. The
+supply needs, in terms of the points consumed and
+needed, are based on basic computations using
+weights and consumption figures (where
+available). These figures were then extrapolated to
+cover usage over the time scale in the game. This
+was especially important when determining ratios
+for fuel and ammunition for aircraft. Furthermore, complete information on fuel consumption
+was not available on a goodly number of the bigger
+planes. Another problem area was ammunition
+usage. But the biggest prou.cm area, and the area
+that is most abstracted for game purposes, is the
+correlation between supplies used and weight of
+supplies convoyed (by the Axis). Exact figures here
+are rare, and much testing was spent on seeing
+whether the numbers we came up with were
+satisfactory.
+
+All of the above is by way of giving the players a
+little background on the logistics game. The supply
+problem in CNA is extensive, and the work needed
+to run it—in terms of the game—is just as extensive. It is highly recommended that one player
+from each side be assigned to this area, and this
+area alone. Testing proved that rare was the player
+who could handle military matters, strategy, tactics, etc., and also coordinate supply for his
+troops.

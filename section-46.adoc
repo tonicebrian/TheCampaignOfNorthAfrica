@@ -1,0 +1,184 @@
+[#46_0]
+== ANTI-AIRCRAFT FIRE
+
+(FLAK)
+
+1) | iw
+74 HAA | | 52 LAA
+GENERAL RULE: - :
+
+Planes flying missions in a given hex must undergo
+anti-aircraft fire, if there are Enemy units capable
+of such in that hex. Generally, AA fire is conducted ‘before a mission is undertaken and any
+casualties taken before determining the effects of
+that mission. AA fire is given in points, based on
+capabilities of light or heavy AA (or flak) guns.
+The number of AA points for each unit is determined by multiplying the TOE strength by the AA
+rating. All AA units have Flak Points, and some
+other HQ, artillery and heavy weapons units also
+have flak/AA capability. A unit's flak/AA rating
+is listed in that unit's Characteristics Chart Table
+under the AA column. AA/flak fire consumes ammunition.
+
+PROCEDURE:
+
+Anti-aircraft Fire occurs after all Air-To-Air combat and Flak Suppression Missions have been completed. The Enemy Player divides the opposing
+planes into Target Groups  <<46_26>>) and indicates
+the number and type, but not Mission, of the
+planes in each Target Group. The Friendly Player
+may then attack the Target Groups in any order he
+wishes. Each attack is performed separately and
+all planes destroyed, aborted and Ammo expended
+requirements are completed before the next attack
+is performed. All anti-aircraft attacks are performed using the Anti-Aircraft Combat Results
+Table. The Friendly Player determines AA Points
+of Air Facilities and which TOE Strength Points of
+units with anti-aircraft Ratings are attacking a particular Target Group. The total Anti-Air points
+are then determined (do not divide by ten!)
+
+All anti-aircraft attacks are performed using the
+Anti-Aircraft Combat Results Table  <<46_3>>).
+
+All attacks on planes flying Fighter-type Missions are performed as follows: Roll two dice,
+reading them sequentially. Read down the rows of
+
+results in the Planes On Fighter-Type Missions section of the CRT until one is found that contains
+that dice roll. Read along the row to the right to
+determine the number of planes in that Target
+Group destroyed by anti-aircraft fire. The actual
+planes in that Target Group that are destroyed
+should be determined at random. The players may
+use any method they wish as long as it is consistent
+and mutually agreeable.
+
+Example: The players alternate picking which
+planes are destroyed. Example: Number the planes
+in the Target Group from 11 to 66 and roll the dice
+until enough different numbers are thrown to
+match the number of planes to be eliminated and
+then eliminate those planes whose number has
+come up.
+
+All attacks on planes not flying Fighter-Type
+Missions  <<46_2>>.6a and <<46_2>>.6b) are performed using the Planes on Other Missions section of the
+anit-aircraft CRT as follows:
+
+Prior to determining the results of AA fire the firing Player may have to adjust his AA Point column to account for the density of enemy planes
+overhead. He consults the AA Density Adjustment Chart, noting the total number of enemy
+planes (other than fighters) in that hex. He then
+adjusts the column — in his favor — if warranted.
+Remember, Night Missions are done separately
+from others.
+
+The firing Player rolls two dice twice using the
+same column, once to determine the number of
+planes destroyed (using the rows of the same
+name) and once to determine the number of planes
+that Abort involuntarily (using the rows of the
+same name). Determination of which planes are
+destroyed and Aborted should be made by the
+same method used for determining losses on
+Fighter Missions. Aborted planes are determined
+after all losses from destroyed planes are completed.
+
+[#46_1]
+=== FLAK/AA UNITS
+
+[#46_11]*[46.11]* A large number of units have AA/Flak
+capability; that is, they may fire at enemy planes.
+A unit that has an AA Rating may so fire
+(however, see Case <<46_22>>). Most of these units are
+called AA or Flak units, and are so delineated by
+their unit symbol on the counter. However, many
+other types of units have AA Ratings. These AA
+Ratings are multiplied by the TOE Strength of the
+unit to determine the Actual AA. Points that can
+fire. (There is mo dividing by 10, as with other
+strengths.) Any unit with an AA symbol on its
+counter is called a Pure Flak unit (See <<46_17>>.).
+
+[#46_12]*[46.12]* A flak unit having a (parenthesized)
+defense assault rating, defends against an assault
+only if alone in the hex. Players should note that
+the German 88's and Italian 90mms have a defensive assault rating and are treated as artillery units
+with assault ratings when attacked.
+
+[#46_13]*[46.13]* Unless specifically stated otherwise, flak
+units are treated as artillery in terms of having
+their own transport. There are some flak units'
+without transport, and to "motorize" these units
+requires trucks. Each Point of AA may be towed
+by a medium truck point or a Heavy Truck Point.
+
+[#46_14]*[46.14]* Flak/AA units require supplies like any
+other unit. (They are treated as artillery). They
+will, of course, use ammunition when firing.
+
+[#46_15]*[46.15]* Certain combat units—in addition to
+regular flak units—have AA/Flak Points. Certain
+tanks and recce units have AA/Flak Points, and
+these are points per TOE Strength Point (Thus, 5
+TOE points of Sherman tanks would have 5
+AA/Flak Points).
+
+[#46_16]*[46.16]* Tanks may use their AA/Flak Points only
+against fighters strafing units in that hex or against
+dive bombers. They may not use their AA Points
+against any other planes/missions.
+
+[#46_17]*[46.17]* Pure AA/flak units (i.e., units that have
+only AA Points) may stack freely in major cities;
+they do not count against the stacking limits. In
+addition, one pure AA/flak unit may stack freely
+in an air landing strip hex, and three may stack
+freely in an airfield.
+
+[#46_2]
+=== RESTRICTIONS ON ANTIAIRCRAFT FIRE
+
+[#46_21]*[46.21]* Anti-aircraft fire may only be directed at
+planes flying missions in the same hex as the units
+and air facilities possessing an anti-aircraft ability.
+
+[#46_22]*[46.22]* Infantry, recce, and tank units may fire
+AA only at planes in the fighter mission, strafing
+and/or dive bombing target group (see Case
+46.26).
+
+[#46_23]*[46.23]* Anti-aircraft fire occurs after all air-to-air
+combat and flak suppression missions have been
+performed.
+
+[#46_24]*[46.24]* The planes fighters flying flak suppression
+missions and those flying naval convoy reconnaissance missions may not be attacked by antiaircraft fire.
+
+[#46_25]*[46.25]* Opposing planes flying missions in a hex
+must be grouped into target groups for antiaircraft fire purposes.
+
+[#46_26]*[46.26]* The target groups are as follows:
+a) Ali Enemy planes not assigned to fighter-type
+missions and flying (normal) daytime missions
+by each mission,
+b) All Enemy planes not assigned to fighter-type
+missions and flying night missions by each mission.
+c) All Enemy planes assigned the fighter-type
+missions of combat air patrol. Scramble and interception flying daytime.
+d) All Enemy planes assigned night fighter-type
+missions of combat air patrol, scramble and interception.
+e) All planes flying fighter-type missions of
+strafing and/or dive bombing.
+
+[#46_27]*[46.27]* AA may be fired at as many target groups
+
+as the owning Player wishes.
+
+[#46_28]*[46.28]* Replacement Points may not use AA
+ratings until absorbed by a unit.
+[#46_3]
+=== ANTI-AIRCRAFT COMBAT
+RESULTS TABLE
+(see Charts and Tables)
+
+[#46_4]
+=== FLAK ADJUSTMENT CHART
+(see Charts and Tables)

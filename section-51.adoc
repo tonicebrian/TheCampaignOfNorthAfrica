@@ -1,0 +1,81 @@
+[#51_0]
+== STORES
+GENERAL RULE:
+
+The term "stores'? encompasses everything that
+isn't fuel, ammunition or water. This includes
+food (which is what most playtesters ended up calling stores), paper, uniforms, and whatever else
+was used and needed to keep going. Stores are different from other types of supply in that they are
+distributed at the beginning of the Game-Turn,
+rather than during each Operation Stage, and that
+units may get along without them, albeit with
+limited effectiveness and with the possibility of attrition.
+
+CASES:
+[#51_1]
+=== USAGE OF STORES
+
+{§1.11] Every TOE Strength Point in play requires
+four Stores Points per Game-Turn, except as
+noted below.
+
+POW
+10
+
+[#51_12]*[51.12]* Prisoners use stores, at a rate of one
+Stores Point per five Prisoner Points per Operations Stage. (See <<28_15>>). Prisoners must be supplied with Stores before any other units. For this
+purpose only, if there are no Stores in the hex,
+Stores may be deducted from the nearest supply
+dump, regardless of how far away itis.
+
+{51.13] HQ and engineer units require only one
+Stores Point per Game-Turn.
+
+[#51_14]*[51.14]* Stores may have to be expended during
+construction. See <<24_0>>.
+
+[$1.15] Each Stores Point weighs one ton. Stores
+may be transported by trucks or planes, and they
+may be airdropped. Stores must be present in the
+hex to be used. Stores on truck convoys cannot be
+used until off-loaded.
+
+[#51_16]*[51.16]* Fifty per cent of any captured Stores
+Points may be used by the opposing Player; the
+rest are lost. ;
+
+[#51_17]*[51.17]* Guard points require two Stores points
+per Game-Turn each. Guards may also draw from
+the nearest dump as per <<51_12>>.
+
+[$1.2] EFFECTS OF LACK OF STORES
+
+ <<51_21>>] If any TOE Strength Point of a unit
+(including parent formation-size) does not receive
+required stores, that unit earns one Disorganization Point, per Game-Turn of lack of stores.
+
+[#51_22]*[51.22]* For every two consecutive Game-Turns
+units in a hex are without stores, they lose 2% of
+their TOE Strength Points, rounded to the nearest
+whole number. This loss is progressive and
+cumulative (as long as it is consecutive). Thus, at
+the end of the fourth consecutive Game-Turn,the
+rate rises to 4%, and at the end of six turns, 6%
+and so on. TOE Strength Points may be eliminated
+only if they are infantry-type TOE Strength
+Points. Guns and tanks are not affected by this.
+
+[#51_23]*[51.23]* A Player in desperate straits may place
+units on half rations. He cuts his stores requirements from four to two for units, with the
+
+following effects:
+1. No half-ration unit may voluntarily exceed
+its CPA;
+
+2. Ahalf-ration unit may not voluntarily enter
+an Enemy Zone of Control.
+
+Players may not use this case to "save" Stores.
+
+This is used only if there are not enough to go
+around,

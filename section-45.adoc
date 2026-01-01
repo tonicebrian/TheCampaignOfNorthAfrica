@@ -1,0 +1,452 @@
+[#45_0]
+== AIR-TO-AIR COMBAT
+
+GENERAL RULE:
+
+Although CNA uses individual planes, the resolution of air-to-air combat is done on an operational
+level, with much abstracted (in terms of plane
+ability, etc.). Air-to-air combat occurs before
+flak/AA fire and before completing any missions.
+Essentially, only fighters with non-parenthesized
+tacair ratings my initiate air-to-air combat, and
+fighters on offensive CAP must initiate Air-to-air
+combat. Air-to-air combat is resolved by comparing tacair ratings, augmented by the pilot ratings,
+and further adjusted by any difference in
+maneuver ratings. Bombers' tacair ratings may be
+augmented if they are formation flying. Planes
+resolve air-to-air in pairs, one plane against
+another, and all combat takes place within the hex.
+
+PROCEDURE:
+
+The Players first determine which planes in the hex
+will be engaging in air-to-air. This means all
+scrambles must be performed first. Each Player
+then declares whether or not he wishes to initiate
+air-to-air, with any player having planes on offensive CAP forced to initiate. Fighter vs fighter (or
+screen) combat takes'place before fighters may attack any Enemy bombers/transports, etc. (unless
+they are unescorted).
+
+Having determined the planes involved, the
+Players now decide who will be the Attacker (see
+Case <<45_16>>). (Remember, all Missions are flown
+simultaneous). The defender places all his planes
+being attacked down on a flat surface,using
+available aircraft counters (see <<34_75>>). The attacker now allocates his attacking fighters against
+the defending planes. Each individual air-to-air
+combat is now resolved, using the Air-to-Air Combat Tables. After attacking fighters have attacked
+escorts/screens they may, if possible, now attack
+the bombers/transports. After all air-to-air is
+resolved, players complete their missions (after, of
+course, undergoing flak/AA fire.)
+
+All opposing planes involved in air-to-air combat
+are individually "matched up", (see Case <<45_2>>).
+The Players now determine each airplane's tacair
+differential. In order to do this, the Players first
+adjust the tacair rating of their aircraft in one of
+two possible ways:
+
+a) For each fighter, the owning Player adds the
+
+rating of the pilot to that of his plane.
+
+b) For each bomber, add to the tacair rating
+
+any applicable formation flying bonus: if
+6-17 bombers are on the mission, add one to
+each bomber's tacair rating; if 18 or more
+bombers are on the mission, add two to each
+plane's tacair rating. (Note: Dive bombers
+are not eligible for formation flying
+bonuses.)
+
+Each Player now subtracts the adjusted tacair
+rating of the Enemy plane from his own plane's
+adjusted rating. This is the tacair differential. The
+tacair differential is now adjusted for each plane
+to account for the relative difference in
+manueverability of the planes. The manueverability rating of the less manueverable plane (the lower
+rating) is subtracted from that of the higher, and
+the Maneuver Adjustment Chart is consulted to
+obtain the appropriate maneuver adjustmenr.
+This Maneuver Adjustment number is added to
+the tacair differential of the plane with the higher
+maneuverability rating and subtracted from the
+tacair rating of the plane with the lower maneuverability rating. (Note: If the maneuver ratings are
+equal, no such adjustment is possible.) Thus, if
+prior to the adjustment for maneuver ratings one
+plane had a tacair differential of -3 and the other
++3, but the plane with the lower tacair differential
+had a maneuver rating 16 points higher than the second plane, then the tacair differentials would be
+adjusted, respectively, from -3 to +1 and from
++3 to -1, since the Manuever Adjustment Chart
+calls for an adjustment of "4'”' in favor of the
+plane with the higher manuever rating.
+
+In fighter vs. fighter match-ups, the fire of the
+plane with the "minus" tacair differential is
+resolved first. (For "0" differentials, the plane
+with the highest rated pilot is considered to fire
+first, or if that is a tie, the attacking Player's
+plane.) If there is more than one fighter attacking
+one Enemy Fighter, the lone fighter fires first. In
+fighter vs. non-fighter, the non-fighter plane's attack is always resolved first.
+
+Using the final adjusted tacair differentials, the
+Players refer to the tacair Kill Table  <<45_5>>), and the
+Player firing first rolls two dice and combines the
+results sequentially to obtain a result (e.g., "2”',
+“4? equals ‘*24'°). If the result falls within the kill
+
+range given on the table corresponding to the ap
+propriate tac air differential, the opposing plane
+has been shot down. Otherwise, the opposing
+Player with the aircraft with the positive tacair dif
+ferential gets to fire. If his dice roll result falls
+within the kill range as delineated on the TacAir
+Kili Table, the first plane is shot down; if not, then
+there is no result. (Note: Non-fighters fire in dividually at each Enemy fighter that is matched
+against them; fighters may never fire at more than
+one plane, even if attacked by more than one.)
+
+Figure A:
+PLAYERA $
+Plane Nr./Type x & x
+1 Gladiator MkII 1 2 27
+2 Gladiator MkII 0 2 27
+3. Tomahawk 0 2 32
+4 Tomahawk 0 2 32
+5 Hurricane MkI 0 4 32
+6 Hurricane MkI 3 4 32
+7 Hurricane MkI 1 4 32
+8 Hurricane MkI 0 4 32
+9 Beaufighter MkIF 0 11 30
+Figure B:
+PLAYER B é
+¥ ¥ ¢
+Plane Nr./Type es +
+A Fiat C. R. 42 Falco i 3 28
+B Fiat C. R. 42 Falco 0 3 28
+Cc Messerschmitt Bf. 100 2 5 32
+D Me Bf 110 1 5 32
+E MeBf 110 0 65 32
+J Me Bf 109E 2 6 34
+K Me Bf 109 E 1 6 34
+L Me Bf 109 F 0 6 39
+Figure C:
+PLAYER A'S PLANES
+1 2 3 4 =5 667 8 9
+D E G H I JI K L B
+A Cc M
+F
+
+PLAYER B'S PLANES
+
+The preceding is an illustration of determining the
+plane match-ups in the following example of
+planes about to engage in air-to-air combat. Player
+A (Commonwealth) possesses nine planes while
+Player B (Axis) possesses thirteen planes, making
+the former the defender and the latter the attacker
+for this particular group of air-air combats.
+
+Figure: The Commonwealth Player has two
+Gladiator MkII's, one piloted by a 1 pilot; two
+Tomahawks; four Hurricane MkI's, one piloted
+by a 3 pilot and one by a 1 pilot; and one
+Beaufighter Mk IF. The Commonwealth Player
+numbers his planes (for convenience) in ascending
+order by combat worth. Within the numbers
+assigned to each type of plane he randomly determines the rank of the pilot handling the aircraft.
+
+Figure B: While the Commonwealth Player is
+listing his planes the Axis Player is performing the
+same actions. His job is slightly easier as he is not
+troubled by having to jumble his pilot ratings.
+
+Note that if either or both Players possess
+identical aircraft with identically rated pilots that
+arrived in this particular hex from different
+squadrons the owning Player would have to indicate the parent squadron for each of those
+planes.
+
+15
+
+16
+
+Figure C: The Commonwealth Player announces the type number and ID numbers for each
+of his planes without stating the pilot's rank. The
+Axis Player then matches up his planes in any pattern and order against the Commonwealth
+Player's aircraft, making sure that each Commonwealth aircraft is opposed by at least one Axis
+aircraft. In the case of a plane being attacked by a
+number of planes and only able to shoot back at a
+single one of the attackers (this particular type of
+example), he names the order in which the multiple
+attacks on the opposing aircraft are to be performed (as the defender may only shoot at one of the attacking planes). The Players then proceed to
+resolve the individual air-to-air combats.
+
+Note that in this example the Axis Player has
+apparently decided to take the long view, with the
+worst plane (Italian C. R. 42) being sacrificed to
+the Beaufighter and ganging up on the two worst
+(pilot distribution being equal) Commonwealth
+planes.
+
+CASES:
+
+[#45_1]
+=== HOW AND WHEN AIR-TO-AIR
+COMBAT OCCURS
+
+[#45_11]*[45.11]* Air-to-air combat takes place within a
+hex. Only planes in a given hex may engage in airto-air combat with each other, regardless of air
+Zones of Control. (Remember, fighters with air
+ZOC's may move into an adjacent hex to engage in
+air-to-air; if they are on offensive CAP in a hex
+without opposing aircraft they must move into an
+adjacent controlled hex to engage.)
+
+[#45_12]*[45.12]* All planes in a given hex are subject to airto-air combat. However, there are priorities as to
+who attacks whom, and when. The primary rule is
+that only fighters or fighter-bombers on a fighter
+combat mission may initiate air to air combat.
+
+[#45_13]*[45.13]* Air-to-air combat occurs before
+flack/AA fire and before any missions in that hex
+may be completed. Remember, fighters may
+scramble or intercept into a hex, and that must be
+done before attempting to resolve air-to-air.
+
+[#45_14]*[45.14]* If there are fighters in a hex on offensive
+CAP, those fighters must attack all Enemy planes
+in that hex. Thus, fighters on offensive CAP
+automatically intiate air-to-air combat. If there
+are no fighters on offensive CAP, both Players
+must decide (secretly; to be revealed
+simultaneously) whether they want to initiate combat. If either Player decides to initiate combat,
+combat is joined.
+
+However, if neither Player desires air-to-air,
+both Players send their aircraft home, and all missions in that hex are cancelled. (This is sort of a
+free abort; planes may always try to abort even if
+the other Player desires combat, but this is not
+automatic. See <<39_3>>.)
+
+[#45_15]*[45.15]* Once air-to-air has been initiated, the
+Players determine which planes, if any, are being
+screened by Friendly fighter escort (planes flying
+defensive CAP for the bombers, etc.). Only planes
+flying a mission other than CAP may be screened.
+Furthermore, planes flying a mission other than
+CAP are automatically screened, unless they have
+no escort. Planes without Friendly defensive CAP
+are not screened. The Players now set the screened
+units aside, and engage in air-to-air with their
+fighters on CAP.
+
+[#45_16]*[45.16]* The Players must now decide who is the
+attacker. The Player with the most fighters (pure
+numbers) is the Attacker in all situations. In the instance where both Players have the same number
+of fighters, the Player with initiative for that
+Game-Turn  <<7_0>>) is the attacker. At this point,
+Players attempt to abort any missions they desire
+to abort. See <<39_3>>.
+
+[#45_17]*[45.17]* A plane without ammo (bombs aside) may
+not fire in Air-to-Air combat. However, its normal
+ratings are still used to resolve the effects of opposing fire.
+
+[#45_18]*[45.18]* Players now resolve the first wave of airto-air combat  <<45_2>>). Once this is completed, the
+screened planes may be attacked. (See <<45_3>>). This
+is resolved in the same way, with certain restrictions and changes.
+
+[#45_19]*[45.19]* A plane assigned to a particular match-up
+may never be switched to another match-up, even
+if the plane it was matched-up against is shot down
+before it has a chance to fire.
+
+[#45_2]
+=== FIGHTER VS FIGHTER
+
+[#45_21]*[45.21]* In resolving air-to-air combat between
+fighters (planes with nonparenthesized tacair
+ratings), the Player follows the general outline of
+the Procedure augmented as below.
+
+[#45_22]*[45.22]* The Defender places his fighters down on
+a flat surface, using the aircraft counters. He then
+states what type of plane (e.g. Mel09F, CR42,
+etc.) each fighter counter represents. He does not
+reveal the rating of his pilot at this time.
+
+[#45_23]*[45.23]* The attacker must now assign at least one
+fighter to every fighter the defender has placed
+down. Once every defending fighter is "covered",
+the attacker may assign more than one fighter toa
+defending fighter. There is no limit to the number
+of attacking fighters that may engage a solitary
+defending fighter, as long as all the defending
+fighters are attacked.
+
+[#45_24]*[45.24]* Each individual air-to-air match-up is
+now resolved  <<45_5>>). A defending fighter may
+fire at only (any) one attacking fighter, while, if
+there is more than one fighter attacking a defending fighter they all may fire at the defending
+plane. However, all air-to-air combat is resolved
+individually. No planes ever add their strengths
+together. The Players may resolve the individual
+match-ups in any order they wish.
+
+[#45_25]*[45.25]* After fighter vs fighter has been resolved,
+there is a possibility that some of the fighters may
+fire, again, against enemy bombers and other
+screened planes (See <<45_3>>).
+
+[#45_3]
+=== FIGHTER VS NON-FIGHTER
+(SCREENED PLANES)
+
+[#45_31]*[45.31]* When all fighter vs fighter combat has
+been finished, Friendly fighters remaining may, if
+possible (see Case <<45_32>>) attack any Enemy screened planes. They do not have to do so, even if they
+are on offensive CAP—unless only non-fighter
+planes were in the hex to start with (and so there
+was no fighter vs. fighter combat). In such case,
+offensive CAP fighters must initiate air-to-air with
+such unscreened planes.
+
+[#45_32]*[45.32]* If the Player wishing to attack screened
+planes has more fighters remaining (after fighter
+vs. fighter combat) in the hex than does the Enemy
+Player, he may attack the screened planes with the
+excess number of fighters; e.g., the Axis Player
+sends a squadron of Helll's escorted by 6 Me
+Bfl09F's to a Target. The Commonwealth Player
+scrambles two squadrons of Hurricane JIC's. The
+Hurricanes attack the Messerschmitts, and, after
+fighter vs fighter combat, there are 19 Hurricanes
+remaining along with 5 Messerschmitts. The Commonwealth Player may now take any of his 14 excess Hurricanes (19-5=14) and attack the
+Heinkels. The 14 Hurricanes are now engaging ina
+second round of air-to-air.
+
+[#45_33]*[45.33]* The Defender is automatically the Player
+with the screened planes. He places his planes
+down as in <<45_22>>. The attacker may now assign his
+fighters in amy way he sees fit; he does not have to
+cover all the defender's planes, as in <<45_23>>. He
+
+may take, using the above example, all 14 Hurricanes and attack one of the Henkels, or he may
+divide them amongst the 12 Henkels. The choice is
+the attacker's.
+
+[#45_34]*[45.34]* Air-to-air fighter vs non-fighter is resolved in the same way as fighter vs fighter (see <<45_2>>)
+with one exception: defending, screening planes
+may shoot at each and every fighter attacking that
+plane — not just one, as in <<45_24>>. (A dive bomber
+may shoot at one attacking fighter.)
+
+[#45_35]*[45.35]* Any screened planes that survive may now
+proceed to the flak/AA fire portion of the mission
+Tun.
+
+[#45_36]*[45.36]* Bombers flying in formation receive a
+bonus: if 6-17 bombers are on the mission, add one
+to each plane's tacair rating; if 18 or more
+bombers are on the mission add two to each
+plane's tacair rating.
+
+Examples of Air-to-Air Combat Resolution:
+
+a. ACR 42anda Hurricane I engage in air-to-air.
+The CR 42 has a ‘3' pilot for a total tacair of ‘6'
+(34+3=6), while the Hurricane has a ‘2' pilot
+for a total of ‘6' (4+ 2=6). But the Maneuver
+Rating of the Hurricane is four better than that
+of the CR 42 (32 to 28), so this gives an adjustment of 2 tacair points in favor of the Hurricane. The final tacair differential is +2 forthe
+Hurricane, — 2 for the CR 42. The CR 42 fires
+first at ~2, needing an 11 or 12 fora kill. He
+rolls a 25 and misses. (Had he rolled a ‘12' the
+combat would have been over.) Now the Hurricane rolls, needing an 11-22 to get a kill. If
+both miss, there is no more rolling.
+
+b. Three Hurricane HB's attack a Junker Ju88D,
+flying in a formation of 12. Each Hurricane
+has a ‘2' pilot. The Hurricane has a tacair of
+‘6', plus ‘2' for the pilot. The Ju88 has a tacair
+of ‘5', plus one more for formation flying.
+That gives the Hurricane a differential of +2.
+However, the Hurricanes have an 11 point
+maneuver advantage, for a further adjustment
+of 3 points, making the final differential for
+each Hurricane + 5. The Junker 88 fires first at
+each Hurricane. If he rolls an 11 he scores a
+kill. Then each Hurricane fires at the Ju88,
+needing an 11-26 fora kill.
+
+[#45_4]
+=== MANUEVER ADJUSTMENT
+CHART
+(See Charts & Tables)
+
+[#45_5]
+=== TACAIR KILL TABLE
+(see Charts & Tables)
+
+[#45_6]
+=== PLANE AND PILOT
+RECOVERY (see Charts and Tables)
+
+[#45_61]*[45.61]* In certain cases fighters shot down during
+air-to-air, as well as planes strafed on the ground
+ <<40_63>>), may be recovered.
+
+[#45_62]*[45.62]* For planes strafed on the ground, the
+Player expends 1 Stores Point and 1 Fuel Point for
+every plane he wishes to attempt to repair. He then
+throws one die; if die roll is "1" or "2", the plane
+is repaired. Any other number and the plane is permanently destroyed. In this case supplies are expended only if the repairs are succesful! For the
+plane to be repaired, the supplies must be expended, Any strafed plane may be repaired in this
+fashion, and once repaired that plane may fly one
+full Game-Turn later.
+
+[#45_63]*[45.63]* For fighters (only) shot down (by either
+Enemy planes or flak) the Player rolls only one
+die. In this case, a roll of ‘1' means the fighter actually was not shot down and has managed to limp
+back to base. (This roll is the same used for
+recovery of the pilot  <<45_66>>); thus if a ‘1' is thrown,
+both the pilot and fighter return. On a 2, only the
+pilot makes it back.)
+
+[#45_64]*[45.64]* Once the fighter has returned
+(from <<45_63>>), the Player must attempt to repair
+it. He uses the same system as in <<45_62>>, but in this
+instance no die roll is needed to repair the plane;
+simply expending the supplies will do.
+
+[#45_65]*[45.65]* Fighters recovered and repaired in this
+fashion are not "kills" for the purposes of <<40_18>>.
+
+[#45_66]*[45.66]* If a plane is shot down, the pilot may bail
+out and survive. For each fighter that is shot
+down, the owning Player rolls one die. If a ‘*1”' or
+“2”? is obtained, the pilot survives and is
+recovered, regardless of where the plane was shot
+down. He is ready for action three Operations
+Stages later. Otherwise, the pilot is killed.
+
+[#45_7]
+=== EXTENDED RANGE
+
+Certain aircraft have more than one maneuver
+rating. Such an aircraft must utilize the lower
+maneuverability rating if on a mission at extended
+range, unless the Player makes a decision to jettison the extended range fuel tank. In that case, the
+higher maneuverability rating may be used in airto-air combat, but the plane cannot return to any
+air facility that is beyond its normal range. If out
+of range of any Friendly air facility, the plane must
+be crash landed (see Case <<37_23>>)—if it survives the
+combat, that is. Fighter-bombers attacked by
+Enemy planes while on bombing missions may jettison their bombs to increase their Maneuver
+Rating for Air-to-Air. The jettisoned bombs have
+no effect.
