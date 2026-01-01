@@ -26,16 +26,19 @@ CASES:
 [#34_1]
 === AIRCRAFT CAPABILITIES
 
-[#34_11]*[34.11]* Range
-
-A Plane's range is the maximum distance, in hexes, that it may be flown fo a hex
-io perform a mission. It is also the maximum distance from which it may return
+[#34_11]*[34.11] Range*
++
+A Plane's range is the maximum distance, in hexes, that it may be flown to a hex
+to perform a mission. It is also the maximum distance from which it may return
 to a base from a mission. There is one exception to this: planes flying a
 transfer mission (simply moving from one air facility to the next) may be flown
-a distance equal to twice that of their listed range. Example: An Mel09E based
+a distance equal to twice that of their listed range.
+
+[example]
+An Me109E based
 on a Landing Strip in hex C3101 may fly to hex C3133 for a strafing mission — a
 distance of 32 hexes, within its Range of 41 — and then fly back to its squadron
-base at C3101. The Mel09E could not be flown from the mission hex to an Axis
+base at C3101. The Me109E could not be flown from the mission hex to an Axis
 airfield in A0915 for two reasons: it is too far away and, generally, all planes
 must return to their Base of origin. Planes may not save hexes not flown (within
 a plane's Range) going out and use them coming back (e.g., the Me109E flies only
@@ -47,40 +50,40 @@ result of an increased fuel capacity or bombload. Players are free to choose
 whichever range load they wish.
 
 [#34_13]*[34.13] Tactical Air Combat (TacAir)*
-
++
 This is the aircraft's combat rating vis a vis other aircraft, based on the
 number and type of armament carried by the plane. A unit with a parenthesized
 TacAir Rating (3) may not initiate air-toair combat.
 
 [#34_14]*[34.14] Bombload Capacity*
-
++
 This is the number of Bomb Points, called tonnage (but not actually in tons),
 that a Plane can carry. If a Plane can carry torpedoes that fact is listed along
 with the bombload capacity.
 
 [#34_15]*[34.15] Transport Capacity*
-
++
 This is the capacity of the plane, given in TOE Strength Points (infantry)
-and/or tons of supplies (see Case <<54_5>>for tonnage equivalents).
+and/or tons of supplies (see Case <<54_5>> for tonnage equivalents).
 
 [#34_16]*[34.16] Maneuver*
-
++
 This is a somewhat abstract rating that simulates the ability of a plane to fly
 faster, higher, and with greater agility than other planes. Maneuver ratings are
 always considered in relation to other planes.  Maneuver ratings are used to
 modify Basic TacAir Differentials.
 
 [#34_17]*[34.17] Fuel Consumption*
-
++
 This is the number of Fuel Points a plane requires to perform any mission or
 emergency flight (see Case <<37_3>>. All Fuel Points are consumed during a
 mission, regardless of the type or distance of the mission.
 
 [#34_18]*[34.18] Mission Capability*
-
++
 These are the types of missions that the plane can undertake. Planes may only
 undertake missions for which they have capability. For a more complete
-description, consult the Section on missions, 39.0.
+description, consult the Section on missions, <<39_0>>.
 
 [#34_19]*[34.19]* All aircraft Ratings are listed on the Alrcraft
 Characteristics Chart, <<34_6>> No aircraft counter contains any numbers;
@@ -115,7 +118,7 @@ and fighter-bombers.
 
 [#34_32]*[34.32]* Most Bombing Missions are concerned with dropping bombs (air
 bombardment) on targets in order to destroy, reduce or otherwise incapacitate
-them. Different bombers have varied capabilities ds regards this.
+them. Different bombers have varied capabilities as regards this.
 
 [#34_33]*[34.33]* Bombers, in and of themselves, are usually considered as one
 or sometimes more of the following: Bombers, Night Bombers (NB), Dive Bombers
@@ -170,7 +173,7 @@ the game; they are used to note the location of planes and facilitate air-to-air
 combat.
 
 [#34_72]*[34.72]* Planes on the ground are not represented by the Squadron
-Ground Support Unit counter (see Section <<35_0>>. The actual types and numbers
+Ground Support Unit counter (see Section <<35_0>>). The actual types and numbers
 of plane in that squadron are kept on the Squadron Composition Sheet. No
 aircraft counters are needed.
 
@@ -215,7 +218,7 @@ facility in excess of the facility's current squadron capacity.
 The Axis Player's airforce reinforcements may be divided amongst the bases in
 the Tripoli/Tunisia boxes and Italy/Sicily/Crete as he chooses within the
 requirements concerning basing German bombers in the Mediterranean (see Case
-<<43_1>>.
+<<43_1>>).
 
 [#34_82]*[34.82]* SGSU's arrive in the Naval Convoy Arrival Phase of the
 Operations Stage. Axis SGSU's may arrive in any Tripoli/Tunisia box.
@@ -225,13 +228,16 @@ may be brought in as the Players desire subject to the following restrictions:
 _Both Players_: An SGSU lost through enemy action may not be replaced for one complete GameTurn. This is in adddition to any restrictions
 below.
 
-_Commonwealth Player_: A/U.S. Army Airforce SGSU's (i.e., those with “USAAF”
+_Commonwealth Player_:
++
+A/U.S. Army Airforce SGSU's (i.e., those with “USAAF”
 historical designations and CPA's of 30) may not be brought in until August,
-1942 (1/91 Game-Turn).  B/The Commonwealth Player may never have more SGSU's in
+1942 (1/91 Game-Turn).  
+
+B/The Commonwealth Player may never have more SGSU's in
 play than the total number of his planes at on-mapfacilties divided by twelve,
-plus two. E.g., if the Commonwealth Player has 438
-planes at on-map facilities he may have 39 GSU's
-438 + 12=36%4 +2=39 (rounded up).
+plus two. E.g., if the Commonwealth Player has 438 planes at on-map facilities he 
+may have 39 GSU's 438 + 12=36%4 +2=39 (rounded up).
 
 C/ The Commonwealth Player may, because of a counter shortage, find that he is
 somewhat short of SGSU's (there are enough commonwealth counters to hold
@@ -246,8 +252,8 @@ _Axis Player_:
 
 A/ The Axis Player may never have more German SGSU's in play than the total
 number of his German planes based at on-map facilties divided by
-ten. E.G., if the Axis player has 286 planes based
-on-map he may have 29 German SGSU's.
+ten. E.G., if the Axis player has 286 planes based on-map he may have 29 German 
+SGSU's.
 
 B/ The restrictions on Italian SGSU's in play are the same as those for German
 SGSU's.
@@ -267,12 +273,12 @@ emergency flight).
 
 The Players determine the number and rating of pilot reinforcements once a
 month, at the instant of their arrival. The owning player consults the
-appropriate Pilot Arrival Table (Case <<34_88>>or <<34_89>> and if pilots are
+appropriate Pilot Arrival Table (Case <<34_88>> or <<34_89>>) and if pilots are
 available, makes a single roll of two dice (although separate rolls for the
 German and Italian pilots). The Player adds the dice together and cross indexes
 the result under: all of the columns to determine the number of pilots of that
 nationality of each rating that he receives for that month (note that Hauptmann
-Hans-Joachim Marseille arrives automatically.)
+Hans-Joachim Marseille arrives automatically).
 
 [#34_84]*[34.84]* Airplane reinforcements arrive. in the Naval Convoy Arrival
 Phase. The reinforcements are listed as to the total of each type of plane
@@ -282,7 +288,10 @@ amongst the weeks as evenly as possible and all of the planes arriving during a
 game-turn may arrive in the First Op Stage of that game-turn at the owning
 Player's choice (i.e., the Players need only divide the total by four, not
 twelve). The individual planes arriving are determined freely by the owning
-Player. E.g., in January of 1941 the Commonwealth Player receives a total of 59
+Player. 
+
+[example]
+In January of 1941 the Commonwealth Player receives a total of 59
 planes (44 Hurricanes, 12 Blenheims, 2 Wellingtons and 1 Maryland). The
 Commonwealth Player could have 15 Hurricanes arrive the first game-turn; 10
 Hurricanes, 2 Blenheims, the Maryland and both Wellingtons arrive the second
@@ -292,12 +301,12 @@ Hurricanes arrive the fourth game-turn.
 [#34_85]*[34.85]* The Commonwealth Player is required to withdraw certain
 squadrons during the course of the game. The dates, squadron types and plane
 requirements are listed in the Commonwealth Airplane Reinforcement and Squadron
-Withdrawl Schedule (Case <<34_86>>. Squadron withdrawls are performed at the
+Withdrawl Schedule (Case <<34_86>>). Squadron withdrawls are performed at the
 beginning of the month indicated. Squadrons may be withdrawn from any air
-facility on Malta or game map section “‘E".  The Commonwealth Player simply
-removes from play all of the planes and pilots assigned to that squadron. :
+facility on Malta or game map section "E".  The Commonwealth Player simply
+removes from play all of the planes and pilots assigned to that squadron.
 SGSU's are not removed unless they now exceed the limit determined in Case
-<<34_82>>
+<<34_82>>.
 
 [#34_86]*[34.86] Commonwealth Airplane Reinforcement and Squadron Withdrawal Schedule*
 

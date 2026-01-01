@@ -1,3 +1,4 @@
+
 [#28_0]
 == PRISONERS POW
 
@@ -16,20 +17,19 @@ CASES:
 === THE CARE AND FEEDING OF PRISONERS
 
 [#28_11]*[28.11]* Each Infantry TOE Strength Point that Surrenders — not tanks
-or guns —- becomes a Prisoner Point. Prisoner Points are represented by
+or guns — becomes a Prisoner Point. Prisoner Points are represented by
 counters, which may be used like "change." They are available as needed.
 
 [#28_12]*[28.12]* Immediately upon surrendering, all Prisoner Points may be
 moved up to three hexes in any direction by the capturing Player. They may not
-enter an Enemy-controlled or Enemyoccupied hex or enter or pass through
-impassable terrain during that "free'? movernent.
+enter an Enemy-controlled or Enemy occupied hex or enter or pass through
+impassable terrain during that "free" movernent.
 
 [#28_13]*[28.13]* Prisoner Points have a Capability Point Allowance of eight,
 which may be used for movement purposes only. They move in the captor's Convoy
 Movement Segment. They cannot, of course, engage in combat; their Capability
 Point Allowance is used for movement only. Prisoners may never exceed their
-Capability Point Allowance. If their guards are forced to retreat, they stand
-still.
+Capability Point Allowance. If their guards are forced to retreat, they stand still.
 
 [#28_14]*[28.14]* The maximum number of prisoners allowed in any one hex is 40
 Points. If there are more than five points "standing" (not moving) in a given
@@ -52,7 +52,7 @@ permanently. (They will not be used in factories to promote your war effort.)
 
 [#28_17]*[28.17]* Each detention camp requires the presence of one Guard Point
 (see Case <<28_2>>).  When moving, one Guard Point is requried for each 1
-Prisoner Points. Any prisoners without a guard "escape" (see Case<<28_23>>).
+Prisoner Points. Any prisoners without a guard "escape" (see Case <<28_23>>).
 
 [#28_18]*[28.18]* Prisoners may be transported by trucks, if you are feeling
 profligate with your transport.
@@ -64,7 +64,7 @@ profligate with your transport.
 
 [#28_22]*[28.22]* Guards may be formed from any infantrytype unit. Simply
 subtract a TOE Strength Point from the combat unit and replace it with a guard
-counter, Each Guard Point is an infantry unit worth one TOE Strength Point, with
+counter. Each Guard Point is an infantry unit worth one TOE Strength Point, with
 assault ratings of 0/1. Guards have a Capability Point Allowance of 10, but they
 are usually moving at a rate of 8, the same as their prisoners. Guards are
 capable of combat, reaction, etc. Players should note that if guards react or
@@ -72,14 +72,14 @@ retreat before combat, their prisoners do not. Unused Guard Points may be
 returned to their unit of origin.
 
 [#28_23]*[28.23]* If Guards abandon prisoners at any time, or there are
-prisoners in excess of the guard requirements (see Case<<28_17>>, those
+prisoners in excess of the guard requirements (see Case <<28_17>>), those
 prisoners escape. (There are no organized prison breaks here; this is Africa,
 not Colditz).
 
 [#28_24]*[28.24]* If escaped prisoners are within eight Capability Points of a
 Friendly unit — not counting Enemy Zones of Control or units — they are placed
 with that Friendly unit. They are then removed from play and one month later
-aretreated as Replacement Points, to be brought back for Training, etc. They may
+are treated as Replacement Points, to be brought back for Training, etc. They may
 not be used to assign or attach to units. If the escapees are farther than eight
 Capability Points, they may start to move towards Friendly units. All they
 require is water. If they have water, they survive. For every Operations Stage

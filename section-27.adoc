@@ -1,3 +1,4 @@
+
 [#27_0]
 == DESERT RAIDERS & COMMANDOS
 
@@ -5,7 +6,7 @@ COMMENTARY:
 
 On an operational level, Desert Raiders (The Long Range Desert Group and Die
 Sonderkommando Almasy) had little effect on the war. However, the designers felt
-that they would be missed in a simulation of this magnitude — and they doadda
+that they would be missed in a simulation of this magnitude — and they do add a
 lot of fun to the game. Desert Raiders are useful for "annoyance" raids: blowing
 supply dumps, attacking convoys, etc. A bit of honesty is required for this
 rule.
@@ -13,8 +14,7 @@ rule.
 CASES:
 
 [#27_1]
-=== THE LONG RANGE
-DESERT GROUP
+=== THE LONG RANGE DESERT GROUP
 
 [#27_11]*[27.11]* The Commonwealth desert raiders consist of two units of the
 Long Range Desert Group (LRDG). These are represented by two LRDG counters,
@@ -28,18 +28,18 @@ may never be used to form LRDG's.
 Points — and only from these type of units. To form an LRDG, the Player, in his
 Organization Phase, simply removes the TOE Strength Point from the Reece/AC unit
 and places an LRG unit on the game-map in its place.  Once formed, an LRDG unit
-may xof return to Recce/AC status.
+may not return to Recce/AC status.
 
 [#27_14]*[27.14]* LRDG's have a Capability Point Allowance of fifty (50).
 However, they have no combat ratings and may not engage in normal combat (see
-Case<<27_3>>. They have no Stacking Points.
+Case <<27_3>>). They have no Stacking Points.
 
 [#27_15]*[27.15]* There is no cost in Capability Points to form an LRDG unit.
 
 [#27_16]*[27.16]* If an LRDG unit is eliminated, a new one may be formed (from
 that eliminated counter) four Game-Turns later. Thus, an LRDG unit eliminated in
-Operations Stage 2 of the July II Game-Tusn would be formed in the Organization
-Phase of the 3rd Operations Stage of the August II Game-Turn,
+Operations Stage 2 of the July II Game-Turn would be formed in the Organization
+Phase of the 3rd Operations Stage of the August II Game-Turn.
 
 [#27_2]
 === DIE SONDERKOMMANDO ALMASY
@@ -50,7 +50,7 @@ units, with two exceptions:
 
 a. There may be only one DSA unit in play at any one time.
 
-b. DSA may be formed only from. German (not Italian) Armored Recce/AC units.
+b. DSA may be formed only from German (not Italian) Armored Recce/AC units.
 
 [#27_3]
 === HOW DESERT RAIDERS ARE USED
@@ -68,16 +68,16 @@ type) except that they are usually not on the game-map.
 [#27_33]*[27.33]* Desert raiders remain hidden until either of the following
 occurs:
 
-a. They engage in a raid (Case<<27_5>>; or
+a. They engage in a raid (Case <<27_5>>); or
 
-b. They are spotted (Case<<27_4>>
+b. They are spotted (Case <<27_4>>)
 
 When either one of the above occurs, the desert raider counter is placed on the
 game-map in the hex in which the event occurred.
 
 [#27_34]*[27.34]* Desert raiders have no Zone of Control.  Furthermore, they do
 not have to stop when entering an Enemy Zone of Control, although such movement
-risks being spotted (see Case<<27_6>>. To enter an Enemy-occupied hex is to raid
+risks being spotted (see Case <<27_6>>. To enter an Enemy-occupied hex is to raid
 (Case <<27_5>>).
 
 [#27_35]*[27.35]* Desert raider units need supplies but not the same as normal
@@ -93,12 +93,12 @@ Stages without resupplying, by getting supplies in Stage 1 of a Game-Turn, then
 resupplying in Stage 3 of the following Game-Turn,
 
 [#27_36]*[27.36]* If necessary, desert raiders have Reaction capability (see
-Case<<27_44>>.
+Case <<27_44>>).
 
 [#27_37]*[27.37]* Raiders may never exceed their 50 point Capability Point
 Allowance. If for any reason they are forced to do so, they are eliminated.
 
-[#27_38]*[27.38]* Desert Raiders do not consume fuel (except<<27_35>> nor do
+[#27_38]*[27.38]* Desert Raiders do not consume fuel (except <<27_35>>) nor do
 they breakdown.
 
 [#27_4]
@@ -108,10 +108,10 @@ they breakdown.
 at any time an Enemy combat unit enters a hex occupied by a Friendly desert
 raider, the desert raider may be spotted.
 
-[#27_42]*[27.42]* Desert raiders may never enter Enemyoccupied hexes unless they
+[#27_42]*[27.42]* Desert raiders may never enter Enemy occupied hexes unless they
 are going to raid.
 
-[#27_43]*[27.43]* If a Raider performs either action listed in Case 27.41, the
+[#27_43]*[27.43]* If a Raider performs either action listed in Case <<27_41>>, the
 raider Player must announce the fact and roll one die. If he rolls a 6, the
 raider has been spotted. If a raider unit is spotted, it is eliminated. Any
 other dieroll has no effect; the raider has not been spotted.
@@ -126,12 +126,12 @@ raider once per Operations Stage.
 === RAIDS
 
 [#27_51]*[27.51]* The type of raid a desert raider may perform usually depends
-on the objective. Most raids are "harassment”' in nature, as they can cause
-little real damage (except for Case<<27_6>>. They invariably take place behind
+on the objective. Most raids are "harassment" in nature, as they can cause
+little real damage (except for Case <<27_6>>. They invariably take place behind
 Enemy lines.
 
 [#27_52]*[27.52]* Desert raiders may be used to blow up a water pipeline. If a
-desert raider enters a hex witha water pipeline, and there are no Enemy combat
+desert raider enters a hex with a water pipeline, and there are no Enemy combat
 units in that hex the raider may attempt to blow the pipeline. The Player
 announces the raid, places the raider on the game-map, and rolls one die. If he
 rolls a 1-4, the pipe is blown; a 5-6 the pipeline is safe. Such a raid may be
@@ -144,14 +144,14 @@ strips are immune from raids; they are simply not the type of facility that can
 be rendered ineffective by desert raiders). If an Enemy airfield has no Enemy
 combat units in that hex, the desert raider may enter the airfield hex, reveal
 itself, and attempt to cripple the field. The Player rolls one die. If he rolls
-a 1 or 2, the capacity of the airfield is reduced by one level (see Case 36.00).
+a 1 or 2, the capacity of the airfield is reduced by one level (see Case <<36_0>>).
 On a dieroll of 3-6, nothing happens. The cost of the Raid is five Capability
 Points, and no casualties are suffered (as there are no Enemy combat units
 present). The raid may not take place if there are Enemy combat units present.
 (Squadron Ground Support Units of any type are not combat units for this
 purpose.) An airfield destruction raid may be attempted only once per airfield
 per Game-Turn. However, it may be combined with a plane destruction raid (see
-Case 27.54). Airfields in major cities may not be raided.
+Case <<27_54>>). Airfields in major cities may not be raided.
 
 [#27_54]*[27.54]* Desert raiders may attempt to destroy Enemy airplanes that are
 on the ground. The planes may be in airfields or air landing strips.  (Raiders
@@ -191,7 +191,7 @@ destroy trucks and supplies. This may be ddne in one of two ways:
 
 a. The Raider enters a hex that has a truck convoy; or
 
-b. The raider uses interception (see Case<<27_59>> during the opposing Player's
+b. The raider uses interception (see Case <<27_59>> during the opposing Player's
 Convoy Movement Phase.
 
 [#27_58]*[27.58]* The mechanics of a truck convoy raid are the same regardless
@@ -239,31 +239,30 @@ the Axis Player is an intimate friend of Erich von Stroheim or James Mason,
 well, that's nice.
 
 [#27_7]
-=== COMMANDOS: “‘Layforce"
+=== COMMANDOS: "Layforce"
 
-[#27_71]*[27.71]* One of the Commando units in the game is: ‘A'? Battalion of
+[#27_71]*[27.71]* One of the Commando units in the game is: "A" Battalion of
 the Special Service Brigade (Commonwealth), also known as Layforce because of
 its Commander: Lt. Col. R.E. Laycock, of the Royal Horse Guards.
 
 [#27_72]*[27.72]* Layforce "A" Battalion is the same as any other infantry unit
 with one exception: if Layforce starts an Operations Stage in Alexandria, it may
 be placed during that Operations Stage in any coastal hex on the game-map (see
-Case<<27_77>>.
+Case <<27_77>>.
 
 [#27_73]*[27.73]* Layforce "A" Battalion must spend one full Game-Turn in
 Alexandria before. it can be landed. Such commando landing expends 5 Capability
 Points from the unit for every 50 hexes moved by the transporting ships in that
 OpStage, in addition to the cost of terrain in the hex.
 
-[#27_74]*[27.74]* Layforce "A" Battalion needs no supplies for the first “Aree
+[#27_74]*[27.74]* Layforce "A" Battalion needs no supplies for the first Area
 Operations Stages after its landing, including the Stage in which it lands.
 After that, it must be supplied like any other unit.
 
 [#27_75]*[27.75]* If Layforce "A" Battalion is being used for a Commando raid,
 trucks may not be loaded with it.
 
-
-[#27_76]*[27.76]* Layforce "A"? may take Replacement Points. To replace one lost
+[#27_76]*[27.76]* Layforce "A" may take Replacement Points. To replace one lost
 point requires three Infantry Replacement Points trained for 12 OpStages with
 the Lay Force unit in Alexandria.
 
@@ -284,10 +283,10 @@ managed to destroy over 50 Axis planes. As such, the SAS operated closely with
 the LRDG, which often arranged for transportation of the SAS after its raids.
 
 [#27_81]*[27.81]* The Special Air Service Brigade is a “battalion-size" infantry unit with
-a_ basic Capability Point Allowance of 15 (see the OA Sheets Section<<04_46>>.
+a basic Capability Point Allowance of 15 (see the OA Sheets Section <<4_46>>.
 It may be motorized; however, if being used on a raid where it is transported by
 air or sea it may not be motorized. The SAS Brigade may operate as a normal
-infantry unit (a waste) or asa Commando unit.
+infantry unit (a waste) or as a Commando unit.
 
 [#27_82]*[27.82]* The SAS Brigade raids Enemy airfields. It may raid guarded
 (with Axis troops) or unguarded facilities. It may complete its raid (and roll
@@ -296,28 +295,27 @@ if the SAS Brigade raids a facility with Axis combat units, it must either
 eliminate such units or force such units to retreat in some way. Any such combat
 is conducted normally.
 
-[#27_83]*[27.83]* The SAS Brigade may move by land (see Case<<27_81>>. If it
+[#27_83]*[27.83]* The SAS Brigade may move by land (see Case <<27_81>>. If it
 does so it moves like any other land combat unit. It may also be transported by
 any one Commonwealth Ship counter and debarked in any coastal hex, at a cost of
 five Capability Points to the SAS for every 50 Movement Points or fraction
-thereofused by the ship. It may also be airdropped (see Case<<42_4>> at a cost
+thereofused by the ship. It may also be airdropped (see Case <<42_4>> at a cost
 of 5 Capability Points to the SAS unit.
 
 [#27_84]*[27.84]* If the SAS Brigade travels by land, it uses normal supply
 restrictions and rules. If it is transported by sea or airdropped, it is in
 supply for three consecutive OpStages. This means that the unit has all the
 necessary ammunition, water, and stores it needs for those three OpStages
-(including the one of its transportation). After that, it is on its
-own.
+(including the one of its transportation). After that, it is on its own.
 
 [#27_85]*[27.85]* The SAS Brigade may attempt to destroy planes on any Axis Air
 Facility that has no Axis combat units present at the time the raid is attempted
-(see Case<<27_82>>. The SAS unit may attempt its raid in any Movement/Combat
+(see Case <<27_82>>. The SAS unit may attempt its raid in any Movement/Combat
 Segment.
 
 [#27_86]*[27.86]* To destroy Axis Planes by an SAS raid the Commonwealth Player
 consults the SAS Raid Table, rolls one die, and removes the resultant percentage
-of each type and make of plane present (see Case<<27_9>>). The TOE Strength of
+of each type and make of plane present (see Case <<27_9>>). The TOE Strength of
 the SAS Brigade at the time of such raid is irrelevant.
 
 [#27_87]*[27.87]* Attempting a raid costs the SAS Brigade three Capability
@@ -329,7 +327,7 @@ at least six OpStages between raids.
 within the parameters of continual movement and cohesion. However, if the
 Commonwealth Player stacks that SAS Brigade unit with an LRDG unit at any time
 the SAS Brigade increases its Capability Point Allowance to 30, is removed from
-"physical sight" (in the fashion of an LRDG unit; see Case<<00_00>> and moves as
+"physical sight" (in the fashion of an LRDG unit; see Case 00.00 and moves as
 an LRDG unit. The LRDG unit must escort the SAS unit to the point where it (the
 SAS Brigade) is placed on the game-map — i.e., it has returned home.
 
@@ -343,14 +341,14 @@ be received or replaced in any way.
 
 (see Charts and Tables)
 
-[#27_91]*[27.91]* Desert Raider Raid Table
+[#27_91]*[27.91] Desert Raider Raid Table*
 
 (see Charts and Tables)
 
-[#27_92]*[27.92]* Raid on Rommel Table
+[#27_92]*[27.92] Raid on Rommel Table*
 
 (see Charts and Tables)
 
-[#27_93]*[27.93]* Special Air Service Brigade Raid Table
+[#27_93]*[27.93] Special Air Service Brigade Raid Table*
 
 (see Charts and Tables)

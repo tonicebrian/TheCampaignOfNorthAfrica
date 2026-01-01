@@ -1,3 +1,4 @@
+
 [#37_0]
 == FLIGHT
 
@@ -17,7 +18,7 @@ CASES:
 [#37_1]
 === THE MECHANICS OF FLIGHT
 
-[#37_11]*[37.11]* All planes have a range (see Case <<34_11>>.  This determines
+[#37_11]*[37.11]* All planes have a range (see Case <<34_11>>).  This determines
 how far a plane may fly in any one direction (unless the plane is flying a
 transfer mission, in which case it may double its range for the one-way flight).
 
@@ -25,7 +26,7 @@ transfer mission, in which case it may double its range for the one-way flight).
 hex for that mission and counts the distance in hexes, using any path he wishes,
 from the base/air facility to the target hex.  If the number of hexes falls
 within the range of the plane, the plane may be flown to that hex (see Cases
-<<37_4>>and <<56_18>>.
+<<37_4>>and <<56_18>>).
 
 [#37_13]*[37.13]* Having determined the path of flight, the Player takes an
 aircraft counter to represent each class of plane that is assigned to a mission
@@ -35,9 +36,9 @@ place in the Mission Deployment Segment of the Land Support Air Phase, or in the
 Malta and Convoy Bombing Segments of the Strategic Air Stage.
 
 [#37_14]*[37.14]* There is a form of flight called scramble, wherein planes on
-the ground may take off to counterattack a nearby air threat (see Case <<40_3>>.
+the ground may take off to counterattack a nearby air threat (see Case <<40_3>>).
 
-[#37_15]*[37.15]* No plane may fly unless it has been fueled.  Furthermore,
+[#37_15]*[37.15]* No plane may fly unless it has been fueled. Furthermore,
 other than units flying transfer missions, no plane may fly unless it has been
 refitted (see Case <<37_32>>).
 
@@ -80,7 +81,7 @@ on a mission, regardless of how many planes it has ready (as reserves).
 [#37_3]
 === EMERGENCY FLIGHT
 
-[#37_31]*[37.31]* Ifan Enemy land combat unit moves adjacent to a Friendly air
+[#37_31]*[37.31]* If an Enemy land combat unit moves adjacent to a Friendly air
 facility that has readied planes on the ground, and those planes are in danger
 of being destroyed or captured by that Enemy unit, the readied planes may
 attempt an emergency flight to escape such danger. Emergency flight is a
@@ -110,4 +111,4 @@ prior to the movement of another Enemy unit, all planes are stuck on the ground.
 
 The Air Distance Table is provided as a handy reference to determining distances
 in hexes between major points. Considering the size of the game-map, counting
-hexes can bea chore.
+hexes can be a chore.

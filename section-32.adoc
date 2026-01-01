@@ -11,19 +11,19 @@ men of some mercy, felt that there were those who might want to try CNA from a
 purely military viewpoint. To this end, they have formulated the rules below,
 enabling players to work within a simpler logistics format. The game is not
 really simplified, it is just a lot less work; it should also cut playing time
-in half (from endless to simply horrendous).Moreover, because virtually all of
+in half (from endless to simply horrendous). Moreover, because virtually all of
 the design effort went into the stardard game, using these rules will have some
 effect on game balance. How much is up to how well and how historically the
-players perform. (see Section 65.0).
+players perform (see Section <<65_0>>).
 
 GENERAL RULE:
 
 This Section applies if the Players are playing the Land Game without the Air
-and Logistics Games.  All supply expenditures in the Land and Air ‘Games rules
-are ignored and are replaced by those Ammo andFuel costs listed in this section.
+and Logistics Games. All supply expenditures in the Land and Air Games rules
+are ignored and are replaced by those Ammo and Fuel costs listed in this section.
 Players will not receive any trucks but rather receive Motorization Points which
-may beused to increase the CPA of non-motorized units or to transport “Supply
-Units." Supply Units contain Ammo and Fuel Points which must be expended in
+may beused to increase the CPA of non-motorized units or to transport "Supply
+Units". Supply Units contain Ammo and Fuel Points which must be expended in
 order for units to move and fight. Supply units are received in lieu of and,
 with some adjustments, in the same manner as standard supplies.
 
@@ -32,13 +32,13 @@ with some adjustments, in the same manner as standard supplies.
 
 [#32_11]*[32.11]* The Players ignore all references to usage and expenditure of
 Ammo, Fuel, Stores and Water. (Thus, no unit will ever suffer attrition from
-lack of Stores, etc.). Only those rules for sup ply given below apply.
+lack of Stores, etc.). Only those rules for supply given below apply.
 
 [#32_12]*[32.12]* The Players will be receiving Supply Units, which are abstract
 substitutes for all of the aforementioned points. A Supply Unit is represented
 by a Supply Dump counter.
 
-[#32_13]*[32.13]* A Supply Unit has no combat capabilities.  If any enemy combat
+[#32_13]*[32.13]* A Supply Unit has no combat capabilities. If any enemy combat
 unit enters a Supply Unit's hex, that unit is captured (and its supplies used
 immediately and freely).
 
@@ -65,7 +65,7 @@ traced as infantry movement. The supply line may not be traced thru impassable
 terrain or enemy ZOC's unoccupied by Friendly units.
 
 [#32_17]*[32.17]* Players may attempt to destroy Supply Units they are with. To
-do.so the Player expends one-half of the CPA of all units in the hex (rounding
+do so the Player expends one-half of the CPA of all units in the hex (rounding
 upwards) and rolls one die for each Supply Unit in the hex. If he rolls a 1, 2
 or 3 the Supply Unit is destroyed, any other result and it is unaffected. If the
 sum of the Stacking Points in the hex during the attempt is one or less, add one
@@ -76,7 +76,7 @@ may be made per Supply Unit per subSegment.
 [#32_18]*[32.18]* Players may use dummy Supply Units to confuse their
 opponent(s). For every three Supply Units a Player receives and/or begins a
 scenario with, a Player may place one dummy Supply Unit on the map. It is moved
-int he same fashion as the real thing (although it requires less Motorization
+in the same fashion as the real thing (although it requires less Motorization
 Points) and is removed upon discovery.
 
 [#32_2]
@@ -118,7 +118,7 @@ purposes other than listed above do not require Fuel Points).
 [#32_3]
 === MOVEMENT OF SUPPLY UNITS
 
-[#32_31]*[32.31]* Supply Units may be moved by land, -rail, sea, and air. A
+[#32_31]*[32.31]* Supply Units may be moved by land, rail, sea, and air. A
 Supply Unit may be moved by land or rail during the OpStage in which it arrives.
 
 [#32_32]*[32.32]* Supply Units may be transported by Motorization Points. Thirty
@@ -163,7 +163,7 @@ easternmost/westernmot hexrow (respectively) occupied by a Friendly division
 (shell or full). In addition, the destination hex must be occupied by a Friendly
 division or brigade (not battle-group) headquarters counter. An air-transported
 supply unit (and its supplies) may not be moved at all by the owning Player that
-OpStage, although it may be drawn upon (see Case<<32_16>>.
+OpStage, although it may be drawn upon (see Case <<32_16>>).
 
 [#32_4]
 === AVAILABLILITY OF SUPPLY UNITS
@@ -171,10 +171,10 @@ OpStage, although it may be drawn upon (see Case<<32_16>>.
 [#32_41]*[32.41]* At the start of each scenario the Players receive a specified
 number of Supply Units (see the Simplified Supply case in each scenario). In
 addition, the Players receive Supply Units from the Simplified Supply Unit
-Availability Tables (see case<<32_46>>and<<32_47>>.
+Availability Tables (see case <<32_46>> and <<32_47>>.
 
 [#32_42]*[32.42]* Supply Units for the Axis Player arrive as per convoy,
-see<<32_6>>Commonwealth Supply Units are placed in Cairo unless more than three
+see <<32_6>> Commonwealth Supply Units are placed in Cairo unless more than three
 are received in a single Game-Turn. In sucha case, one Supply Unit for every
 three received may be placed in Alexandria.
 
@@ -186,12 +186,12 @@ scenario, Supply Units arrive on all Game-Turns (if permitted by the planning
 die rolls).
 
 [#32_44]*[32.44]* The Axis Player plans his supply using the following
-procedure. He consults the Axis Naval Convoy <<00_00>> and determines the
+procedure. He consults the Axis Naval Convoy 00.00 and determines the
 appropriate Availability Chart Tonnage Availability Letter for the month in
 which he is planning (not the month in which it is arriving). He then consults
 the Axis Simplified Supply Availability Table. He rolls one die and cross
 indixes the roll with the column matching the letter. The result is the number
-‘of Real Supply Units he may bring in on Axis Naval Convoys two Game-Turns from
+of Real Supply Units he may bring in on Axis Naval Convoys two Game-Turns from
 then.
 
 [#32_43]*[32.43]* The Commonwealth Player plans his supply using the following
@@ -207,7 +207,7 @@ Real Supply Units he receives four Game-Turns hence.
 
 [#32_47]*[32.47] Commonwealth Simplified Supply Availability Table*
 
-(see charts and tables)
+(see Charts and Tables)
 
 [#32_5]
 === MOTORIZATION POINTS
@@ -225,9 +225,9 @@ in Mdium Truck Replacement Points.
 
 [#32_53]*[32.53]* Motorization Points may be used to transport units and all
 Guns with a CPA of 0+.  All normal units are considered to possess their own
-‘built-in' transport, as in the standard game.
+'built-in' transport, as in the standard game.
 
-[#32_54]*[32.54]* All ‘leg' infantry units may be motorized.  However, a Player
+[#32_54]*[32.54]* All 'leg' infantry units may be motorized.  However, a Player
 must assign Motorization Points sufficient to transport all historically
 motorized infantry units (i.e., those with CPA's of 8+ and 10+) before assigning
 them to any other infantry-type units.
@@ -275,7 +275,7 @@ D. May react unless the unit moving adjacent possesses a CPA of 35 or more.
 [#32_61]*[32.61]* In the abstract Logistics game system, Axis Naval Convoys
 consist of all Supply Units, Motorization Points and Replacement Points for that
 Game-Turn. These items may be divided and assigned to any Convoy Lane available,
-as per rules for such assignment <<56_0>>. These are no tonnage limitation.
+as per rules for such assignment <<56_0>>. These have no tonnage limitation.
 
 [#32_62]*[32.62]* The Axis Player may never assign more than three Supply Units
 and twenty Motorization Points to any one Convoy Lane in any one Naval Convoy
@@ -333,7 +333,7 @@ attacks the Axis Player may perform against Commonwealth ships using the Air
 Bombardment and Secondary Barrage Targets Combat Results Table in that Scenario.
 
 [#32_73]*[32.73]* The Axis Player may only perform one such attack per
-Operations Stage. Each attack must be plotted secretly during the' Commonwealth
+Operations Stage. Each attack must be plotted secretly during the Commonwealth
 Fleet Assignment Segment of an Operations Stage. Once planned, it occurs in the
 Tactical Naval Movement Segment of that Operations Stage.
 
@@ -348,7 +348,7 @@ Points: 1-20 column, etc.)
 
 b. The Axis Player rolls two dice, reading them sequentially. He cross-indexes
 the dice roll with the proper column to determine the result. The result is the
-number of damage points (see the Chariot Raid Table,<<30_46>> inflicted upon the
+number of damage points (see the Chariot Raid Table, <<30_46>> inflicted upon the
 ships in Alexandria Harbor (only). The Axis Player may distribute these Damage
 Points in any manner he wishes.
 
@@ -356,7 +356,7 @@ Points in any manner he wishes.
 weather is either rain storm or sand storm.
 
 [#32_8]
-=== ANTI-ARR UNIT MODIFICATIONS
+=== ANTI-AIR UNIT MODIFICATIONS
 
 [#32_81]*[32.81]* The Commonwealth Player removes all Anti-air units and all
 Light and Heavy Anti-air TOE Strength Points (regardless of where assigned) from
@@ -370,7 +370,7 @@ Replacement Points are unaffected.
 
 [#32_83]*[32.83]* The Axis Player's Italian forces are affected as follows:
 
-1. All anti-air units (.e., those with ID Codes of “ss" “tt" and "uu") are
+1. All anti-air units (.e., those with ID Codes of "ss" "tt" and "uu") are
 removed from play.
 
 2. All anti-air TOE Strength Points assigned to emplaced gun units (ID Code
@@ -415,15 +415,15 @@ counters assigned.
 defense guns in CNA:
 
 A. Inname only: A number of units possess the title of Coastal Defense Artillery
-that are nothing of the sort. These may be distinguished by. the fact that their
+that are nothing of the sort. These may be distinguished by the fact that their
 guns possess CPA's of 15. They were simply artillery units (theoretically)
 assigned to a coastal defense role. They may contain any type of artillery.
 
-B. Sited Guns: These units and/or TOE Strength Points possess a CPA of ‘0+."
+B. Sited Guns: These units and/or TOE Strength Points possess a CPA of "0+."
 This indicates that while the guns did not possess organic transport, had
 transport been available, the guns could have been moved with little trouble.
 
-C. Emplaced Guns: The units and/or TOE Strength Points possess a CPA of "0.'?
+C. Emplaced Guns: The units and/or TOE Strength Points possess a CPA of "0".
 This indicates that the guns have been "fixed" in revetments and may never be
 moved. Note that there were emplaced guns at Benghazi that are not represented
 in CNA due to their inability to fire at shoreward targets coupled with the game
@@ -523,7 +523,7 @@ are not subject to breakdown, regardless of type.
 [#21_63]*[21.63]* (clarification) Any portion of the broken down vehicles in a
 hex may be towed. However, if only some are towed, the owning Player will have
 to place an additional marker in the new location and adjust his information on
-the control sheet (see Case<<21_67>>.
+the control sheet (see Case<<21_67>>).
 
 [#21_67]*[21.67]* (addition) Players should avoid proliferating masses of broken
 down vehicles and destroyed tank markers over the game map.
@@ -566,7 +566,7 @@ mechanized infantry symbols.
 
 C. The 2/8Brs (Ariete) Anti-tank Battalion is assigned directly to the Ariete's
 divisional headquarters and should bear a counter abbreviation and parent
-formation indicator of “‘2 (Ariete)." It is correctly listed on the Ariete's OA
+formation indicator of "2 (Ariete)." It is correctly listed on the Ariete's OA
 Sheet.
 
 D. 141st Regiment of the 64th Catanzaro Division is missing its organization

@@ -1,9 +1,10 @@
+
 [#29_0]
 == WEATHER
 
 GENERAL RULE:
 
-Whether there's weather or no, we must have weather, you know," In any case,
+Whether there's weather or no, we must have weather, you know. In any case,
 weather is determined for each individual Operations Stage. There are four types
 of weather: normal, hot, sandstorms, and rainstorms. The probability of a given
 type of weather occuring depends on the season and the area of the game-map.
@@ -25,15 +26,17 @@ The Seasons are as follows:
 |===
 |Season|Starts|Ends (inclusive)
 |Spring|March III|June II
-|Summer|June III|September IT
+|Summer|June III|September II
 |Fall|September III|December II
 |Winter|December III|March II
 |===
 
 If a "sandstorm”' or "rainstorm”' result is obtained, the Player consults the
 Foul Weather Location Table <<29_7>> and rolls one die. This determines the map
-sections affected. Unaffected map sections have normal weather. Note: Weather
-never affects Malta, Italy, Sicily, Crete, or Tunesia-Tripoli.  Weather effects
+sections affected. Unaffected map sections have normal weather. 
+
+[note] 
+Weather never affects Malta, Italy, Sicily, Crete, or Tunesia-Tripoli.  Weather effects
 on map E do affect Allied offmap airfields.
 
 [#29_2]
@@ -50,11 +53,11 @@ effects of such weather are already built into the system.
 game-maps.
 
 [#29_32]*[29.32]* When undergoing construction, the sites, exclusive of the
-requirements of units there, require water rations (see Case<<24_21>> in hot
+requirements of units there, require water rations (see Case <<24_21>> in hot
 weather.
 
 [#29_33]*[29.33]* When determining Breakdown during hot weather, adjust the.
-Breakdown Column one column higher (to the right), see Case 21.37.
+Breakdown Column one column higher (to the right), see Case <<21_37>>.
 
 [#29_34]*[29.34]* If the weather is hot, all Fuel and Water Levels (not
 including water in wells or oases) are reduced by five per-cent (5%). This
@@ -62,11 +65,10 @@ includes water and fuel in dumps as well as in trucks. However, do not count the
 water/gas actually being consumed by a unit (in the radiators and gas tanks, as
 it were.) This is done during the Weather Determination Phase.
 
-[#29_35]*[29.35]* During hot weather, water requirements for all units are
-doubled.
+[#29_35]*[29.35]* During hot weather, water requirements for all units are doubled.
 
 [#29_4]
-=== SANDSTORMS Cees
+=== SANDSTORMS
 
 Sandstorms are whirling maelstroms of grit and dust, blinding personnel and
 clogging machinery for days. Visibility falls to zero, and all action comes to a
@@ -78,7 +80,7 @@ mever occurs over delfa hexes (Game-Map E). The Weather for game-maps on which
 there is no sandstorm is normal.
 
 [#29_42]*[29.42]* No construction may occur in a hex in which there is a
-sandstorm (see Case<<24_22>>.
+sandstorm (see Case <<24_22>>).
 
 [#29_43]*[29.43]* No aircraft may fly into or out of a hex with a sandstorm.
 
@@ -92,7 +94,7 @@ his Breakdown Point column one higher (to the right) when rolling for breakdown
 [#28_46]*[28.46]* Sandstorms do not extend out into the Mediterranean (they stop
 in the coastal hexes).
 
-[#29_47]*[29.47]* Sandstorms may damage Grounded Aircraft (see Case<<38_5>>)
+[#29_47]*[29.47]* Sandstorms may damage Grounded Aircraft (see Case <<38_5>>)
 
 [#29_5]
 === RAINSTORMS
@@ -112,10 +114,10 @@ Mediterranean,
 [#29_53]*[29.53]* All depleted wells are filled during a rainstorm.
 
 [#29_54]*[29.54]* No construction may occur during a rainstorm (see
-Case<<24_22>>.
+Case <<24_22>>.
 
 [#29_55]*[29.55]* All wadi hexsides are uncrossable during a rainstorm, except
-by Roads (see Case<<29_56>>.  Players may not use wadis to draw water.
+by Roads (see Case <<29_56>>.  Players may not use wadis to draw water.
 
 [#29_56]*[29.56]* All road hexes have the same Movement Cost and Breakdown Rate
 as tracks during rainstorms. Tracks, themselves, remain as tracks, with the

@@ -5,7 +5,7 @@ GENERAL RULE:
 
 The Axis Player receives a counter representing General Rommel. The Rommel
 counter aids the Axis Player in several ways (see also Raid on Rommel,
-Section<<27_6>>:
+Section <<27_6>>:
 
 1. Rommel has a Movement Capability Point Allowance of sixty (60); the Rommel
 counter is considered a vehicle (treat as 4-wheel drive medium truck with AM
@@ -31,4 +31,4 @@ A brief Designer's Note: The inclusion of Rommel as a counter (without using
 other specific commanders) was a pure design decision. While Rommel did have a
 great affect on tactical operations and decisions, including only him in the
 game is a Design Affectation, pure and simple. However, the effect of the Rommel
-counter /s historical.
+counter is historical.

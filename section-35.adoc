@@ -1,3 +1,4 @@
+
 [#35_0]
 == SQUADRON GROUND SUPPORT UNITS
 
@@ -17,7 +18,7 @@ Therefore, the only organizational level CNA covers is the Squadron.
 GENERAL RULE:
 
 Squadrons — specifically the SGSU's — are used to maintain and supply the
-‘aircraft assigned to them. Each SGSU may contain only one class of airplane,
+aircraft assigned to them. Each SGSU may contain only one class of airplane,
 and it is limited-as to the number of planes it may handle effectively. The SGSU
 counters are considered vehicles (medium trucks) and have their own Capability
 Point Allowance printed on the counter. They have no combat values.
@@ -36,13 +37,13 @@ units.
 counter; they are vehicles. SGSU's move in the Truck Convoy Phase. They have no
 Stacking Point Value and may stack freely with other units. (Their capability to
 handle the planes in their squadron is limited by the Capacity Level of the air
-facility they are based at.) SGSU's have no combat strength of any type; if an
+facility they are based at). SGSU's have no combat strength of any type; if an
 Enemy combat unit moves adjacent to an SGSU that has no Friendly combat unit
 stacked with it, that SGSU may react (if possible). If it cannot react, it is
 eliminated.
 
 [#35_13]*[35.13]* SGSU‘s arrive according to the orders of the player (See Case
-<<34_8>>. Each SGSU has a unit designation (squadron ID number). These numbers
+<<34_8>>). Each SGSU has a unit designation (squadron ID number). These numbers
 are historical, but they are not used historically. If an SGSU counter is
 eliminated, it may be returned to play, as per <<34_8>>, one GameTurn later.
 
@@ -58,7 +59,7 @@ Transport. They are used to carry the supplies that the SGSU needs to keep its
 planes fit and readied.
 
 [#35_16]*[35.16]* SGSUs may be used to construct air landing facilities or
-flying boat alighting areas (see Case <<24_7>>.
+flying boat alighting areas (see Case <<24_7>>).
 
 [#35_17]*[35.17]* SGSUs are necessary to refuel and refit airplanes; only SGSUs
 can perform such tasks.  Aircraft may refuel at any SGSU: their own squadron or
@@ -66,8 +67,8 @@ another squadron base. However, refitting must be performed at their assigned
 squadron base (SGSU) for maximum efficiency. If a plane attempts to refit at an
 SGSU other than its assigned squadron, the Player adds one to his dieroll for
 refit. In addition, Players should remember that planes may not be refueled or
-refitted beyond the capacity of the air facility (see Case 36.12, 36.2,
-<<36_3>>and <<36_4>>.
+refitted beyond the capacity of the air facility (see Case <<36_12>>, <<36_2>>,
+<<36_3>>and <<36_4>>).
 
 [#35_18]*[35.18]* The United States Army Air Force (USAF on the counters) SGSU's
 may not be used prior to Aug. 1, 1942.
@@ -77,7 +78,7 @@ may not be used prior to Aug. 1, 1942.
 
 [#35_21]*[35.21]* Each Squadron must contain the same class of aircraft: i.e.,
 bomber, fighter or transport (recon planes may be assigned anywhere).
-Fighterbombers may go into either. Furthermore, it is recommended (but nota
+Fighterbombers may go into either. Furthermore, it is recommended (but not a
 rule) that only one type of plane (e.g., Hurricane IIC or Ju87D, etc.) be
 assigned to a squadron. The latter is for ease in handling and supervision. The
 composition of each squadron is noted on the squadron's Composition Sheet.
@@ -110,7 +111,7 @@ incapable of performing a mission). The capacities are as follows:
 
 Players will note that starting with July 1941 Commonwealth Squadrons increase their capacity.
 
-[#35_24]*[35.24]* Pilots (see Case <<40_1>> for fighter and fighter bombers are
+[#35_24]*[35.24]* Pilots (see Case <<40_1>>) for fighter and fighter bombers are
 assigned to squadrons, not to specific planes. A record of pilots in a squadron
 is kept on the Squadron Composition Sheet, and pilots are given specific planes
 when they fly missions.
@@ -123,15 +124,15 @@ transfer are done in the Mission Deployment Segment (as a transfer mission).
 reserve. These planes may be readied and armed (or not, as the Player sees fit),
 but they cannot fly if the ready capacity of that squadron is flying. Reserves
 are used to supplement aircraft that were not readied. Reserves may not
-scramable. They amy use emergency flight (see Case <<37_3>>.
+scramable. They may use emergency flight (see Case <<37_3>>).
 
-[#35_27]*[35.27]* If an SGSU is eliminated (see Case <<35_12>> and there are
-planes on the ground with the SGSU, the plari[s are captured. They may be used
+[#35_27]*[35.27]* If an SGSU is eliminated (see Case <<35_12>>) and there are
+planes on the ground with the SGSU, the planes are captured. They may be used
 by the opposing Player one Game-Turn later or destroyed as he sees fit.
 
 [#35_28]*[35.28]* Italian and German planes may not coexist in the same
 squadron. They require separate maintenance. However, Italian squadrons may
-consist entirely of German planes (but ot vice versa).
+consist entirely of German planes (but not vice versa).
 
 [#35_29]*[35.29]* A historical note: Although the Commonwealth and Italian
 SGSU's are indistinguishable as to type of aircraft handled (at least on the
@@ -140,4 +141,4 @@ type of plane. The Players need not follow this representation, as the SGSU's do
 not represent strict squadron OB. However, for those so inclined, JG Squadrons
 are Fighters, St.G. Squadrons are for Dive Bombers, KG for Bombers, ZG for
 Fighter-Bombers, and H and F Squadrons for Recon. (All, of course, with a few
-exceptions.)
+exceptions).

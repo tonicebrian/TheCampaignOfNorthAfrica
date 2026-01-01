@@ -4,15 +4,16 @@
 
 GENERAL RULE:
 
-No plane may fly without being given.a specific mission. A mission is a one or
+No plane may fly without being given a specific mission. A mission is a one or
 two word description of the undertaking, the reason the plane is flying and what
 it is supposed to do. Generally, no plane may perform more than one mission at
 any one time. Theré are a large variety of missions, and they are all dependent
 on the class of plane and the target. The various missions and their
-descriptions are covered in a series of Cases following 39.1, which is general
+descriptions are covered in a series of Cases following <<39_1>>, which is general
 in nature. Missions may be aborted, or discontinued before completion.
 
-[note] Often players may not know precisely what is in a hex, but will have to
+[note] 
+Often players may not know precisely what is in a hex, but will have to
 assign missions "blindly" and only find out what target are present when the
 planes arrive.
 
@@ -38,7 +39,7 @@ Enemy AA/Flak units in that hex.
 f. Each mission is run in any order the Player wishes, the opposing Player
 noting and taking any damage inflicted.
 
-g. Allsurviving planes return to base.
+g. All surviving planes return to base.
 
 CASES:
 
@@ -46,8 +47,8 @@ CASES:
 === MISSIONS IN GENERAL
 
 [#39_11]*[39.11]* Unless a plane is attempting emergency flight (see Case
-<<37_3>>, no plane may fly unless it has been assigned a specific mission. Nor
-may any plane be flown if an Enemy land combat unit is adjacent (see <<37_3>>.
+<<37_3>>), no plane may fly unless it has been assigned a specific mission. Nor
+may any plane be flown if an Enemy land combat unit is adjacent (see <<37_3>>).
 
 [#39_12]*[39.12]* Each Player may use any shorthand he wishes to note which
 mission is which. Each Squadron Composition Sheet has a section for listing the
@@ -70,7 +71,7 @@ flown a possible three times a Game-Turn (or once an Operations Stage).
 to a given mission to a given hex. There is a restriction to the type and class
 of plane that can undertake a given mission, as no plane may perform a mission
 for which it does not have the Capability. Plane Capabilities are listed on the
-Aircraft Characteristics Chart  <<34_6>>.
+Aircraft Characteristics Chart <<34_6>>.
 
 [#39_16]*[39.16]* Planes from different squadrons may be assigned to the same
 mission (or even target), and planes from the same squadron may be assigned to
@@ -84,7 +85,7 @@ specific mission separate, so as to avoid confusion.
 
 [#39_18]*[39.18]* There are basically five "types" of missions: fighter, bomber,
 transport recon and transfers. The later mission is the only mission that may be
-undertaken by any plane (see Case <<42_1>>
+undertaken by any plane (see Case <<42_1>>).
 
 [#39_19]*[39.19]* Generally, a plane may fly only one mission per Operations
 Stage or Strategic Phase (with the exception of certain fighters and dive
@@ -98,7 +99,7 @@ Planes can generally fly only one mission per flight. However, certain fighter
 aircraft had the ability to carry small bombloads, dropping them as they strafed
 a target. The Stukas, as dive bombers, also had this capability, although their
 armament placement prohibited them from performing in a fighter capacity. Thus,
-any plane with a capability notation of D("dual") may strafe and bomb the same
+any plane with a capability notation of D ("dual") may strafe and bomb the same
 target as a combined mission.
 
 [#39_3]
@@ -126,10 +127,10 @@ maneuver-rated Enemy Fighter on CAP in the Target hex. To determine this,
 subtract the “aborting" fighter's Maneuver Rating from that of the Enemy CAP
 fighter. If the result is -10 or better (-8, -2, +3, etc.) the plane may abort.
 Of course, if there is no Enemy CAP, the fighters may always abort (exception:
-see Case <<40_26>>.
+see Case <<40_26>>).
 
 [#39_36]*[39.36]* Non-fighters flying with a sufficient fighter Screen (Friendly
-fighters flying CAP for that hex; see Case <<39_37>> may abort if they wish. If
+fighters flying CAP for that hex; see Case <<39_37>>) may abort if they wish. If
 there is not sufficient fighter Screen, they may not abort, unless the planes'
 Maneuver Rating is higher than the best Enemy fighter (a highly unlikely
 occurrance).
@@ -143,7 +144,7 @@ be aborted. Fighters acting as such a screen may not abort if they act as a
 screen. Fighters cannot screen fighters,
 
 [#39_38]*[39.38]* Aircraft may also abort involuntarily; e.g., as aresult of
-AA/flak fire (see Case <<46_3>>and <<45_14>>).
+AA/flak fire (see Case <<46_3>> and <<45_14>>).
 
 [#39_4]
 === NIGHT MISSION
@@ -154,7 +155,7 @@ land support bombing are conducted separately from other Land Support Missions.
 
 [#39_42]*[39.42]* Only certain missions may be flown at night and only planes
 with night missions capability may participate in any night missions actions
-(exceptions see Case <<39_43>>.
+(exceptions see Case <<39_43>>).
 
 [#39_43]*[39.43]* Planes, with the exception of planes assigned Offensive CAP or
 Scramble missions, may only perform a mission at night if specifically assigned

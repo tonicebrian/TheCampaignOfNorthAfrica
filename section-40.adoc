@@ -1,3 +1,4 @@
+
 [#40_0]
 == FIGHTER COMBAT
 
@@ -12,7 +13,7 @@ participate in bombing missions (see Section <<41_0>>. Each fighter is flown by
 a pilot, whose Pilot Rating will affect the plane's air-to-air combat ability.
 Fighters may be assigned to only one mission in an Operations Stage (three in
 one Game-Turn) or Strategic Air Stage (one in one entire Game-Turn; see Case
-39.2).
+<<39_2>>).
 
 PROCEDURE:
 

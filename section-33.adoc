@@ -1,3 +1,4 @@
+
 = THE AIR GAME
 
 The following rules Sections cover the air war in CNA. In essence, all planes
@@ -5,7 +6,7 @@ are represented individually, and fighters have pilots. Each type of plane has
 differing characteristics and mission capabilities. All of these are listed in
 the Aircraft Characteristics Charts for each nationality. Yet, in keeping with
 the tone of the land game, the feel of the game is operational. While there is
-plane-toplane combat, it is not resolved tactically, and all strengths have been
+plane-to plane combat, it is not resolved tactically, and all strengths have been
 considered operationally.
 
 Ideally, the air portion of the game requires a separate Player for each side.
@@ -13,7 +14,7 @@ There is a large amount of paperwork involved, and, even though there were
 relatively few planes in Africa, a Player may have to juggle operations for 500
 to 1000 aircraft during a given OpStage. The rules for the Air Game are a lot
 simpler than those for the land game. Air Commanders should simply keep their
-Characteristics Charts handy and be prepared to doa lot of planning.
+Characteristics Charts handy and be prepared to do a lot of planning.
 
 [#33_0]
 == SEQUENCE OF PLAY: Air Game
@@ -38,6 +39,7 @@ is known as "Player A"; the other is “Player B".
 .. *Designation Phase:*
 +
 The Players assign their airplanes to fly Land Support or Strategic missions.
+
 .. *Axis Malta Availability Determination Phase*
 +
 The Axis Player determines the amount of support he' will receive from his
@@ -140,7 +142,6 @@ arrival (and actually arriving) appear in their designated ports of arrival or
 entrance hexes. Check Reinforcement Tables and Convoy Rules. The Axis Player
 plans for the arrival of future Replacement Points from the Axis Replacement
 Points Pool, if he is the phasing Player. In his first Naval Convoy Arrival
-+
 Phase of each month, the Commonwealth Player consults the Commonwealth
 Production Table and determines how many Replacement Points he will receive one
 morith hence and plans for their arrival.
