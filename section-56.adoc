@@ -4,198 +4,163 @@ CONVOY SYSTEM
 
 GENERAL RULE:
 
-Almost everything the Axis needs for its desert
-campaign must be shipped in from Italy and the
-Aegean. Supplies and personnel are sent in convoys. Convoys are planned one Game-Turns in advance and the route of the convoy (the shipping
-lane it will use) is also chosen at that time. Each
-convoy is given in tonnage, and the Axis allowable
-tonnage depends on the month, year, and roll of
-the die. It may be further depleted by Commonwealth bombers. In addition, the capacity of
-each port is limited as to the tonnage it may
-receive, and that facet will also limit the Axis planning. The Axis Player has a limited amount of
-coastal shipping which he may use to transfer
-small amounts of supplies from one coastal port to
-another.
+Almost everything the Axis needs for its desert campaign must be shipped in from
+Italy and the Aegean. Supplies and personnel are sent in convoys. Convoys are
+planned one Game-Turns in advance and the route of the convoy (the shipping lane
+it will use) is also chosen at that time. Each convoy is given in tonnage, and
+the Axis allowable tonnage depends on the month, year, and roll of the die. It
+may be further depleted by Commonwealth bombers. In addition, the capacity of
+each port is limited as to the tonnage it may receive, and that facet will also
+limit the Axis planning. The Axis Player has a limited amount of coastal
+shipping which he may use to transfer small amounts of supplies from one coastal
+port to another.
 
 CASES:
 
 [#56_1]
 === THE SHIPPING LANES
 
-[#56_11]*[56.11]* There are six Shipping Lanes in CNA,
-representing the various routes taken by Axis convoys. The Shipping Lanes are not printed on the
-game map but rather are identified by their ports
-of origin and destination (see the Axis Naval Convoy Air Distance Chart).
+[#56_11]*[56.11]* There are six Shipping Lanes in CNA, representing the various
+routes taken by Axis convoys. The Shipping Lanes are not printed on the game map
+but rather are identified by their ports of origin and destination (see the Axis
+Naval Convoy Air Distance Chart).
 
-[#86_12]*[86.12]* An Axis convoy is defined as the total tonnage assigned to a Shipping Lane during a GameTurn. The Axis Player may have as many as six
-convoys or as few as one during any Game-Turn.
-The Axis Player is restricted to the listed ports of
-origin and destination combinations (i.e., he may
-not create additional shipping lanes).
+[#56_12]*[56.12]* An Axis convoy is defined as the total tonnage assigned to a
+Shipping Lane during a GameTurn. The Axis Player may have as many as six convoys
+or as few as one during any Game-Turn.  The Axis Player is restricted to the
+listed ports of origin and destination combinations (i.e., he may not create
+additional shipping lanes).
 
-[#56_13]*[56.13]* Axis Naval Convoys may be attacked by
-Commonwealth bombers (see Axis Naval Convoy
-Strategic Bombing, <<41_6>>). The Axis Player must
-therefore balance the risks in having a convoy arrive close to the front, thereby placing it within
-range of a greater number of Commonwealth N.
-African based planes or having it arrive far in the
-rear, trading time and supply expenditures for
-safety.
+[#56_13]*[56.13]* Axis Naval Convoys may be attacked by Commonwealth bombers
+(see Axis Naval Convoy Strategic Bombing, <<41_6>>). The Axis Player must
+therefore balance the risks in having a convoy arrive close to the front,
+thereby placing it within range of a greater number of Commonwealth N.  African
+based planes or having it arrive far in the rear, trading time and supply
+expenditures for safety.
 
-[#86_14]*[86.14]* Shipping lanes 4 and 5 (the routes
-originating from Greece) may not be used until the
-second Game-Turn of May, 1941. See also Case
-55.17.
+[#56_14]*[56.14]* Shipping lanes 4 and 5 (the routes originating from Greece)
+may not be used until the second Game-Turn of May, 1941. See also Case <<55_17>>.
 
-[#56_15]*[56.15]* All Axis convoys are assigned to a specific
-shipping lane in the Axis Convoy Planning Phase.
-The lane assignment may not be changed,
-regardless of any changes in the positions of the
-land units, with one exception: a convoy scheduled
-to arrive at a port that is captured by the Commonwealth is cancelled. It never sails.
+[#56_15]*[56.15]* All Axis convoys are assigned to a specific shipping lane in
+the Axis Convoy Planning Phase.  The lane assignment may not be changed,
+regardless of any changes in the positions of the land units, with one
+exception: a convoy scheduled to arrive at a port that is captured by the
+Commonwealth is cancelled. It never sails.
 
-[#56_16]*[56.16]* The Axis Player notes on his Convoy Control Sheet what he is shipping and through which
-lane. If that shipping lane is not attacked by Commonwealth planes, all items arrive at their
-designated port (which is stated as part of the
-lane). If the lane is under bombardment, the Axis
-Player totals the tonnage in that lane and divides
-by 1000 to obtain his Flak/AA Points for that convoy. Thus 15,000 tons of shipping would amount
-to 15 Flak/AA Points with which to fire at Commonwealth planes. Any losses are taken as per the
-strategic bombardment rules.
+[#56_16]*[56.16]* The Axis Player notes on his Convoy Control Sheet what he is
+shipping and through which lane. If that shipping lane is not attacked by
+Commonwealth planes, all items arrive at their designated port (which is stated
+as part of the lane). If the lane is under bombardment, the Axis Player totals
+the tonnage in that lane and divides by 1000 to obtain his Flak/AA Points for
+that convoy. Thus 15,000 tons of shipping would amount to 15 Flak/AA Points with
+which to fire at Commonwealth planes. Any losses are taken as per the strategic
+bombardment rules.
 
-[#56_17]*[56.17]* There is no limit to the tonnage that can be
-carried by a convoy in a given lane, except as noted
-in Case <<56_2>>.
+[#56_17]*[56.17]* There is no limit to the tonnage that can be carried by a
+convoy in a given lane, except as noted in Case <<56_2>>.
 
 [#56_2]
 === SHIPPING BY CONVOY
 
-Many different methods of determining arrival
-rates and times of Axis convoys were considered in
-designing this game. Each one had several merits
-— all had drawbacks. We chose this method (using
-the actual tonnage figures for a given month) over
-the other less easy to determine methods. No one
-was completely satisfied with any of the methods.
-(The drawback with the chosen method is that the
-arrival rates may not coincide with Axis needs.)
-But both designer and developer were loathe to
-tackle the problem of Italian ship-building,
-availability of supplies in Italy, and a whole host
-of other problems. Thus the rules below reflect the
-arrival of Axis supplies as they actually occurred
+Many different methods of determining arrival rates and times of Axis convoys
+were considered in designing this game. Each one had several merits — all had
+drawbacks. We chose this method (using the actual tonnage figures for a given
+month) over the other less easy to determine methods. No one was completely
+satisfied with any of the methods.  (The drawback with the chosen method is that
+the arrival rates may not coincide with Axis needs.)  But both designer and
+developer were loathe to tackle the problem of Italian ship-building,
+availability of supplies in Italy, and a whole host of other problems. Thus the
+rules below reflect the arrival of Axis supplies as they actually occurred
 (within the parameters of the rules).
 
-[$6.21] Axis shipping of supplies by naval convoy
-uses several charts, under the heading of the Axis
-Naval Convoy Level Chart. The Axis Convoy
-Capacity Table refers the Axis Player, by month
-and year, to the Tonnage Capacity Table for that
-particular month. The figures given on the Tonnage Determination Table are the tonnage of supplies that the Axis may ship in that Game-Turn
-(for which he is planning).
+[#56_21]*[56.21]* Axis shipping of supplies by naval convoy uses several charts,
+under the heading of the Axis Naval Convoy Level Chart. The Axis Convoy Capacity
+Table refers the Axis Player, by month and year, to the Tonnage Capacity Table
+for that particular month. The figures given on the Tonnage Determination Table
+are the tonnage of supplies that the Axis may ship in that Game-Turn (for which
+he is planning).
 
-Example: The Axis Player, at the beginning of
-Game-Turn 54 (October IV, 1941), makes his
-plans for his shipping and convoys for Game-Turn
-55 (November I, 1941). (Remember, while Axis
-replacements are planned two turns in advance,
-the Axis Player always plans his convoys one
-Game-Turn prior to actually sending them out.)
-The Axis Monthly Shipping Table tells the Axis
-Player to use row E on the Tonnage Capacity
-Table for November 1941. The Player refers to
-that Table and column and rolls a die; he rolls a 4.
-That means he may ship 21,000 tons of supplies
-and Replacement Points (see <<20_00>>) on GameTurn 55. The choice of shipping lane and destination is up to him.
+[example]
+The Axis Player, at the beginning of Game-Turn 54 (October IV, 1941),
+makes his plans for his shipping and convoys for Game-Turn 55 (November I,
+1941). (Remember, while Axis replacements are planned two turns in advance, the
+Axis Player always plans his convoys one Game-Turn prior to actually sending
+them out.)  The Axis Monthly Shipping Table tells the Axis Player to use row E
+on the Tonnage Capacity Table for November 1941. The Player refers to that Table
+and column and rolls a die; he rolls a 4.  That means he may ship 21,000 tons of
+supplies and Replacement Points (see <<20_00>>) on GameTurn 55. The choice of
+shipping lane and destination is up to him.
 
-[#56_22]*[56.22]* Having determined the allowable tonnage
-for a given Game-Turn, the Axis Player may now
-plan to ship any amounts (within the limits of
-allowable tonnage) of. fuel, ammunition, and
-stores that he wishes. They are available (for game
-purposes) in unlimited quantities in Europe. For
-example, with those 21,000 tons available on
-Game-Turn 55 (November I, 1941), the Axis
-Player may decide to ship out 10,000 tons of fuel,
-10,000 tons of ammunition, and 1000 tons of
-stores.
+[#56_22]*[56.22]* Having determined the allowable tonnage for a given Game-Turn,
+the Axis Player may now plan to ship any amounts (within the limits of allowable
+tonnage) of. fuel, ammunition, and stores that he wishes. They are available
+(for game purposes) in unlimited quantities in Europe. For example, with those
+21,000 tons available on Game-Turn 55 (November I, 1941), the Axis Player may
+decide to ship out 10,000 tons of fuel, 10,000 tons of ammunition, and 1000 tons
+of stores.
 
-[#56_23]*[56.23]* The tonnage equivalencies of supplies are
-listed on the Equivalent Weight Chart  <<54_5>>)
-[#36_24]*[36.24]* The Axis Player may also have planned
-previously (see Case <<20_6>>) to ship replacements
-from Italy/Greece. These take up space and
-weight, and their tonnage equivalencies are given
-in the Equivalent Weight Chart  <<54_5>>). Only
-Replacement Points not arriving via the Reinforcement Schedule affect shipping tonnage; reinforcements and scheduled replacements do not use
-convoys and do not affect shipping tonnage. Thus
-if the Axis Player had planned to send 10 Infantry
-Points in the Game-Turn 55 convoys, this would
-subtract 300 tons from the available tonnage for
-that Game-Turn.
+[#56_23]*[56.23]* The tonnage equivalencies of supplies are listed on the
+Equivalent Weight Chart  <<54_5>>) [#36_24]*[36.24]* The Axis Player may also
+have planned previously (see Case <<20_6>>) to ship replacements from
+Italy/Greece. These take up space and weight, and their tonnage equivalencies
+are given in the Equivalent Weight Chart  <<54_5>>). Only Replacement Points not
+arriving via the Reinforcement Schedule affect shipping tonnage; reinforcements
+and scheduled replacements do not use convoys and do not affect shipping
+tonnage. Thus if the Axis Player had planned to send 10 Infantry Points in the
+Game-Turn 55 convoys, this would subtract 300 tons from the available tonnage
+for that Game-Turn.
 
-[#56_25]*[56.25]* After determining what tonnage he has
-available and what he wishes to ship, the Axis
-Player then, at the same time, allocates his
-available tonnage to the lanes — and ports — he
-wants them to use. He cannnot change lanes and
-destinations once chosen (see Case <<56_1>>).
+[#56_25]*[56.25]* After determining what tonnage he has available and what he
+wishes to ship, the Axis Player then, at the same time, allocates his available
+tonnage to the lanes — and ports — he wants them to use. He cannnot change lanes
+and destinations once chosen (see Case <<56_1>>).
 
-[#56_26]*[56.26]* Axis convoys — and their cargoes — may
-undergo Commonwealth bombardment.
+[#56_26]*[56.26]* Axis convoys — and their cargoes — may undergo Commonwealth
+bombardment.
 
-[#86_27]*[86.27]* The Axis Player should remember that
-ports have maximum capacities; they may not
-receive supplies over that capacity (see Case <<55_3>>).
+[#86_27]*[86.27]* The Axis Player should remember that ports have maximum
+capacities; they may not receive supplies over that capacity (see Case
+<<55_3>>).
 
-[#56_28]*[56.28]* Supplies and personnel are unloaded the
-instant of their arrival, (if possible) and they may
-be used immediately. All ports of arrival (e.g.,
-Tripoli, Bizerta, Tobruk) are considered to have
-supply dumps built in, as it were.
+[#56_28]*[56.28]* Supplies and personnel are unloaded the instant of their
+arrival, (if possible) and they may be used immediately. All ports of arrival
+(e.g., Tripoli, Bizerta, Tobruk) are considered to have supply dumps built in,
+as it were.
 
 [#56_3]
 === AXIS COASTAL SHIPPING
 
-The Axis had a small fleet of boats that they used
-for coastal transfer of small amounts of supplies.
-These were old shipping boats and aging tramp
-steamers that could ill afford to venture too far
-from land. They havea limited capacity.
+The Axis had a small fleet of boats that they used for coastal transfer of small
+amounts of supplies.  These were old shipping boats and aging tramp steamers
+that could ill afford to venture too far from land. They havea limited capacity.
 
-[#56_31]*[56.31]* Axis coastal shipping is represented by
-several ship counters. Each ship counter has its
-tonnage capacity printed on it. Each ship has a
-CPA — for movement only — of 50. Each sea hex
-costs one point.
+[#56_31]*[56.31]* Axis coastal shipping is represented by several ship counters.
+Each ship counter has its tonnage capacity printed on it. Each ship has a CPA —
+for movement only — of 50. Each sea hex costs one point.
 
-[#86_32]*[86.32]* Axis coastal shipping moves in the Truck
-Convoy Phase, and on/y in that Phase.
+[#56_32]*[56.32]* Axis coastal shipping moves in the Truck Convoy Phase, and
+on/y in that Phase.
 
-[#56_33]*[56.33]* Axis coastal ships cannot be attacked
-from air or land. They may not enter a port that
-has been neutralized (Capacity Level of zero).
-They may also never enter an Enemy-occupied
-port.
+[#56_33]*[56.33]* Axis coastal ships cannot be attacked from air or land. They
+may not enter a port that has been neutralized (Capacity Level of zero).  They
+may also never enter an Enemy-occupied port.
 
-[#56_34]*[56.34]* To use coastal shipping, the Axis Player
-loads supplies (xo personnel) on his boats at the
-Beginning of the Truck Convoy Phase (at a cost of
-5 CPs) and then moves the boat. Unloading supplies costs 5 CPs. Only one type of cargo may be
-carried at any one time by any one ship. Tanks,
-guns, etc., may not be shipped via coastal shipping
+[#56_34]*[56.34]* To use coastal shipping, the Axis Player loads supplies (xo
+personnel) on his boats at the Beginning of the Truck Convoy Phase (at a cost of
+5 CPs) and then moves the boat. Unloading supplies costs 5 CPs. Only one type of
+cargo may be carried at any one time by any one ship. Tanks, guns, etc., may not
+be shipped via coastal shipping
 
-[#56_35]*[56.35]* Coastal ships may stop and unload in one
-port and then continue on to another port, etc., as
-long as they do not exceed their CPA. Coastal
-ships do not require fuel.
+[#56_35]*[56.35]* Coastal ships may stop and unload in one port and then
+continue on to another port, etc., as long as they do not exceed their CPA.
+Coastal ships do not require fuel.
 
 [#56_4]
-=== AXIS NAVAL CONVOY
-LEVEL CHART
+=== AXIS NAVAL CONVOY LEVEL CHART
+
 (see Charts and Tables)
 
 [#56_5]
-=== AXIS CONVOY CAPACITY
-TABLE
+=== AXIS CONVOY CAPACITY TABLE
+
 (see Charts and Tables)

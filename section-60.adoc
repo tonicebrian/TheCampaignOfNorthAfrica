@@ -1,44 +1,35 @@
 [#60_0]
-== SCENARIO GROUP
-ONE: The Italians
+== SCENARIO GROUP ONE: The Italians
 
 CASES:
 [#60_1]
 === GENERAL DESCRIPTION
 
-The first scenario group covers the initial months
-of the desert fighting, from 15 September 1940
-through the middle of February 1941. Although
-there was an actual state of war existing between
-the British and the Italians vis a vis Libya/Egypt,
-the months of June through early September 1940
-have been ignored as there was little done other
-than aggressive patrolling. The actual campaign
+The first scenario group covers the initial months of the desert fighting, from
+15 September 1940 through the middle of February 1941. Although there was an
+actual state of war existing between the British and the Italians vis a vis
+Libya/Egypt, the months of June through early September 1940 have been ignored
+as there was little done other than aggressive patrolling. The actual campaign
 starts with the first Italian offensive and subsequent British counter-attack.
 
 [#60_2]
 === SCENARIO LENGTH
 
-[#60_21]*[60.21]* There are two separate scenarios in the
-Italian scenario group; each may be played
-separately to a specific conclusion.
+[#60_21]*[60.21]* There are two separate scenarios in the Italian scenario
+group; each may be played separately to a specific conclusion.
 
 [#60_22]*[60.22]* Graziani's Offensive
 
-This scenario starts with Game-Turn 1, OpStage 1;
-it ends with the conclusion of Game-Turn 6,
-OpStage 3. The estimated time of play is anywhere
-from 25 to 50 hours. Victory Conditions are listed
-in Case <<60_71>>.
+This scenario starts with Game-Turn 1, OpStage 1; it ends with the conclusion of
+Game-Turn 6, OpStage 3. The estimated time of play is anywhere from 25 to 50
+hours. Victory Conditions are listed in Case <<60_71>>.
 
 [#60_23]*[60.23]*. The Italian Campaign
 
-This scenario starts with Game-Turn 1, OpStage
-1, and proceeds through the end of Game-Turn 20,
-OpStage 3. It includes Operation Compass
-(O'Conner's counteroffensive). The estimated
-time of play is 90 to 150 hours. Victory Conditions
-are listed in Case <<60_72>>.
+This scenario starts with Game-Turn 1, OpStage 1, and proceeds through the end
+of Game-Turn 20, OpStage 3. It includes Operation Compass (O'Conner's
+counteroffensive). The estimated time of play is 90 to 150 hours. Victory
+Conditions are listed in Case <<60_72>>.
 
 [#60_3]
 === AXIS FORCES
@@ -77,12 +68,12 @@ and IX(L)); Bardia Garrison; Trucks: 20 medium.
 Tobruk (C4807): HQ: Libyan Tank Command;
 Tobruk Garrison; Trucks: 5 medium.
 
-Benghazi (84827): Benghazi Garrison.
+Benghazi (B4827): Benghazi Garrison.
 
 Barce (B5504): Libyan Parachute Regt (I); Trucks:
 5 medium.
 
-Derna (85925): Derna Garrison.
+Derna (B5925): Derna Garrison.
 
 Mechili (B4921): Mechili Garrison.
 
@@ -112,29 +103,29 @@ Cp (Ar); XXIII Cp (Ar).
 
 Tripolitania: 4/10 Army (D.
 
-In addition, two TOE strength Points of Autoblinda 40's (recce, 1D Code "WW") may be attached,
-each point to any unit (but not both to the same)
-ignoring all regular unit composition restrictions.
-Or they may be deployed in Tobruk as regular
-(i.e., trained and fueled) replacement points.
+In addition, two TOE strength Points of Autoblinda 40's (recce, 1D Code "WW")
+may be attached, each point to any unit (but not both to the same) ignoring all
+regular unit composition restrictions.  Or they may be deployed in Tobruk as
+regular (i.e., trained and fueled) replacement points.
 
-[#60_32]*[60.32]* Italian Air Strengths
-The following planes may be placed at any Italian
-airfields, landing strips, flying boat basins, etc.,
-within the capacities of those facilities. However,
-no planes start the game in Italy/Scily. Crete is
-unavailable (it is still British).
+[#60_32]*[60.32]* Italian Air Strengths The following planes may be placed at
+any Italian airfields, landing strips, flying boat basins, etc., within the
+capacities of those facilities. However, no planes start the game in
+Italy/Scily. Crete is unavailable (it is still British).
 
-Plane Total Available Total Refitted
-CR 42 65 25
-CR 32 70 28
-Ba 65 10 2
-Ba 88 24 6
-SM 79 133 35
-SM 81 17 4
-Ca 309 56 12
-Ro37Bis 10 6
-2801 9 9
+[%header]
+|===
+| Plane | Total  Available | Total Refitted
+| CR 42 |  65 | 25
+| CR 32 |  70 | 28
+| Ba 65 |  10 | 2
+| Ba 88 |  24 | 6
+| SM 79 |  133 | 35
+| SM 81 |  17 | 4
+| Ca 309 | 56 | 12
+| Ro37Bis | 10 | 6
+| 2S01 | 9 | 9
+|===
 
 The Italian Player may not attempt to refit planes
 until Game-Turn 1, OpStage 2.
@@ -147,64 +138,70 @@ Two's: 10
 
 One's: 15
 
-Htalian SGSU Available: 39.
+Italian SGSU Available: 39.
 
 [#60_33]*[60.33]* Italian Second-Third Lime Trucks
 
-The Italian Player receives the following trucks
-(Points). He may assign them and place them as he
+The Italian Player receives the following trucks (Points). He may assign them
+and place them as he wishes; within the restrictions listed. (Original
+assignments may, of course, be changed as the game progresses).
 
-wishes; within the restrictions listed. (Original
-assignments may, of course, be changed as the
+[cols="2,2,2", options="header"]
+|===
+| Location           | Truck Type | Available (points)
 
-game progresses).
-Location Trucks Available
-(in points)
-Tripoli 25 Light
-140 Medium
-40 Heavy
-Anywhere in 30 Light
-Libya 100 Medium
-25 Heavy
-Any Air Fac- 10 Light
-ility 50 Medium
+| Tripoli            | Light      | 25
+| Tripoli            | Medium     | 140
+| Tripoli            | Heavy      | 40
 
-The Italians have a major repair facility at Tripoli,
-and a temporary facility at Tobruk and Benghazi.
+| Anywhere in Libya  | Light      | 30
+| Anywhere in Libya  | Medium     | 100
+| Anywhere in Libya  | Heavy      | 25
 
-[#60_34]*[60.34]* Axis Initial Supply Status: The Axis
-Player receives Dumps with the following supplies
-at the following locations:
+| Any Air Facility   | Light      | 10
+| Any Air Facility   | Medium     | 50
+|===
+
+The Italians have a major repair facility at Tripoli, and a temporary facility
+at Tobruk and Benghazi.
+
+[#60_34]*[60.34]* Axis Initial Supply Status: The Axis Player receives Dumps
+with the following supplies at the following locations:
+
 
 Supply (in points)
+[cols="2,1,1,1,1", options="header"]
+|===
+| Location        | Ammo | Fuel | Stores | Water
 
-Location Ammo Fuel Stores Water
-Tobruk (C 4807) 200 2000 500 Bardia (C 4321) 100 1000 200 Benghazi 100 =. 250 100 Derna (B 5925) - 250 50 Tripoli (box) 250 5000 250 Dump 1* 1000 1500 1500 200
-Dump 2* 1000 1500 1000 200
-C 0716 100 50 50
-*These and two Dummy supply dumps may be
-placed in any hex on map section C in Libya that is
-not within four hexes of a Commonwealth unit.
+| Tobruk (C 4807) | 200  | 2000 | 500    | –
+| Bardia (C 4321)| 100  | 1000 | 200    | –
+| Benghazi       | 100  | 250  | 100    | –
+| Derna (B 5925) | –    | 250  | 50     | –
+| Tripoli (box)  | 250  | 5000 | 250    | –
+| Dump 1*        | 1000 | 1500 | 1500   | 200
+| Dump 2*        | 1000 | 1500 | 1000   | 200
+| C 0716         | 100  | 50   | 50     | –
+|===
 
-In addition the Axis Player receives a total of 1200
-Ammo, 850 Fuel, 100 Stores and 100 Water Points
-which may be freely distributed among his airfields,
+*These and two Dummy supply dumps may be placed in any hex on map section C in
+Libya that is not within four hexes of a Commonwealth unit.
 
-[#60_35]*[60.35]* The Italian Player may use all Axis coastal
-shipping counters. They start the game in Tripoli.
+In addition the Axis Player receives a total of 1200 Ammo, 850 Fuel, 100 Stores
+and 100 Water Points which may be freely distributed among his airfields,
 
-[#69_36]*[69.36]* The Axis Player's Strategic attacks on
-Malta are restricted to forces called for by
-Availability Level I (see the Axis strategic Commitment Chart, case <<44_41>>).
+[#60_35]*[60.35]* The Italian Player may use all Axis coastal shipping counters.
+They start the game in Tripoli.
 
-[#60_37]*[60.37]* The Italian Player must plan convoy runs
-for the remainder of September, 1940, prior to
-starting the game. He may only use lanes 2,3 and 6.
+[#69_36]*[69.36]* The Axis Player's Strategic attacks on Malta are restricted to
+forces called for by Availability Level I (see the Axis strategic Commitment
+Chart, case <<44_41>>).
 
-Consult the Convoy Availability Charts to see
-what shipping the Italian Player has. He receives
-all reinforcements as per the Reinforcement
-Track.
+[#60_37]*[60.37]* The Italian Player must plan convoy runs for the remainder of
+September, 1940, prior to starting the game. He may only use lanes 2,3 and 6.
+
+Consult the Convoy Availability Charts to see what shipping the Italian
+Player has. He receives all reinforcements as per the Reinforcement Track.
 
 [#60_4]
 === COMMONWEALTH FORCES
@@ -266,73 +263,76 @@ Anywhere on Map D or E: 8th Medium Arty
 Regt; 65th Anti-tank Regt; 149th Anti-Tank Regt;
 9th Heavy AA; 15th Light AA; 57th Light AA.
 
-Note: lst Welsh counter bears the same coloration as Indian Units.
+Note: 1st Welsh counter bears the same coloration as Indian Units.
 
 Broken Down Vehicles
 
 Alexandria: 2 TOE of A9 Cruiser Tanks; 1 TOE of
 A10 Cruiser tanks.
 
-[#60_42]*[60.42]* Commonwealth North African Air Force
-The following planes, SGSU's and pilots may be
-placed at any Commonwealth N. African air
-facility, within the capacity of that facility.
+[#60_42]*[60.42]* Commonwealth North African Air Force The following planes,
+SGSU's and pilots may be placed at any Commonwealth N. African air facility,
+within the capacity of that facility.
 
-Total
-Plane Available Refitted
-Lysanders 12 8
-Bombays 15 12
-Sunderlands 18 11
-Blenheim Mk. I's 26 18
-Blenheim Mk, IV's 12 12
-Blenheim Mk. IVF's 9 5
-Gladiators 36 30
-Hurricane Mk. I's 6 4
-Morane 406's* 4 2
-Potez 63/11* 2 2
-Valentia's 3 1
+[cols="2,1,1", options="header"]
+|===
+| Plane              | Available | Refitted
 
-*May be in the same squadron (Free French).
-Pilots Available: 1 Three, 5 Two's and 8 One's.
-SGSU Available: 14.
+| Lysanders          | 12        | 8
+| Bombays            | 15        | 12
+| Sunderlands        | 18        | 11
+| Blenheim Mk. I’s   | 26        | 18
+| Blenheim Mk. IV’s  | 12        | 12
+| Blenheim Mk. IVF’s | 9         | 5
+| Gladiators         | 36        | 30
+| Hurricane Mk. I’s  | 6         | 4
+| Morane 406’s*      | 4         | 2
+| Potez 63/11*       | 2         | 2
+| Valentia’s         | 3         | 1
+|===
 
-[#60_43]*[60.43]* Commonwealth Second-Third Line Trucks
-The Commonwealth Player receives the following
-Truck Points; He may assign them and place them
-as he wishes, within the restrictions listed. (These
-will change).
+*May be in the same squadron (Free French).  Pilots Available: 1 Three, 5 Two's
+and 8 One's.  SGSU Available: 14.
 
-Location Truck Points Available
-Any hex in 40 Medium
-Cairo 10 Heavy
-Alexandria 10 Light
+[#60_43]*[60.43]* Commonwealth Second-Third Line Trucks The Commonwealth Player
+receives the following Truck Points; He may assign them and place them as he
+wishes, within the restrictions listed. (These will change).
+
+[cols="1,2"]
+|===
+| Location | Truck Points Available
+
+| Any hex in Cairo
+| 40 Medium +
+10 Heavy
+
+| Alexandria
+| 10 Light +
 20 Medium
-Anywhere, maps 15 Light
-40 Medium
+
+| Anywhere, maps
+| 15 Light +
+40 Medium +
 5 Heavy
-Any Air Fac- 5 Light
-lity 30 Medium
+
+| Any Air Facility
+| 5 Light +
+30 Medium +
 20 Heavy
-
-2/
-
-28
+|===
 
 [#60_44]*[60.44]* INITIAL SUPPLY STATUS
 
-(Factors
-Location Ammo Fuel Stores
-Mersa Matruh (D3714) 1000 3000 4000
-Sidi Baranni (C4131) 250 500 100
-Dump I 500 750 500
+|===
+| Location | Ammo | Fuel | Stores
+| Mersa Matruh (D3714) | 1000 | 3000 | 4000
+| Sidi Baranni (C4131) | 250 | 500|  100
+| Dump I | 500|  750 | 500
+|===
 
-The Dump I dump and one dummy dump may be
-placed anywhere in Egypt on map C or D.
-Remember that unlimited supply points are
-available in Cairo and Alexandria,
-
-Air Supply (Distribute amongst Air Facilities as
-desired)
+The Dump I dump and one dummy dump may be placed anywhere in Egypt on map C
+or D.  Remember that unlimited supply points are available in Cairo and
+Alexandria, Air Supply (Distribute amongst Air Facilities as desired)
 
 Ammo: 200
 

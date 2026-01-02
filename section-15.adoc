@@ -296,7 +296,7 @@ always in favor of the larger unit size, are as follows:
 All of the above are equivalents (<<9_2>>).
 
 [#15_54]*[15.54]* There are certain combat units that have no Defensive Close
-Assault Ratings (e.g., Commonwealth <<5_5>>” howitzers, German 210mm Howitzers).
+Assault Ratings (e.g., Commonwealth 5.5" howitzers, German 210mm Howitzers).
 If such a unit is alone in a hex and is Close Assaulted by an Enemy unit, such
 zero-rated unit is considered to have a Defensive Close Assault Rating of zero.
 In addition, two other adjustments are made: (1) The attacking unit takes no

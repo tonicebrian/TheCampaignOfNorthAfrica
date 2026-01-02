@@ -262,7 +262,7 @@ and AC units have remarkable mobility and are best used to probe and freeze
 (Pin) small enemy formations.
 
 _Artillery_: The Artillery units in the game comprise a wide variety of weapons,
-from 65mm Infantry guns up to 21cm German howitzers and British <<5_5>>" howitzers.
+from 65mm Infantry guns up to 21cm German howitzers and British 5.5" howitzers.
 Some of the minor guns have been ignored or combined into one "piece" with
 similar ratings. Italian mortar companies have been melded into the regimental
 HQ's and ad hoc artillery units. Ratings for guns and howitzers were based on

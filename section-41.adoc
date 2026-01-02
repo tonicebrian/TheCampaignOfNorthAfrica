@@ -9,7 +9,7 @@ mission. There are many varieties of bombing missions, delineated by the target
 type. In addition, certain planes have the capability of engaging in night
 bombing missions, which decrease the chances of getting attacked by enemy CAP,
 while lessening the likelihood of damage to a target. Certain planes can engage
-in bombing missions while strafing. See <<39_2>> To determine the effect of a
+in bombing missions while strafing (see <<39_2>>). To determine the effect of a
 bombing mission the Player simply totals the Bombload Points (Tons) delivered to
 the target and consults the Air Bombardment CRT corresponding to the target type
 to see what damage, if any, has resulted.
@@ -60,7 +60,7 @@ Ratings. This means that they may not be used except to fire back at Enemy
 fighters that attack them. See the Section on Airto-Air combat.  <<45_0>>.
 
 [#41_16]*[41.16]* Certain planes may undertake two missions simultaneously (see
-Case <<39_2>> dive bombers may strafe and bomb the same target and fighters with
+Case <<39_2>>) dive bombers may strafe and bomb the same target and fighters with
 bombload capacities may both strafe and bomb a target, if they have a "D"
 capability.  However, fighter-bombers may either bomb or undertake a fighter
 mission; they do not have the capacity to undertake both types of missions at
@@ -77,12 +77,12 @@ installations, ports, personnel and equipment in furtherance of operations on
 land.  Bombers assigned to land support missions for a Game-Turn are assigned a
 specific mission in a specific hex during the Mission Assignment Segment of a
 Land Support Air Phase. Thus, to assign a squadron of Wellingtons to bomb the
-port facilities at Tobruk, the Commonwealth Player would write "B-PF/Tobruk'”'?
+port facilities at Tobruk, the Commonwealth Player would write "B-PF/Tobruk"
 (or any other reasonable representation of that intent). A counter representing
 all of the bombers of each type assigned to a particular mission in a hex is
 placed in that target hex (players will have to keep track on paper of which
 bombers are represented by each counter), unless they are intercepted en route
-by Enemy CAP (see Case <<40_27>>. (That is why it is important for a Player to
+by Enemy CAP (see Case <<40_27>>). (That is why it is important for a Player to
 be aware of the path of flight; if it passes through an enemy offensive CAP Air
 ZOC, the Enemy fighters may attack the bombers). Bombers may also be intercepted
 by Enemy fighters assigned to scramble missions.
@@ -105,7 +105,7 @@ Air Bombardment and Secondary Barrage Target Combat Results Table  <<41_5>>.
 Mining harbor attempts are resolved using the Mining Harbors by Plane Table
 <<41_9>>.
 
-[#41_31]*[41.31]* Bombing Personnel (B-CU): The effect of the anti-personnel
+[#41_31]*[41.31] Bombing Personnel (B-CU)*: The effect of the anti-personnel
 bombing mission is to Pin a number of units (battalion-equivalent) in the target
 hex; see Case <<41_9>>for the explanation of Air bombardment pins. The Player
 totals his bomb total and consults the Air Bombardment CRT. He rolls two dice,
@@ -113,40 +113,40 @@ reads the results sequentially, and cross-references that diceroll with the
 bombload tonnage. The result is the number of battalionequivalent units Pinned.
 However,for this purpose, each tank or gun (artillery/anti-tank) unit is worth
 fwo units (AA/Flak units may be pinned in the way). The choice of units to be
-Pinned is determined the same as an artillery barrage (See <<12_2>>.  There is
+Pinned is determined the same as an artillery barrage (See <<12_2>>).  There is
 one exception to this section: Units in Major Cities may not be bombed unless
 and until the fortification level of the city is reduced to one (1) or less.
 
-[#41_32]*[41.32]* Bombing Truck Convoys (B-TC): The results are given in the
+[#41_32]*[41.32] Bombing Truck Convoys (B-TC)*: The results are given in the
 number of truck units destroyed. The defending Player must divide the losses as
 evenly as possible amongst type of trucks and types of cargo. Trucks in major
 cities may not be bombed by air until the city is reduced to zero (‘0'). In
 addition, first line trucks (attached) may be bombed in similar fashion, except
-that first line trucks may be bombed only by planes with a ‘“‘D”' capability.
+that first line trucks may be bombed only by planes with a "D" capability.
 The method and results are the same, however.
 
-[#41_33]*[41.33]* Flak Destruction (B-FS): The results are in terms of the
+[#41_33]*[41.33] Flak Destruction (B-FS)*: The results are in terms of the
 number of TOE strength points with an Anti-Air rating that are destroyed.
 Flak/AA may also be pinned; see B-CU above. Flak destruction bombing takes place
 after flak fire, unlike fighter flak suppression.
 
-[#41_34]*[41.34]* Bombing Ships (B-CF): The result is the number of Damage
-Points inflicted on the ships in the hex (See <<30_34>>. Bombing of the
+[#41_34]*[41.34] Bombing Ships (B-CF)*: The result is the number of Damage
+Points inflicted on the ships in the hex (See <<30_34>>). Bombing of the
 Commonwealth Fleet may not be undertaken at night.  Torpedoes may be used
-against ships (See <<41_7>>.  See also <<41_6>> Axis coastal shipping may not be
+against ships (See <<41_7>> and also <<41_6>>). Axis coastal shipping may not be
 bombed.
 
-[#41_35]*[41.35]* Bombing Supply Dumps (B-SD): The result is the percentage of
+[#41_35]*[41.35] Bombing Supply Dumps (B-SD)*: The result is the percentage of
 each type of supply in that dump that is destroyed. In addition, if there are
 any unattached trucks in the hex, for every 10% of supplies destroyed, one Truck
 Point is lost, choice of defender, dividing losses as evenly as possible.
 
-[#41_36]*[41.36]* Bombing Air Facilities (B-AF): The result is the number of
+[#41_36]*[41.36] Bombing Air Facilities (B-AF)*: The result is the number of
 capacity levels. That that facility is reduced. In addition, for every level
-destroyed,.  remove 10% of the planes on the ground (e.g., 2 levels, 20%
+destroyed, remove 10% of the planes on the ground (e.g., 2 levels, 20%
 planes), rounded down.
 
-[#41_37]*[41.37]* Bombing Major Cities/Fortifications (B-F/C): Any major city or
+[#41_37]*[41.37] Bombing Major Cities/Fortifications (B-F/C)*: Any major city or
 hex with fortifications may be bombed. If the target is a major city, the
 mission may be flown at night (41 -4). Only one level of fortification may be
 destroyed in any Operations Stage. See also <<22_35>> Players may use this
@@ -155,7 +155,7 @@ city hex. If the Player obtains a result that would reduce the fortification
 level by one, the temporary facility is neturalized (and may not be used) for
 one Operations Stage.
 
-[#41_38]*[41.38]* Bombing Roads or Railroads (B-R or B-RR): This is done in the
+[#41_38]*[41.38] Bombing Roads or Railroads (B-R or B-RR)*: This is done in the
 same fashion as Bombing Cities, using the same table (but a different row,
 according to the target). Roads may be bombed at night if the Road is in a
 Coastal Hex.
@@ -164,14 +164,13 @@ The results are simply having the road or railroad hex destroyed. (Railroads are
 very easy to repair; whether they are worth the effort to destroy is the
 player's problem.)
 
-[#41_39]*[41.39]*
-A. Mining Harbors (B-MH): Players use the Harbor Mining Table, with the Player
+[#41_39]*[41.39] A. Mining Harbors (B-MH)*: Players use the Harbor Mining Table, with the Player
 rolling for each six bombers attempting to successfully lay the mines. Rolling
 one die, if the Player succeeds, place one mine counter in the port hex. The
 result of a mine is the same as blocking harbors: Note: The capacity column
 refers to the average bombload for all six planes (Not this total of six).
 B. Bombing Ports (B-P): The Purpose of this mission is to reduce the efficiency
-level  <<55_1>> of the port. Players .total, bombload and _ strafing delivered
+level  <<55_1>> of the port. Players total, bombload and strafing delivered
 to the hex and consult the Air Bombardment Table. The number result is the loss
 in efficiency rating for that port. (See Case <<41_8>>for bombing Tripoli, etc.)
 Torpedoes may be used against ports.

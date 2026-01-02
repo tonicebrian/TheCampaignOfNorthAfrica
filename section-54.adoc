@@ -1,14 +1,13 @@
 [#54_0]
-== SUPPLY
-CO-ORDINATION
+== SUPPLY CO-ORDINATION
 
 COMMENTARY:
 
-Many of the rules in this Section are covered
-elsewhere, but they are spread throughout the
-rules booklet. This Section is provided to consolidate an important facet of the game: coordinating your supply effort and logistics system.
-This involves the rules needed for setting up a supply network of dumps and trucks and maintaining
-the network so that whatever supplies you do have
+Many of the rules in this Section are covered elsewhere, but they are spread
+throughout the rules booklet. This Section is provided to consolidate an
+important facet of the game: coordinating your supply effort and logistics
+system.  This involves the rules needed for setting up a supply network of dumps
+and trucks and maintaining the network so that whatever supplies you do have
 flow smoothly.
 
 CASES:
@@ -16,162 +15,129 @@ CASES:
 [#54_1]
 === SUPPLY DUMPS
 
-[#54_11]*[54.11]* Supply dumps are used to hold large
-amounts of supplies — ammunition, fuel, stores,
-and water — in places that can be easily reached
-and used by combat units. Any hex can be used as
-a supply dump, and all major cities are natural
-supply dumps.
+[#54_11]*[54.11]* Supply dumps are used to hold large amounts of supplies —
+ammunition, fuel, stores, and water — in places that can be easily reached and
+used by combat units. Any hex can be used as a supply dump, and all major cities
+are natural supply dumps.
 
-[#54_12]*[54.12]*. Dummy supply dumps hold no supplies.
-They are revealed only when an Enemy unit enters
-the hex or bombs/strafes it. The Dummy supply
-counter is removed upon revelation.
+[#54_12]*[54.12]*. Dummy supply dumps hold no supplies.  They are revealed only
+when an Enemy unit enters the hex or bombs/strafes it. The Dummy supply counter
+is removed upon revelation.
 
-[#54_13]*[54.13]* Supply Dump Capacity Chart
+[#54_13]*[54.13] Supply Dump Capacity Chart*
+
 (see Charts and Tables)
 
-[#54_14]*[54.14]* Players may attempt to "blow" supply
-dumps and their supplies. Only non-gun units may
-attempt to blow dumps. Only one Phasing unit per
-hex may attempt to blow a particular dump per
-Player-Turn. To blow a dump, the attempting
-Player must expend Capability Points equal to
-one-third (rounded up)of the attempting unit's
-basic CPA. The attempting Player may never expend more than the unit's basic CPA attempting
-to blow a dump moreover, a unit may not exceed
-its CPA to blow adump.
+[#54_14]*[54.14]* Players may attempt to "blow" supply dumps and their supplies.
+Only non-gun units may attempt to blow dumps. Only one Phasing unit per hex may
+attempt to blow a particular dump per Player-Turn. To blow a dump, the
+attempting Player must expend Capability Points equal to one-third (rounded
+up)of the attempting unit's basic CPA. The attempting Player may never expend
+more than the unit's basic CPA attempting to blow a dump moreover, a unit may
+not exceed its CPA to blow adump.
 
-To blow a dump, the Player expends the necessary
-CPAs and rolls one die and modifies the die roll if
-necessary for unit size, dump ownership, location,
-etc. The Player may adjust the die roll by announcing, before rolling the die, that he is expending an
-additional one-third or two-thirds of the attempting unit's basic CPA. Cross index the modified
-die roll with the percentage of supplies row on the
-Supply Dump Demolition Table  <<54_17>>) to determine the percentage of each type of supply in the
-dump that is destroyed. In addition, a unit occupying the same hex as a supply dump may attempt to
-blow that dump as part of a retreat before combat.
-The Player may only expend one-third of the
-unit's basic CPA and must vacate the hex
-regardless of the result. Supply Dumps may be
-blown in any segment of an OpStage.
+To blow a dump, the Player expends the necessary CPAs and rolls one die and
+modifies the die roll if necessary for unit size, dump ownership, location, etc.
+The Player may adjust the die roll by announcing, before rolling the die, that
+he is expending an additional one-third or two-thirds of the attempting unit's
+basic CPA. Cross index the modified die roll with the percentage of supplies row
+on the Supply Dump Demolition Table  <<54_17>>) to determine the percentage of
+each type of supply in the dump that is destroyed. In addition, a unit occupying
+the same hex as a supply dump may attempt to blow that dump as part of a retreat
+before combat. The Player may only expend one-third of the unit's basic CPA and
+must vacate the hex regardless of the result. Supply Dumps may be blown in any
+segment of an OpStage.
 
-[#54_15]*[54.15]* Dumps may be used by any Player as supply sources. The supply dump counters have ID
-numbers on them so that the Player may facilitate
+[#54_15]*[54.15]* Dumps may be used by any Player as supply sources. The supply
+dump counters have ID numbers on them so that the Player may facilitate
 record-keeping, including which dumps are Dummies.
 
-[#54_16]*[54.16]* It is suggested that Players set up their
-dumps so that each is within a one-OpStage truck
-ride (including loading and unloading time) from
-the next. Otherwise you are asking for trouble.
-Establishing a viable dump network should be top
-priority for logistics commanders.
+[#54_16]*[54.16]* It is suggested that Players set up their dumps so that each
+is within a one-OpStage truck ride (including loading and unloading time) from
+the next. Otherwise you are asking for trouble.  Establishing a viable dump
+network should be top priority for logistics commanders.
 
-[#54_17]*[54.17]* Supply Dump Demolition Table
+[#54_17]*[54.17] Supply Dump Demolition Table*
+
 (see Charts and Tables)
 
 [#54_2]
-=== TRUCK CHARACTERISTICS
-CHART (see Charts and Tables)
-The use and mechanics of trucks is discussed in
-many places. Let it suffice to repeat that it is of
-primary importance that the Player set up a system
-whereby his trucks are constantly in use, ferrying
-supplies forward as fast as they can. The carrying
-capacities of one Truck Point for each type of
-truck are listed on the Chart; see Charts and
-Tables.
-*It requires two light trucks to carry one TOE
-Point of infantry; it is suggested that light trucks
-not be used for this task.
+=== TRUCK CHARACTERISTICS CHART
+
+(see Charts and Tables)
+
+The use and mechanics of trucks is discussed in many places. Let it suffice to
+repeat that it is of primary importance that the Player set up a system whereby
+his trucks are constantly in use, ferrying supplies forward as fast as they can.
+The carrying capacities of one Truck Point for each type of truck are listed on
+the Chart; see Charts and Tables.  *It requires two light trucks to carry one
+TOE Point of infantry; it is suggested that light trucks not be used for this
+task.
 
 [#54_3]
-=== THE COMMONWEALTH
-RAILROAD: Supplies
+=== THE COMMONWEALTH RAILROAD: Supplies
 
-[#54_31]*[54.31]* As stated previously, the Commonwealth
-railroad may be used to move personnel in any
-direction. It may also be used to move supplies. It
-may move either supplies or personnel — it cannot
-move both at the same time.
+[#54_31]*[54.31]* As stated previously, the Commonwealth railroad may be used to
+move personnel in any direction. It may also be used to move supplies. It may
+move either supplies or personnel — it cannot move both at the same time.
 
-[#54_32]*[54.32]* The Commonwealth supply capacity of
-the railroad is 1500 tons per Operations Stage in
-either direction. The RR may move personnel in
-one direction and supplies in another. Players
-should check the various Sections on supplies to
-see the equivalent weight in tons for each type of
-supply.
+[#54_32]*[54.32]* The Commonwealth supply capacity of the railroad is 1500 tons
+per Operations Stage in either direction. The RR may move personnel in one
+direction and supplies in another. Players should check the various Sections on
+supplies to see the equivalent weight in tons for each type of supply.
 
-[#54_33]*[54.33]* The railroad may transport only one type
-of supply at a given time. It may move fuel, ammunition, or stores — not any combination of the
-three. (Water need not be transported by RR —
-the railroad hexes are pipelines in and of
-themselves.)
+[#54_33]*[54.33]* The railroad may transport only one type of supply at a given
+time. It may move fuel, ammunition, or stores — not any combination of the
+three. (Water need not be transported by RR — the railroad hexes are pipelines
+in and of themselves.)
 
-[#54_34]*[54.34]* For the duration of one Operations Stage
-per month (calendar month), the railroad may not
-be used for anything. It is transporting water forward for railroad use. Players must state each
+[#54_34]*[54.34]* For the duration of one Operations Stage per month (calendar
+month), the railroad may not be used for anything. It is transporting water
+forward for railroad use. Players must state each month which Operations Stage
+they are not using the railroad.
 
-month which Operations Stage they are not using
-the railroad.
+[#54_35]*[54.35]* Like personnel, supplies may be moved from any one spot and
+dumped in another spot.  Supplies are considered unloaded when they reach a
+specific hex. They may not be moved that Operations Stage.
 
-[#54_35]*[54.35]* Like personnel, supplies may be moved
-from any one spot and dumped in another spot.
-Supplies are considered unloaded when they reach
-a specific hex. They may not be moved that Operations Stage.
+[#54_4]
+=== AXIS USE OF THE COMMORWEALTH RAILROAD
 
- <<54_4>>) AXIS USE OF THE COMMORWEALTH RAILROAD
+Under certain conditions the Axis Player may make use of the coastal railline
+extending from Egypt to Libya (the Commonwealth railroad system). In essence, he
+must control the rail hexes and he must import rolling stock. Remember, the
+Barce railroad east of Benghazi is not usable under any conditions.
 
-Under certain conditions the Axis Player may
-make use of the coastal railline extending from
-Egypt to Libya (the Commonwealth railroad
-system). In essence, he must control the rail hexes
-and he must import rolling stock. Remember, the
-Barce railroad east of Benghazi is not usable under
-any conditions.
+[#54_41]*[54.41]* At any time the Axis player controls five or more continguous
+rail hexes he may use such rail hexes to transport equipment and personnel.  To
+control a rail hex the Axis player must be the last player to have a land combat
+unit of any type pass through that hex.
 
-[#54_41]*[54.41]* At any time the Axis player controls five
-or more continguous rail hexes he may use such
-rail hexes to transport equipment and personnel.
-To control a rail hex the Axis player must be the
-last player to have a land combat unit of any type
-pass through that hex.
+[#54_42]*[54.42]* The Axis Player may never build new rail line. However, he may
+repair rail hexes he controls at the same rate as the Commonwealth Player.
 
-[#54_42]*[54.42]* The Axis Player may never build new rail
-line. However, he may repair rail hexes he controls
-at the same rate as the Commonwealth Player.
+[#54_43]*[54.43]* To make use of controlled Commonwealth Raillines the Axis
+Player must convoy Rolling Stock (locomotives, tenders, stock cars, flat cars,
+etc.) from Europe to Africa. For each 250 Stores and 100 Fuel Points that the
+Axis Player imports to Africa and brings to any controlled and operative rail
+hex he may activate all such hexes under his control (as long as they are
+contiguous) to the extent of hauling 300 Tons of Supplies in any one direction
+during an Operations Stage.  (Rail movement occurs in the Convoy Stage).
 
-[#54_43]*[54.43]* To make use of controlled Commonwealth Raillines the Axis Player must convoy
-Rolling Stock (locomotives, tenders, stock cars,
-flat cars, etc.) from Europe to Africa. For each
-250 Stores and 100 Fuel Points that the Axis Player
-imports to Africa and brings to any controlled and
-operative rail hex he may activate all such hexes
-under his control (as long as they are contiguous)
-to the extent of hauling 300 Tons of Supplies in
-any one direction during an Operations Stage.
-(Rail movement occurs in the Convoy Stage).
+[#54_44]*[54.44]* In order to transport one Stacking Point of any.type of unit
+the Axis Player must have active enough Rolling Stock to transport thé
+equivalent of 900 Tons of Supplies in any one direction.
 
-[#54_44]*[54.44]* In order to transport one Stacking Point
-of any.type of unit the Axis Player must have active enough Rolling Stock to transport thé
-equivalent of 900 Tons of Supplies in any one
-direction.
+[#54_45]*[54.45]* Once Stores and Fuel is applied as Rolling Stock the points
+are used up; they may not be recovered. If at any time the Axis Player loses
+control of enough rail hexes so that he does not have the necessary five
+contiguous hexes the Rolling Stock is considered to have been destroyed.  The
+Axis may not use Commonwealth Stock, nor vice versa.
 
-[#54_45]*[54.45]* Once Stores and Fuel is applied as Rolling
-Stock the points are used up; they may not be
-recovered. If at any time the Axis Player loses
-control of enough rail hexes so that he does not
-have the necessary five contiguous hexes the Rolling Stock is considered to have been destroyed.
-The Axis may not use Commonwealth Stock, nor
-vice versa.
-
-[#54_46]*[54.46]* All rules concerning the movement of
-
-troops/supplies and the use of the railroad that ap
-ply to the Commonwealth apply equally to the Ax
-is.
+[#54_46]*[54.46]* All rules concerning the movement of troops/supplies and the
+use of the railroad that ap ply to the Commonwealth apply equally to the Axis.
 
 [#54_5]
 === EQUIVALENT WEIGHTS CHART
+
 (see Charts and Tables).

@@ -91,7 +91,7 @@ CAP (CAP-D).
 shoot down Enemy planes.  Defensive CAP is undertaken by fighters wishing to
 protect Friendly bombers or transport (flying as escort/screen for them) or to
 protect an installation or facility. The distinctions can sometimes become a bit
-blurred. .
+blurred.
 
 [#40_23]*[40.23]* If three or more fighters are assigned to offensive CAP in a
 given hex, the fighters possess the equivalent of an air Zone of Control (i.e.,
@@ -114,7 +114,7 @@ The Commonwealth Player has placed on defensive CAP above Tobruk two squadrons
 of Hurricanes.  The Commonwealth Hurricanes and Axis MEB's and CR 42's engage in
 air-to-air to see whether the bombers can get through to complete their mission,
 
-[#40_26]*[40.26]* Using the example in Case <<40_25>>we can best illustrate the
+[#40_26]*[40.26]* Using the example in Case <<40_25>> we can best illustrate the
 differences between offensive and defensive CAP. If the Commonwealth planes were
 flying defensive CAP they would, first off, have no air Zone of Control
 <<40_23>>. They would also not automatically initiate air-to-air combat.
@@ -191,7 +191,7 @@ Strafing is a mission, and precludes the undertaking of any other mission (with
 the exception of planes with STR/B capability).
 
 [#40_52]*[40.52]* Planes ona strafing mission are assigned a target hex and a
-specific type of. target (Case <<40_54>>). This would be listed as, say,
+specific type of target (Case <<40_54>>). This would be listed as, say,
 STR/C1234/dump. Strafing missions follow the general course of all missions
 <<39_0>>.
 
@@ -199,7 +199,10 @@ STR/C1234/dump. Strafing missions follow the general course of all missions
 regardless of how many different types or number of target of a single type
 there are in that hex. Furthermore, strafing is resolved as a single attack
 against a target; it is not a repeated series of attacks against, say, each
-truck in a convoy. Note: a group of fighters assigned to strafe, for example,
+truck in a convoy. 
+
+[note]
+A group of fighters assigned to strafe, for example,
 "infantry-type units" may attack each of two battalions attached to a Brigade in
 a target hex, so long as no one plane attacks more than one battalion.
 
@@ -220,7 +223,7 @@ a target hex, so long as no one plane attacks more than one battalion.
 [#40_6]
 === STRAFING PROCEDURES
 
-[#40_61]*[40.61]* Infantry Units. The strafing Player totals his TacAir Points
+[#40_61]*[40.61] Infantry Units*. The strafing Player totals his TacAir Points
 (Remember, do not add Pilot Ratings in here; they apply only to Air-to-Air) and
 consults the Strafing Table. The Player may strafe as many infantry-type
 battalions or companies as he wishes, but each plane may strafe only one target
@@ -230,8 +233,8 @@ battalion/company. The result is the number of TOE Strength Points eliminated.
 If such infantry toe Strength Points were actually being transported by trucks,
 such trucks are also eliminated.
 
-[#40_62]*[40.62]* Truck Convoys. This is treated in the same fashion as Case
-40.61, with losses being in Truck Points. The Player being strafed determines
+[#40_62]*[40.62] Truck Convoys*. This is treated in the same fashion as Case
+<<40_61>>, with losses being in Truck Points. The Player being strafed determines
 which trucks are eliminated, except that the losses must be distributed as
 evenly as possible between the various types of "cargo" (i.e., water, fuel,
 Replacement Points, etc.) A strafing Player may choose to go after first line
@@ -239,7 +242,7 @@ attached trucks in the same fashion. In such a case he would strafe the parent
 unit, designating its attached trucks as the target. Again, losses are
 distributed as evenly as possible.
 
-[#40_63]*[40.63]* Grounded Aircraft Treated similarly to Case 40.61, with the
+[#40_63]*[40.63] Grounded Aircraft* Treated similarly to Case 40.61, with the
 target being planes on the ground. The result on the Strafing Table however, is
 not the number of planes but rather the number of dice that the strafing Player
 must roll to see how many planes are shot up. Thus, if he gets a 1 on the
@@ -247,30 +250,29 @@ Strafing Table, that Player then rolls one die; the result of that dieroll is
 the number of planes strafed and destroyed on the ground. Strafed Planes may be
 Recovered  <<45_6>>.
 
-[#40_64]*[40.64]* Supply Dumps: The mechanics are the same as 40.62, the results
+[#40_64]*[40.64] Supply Dumps*: The mechanics are the same as <<40_62>>, the results
 are in the percentage of all supplies in that dump destroyed. Thus a result of
-Lequals 10%, 2 equals 20%, etc.
+1 equals 10%, 2 equals 20%, etc.
 
-[#40_65]*[40.65]* Tanks: Strafing of enemy tanks by planes was done only towards
+[#40_65]*[40.65] Tanks*: Strafing of enemy tanks by planes was done only towards
 the end of the campaign, and only by certain planes equipped with heavyenough
-cannon to pierce the tank's armour. The commonwealth Hurricane Mark JID's were
+cannon to pierce the tank's armour. The commonwealth Hurricane Mark IID's were
 the only planes so equipped (with Vickers 40mm cannon). Strafing Tanks is
 accomplished much the same as strafing planes, with the second die or dice-roll
 producing the minimum number of Armour Protection Points that must be removed.
 Anything with an armour protection rating may be strafed. Any dummy tank counter
 strafed is automatically removed from play.
 
-[#40_66]*[40.66]* Ports. Strafing of ports is combined — and is considered part
+[#40_66]*[40.66] Ports*. Strafing of ports is combined — and is considered part
 of — a bombing raid on the port. The Player adds his Strafing TacAir Points then
 halves them, rounding down. He adds this to the total bombload delivered on the
-target (the port), and consults the Air Bombardment Table (See <<41_5>>)
-
+target (the port), and consults the Air Bombardment Table (See <<41_5>>).
 
 [#40_67]*[40.67]* Water Pipeline. Planes may strafe an Enemy pipeline in order
 to render it useless. The Player assigns the fighters a mission to strafe the
 pipeline in a given hex, uses-the Strafing Table, and rolls the dice. If he
 obtains any result of 2 or more, the pipeline is destroyed. (This is not a "cost
-efficient'? way of destroying a pipeline.)
+efficient" way of destroying a pipeline.)
 
 [#40_7]
 === FIGHTER FLAK SUPPRESSION
@@ -284,23 +286,23 @@ planes.  However, any unsuppressed flak may fire at any planes in the hex,
 including any fighters on a flak suppression mission, Flak suppression is a
 mission.
 
-[#40_73]*[40.73]* Fighter flak suppression is flown after airto-air is resolved
+[#40_73]*[40.73]* Fighter flak suppression is flown after air to-air is resolved
 but before any flak fire against planes is undertaken.
 
 [#40_74]*[40.74]* For every three fighters (individual planes) that fly flak
-suppression, ove point of antiaircraft/flak fire is neutralized and may not be
+suppression, one point of antiaircraft/flak fire is neutralized and may not be
 used that Operations Stage. Only light AA points and ship AA points may be
-suppressed by fighters.  Heavy AA points may not be suppressed by fighters.
+suppressed by fighters. Heavy AA points may not be suppressed by fighters.
 
 [#40_75]*[40.75]* Fighters flying flak suppression expend ammunition. The flak
 units neutralized also expend ammunition, as they are firing at the fighters!
 
 [#40_76]*[40.76]* Anti-aircraft units may only be destroyed by bombing; see Case
-<<41_3>>
+<<41_3>>.
 
 [#40_77]*[40.77]* Planes may strafe ships to suppress flak, as a regular flak
 suppression run. They may not damage a ship by strafing. Ships may be damaged by
-bombing and torpedoes  <<41_34>>. Remember 39.2 (Combined missions).
+bombing and torpedoes  <<41_34>>. Remember <<39_2>> (Combined missions).
 
 [#40_8]
 === STRAFING TABLE
