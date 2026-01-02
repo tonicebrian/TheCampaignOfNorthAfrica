@@ -3,112 +3,83 @@
 
 GENERAL RULE:
 
-Although CNA uses individual planes, the resolution of air-to-air combat is done on an operational
-level, with much abstracted (in terms of plane
-ability, etc.). Air-to-air combat occurs before
-flak/AA fire and before completing any missions.
-Essentially, only fighters with non-parenthesized
-tacair ratings my initiate air-to-air combat, and
-fighters on offensive CAP must initiate Air-to-air
-combat. Air-to-air combat is resolved by comparing tacair ratings, augmented by the pilot ratings,
-and further adjusted by any difference in
-maneuver ratings. Bombers' tacair ratings may be
-augmented if they are formation flying. Planes
-resolve air-to-air in pairs, one plane against
-another, and all combat takes place within the hex.
+Although CNA uses individual planes, the resolution of air-to-air combat is done
+on an operational level, with much abstracted (in terms of plane ability, etc.).
+Air-to-air combat occurs before flak/AA fire and before completing any missions.
+Essentially, only fighters with non-parenthesized tacair ratings my initiate
+air-to-air combat, and fighters on offensive CAP must initiate Air-to-air
+combat. Air-to-air combat is resolved by comparing tacair ratings, augmented by
+the pilot ratings, and further adjusted by any difference in maneuver ratings.
+Bombers' tacair ratings may be augmented if they are formation flying. Planes
+resolve air-to-air in pairs, one plane against another, and all combat takes
+place within the hex.
 
 PROCEDURE:
 
-The Players first determine which planes in the hex
-will be engaging in air-to-air. This means all
-scrambles must be performed first. Each Player
-then declares whether or not he wishes to initiate
-air-to-air, with any player having planes on offensive CAP forced to initiate. Fighter vs fighter (or
-screen) combat takes'place before fighters may attack any Enemy bombers/transports, etc. (unless
-they are unescorted).
+The Players first determine which planes in the hex will be engaging in
+air-to-air. This means all scrambles must be performed first. Each Player then
+declares whether or not he wishes to initiate air-to-air, with any player having
+planes on offensive CAP forced to initiate. Fighter vs fighter (or screen)
+combat takes'place before fighters may attack any Enemy bombers/transports, etc.
+(unless they are unescorted).
 
-Having determined the planes involved, the
-Players now decide who will be the Attacker (see
-Case <<45_16>>). (Remember, all Missions are flown
-simultaneous). The defender places all his planes
-being attacked down on a flat surface,using
-available aircraft counters (see <<34_75>>). The attacker now allocates his attacking fighters against
-the defending planes. Each individual air-to-air
-combat is now resolved, using the Air-to-Air Combat Tables. After attacking fighters have attacked
-escorts/screens they may, if possible, now attack
-the bombers/transports. After all air-to-air is
-resolved, players complete their missions (after, of
-course, undergoing flak/AA fire.)
+Having determined the planes involved, the Players now decide who will be the
+Attacker (see Case <<45_16>>). (Remember, all Missions are flown simultaneous).
+The defender places all his planes being attacked down on a flat surface,using
+available aircraft counters (see <<34_75>>). The attacker now allocates his
+attacking fighters against the defending planes. Each individual air-to-air
+combat is now resolved, using the Air-to-Air Combat Tables. After attacking
+fighters have attacked escorts/screens they may, if possible, now attack the
+bombers/transports. After all air-to-air is resolved, players complete their
+missions (after, of course, undergoing flak/AA fire.)
 
-All opposing planes involved in air-to-air combat
-are individually "matched up", (see Case <<45_2>>).
-The Players now determine each airplane's tacair
-differential. In order to do this, the Players first
-adjust the tacair rating of their aircraft in one of
-two possible ways:
+All opposing planes involved in air-to-air combat are individually "matched up",
+(see Case <<45_2>>).  The Players now determine each airplane's tacair
+differential. In order to do this, the Players first adjust the tacair rating of
+their aircraft in one of two possible ways:
 
-a) For each fighter, the owning Player adds the
+a. For each fighter, the owning Player adds the rating of the pilot to that of his plane.
 
-rating of the pilot to that of his plane.
+b. For each bomber, add to the tacair rating any applicable formation flying
+bonus: if 6-17 bombers are on the mission, add one to each bomber's tacair
+rating; if 18 or more bombers are on the mission, add two to each plane's tacair
+rating. (Note: Dive bombers are not eligible for formation flying bonuses.)
 
-b) For each bomber, add to the tacair rating
+Each Player now subtracts the adjusted tacair rating of the Enemy plane from his
+own plane's adjusted rating. This is the tacair differential. The tacair
+differential is now adjusted for each plane to account for the relative
+difference in manueverability of the planes. The manueverability rating of the
+less manueverable plane (the lower rating) is subtracted from that of the
+higher, and the Maneuver Adjustment Chart is consulted to obtain the appropriate
+maneuver adjustmenr.  This Maneuver Adjustment number is added to the tacair
+differential of the plane with the higher maneuverability rating and subtracted
+from the tacair rating of the plane with the lower maneuverability rating.
+(Note: If the maneuver ratings are equal, no such adjustment is possible.) Thus,
+if prior to the adjustment for maneuver ratings one plane had a tacair
+differential of -3 and the other +3, but the plane with the lower tacair
+differential had a maneuver rating 16 points higher than the second plane, then
+the tacair differentials would be adjusted, respectively, from -3 to +1 and from
++3 to -1, since the Manuever Adjustment Chart calls for an adjustment of "4'”'
+in favor of the plane with the higher manuever rating.
 
-any applicable formation flying bonus: if
-6-17 bombers are on the mission, add one to
-each bomber's tacair rating; if 18 or more
-bombers are on the mission, add two to each
-plane's tacair rating. (Note: Dive bombers
-are not eligible for formation flying
-bonuses.)
+In fighter vs. fighter match-ups, the fire of the plane with the "minus" tacair
+differential is resolved first. (For "0" differentials, the plane with the
+highest rated pilot is considered to fire first, or if that is a tie, the
+attacking Player's plane.) If there is more than one fighter attacking one Enemy
+Fighter, the lone fighter fires first. In fighter vs. non-fighter, the
+non-fighter plane's attack is always resolved first.
 
-Each Player now subtracts the adjusted tacair
-rating of the Enemy plane from his own plane's
-adjusted rating. This is the tacair differential. The
-tacair differential is now adjusted for each plane
-to account for the relative difference in
-manueverability of the planes. The manueverability rating of the less manueverable plane (the lower
-rating) is subtracted from that of the higher, and
-the Maneuver Adjustment Chart is consulted to
-obtain the appropriate maneuver adjustmenr.
-This Maneuver Adjustment number is added to
-the tacair differential of the plane with the higher
-maneuverability rating and subtracted from the
-tacair rating of the plane with the lower maneuverability rating. (Note: If the maneuver ratings are
-equal, no such adjustment is possible.) Thus, if
-prior to the adjustment for maneuver ratings one
-plane had a tacair differential of -3 and the other
-+3, but the plane with the lower tacair differential
-had a maneuver rating 16 points higher than the second plane, then the tacair differentials would be
-adjusted, respectively, from -3 to +1 and from
-+3 to -1, since the Manuever Adjustment Chart
-calls for an adjustment of "4'”' in favor of the
-plane with the higher manuever rating.
-
-In fighter vs. fighter match-ups, the fire of the
-plane with the "minus" tacair differential is
-resolved first. (For "0" differentials, the plane
-with the highest rated pilot is considered to fire
-first, or if that is a tie, the attacking Player's
-plane.) If there is more than one fighter attacking
-one Enemy Fighter, the lone fighter fires first. In
-fighter vs. non-fighter, the non-fighter plane's attack is always resolved first.
-
-Using the final adjusted tacair differentials, the
-Players refer to the tacair Kill Table  <<45_5>>), and the
-Player firing first rolls two dice and combines the
-results sequentially to obtain a result (e.g., "2”',
-“4? equals ‘*24'°). If the result falls within the kill
-
-range given on the table corresponding to the ap
-propriate tac air differential, the opposing plane
-has been shot down. Otherwise, the opposing
-Player with the aircraft with the positive tacair dif
-ferential gets to fire. If his dice roll result falls
-within the kill range as delineated on the TacAir
-Kili Table, the first plane is shot down; if not, then
-there is no result. (Note: Non-fighters fire in dividually at each Enemy fighter that is matched
-against them; fighters may never fire at more than
-one plane, even if attacked by more than one.)
+Using the final adjusted tacair differentials, the Players refer to the tacair
+Kill Table  <<45_5>>), and the Player firing first rolls two dice and combines
+the results sequentially to obtain a result (e.g., "2”', “4? equals ‘*24'°). If
+the result falls within the kill range given on the table corresponding to the
+ap propriate tac air differential, the opposing plane has been shot down.
+Otherwise, the opposing Player with the aircraft with the positive tacair dif
+ferential gets to fire. If his dice roll result falls within the kill range as
+delineated on the TacAir Kili Table, the first plane is shot down; if not, then
+there is no result. (Note: Non-fighters fire in dividually at each Enemy fighter
+that is matched against them; fighters may never fire at more than one plane,
+even if attacked by more than one.)
 
 Figure A:
 PLAYERA $

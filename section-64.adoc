@@ -155,7 +155,7 @@ as below.
 [#64_72]*[64.72]* Starting with the first OpStage of GameTurn 35, if there are no Axis Combat units that can
 trace a line of supply of 60 Movement Points
 (Truck) to a Supply Dump and thence to Tobruk
-or Tripoli as per case <<64_71>>, game-map, the Commonwealth wins the game automatically. This
+or Tripoli as per case <<64_71>> , game-map, the Commonwealth wins the game automatically. This
 does not include air or coastal shipping units.
 
 [#64_73]*[64.73]* Failing the above two cases, players

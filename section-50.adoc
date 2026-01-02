@@ -3,19 +3,14 @@
 
 GENERAL RULE:
 
-Land units that use their TOE Strength Points in
-combat expend ammunition, as do planes that
-carry bombs and/or engage in air-to-air combat.
-Ammunition is consumed in terms of Ammunition
-Points at rates of consumption dependent on the
-weapon-type firing. A unit without ammunition is
-useless in terms of combat. Players must keep
-track of the ammo supply of each TOE Strength
-Point. Each TOE Strerigth Point may carry (i.e.,
-transport by itself without trucks) only enough
-ammo to fire once. However, units may always use
-ammo present in the hex (either in attached trucks
-orinasupply dump).
+Land units that use their TOE Strength Points in combat expend ammunition, as do
+planes that carry bombs and/or engage in air-to-air combat.  Ammunition is
+consumed in terms of Ammunition Points at rates of consumption dependent on the
+weapon-type firing. A unit without ammunition is useless in terms of combat.
+Players must keep track of the ammo supply of each TOE Strength Point. Each TOE
+Strerigth Point may carry (i.e., transport by itself without trucks) only enough
+ammo to fire once. However, units may always use ammo present in the hex (either
+in attached trucks orinasupply dump).
 
 CASES:
 
