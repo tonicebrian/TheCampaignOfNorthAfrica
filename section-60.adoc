@@ -357,56 +357,60 @@ not need repair and may fire).
 The following units are available and in Port at
 Alexandria:
 
-Number Type
-2 Battleships
-2 Cruisers
-4 A. A. Cruisers
-6 Destroyers
+|===
+| Number | Type
+| 2 | Battleships
+| 2 | Cruisers
+| 4 | A. A. Cruisers
+| 6 | Destroyers
+|===
 
 The following units are in Valetta, in Malta:
 
-Number Type
-1 Cruiser
-1 A. A. Cruiser
-2 Destroyer
+|===
+|Number | Type
+|1 | Cruiser
+|1 | A. A. Cruiser
+|2 | Destroyer
+|===
 
-No Fleet units may be moved until the September
-1/IV Stage/Turn. All ships may use their AA
-Ratings.
+No Fleet units may be moved until the September 1/IV Stage/Turn. All ships may
+use their AA Ratings.
 
-[#60_46]*[60.46]* Malta
-Planes:
+[#60_46]*[60.46]* Malta Planes:
 
-15 Hurricane MkI's_ (2 SGSU's) (12 Ready)
-12 Swordfish (1SGSU) (9 ready)
-3 Gladiators (1 SGSU) (all ready)
-1 Sea Gladiator (1 SGSU) (all ready)
+[cols="1,3,2,2"]
+|===
+
+| 15 | Hurricane MkI        | 2 SGSUs | 12 Ready
+| 12 | Swordfish            | 1 SGSU  | 9 Ready
+| 3  | Gladiators           | 1 SGSU  | All Ready
+| 1  | Sea Gladiator        | 1 SGSU  | All Ready
+|===
 
 Pilots:
 4 Two's, 6 One's
 
 AA: 17 AA Points distributed as player sees fit
 
-State of Air facilities: The Malta bases have an initial capacity of five SGSU's. These may be spread
-amongst the Malta facilities as the player wishes.
-Construction on increasing the capacity of Malta
-Air Facilities may begin in October, 1940.
+State of Air facilities: The Malta bases have an initial capacity of five
+SGSU's. These may be spread amongst the Malta facilities as the player wishes.
+Construction on increasing the capacity of Malta Air Facilities may begin in
+October, 1940.
 
-[#60_47]*[60.47]* The Commonwealth Player uses his Reinforcement Track as printed, bringing in units
-where and when listed (Remember that some units
-need Training, which means that other units have
-to be assigned as Training Units!) No Replacement
-Points may arrive before November 1940.
+[#60_47]*[60.47]* The Commonwealth Player uses his Reinforcement Track as
+printed, bringing in units where and when listed (Remember that some units need
+Training, which means that other units have to be assigned as Training Units!)
+No Replacement Points may arrive before November 1940.
 
 [#60_5]
 === AIR FACILITIES
 
-The following Air Facilities are in existence.
-Players will note that Air facilities may be used by
-anyone Who controls them. All facilities in Egypt
+The following Air Facilities are in existence.  Players will note that Air
+facilities may be used by anyone Who controls them. All facilities in Egypt
 
-belong to the Commonwealth; all those in Libya
-belong to the Italians. at the start of the game.
+belong to the Commonwealth; all those in Libya belong to the Italians. at the
+start of the game.
 
 Airfields
 
@@ -422,7 +426,6 @@ Benina A4829
 Dekheila £3512
 Deversoir Off-Map E(1833)
 El Adem C4507
-
 El Berca A4728
 Fayid Off-Map
 Ft. Maddalena C3019
@@ -432,7 +435,9 @@ Martuba BS526
 Mersa Matruh D3714
 Soluch A4130
 _ B5825
+
 The four Tripoli/Tunisia boxes (off-map).
+
 Air Landing Strips
 
 Augila BO707
@@ -440,7 +445,6 @@ Bardia C4321
 Bir el Gubi C4108
 Burg el Arab E3109
 Buq Buq C3926
-
 El Agheila A1816
 El Hamman E3007
 Ft. Capuzzo C4020
@@ -463,79 +467,73 @@ Tmimi B5229
 Tobruk C4807
 Ztert BS5917
 — C4119
-_— D3231
+— D3231
 — D3416
-_— D3516
+— D3516
 _ D3903
 
-Note: Insufficient Air Landing Strip counters are
-provided. Use blanks.
+Note: Insufficient Air Landing Strip counters are provided. Use blanks.
 
 Flying Boat Basins
+
 Alexandria E3614
 Bomba B5331
 
 Port Said (off-map E4033).
 
 Flying Boat Alighting Areas
+
 Derna BS5925
 
 [#60_6]
 === INITIATIVE
 
-For this Scenario Group, the Italian Player has the
-Initiative for the entire first Game-Turn. Starting
-with the second Game-Turn, players determine Initiative as per the rules for such.
+For this Scenario Group, the Italian Player has the Initiative for the entire
+first Game-Turn. Starting with the second Game-Turn, players determine
+Initiative as per the rules for such.
 
 [#60_7]
-=== CONSTRUCTION ON THE MAP
-AT THE START OF THE GAME
-There are no minefields, fortifications, or pipeline
-(other than those provided by the RR). The RR
-runs to Mersa Matruh (D3714) and ends there. All
-ports are at listed Efficiency with the exception of
+=== CONSTRUCTION ON THE MAP AT THE START OF THE GAME
 
-Tobruk, which is at Efficiency Level 7 (the San
-Giorgio is partially sunk, blocking the harbor).
+There are no minefields, fortifications, or pipeline (other than those provided
+by the RR). The RR runs to Mersa Matruh (D3714) and ends there. All ports are at
+listed Efficiency with the exception of
+
+Tobruk, which is at Efficiency Level 7 (the San Giorgio is partially sunk,
+blocking the harbor).
 
 [#60_8]
-=== FIRST SCENARIO GROUP
-VICTORY CONDITIONS
+=== FIRST SCENARIO GROUP VICTORY CONDITIONS
 
 [#60_81]*[60.81]* Grazianni's Offensive
 
-Italian Strategic Victory: The Italian Player must
-take and hold either Alexandria or Cairo (any hex)
-with a combat unit that can be supplied (by convoy) from any hex on Game-Map D.
+Italian Strategic Victory: The Italian Player must take and hold either
+Alexandria or Cairo (any hex) with a combat unit that can be supplied (by
+convoy) from any hex on Game-Map D.
 
-Italian Decisive Victory: The Italian must take
-and hold (occupy) both Mersa Matruh and Siwa
-with any combat unit that can be supplied by convoy from Tobruk.
+Italian Decisive Victory: The Italian must take and hold (occupy) both Mersa
+Matruh and Siwa with any combat unit that can be supplied by convoy from Tobruk.
 
-Italian Tactica] Victory: The Italian must take
-and hold (occupy) Sidi Birani and retain possession of Sollum (C4021) and Fort Maddalena and
-Giarabub in supply (as above, to Tobruk)
+Italian Tactica] Victory: The Italian must take and hold (occupy) Sidi Birani
+and retain possession of Sollum (C4021) and Fort Maddalena and Giarabub in
+supply (as above, to Tobruk)
 
-Commonwealth Tactical Victory: Must take
-and hold Sollum and Halfaya Pass (C3922) as well
-as Siwa (C0127) tracing supply by truck convoy
-back to Alexandria or Cairo.
+Commonwealth Tactical Victory: Must take and hold Sollum and Halfaya Pass
+(C3922) as well as Siwa (C0127) tracing supply by truck convoy back to
+Alexandria or Cairo.
 
-Commonwealth Decisive Victory: Must take
-and hold Bardia, Fort Maddalena, Sidi Omar,
-Sollum and Siwa, supply as above.
+Commonwealth Decisive Victory: Must take and hold Bardia, Fort Maddalena, Sidi
+Omar, Sollum and Siwa, supply as above.
 
-Commonwealth Strategic Victory: Must take
-and hold Tobruk; supply as above.
+Commonwealth Strategic Victory: Must take and hold Tobruk; supply as above.
 
 [#60_82]*[60.82]* The Italian Campaign
 
-Players are awarded points for holding (occupying) the following locations. Units holding such
-places must be combat units (i.e., units with nonparenthesized Close Assault Ratings) and they
-must be able to trace supply of not more than one
-Game-Turn's duration back to a Supply Dump or
-City which can eventually be traced back either to
-Cairo (Commonwealth) or Tripoli (Italian).
+Players are awarded points for holding (occupying) the following locations.
+Units holding such places must be combat units (i.e., units with
+nonparenthesized Close Assault Ratings) and they must be able to trace supply of
+not more than one Game-Turn's duration back to a Supply Dump or City which can
+eventually be traced back either to Cairo (Commonwealth) or Tripoli (Italian).
 
 Victory Points
 
@@ -555,88 +553,71 @@ Mersa Brega
 
 (A202) 0 50
 
-If there are no Italian combat units that can trace a
-Supply Line on the game-map the Commonwealth
-Player wins a Strategic Victory. All other conditions produce a simple "Victory". Most points
-wins. These conditions are based on what actually
-happened, and less on actual objectives.
+If there are no Italian combat units that can trace a Supply Line on the
+game-map the Commonwealth Player wins a Strategic Victory. All other conditions
+produce a simple "Victory". Most points wins. These conditions are based on what
+actually happened, and less on actual objectives.
 
 [#60_9]
-=== AIR & LOGISTICS GAMES
-ABSTRACTIONS
+=== AIR & LOGISTICS GAMES ABSTRACTIONS
 
-This Case lists the adjustments needed in addition
-to those given in Case <<59_6>> in order to play this
-scenario without the Air and/or Logistics
+This Case lists the adjustments needed in addition to those given in Case
+<<59_6>> in order to play this scenario without the Air and/or Logistics
 Game(s).
 
 [#60_91]*[60.91]* Air Abstracted
 
 (Land & Logistics Games): None.
 
-[#60_92]*[60.92]* Air & Logistics Abstracted
-(Land Game Only):
+[#60_92]*[60.92]* Air & Logistics Abstracted (Land Game Only):
 
-A. The Players' ability to bring in Motorization
-Points is equal to their respective abilities to bring
-in Medium Truck Points (i.e., each Medium Truck
+A. The Players' ability to bring in Motorization Points is equal to their
+respective abilities to bring in Medium Truck Points (i.e., each Medium Truck
 Point equal one Motorization Point).
-
 B. Axis Initial Supply Status: Case <<60_34>> is replaced by the following:
+[%header]
+|===
+|Location | Regular Supply Units | Ammo | Fuel
+|Tobruk (C 4807) | 3 | 15 | 50
+|Bardia (C 4321) | 2 | 10 | 40
+|Benghazi (B 4827) | 1 | 10 | 10
+|Derna (B 5925) | 1 | - | 10
+|Tripoli (box) | 8 | 5 | 60
+|Dump 1* | 3|  40 | 50
+|Dump 2* | 3 | 40 | 50
+|C 0716 | 1 | 20 | 6
+|===
 
-Regular Each with
-Location Supply Units Ammo Fuel
-Tobruk (C 4807) 3 15 50
-Bardia (C 4321) 2 10 40
-Benghazi (B 4827) 1 10 10
+(*) In any one hex on map-section "C" in Libya, not within four hexes of
+aCommonwealth unit.  In addition, the Axis Player receives two groups of three
+dummy supply unit counters which may be placed according to the rules for
+Dumps | and 2.
+C. Commonwealth Initial Supply Status: Case <<60_44>> is replaced by the following:
 
-Derna (B 5925) 1 - 10
-Tripoli (box) 8 5 60
-Dump 1* 3 40 50
-Dump 2* 3 40 50
-C 0716 1 20 6
+[%header]
+|===
+|Location | Regular Supply Units | Ammo | Fuel
+|Mersa Matruh (D 3714) | 5 | 40 | 60
+|Sidi Baranni (C 4131) | 1 | 40 | 60
+|Dump I* | 3 | 40 | 30
+|===
 
-*In any one hex on map-section "C" in Libya, not
-within four hexes of aCommonwealth unit.
+*All three in any one hex on map-section "D" west of Mersa Matruh.
 
-In addition, the Axis Player receives two groups of
-three dummy supply unit counters which may be
-placed according to the rules for Dumps | and 2.
-
-C. Commonwealth Initial Supply Status: Case
-60.44 is replaced by the following:
-
-Regular Each with
-Location Supply Units Ammo Fuel
-Mersa Matruh
-(D 3714) 5 40 60
-Sidi Baranni
-(C 4131) 1 40 60
-Dump I* 3 40 30
-
-*All three in any one hex on map-section "D"
-west of Mersa Matruh.
-
-In addition, the Commonwealth Player receives
-one group of three dummy supply units which may
-be placed according to the rule for Dump 1.
+In addition, the Commonwealth Player receives one group of three dummy supply
+units which may be placed according to the rule for Dump 1.
 
 In addition, Alexandria and Cairo each possess
 three regular supply units, each supply unit containing 40 Ammo & 60 Fuel.
 
 [#60_93]*[60.93]* Logistics Abstracted (Land & Air Games):
-A. The Players' ability to bring in motorization
-points is equal to their respective abilitys to bring
-in Medium plus Heavy Trucks (i.e., each Medium
-and each Heavy Truck is equal to one motorization point).
 
-B. Axis Initial Supplies: As in <<60_82>> "B" above
-and in addition a total of 5 regular supply units,
-each with 40 Ammo and 15 Fuel Points, to be
-distributed among and placed on any Axis airfields(s).
-
-C. Commonwealth Initial Supply Status: As in
-60.82 "C" above and in addition a total of 2
-regular supply units each with 20 Ammo and 12
-Fuel Points to be distributed among and placed on
-any Commonwealth air facilities.
+A. The Players' ability to bring in motorization points is equal to their
+respective abilitys to bring in Medium plus Heavy Trucks (i.e., each Medium and
+each Heavy Truck is equal to one motorization point).
+B. Axis Initial Supplies: As in <<60_82>> "B" above and in addition a total of 5
+regular supply units, each with 40 Ammo and 15 Fuel Points, to be distributed
+among and placed on any Axis airfields(s).
+C. Commonwealth Initial Supply Status: As in 60.82 "C" above and in addition a
+total of 2 regular supply units each with 20 Ammo and 12 Fuel Points to be
+distributed among and placed on any Commonwealth air facilities.
