@@ -75,7 +75,7 @@ the Aircraft Characteristics Chart in terms of TOE Strength Points or tons of
 supplies.
 
 [#42_32]*[42.32]* For a Transport to carry a TOE Strength Point or supplies to a
-given hex, that "cargo'”' must start the Operations Stage in the hex with the
+given hex, that "cargo" must start the Operations Stage in the hex with the
 transport. The transport may then fly one type of transport mission:
 
 a. The Transport flies to the target hex, lands the cargo, and flies back; or
@@ -84,7 +84,7 @@ this case, the transport may use its transfer range (double its normal range).
 
 [#42_33]*[42.33]* Transport missions must be flown to Friendly air facilities,
 as the planes have to land.  Supplies and personnel may be airdropped under
-special circumstances (See <<42_4>>
+special circumstances (See <<42_4>>)
 
 [#42_34]*[42.34]* Personnel transported by air may not voluntarily move in the
 Operations Stage they are transported in, having used their allotted CPA.
@@ -116,7 +116,7 @@ Sheets. Such units may be airdropped by transport planes during a tactical land
 support Air Phase, under certain circumstances.
 
 [#42_42]*[42.42]* An airborne mission is the same as a transport mission
-(42.32a). The only difference is that the units are dropped into the hex, not
+(<<42_32>>a). The only difference is that the units are dropped into the hex, not
 landed, so an air facility is not needed for the transports.  However, they must
 start from a Friendly air facility.
 
@@ -136,9 +136,9 @@ there is no drift; units always drop in the target hex. There are no casualties
 in an airdrop.
 
 [#42_46]*[42.46]* Airdropped units require and use supplies the same as any
-unit: they are not commandos.  Thus, only certain types of supplies may be
+unit: they are not commandos. Thus, only certain types of supplies may be
 airdropped: ammunition and stores may be airdropped (using the precepts of
-<<42_42>>and <<42_43>>. Supplies may be airdropped into a Friendly-occupied hex
+<<42_42>>and <<42_43>>). Supplies may be airdropped into a Friendly-occupied hex
 even if it is in an Enemy Zone of Control. In the latter case, there is no need
 to use the recognizable land feature provision of the airdrop rule. Airdropped
 supplies may be used as soon as they arrive, unlike transported supplies
@@ -164,7 +164,7 @@ assigned to that Lane.
 to a specific Convoy Lane. A plane may only be assigned to a naval recon mission
 if it posses Recon capability (R). A plane may be assigned to any Lane within
 its range. The distances to the convoy lanes are listed in the Axis Naval Convoy
-Air Distance Chart (Case <<56_18>>. A plane flying a recon mission from North
+Air Distance Chart (Case <<56_18>>). A plane flying a recon mission from North
 Africa must possess a range.at least equal to the distance from its air facility
 to one of the key cities listed on the chart plus the distance from that city to
 the Lane.

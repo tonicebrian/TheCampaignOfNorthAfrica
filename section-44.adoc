@@ -41,9 +41,9 @@ Commonwealth Player how many "levels" he may construct for each facility.  No
 supplies need be expended.
 
 [#44_14]*[44.14]* The Commonwealth Player does not need—nor does he use—SGSU's
-on Malta. Each “‘level" of air facility can handle up to 18 planes of any type.
+on Malta. Each "level" of air facility can handle up to 18 planes of any type.
 Thus an airfield operating at maximum capacity (6 levels) could handle 108
-planes.  However, for the sake of play ease, the Commonwealth Player should
+planes. However, for the sake of play ease, the Commonwealth Player should
 group his planes as if they were squadrons.
 
 [#44_15]*[44.15]* Planes on Malta may be moved from one field to another without
@@ -51,10 +51,11 @@ flying. Such a movement is not considered a mission and happens "outside”' the
 play sequence. In essence, the Commonwealth Player simply moves his squadrons or
 planes from one field to the other at the beginning of the OpStage, noting such
 movement on his squadron sheets, prior to any missions being flown. The Axis
-Player need not be informed of such moves.  [#44_16]*[44.16]* Planes based on
-Malta do not need fuel or ammo; they are automatically refueled and rearmed each
-Stage. However, they must be refit like ail other planes, using the same method
-as all other planes.
+Player need not be informed of such moves.  
+
+[#44_16]*[44.16]* Planes based on Malta do not need fuel or ammo; they are 
+automatically refueled and rearmed each Stage. However, they must be refit like ail 
+other planes, using the same method as all other planes.
 
 [#44_17]*[44.17]* Commonwealth planes may transfer to and from Malta and the
 African fields, provided they have the range.
@@ -73,7 +74,7 @@ as they occur. Flak points may move between airfields/strips as planes do in
 <<44_15>> but flak/AA units may not be moved between Malta and the mainland.
 
 [#44_2]
-=== AXIS ATR RAIDS ON MALTA
+=== AXIS AIR RAIDS ON MALTA
 
 [#44_21]*[44.21]* Axis bombers based in Italy/Sicily as well as any
 African-based Axis planes that can reach the island can raid Malta, bombing the
@@ -157,7 +158,7 @@ the Availability Table is not considered.
 
 [#44_29]*[44.29]* The Axis Player may, after rolling on the Table, decide not to
 raid. The raid is cancelled, but he still has used the table he rolled for
-once—regardless of whether he cancels or not (see Case <<44_23>>.) In such a
+once—regardless of whether he cancels or not (see Case <<44_23>>). In such a
 case, the Axis Player may not, of course, use map-based planes.
 
 [#44_3]
@@ -165,7 +166,7 @@ case, the Axis Player may not, of course, use map-based planes.
 
 Realizing the importance of Malta to the Axis supply effort, the German High
 Command contemplated invading Malta on several occasions, even going so far as
-to set a definite date.  However, that plan was aborted when Rommel borrowed the
+to set a definite date. However, that plan was aborted when Rommel borrowed the
 air cover assigned to such invasion for his thrust to take Tobruk—and then never
 returned them. In any case, the German High Command had deep reservations about
 an invasion of the strongly-defended island, and given the fearsome losses taken
@@ -174,7 +175,7 @@ would have carried their planned invasion through to the end. They certainly
 would have received little valuable support from the Italians who, despite
 several professed "airborne" divisions (like the Folgore) had little practice in
 this sort of thing. It is mainly for these reasons that—at least in this
-game—the Axis Player may not invade Malta.  Sorry.
+game—the Axis Player may not invade Malta. Sorry.
 
 [#44_4]
 === STRATEGIC AIR RAIDS ON MALTA
