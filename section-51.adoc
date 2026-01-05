@@ -14,9 +14,8 @@ CASES:
 [#51_1]
 === USAGE OF STORES
 
-[#51_11]*[51.11]* Every TOE Strength Point in play requires
-four Stores Points per Game-Turn, except as
-noted below.
+[#51_11]*[51.11]* Every TOE Strength Point in play requires four Stores Points
+per Game-Turn, except as noted below.
 
 [#51_12]*[51.12]* Prisoners use stores, at a rate of one Stores Point per five
 Prisoner Points per Operations Stage. (See <<28_15>>). Prisoners must be
