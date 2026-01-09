@@ -434,13 +434,13 @@ amounts of Supplies:
 
 [%header]
 |===
-| Ammo | Fuel | Stores | Water
-| Tripoli | 200 | 1,300 | 350 | —
+| | Ammo | Fuel | Stores | Water
+| Tripoli | 200 | 1300 | 350 |
 | Nofilia | 500 | 800 | 500 | 250
-| el | Agheila | 150 | 450 | 350 | 400
-| Benghazi | 650 | 2,200 | 700 | _
-| Mechili | 500 | 1,700 | 150 | 600
-| Derna | 300 | 2,500 | 100 | 300
+| el Agheila | 150 | 450 | 350 | 400
+| Benghazi | 650 | 2200 | 700 |
+| Mechili | 500 | 1700 | 150 | 600
+| Derna | 300 | 2500 | 100 | 300
 |===
 
 In addition the Axis Player receives dumps at Gazala (B4933) Rotunda Segnali (B
