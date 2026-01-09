@@ -109,8 +109,8 @@ must be currently attached to it.
 
 [#19_22]
 *[19.22]* Should a unit's assigned Parent Formation be eliminated, (see
-Case <<19_11>>), if that — presumably detached — unit survives, it is considered
-independent and eligible for re-assignment in accordance with Case <<19_21>> and
+Case <<19_11,19.11>>), if that — presumably detached — unit survives, it is considered
+independent and eligible for re-assignment in accordance with Case <<19_21,19.21>> and
 <<19_3>>.
 
 [#19_23]
@@ -120,10 +120,10 @@ Formation in the eliminated unit's place. (i.e., eliminated units do not count
 towards the limitations listed in Case <<19_3>>).
 
 [#49_24]
-*[49.24]* The OA Chart (Case <<4_45>>) contains notes concerning
+*[49.24]* The OA Chart (Case <<4_45,4.45>>) contains notes concerning
 historical shifts in assignment relationships for several units. Players are
 free to either institute or ignore such assignment shifts at their option,
-within the restrictions of Case <<19_21>> (see also Case <<19_25>>). Such
+within the restrictions of Case <<19_21,19.21>> (see also Case <<19_25,19.25>>). Such
 re-assignments must be accomplished sometime during the month listed on the OA
 Chart note, or not at all.
 
@@ -162,12 +162,12 @@ latter two units are now assigned to the 2nd Armored Brigade.
 [#19_27]
 *[19.27]* Some units (designated with an asterisk on their counters) are
 assigned to Parent Formations that never made it to Africa. Except in accordance
-with Case <<19_26>>, such units may not be reassigned.
+with Case <<19_26,19.26>>, such units may not be reassigned.
 
 [#19_28]
 *[19.28]* Only independent units may be assigned to a Parent Formation.
 No unit assigned to one Parent Formation may be assigned to another, except as
-noted in Case <<19_26>>.
+noted in Case <<19_26,19.26>>.
 
 Remember: Assigned units take up "space" in a Parent Unit's TOE, regadless of
 where they are.  Even if not attached, an assigned unit occupies its allotted
@@ -208,7 +208,7 @@ detached from that Parent Formation. Most Parent Formations may have some number
 of additional nonassigned units of certain types, over and above their
 assignment limits, attached to them. These attachment limits are listed on the
 Maximum Attachments Chart (19.5). Non-assigned units may also be substituted for
-"missing" assigned units (Case <<19_45>>),
+"missing" assigned units (Case <<19_45,19.45>>),
 
 [#19_41]
 *[19.41]* A unit assigned but not attached to a Parent Formation may
@@ -218,7 +218,7 @@ unit and the Parent Formation. The counter representing the attached unit is
 removed from the map. Note that moving such a unit into the hex with the Parent
 Formation (or vice versa) and immediately attaching it would have no effect upon
 the Stacking Point value of the Parent Formation (unless if it was a Shell; see
-Case <<9_26>>).
+Case <<9_26,9.26>>).
 
 [#19_42]
 *[19.42]* A unit not assigned to a Parent Formation in the same hex may
@@ -248,7 +248,7 @@ stack).
 *[19.45]* A unit(s) may be attached to a Parent Formation that has fewer
 units assigned to it than the maximum restrictions listed on the Formation
 Organization Chart (19.3) as a substitute for the “‘missing" (that is, not in
-the games, or reassigned as per Case <<19_66>>) unit(s). Such a unit must not
+the games, or reassigned as per Case <<19_66,19.66>>) unit(s). Such a unit must not
 exceed, in its own organizational structure, the maximum limits that would apply
 to the missing assigned unit it is being substituted for.  Example: If one
 infantry brigade assigned to a Commonwealth infantry division were eliminated,
@@ -293,7 +293,7 @@ in Replacements (Case <<20_4>>). It should be pointed out here, however, that no
 unit may ever be rebuilt or augmented to the point that it exceeds its printed
 ID Code Maximum TOE Strength. Example: The Italian Light Tank battalionsmay
 never have more than nine TOE Strength Points of Tanks.  (Whether these can be
-Light and/or Medium is covered in Case <<19_64>>).
+Light and/or Medium is covered in Case <<19_64,19.64>>).
 
 There are some cases, albeit rare, where the arriving TOE Strength is below the
 "paper" strength of the unit. This fact is usually listed in the TOE & Weapon
@@ -355,12 +355,12 @@ considered assigned to the new Parent, although it was not previously so.
 Example: The 42nd RTR of the Ist Army Tank Brigade is destroyed completely. The
 Commonwealth Player may assign, say, the 7th RTR to fill its place, even though
 the 7th RTR would not normally be allowed to be assigned to the Ist Army Tank
-Brigade. (It would be allowed to "switch" under Case <<19_26>>).
+Brigade. (It would be allowed to "switch" under Case <<19_26,19.26>>).
 
 [#19_67]
 *[19.67]* The HQ unit for a Parent Formation is, for play purposes, its
 Cadre. As long as the HQ exists, that Parent Formation may be rebuilt by or
-Reassignments. If the HQ is eliminated, see Case 19.62 and <<19_63>>.
+Reassignments. If the HQ is eliminated, see Case 19.62 and <<19_63,19.63>>.
 
 [#19_68]
 *[19.68]* Rebuilding units takes place in the Organization Phase only;

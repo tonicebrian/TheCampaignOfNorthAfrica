@@ -43,7 +43,7 @@ expenditures for safety.
 
 [#56_14]
 *[56.14]* Shipping lanes 4 and 5 (the routes originating from Greece)
-may not be used until the second Game-Turn of May, 1941. See also Case <<55_17>>.
+may not be used until the second Game-Turn of May, 1941. See also Case <<55_17,55.17>>.
 
 [#56_15]
 *[56.15]* All Axis convoys are assigned to a specific shipping lane in

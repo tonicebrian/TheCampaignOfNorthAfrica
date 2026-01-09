@@ -109,7 +109,7 @@ must roll for each squadron undergoing refit. If planes not belonging to that
 squadron undergo,a refit attempt, they are rolled for separately from the rest
 of the squadron. The Player simply determines the number of aircraft in the
 squadron undergoing refit and throws one die, making any adjustments (see Case
-<<38_35>>) and consulting the Aircraft Refit Table  <<38_38>>. The table gives
+<<38_35,38.35>>) and consulting the Aircraft Refit Table  <<38_38,38.38>>. The table gives
 him the percentage of planes successfully refitted. (Round all fractions up).
 
 [#38_35]
@@ -140,7 +140,7 @@ be flown. Players should distribute this effect as equally as possible.
 accurate, method of refitting planes may roll for each plane individually. The
 Player, in this case, rolls two dice. The Commonwealth Player refits a plane on
 a roll of 2 through 8; the Axis Player refits German planes on a roll of 2-7,
-the Italian planes on 2-6. The effects of Case <<38_35>> are increased to adding
+the Italian planes on 2-6. The effects of Case <<38_35,38.35>> are increased to adding
 two to the diceroll to account for the "wrong" squadron.  (This was, with some
 minor variations, the method used by the Playtesters. I can't truthfully say
 they lovedit...).
@@ -162,13 +162,13 @@ restrictions as applied to refueling.  Ammunition comes from the air facility
 *[38.43]* Each squadron requires one Ammunition Point to allow its
 planes to use their TacAir Rating. If that point is not supplied, each plane has
 a TacAir Rating of zero and may not fire at any Enemy planes (see Case
-<<46_21>>).
+<<46_21,46.21>>).
 
 [#38_44]
 *[38.44]* For bomb tonnage, one Ammunition Point is required for all
 bombs loaded onto a plane. Thus a bomber with a tonnage capacity of 15 would
 need and expend only one Ammunition Point to carry its maximum bomb load (see
-Case <<41_22>>).
+Case <<41_22,41.22>>).
 
 [#38_45]
 *[38.45]* A plane's bombload, whether used or not, is expended during a
@@ -181,4 +181,4 @@ Composition Sheet.
 
 [#38_47]
 *[38.47]* The cost in Ammo Points to load a bomber with mines (see Case
-<<41_39>>) or torpedoes (see Case <<41_7>>) is one Point.
+<<41_39,41.39>>) or torpedoes (see Case <<41_7>>) is one Point.

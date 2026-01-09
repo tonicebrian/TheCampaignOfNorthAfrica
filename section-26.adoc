@@ -36,7 +36,7 @@ Friendly and Enemy minefields.
 [#26_14]
 *[26.14]* Dummy Minefields are removed at the end of any Movement
 Segment in which an Enemy unit expends the Capability Points to move into that
-hex (see Case<<26_23>>.
+hex (see Case<<26_23,26.23>>.
 
 [#26_15]
 *[26.15]* A Friendly minefield is flipped over to reveal its type (real

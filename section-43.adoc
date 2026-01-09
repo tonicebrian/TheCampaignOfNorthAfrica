@@ -42,7 +42,7 @@ including fuel and ammunition. The Axis Player does not expend fuel or ammo for
 these planes. However, all planes must be refitted  <<38_3>>)
 
 [#43_22]
-*[43.22]* When refitting planes as per <<38_37>> (per Squadron), the
+*[43.22]* When refitting planes as per <<38_37,38.37>> (per Squadron), the
 Axis Player should divide all bombers in a given area into groups of 6 to 12,
 considering each such group a squadron.
 

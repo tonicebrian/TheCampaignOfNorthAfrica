@@ -18,7 +18,7 @@ PROCEDURE:
 
 Anti-aircraft Fire occurs after all Air-To-Air combat and Flak Suppression
 Missions have been completed. The Enemy Player divides the opposing planes into
-Target Groups  <<46_26>>) and indicates the number and type, but not Mission, of
+Target Groups  <<46_26,46.26>>) and indicates the number and type, but not Mission, of
 the planes in each Target Group. The Friendly Player may then attack the Target
 Groups in any order he wishes. Each attack is performed separately and all
 planes destroyed, aborted and Ammo expended requirements are completed before
@@ -68,12 +68,12 @@ planes are determined after all losses from destroyed planes are completed.
 [#46_11]
 *[46.11]* A large number of units have AA/Flak capability; that is, they
 may fire at enemy planes.  A unit that has an AA Rating may so fire (however,
-see Case <<46_22>>). Most of these units are called AA or Flak units, and are so
+see Case <<46_22,46.22>>). Most of these units are called AA or Flak units, and are so
 delineated by their unit symbol on the counter. However, many other types of
 units have AA Ratings. These AA Ratings are multiplied by the TOE Strength of
 the unit to determine the Actual AA. Points that can fire. (There is mo dividing
 by 10, as with other strengths.) Any unit with an AA symbol on its counter is
-called a Pure Flak unit (See <<46_17>>.).
+called a Pure Flak unit (See <<46_17,46.17>>.).
 
 [#46_12]
 *[46.12]* A flak unit having a (parenthesized) defense assault rating,

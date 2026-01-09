@@ -66,13 +66,13 @@ Marseilles would have a TacAir Rating of 14.
 
 [#40_16]
 *[40.16]* As Pilots are assigned to squadrons, the Player may have them
-fly any plane within that squadron (remember Case <<40_14>>. Any plane that does
+fly any plane within that squadron (remember Case <<40_14,40.14>>. Any plane that does
 not have a pilot assigned for a mission is considered to have a zero-rated
 pilot. There is an unlimited supply of zero-rated pilots.
 
 [#40_17]
 *[40.17]* If a fighter is shot down, there is a chance that the pilot
-bailed out and can be recovered (see <<45_65>>). If the pilot has been
+bailed out and can be recovered (see <<45_65,45.65>>). If the pilot has been
 recovered, he may fly again three Operations Stages after his Recovery.  He is
 returned to his squadron of assignment.
 
@@ -128,10 +128,10 @@ of Hurricanes.  The Commonwealth Hurricanes and Axis MEB's and CR 42's engage in
 air-to-air to see whether the bombers can get through to complete their mission,
 
 [#40_26]
-*[40.26]* Using the example in Case <<40_25>> we can best illustrate the
+*[40.26]* Using the example in Case <<40_25,40.25>> we can best illustrate the
 differences between offensive and defensive CAP. If the Commonwealth planes were
 flying defensive CAP they would, first off, have no air Zone of Control
-<<40_23>>. They would also not automatically initiate air-to-air combat.
+<<40_23,40.23>>. They would also not automatically initiate air-to-air combat.
 However, the Axis Squadrons would have to get through the defensive CAP to
 perform their Mission. If the Hurricanes were flying offensive CAP, they would
 have an air Zone of Control and they could initiate combat against the Axis
@@ -212,7 +212,7 @@ the exception of planes with STR/B capability).
 
 [#40_52]
 *[40.52]* Planes ona strafing mission are assigned a target hex and a
-specific type of target (Case <<40_54>>). This would be listed as, say,
+specific type of target (Case <<40_54,40.54>>). This would be listed as, say,
 STR/C1234/dump. Strafing missions follow the general course of all missions
 <<39_0>>.
 
@@ -260,7 +260,7 @@ such trucks are also eliminated.
 
 [#40_62]
 *[40.62] Truck Convoys*. This is treated in the same fashion as Case
-<<40_61>>, with losses being in Truck Points. The Player being strafed determines
+<<40_61,40.61>>, with losses being in Truck Points. The Player being strafed determines
 which trucks are eliminated, except that the losses must be distributed as
 evenly as possible between the various types of "cargo" (i.e., water, fuel,
 Replacement Points, etc.) A strafing Player may choose to go after first line
@@ -278,7 +278,7 @@ the number of planes strafed and destroyed on the ground. Strafed Planes may be
 Recovered  <<45_6>>.
 
 [#40_64]
-*[40.64] Supply Dumps*: The mechanics are the same as <<40_62>>, the results
+*[40.64] Supply Dumps*: The mechanics are the same as <<40_62,40.62>>, the results
 are in the percentage of all supplies in that dump destroyed. Thus a result of
 1 equals 10%, 2 equals 20%, etc.
 
@@ -340,7 +340,7 @@ units neutralized also expend ammunition, as they are firing at the fighters!
 [#40_77]
 *[40.77]* Planes may strafe ships to suppress flak, as a regular flak
 suppression run. They may not damage a ship by strafing. Ships may be damaged by
-bombing and torpedoes  <<41_34>>. Remember <<39_2>> (Combined missions).
+bombing and torpedoes  <<41_34,41.34>>. Remember <<39_2>> (Combined missions).
 
 [#40_8]
 === STRAFING TABLE

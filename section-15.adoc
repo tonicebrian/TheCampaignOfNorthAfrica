@@ -42,7 +42,7 @@ CASES:
 *[15.11]* All units which possess a Close Assault Rating may use their
 ratings to aid in either Offensive Assault or Defense Against Assault. (Units
 without Ratings may also participate, even though they add nothing to the point
-total; see Case <<15_17>>.)
+total; see Case <<15_17,15.17>>.)
 
 [#15_12]
 *[15.12]* Pinned units and units retreated before assault into a hex
@@ -54,19 +54,19 @@ defending units.
 
 [#15_13]
 *[15.13]* Guns that are Back are not affected by Close Assault unless
-there is an Overrun situation (see Case <<15_86>>). Guns that are Forward may
+there is an Overrun situation (see Case <<15_86,15.86>>). Guns that are Forward may
 participate in Offensive or Defensive Close Assault, but their Vulnerability
-Ratings may be affected (see Case <<12_18>>).
+Ratings may be affected (see Case <<12_18,12.18>>).
 
 [#15_14]
 *[15.14]* Only those units committed to Close Assault (either Offense or
 Defense) may add their Ratings to the total Assault Ratings. However, certain
 non-Phasing units may be affected by results even though they do not participate
-(see Cases <<15_12>>, and <<15_15>>).
+(see Cases <<15_12,15.12>>, and <<15_15,15.15>>).
 
 [#15_15]
 *[15.15]* Units that are out of ammunition may not Close Assault, either
-offensively or defensively.  However, as in Case <<15_12>>, such units are
+offensively or defensively.  However, as in Case <<15_12,15.12>>, such units are
 considered when determining percentage losses if they are non-Phasing defending
 units. Phasing units that are out of ammunition are simply ignored. If all
 non-Phasing, defending units in a hex are out of ammunition for Close Assault
@@ -115,7 +115,7 @@ detachment, but it will most likely be overrun by anything larger.
 *[15.21]* Phasing units with Offensive Close Assault Ratings may Close
 Assault any Enemy units in adjacent hexes, unless Assault is prohibited by
 terrain (see Case <<15_3>>). Units assigned to Anti-Armor may sot participate in
-Close Assault (however, see Case <<14_23>>).
+Close Assault (however, see Case <<14_23,14.23>>).
 
 [#15_22]
 *[15.22]* The Phasing Player announces which hexes he is assaulting, and
@@ -140,7 +140,7 @@ listed in Case <<15_1>>.
 
 [#15_25]
 *[15.25]* Any number of TOE Strength Points from a unit may be assigned
-to a given Close Assault (see Case <<15_16>>); however, if the units making a
+to a given Close Assault (see Case <<15_16,15.16>>); however, if the units making a
 given Close Assault have committed less than 50% of their available TOE Strength
 Points, that Close Assault is automatically considered a Probe and not a Close
 Assault. You must Close Assault with 50% or more of your available strength
@@ -178,7 +178,7 @@ Combat.
 than 5 Raw Assault Points, he is considered to have zero Close Assault Points,
 and the Differential is determined from that figure. If each Player has fewer
 than 10 Raw Strength Points, the Raw Assault Strength Points are used as if they
-were Actual Assault Strength Points (see also Case <<15_51>>).
+were Actual Assault Strength Points (see also Case <<15_51,15.51>>).
 
 [#15_29]
 *[15.29]* There is a possibility that one or both Players do not
@@ -190,7 +190,7 @@ retreat three hexes and earn three Disorganization Points (as if it had taken
 30% losses) in addition to any DP's earned by the move.
 
 . If the Attacker/Phasing Player does not allocate any units to Assault there is no Assault;
-it is ignored. This can occur only under Case <<10_31>> et seq;
+it is ignored. This can occur only under Case <<10_31,10.31>> et seq;
 
 [#15_3]
 === TERRAIN EFFECTS ON CLOSE ASSAULT
@@ -199,7 +199,7 @@ it is ignored. This can occur only under Case <<10_31>> et seq;
 *[15.31]* The terrain which a defending unit occupies, or which an
 attacking unit has to cross, may increase or decrease the differential in favor
 of the attacker/Phasing Player. Players should consult the Terrain Effects Chart
-(Case <<8_37>>) for a complete list of all effects on Assault combat.
+(Case <<8_37,8.37>>) for a complete list of all effects on Assault combat.
 
 [#15_32]
 *[15.32]* The terrain in a hex occupied by a unit is defending against
@@ -231,7 +231,7 @@ Enemy unit.
 
 [#15_35]
 *[15.35]* Terrain effects on Close Assault are cumulataive, with one
-exception. The defender may benefit from only one type of hexside (<<15_33>>) unless
+exception. The defender may benefit from only one type of hexside (<<15_33,15.33>>) unless
 a unit is actually assaulting through a hexside which contains two types of
 terrain. The latter is quite rare, occurring mostly down in the southern areas
 of the game-map where some of the wadis run along slope' hexsides. (See
@@ -247,7 +247,7 @@ Bombardment).
 
 [#15_36]
 *[15.36]* Assaults down slopes or down escarpments benefit the attacker.
-(See Case <<8_37>>, Terrain Effects Chart). If a unit is being attacked through
+(See Case <<8_37,8.37>>, Terrain Effects Chart). If a unit is being attacked through
 both an up slope and a down slope hexside (this is quite possible in some areas
 of the game-map), the benefit to the attacker is offset by the benefit to the
 defender. Thus a unit defending in a hex that is assaulted through a down slope
@@ -293,7 +293,7 @@ Assault Strength Points (or 1 Actual}. Normally, the differential (not taking
 into account any other effects) would be +1. However, because the attacker has
 twice the Raw strength of the defender, he would assault on the +3 Column. This
 adjustment always applies, regardless of any other adjustment to the
-differential (exception: Case <<15_54>>).
+differential (exception: Case <<15_54,15.54>>).
 
 [#15_52]
 *[15.52]* If the largest (regardless of number of units involved) unit
@@ -328,7 +328,7 @@ If such a unit is alone in a hex and is Close Assaulted by an Enemy unit, such
 zero-rated unit is considered to have a Defensive Close Assault Rating of zero.
 In addition, two other adjustments are made: (1) The attacking unit takes no
 casualties; and (2) there is a three-column adjustment in favor of the Attacker,
-in addition to any adjustments for <<15_53>>. Case <<15_51>> does not apply to
+in addition to any adjustments for <<15_53,15.53>>. Case <<15_51,15.51>> does not apply to
 this situation.
 
 [#15_55]
@@ -351,7 +351,7 @@ Assault Differential.  A complete discussion of Morale is to be found in Section
 Rating for that assault (Case <<17_2>>). The Phasing/Assaulting Player then
 subtracts the Adjusted Morale Rating of the nonPhasing/Defending units from
 that of the Phasing units. This Final Adjusted Morale number is the number by
-which the Assault Differential Column will be adjusted. (See Case <<15_64>>).
+which the Assault Differential Column will be adjusted. (See Case <<15_64,15.64>>).
 
 [#15_62]
 *[15.62]* A positive (+) Final Adjusted Morale Rating adjusts the
@@ -362,7 +362,7 @@ non-Phasing/ Defending Player).
 
 [#15_63]
 *[15.63]* Players should use the "largest unit”' rule, as espoused in
-Case <<6_27>>, to determine Morale Ratings for units with different Morale in
+Case <<6_27,6.27>>, to determine Morale Ratings for units with different Morale in
 the same assault.
 
 [#15_64]
@@ -400,12 +400,12 @@ will be modified (by Morale) one column in favor of the defender.
 Results Table that uses, for each Player, the roll of two dice added three
 different ways to determine a great number of results.  It is important to
 remember that each Player throws the two dice only once per assault, with one
-minor exception (Case <<15_73>>d). Players should consult the Assault Combat
+minor exception (Case <<15_73,15.73>>d). Players should consult the Assault Combat
 Results Table and become familiar with it before playing.
 
 [#15_72]
 *[15.72]* The columns of the Assault Combat Results Table are the
-Assault Differentials (see Cases <<15_26>> and <<15_27>>). The rows are
+Assault Differentials (see Cases <<15_26,15.26>> and <<15_27,15.27>>). The rows are
 percentage of losses possible. The numbers in the center of the Combat Results
 Table are the range of numbers needed to produce the losses (in the rows) under
 a particular differential (the column). There are additional results at the
@@ -474,8 +474,8 @@ Table comprise the Overrun section of the Combat Results Table. Overrun is not a
 voluntary action (as in most games). Overrun in CNA indicates that the Attacker
 has amassed such overwhelming strength that he has broken through the defensive
 line of the Defender, wreaking comparable losses and enabling him to reach and
-possibly destroy many of the defender's guns (see Cases <<15_84>> and
-<<15_86>>). In addition, when Overrun, all Defender losses are rounded up.
+possibly destroy many of the defender's guns (see Cases <<15_84,15.84>> and
+<<15_86,15.86>>). In addition, when Overrun, all Defender losses are rounded up.
 
 [#15_78]
 *[15.78]* The Assault Combat Results Table is a large and seemingly
@@ -528,16 +528,16 @@ a/l Defensive units withheld for any reason are added in.
 
 c. Multiply the percentage of loss times the Total Raw Strength Points. The
 Attacker rounds up to the nearest whole number, while the Defender rounds down
-(but see Case <<15_77>>). Thus a 35.1 would be 36 points for the Attacker
+(but see Case <<15_77,15.77>>). Thus a 35.1 would be 36 points for the Attacker
 but 35 for the Defender. In an overrun, 1.1 Defender Points would equal 2.
 Defenders should remember to add in any loss percentage they must take for hexes
-not retreated (see Case <<15_82>>).
+not retreated (see Case <<15_82,15.82>>).
 
 d. The affected Player must now remove enough TOE Strength Points to absorb the
 Raw Points lost. Thus one TOE Strength Point of 2 Defensive Close Assault
 Ratings infantry would absorb two Raw Points. Remember that some units have
 different Close Assault Ratings for Attack and Defense, and that the Attacking
-Player uses Offensive Close Assault Points, etc. (See Case <<15_84>>).  Only
+Player uses Offensive Close Assault Points, etc. (See Case <<15_84,15.84>>).  Only
 those units participating in the assault or, for the Defender, that were pinned
 or withheld may be used to absorb losses of Raw Points.
 
@@ -554,13 +554,13 @@ Close Assault under the following circumstances:
 a. If the Defending units are Overrun all defending guns, whether Forward or
 Back, add their Defensive Close Assault Points (if any) to the total for
 determination of percentage lost. Such units may be used to absorb losses as in
-Case <<15_83>>.
+Case <<15_83,15.83>>.
 
 b. Guns that are Forward are subject to losses, based on their Vulnerability
 Rating. The affected Player must remove at least 50% as many Vulnerability
 Points of Forward Guns as he has lost Raw Strength Points in that Assault, with
 the provision that if at least one Raw Close Assault Point is lost then at least
-one Vulnerability Point must be removed (see Case <<14_42>>; Vulnerability uses
+one Vulnerability Point must be removed (see Case <<14_42,14.42>>; Vulnerability uses
 the same mechanics as Armor Protection). AA/Flak units are not affected by this
 rule.
 
@@ -570,8 +570,8 @@ percentage losses (a).
 
 [#15_85]
 *[15.85]* If, as a result of an Assault, a Player has some of his TOE
-Strength Points Captured (see Case <<15_73>>) he takes that percentage of his
-losses as determined in Cases <<15_83>> and <<15_84>> and converts them to
+Strength Points Captured (see Case <<15_73,15.73>>) he takes that percentage of his
+losses as determined in Cases <<15_83,15.83>> and <<15_84,15.84>> and converts them to
 prisoners or captured equipment, which are then turned over to the Enemy Player.
 Captured percentages are always rounded upwards.
 
@@ -586,7 +586,7 @@ b. Take the Captured percentage of those TOE Strength Points (a);
 c. Playerse may use any type of TOE Strength Points to satisfy the Captured
 percentage, remembering that the percentage is taken of Raw Assault Points
 (either Offensive or Defensive, depending on the situation), not TOE Strength
-Points (see Case <<15_83>> for the mechanics of taking losses).
+Points (see Case <<15_83,15.83>> for the mechanics of taking losses).
 
 d. Captured infantry-type becomes Prisoner Points, one Prisoner Point for each
 TOE Strength Point. Captured Guns and/or Tanks may be taken and used by the
@@ -603,7 +603,7 @@ affected, and this is allowed.
 *[15.88]* A Player may always voluntarily Surrender his units, rather
 than have them slaughtered. Furthermore, units. out of Ammunition or with a -17
 or worse Cohesion Level that are assaulted automatically Surrender (see also
-Case <<17_25>>).
+Case <<17_25,17.25>>).
 
 [#15_89]
 *[15.89] Prisoners Captured Results Tables*
@@ -616,11 +616,11 @@ Case <<17_25>>).
 [#15_91]
 *[15.91]* A Probe is any Close Assault conducted (by the Phasing Player)
 with less than 50% of his available TOE Strength Points participating in that —
-or another — attack (see Case <<10_31>> and <<15_25>>).
+or another — attack (see Case <<10_31,10.31>> and <<15_25,15.25>>).
 
 [#15_92]
 *[15.92]* A Probe may be conducted with any number of units, within the
-restrictions of Case <<15_91>>.
+restrictions of Case <<15_91,15.91>>.
 
 [#15_93]
 *[15.93]* All combat results are the same for both sides, with the

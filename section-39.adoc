@@ -123,7 +123,7 @@ some action, be it bombing, strafing, or even airto-air combat, has taken place.
 [#39_32]
 *[39.32]* To voluntarily abort a mission a Player simply states that he
 wishes to abort; he then sends his planes back to base — if they qualify (see
-Cases <<39_36>> and <<39_37>>).
+Cases <<39_36,39.36>> and <<39_37,39.37>>).
 
 [#39_33]
 *[39.33]* Aborted missions consume fuel, and bombers must expend their
@@ -141,11 +141,11 @@ maneuver-rated Enemy Fighter on CAP in the Target hex. To determine this,
 subtract the “aborting" fighter's Maneuver Rating from that of the Enemy CAP
 fighter. If the result is -10 or better (-8, -2, +3, etc.) the plane may abort.
 Of course, if there is no Enemy CAP, the fighters may always abort (exception:
-see Case <<40_26>>).
+see Case <<40_26,40.26>>).
 
 [#39_36]
 *[39.36]* Non-fighters flying with a sufficient fighter Screen (Friendly
-fighters flying CAP for that hex; see Case <<39_37>>) may abort if they wish. If
+fighters flying CAP for that hex; see Case <<39_37,39.37>>) may abort if they wish. If
 there is not sufficient fighter Screen, they may not abort, unless the planes'
 Maneuver Rating is higher than the best Enemy fighter (a highly unlikely
 occurrance).
@@ -161,7 +161,7 @@ screen. Fighters cannot screen fighters,
 
 [#39_38]
 *[39.38]* Aircraft may also abort involuntarily; e.g., as aresult of
-AA/flak fire (see Case <<46_3>> and <<45_14>>).
+AA/flak fire (see Case <<46_3>> and <<45_14,45.14>>).
 
 [#39_4]
 === NIGHT MISSION
@@ -174,7 +174,7 @@ land support bombing are conducted separately from other Land Support Missions.
 [#39_42]
 *[39.42]* Only certain missions may be flown at night and only planes
 with night missions capability may participate in any night missions actions
-(exceptions see Case <<39_43>>).
+(exceptions see Case <<39_43,39.43>>).
 
 [#39_43]
 *[39.43]* Planes, with the exception of planes assigned Offensive CAP or

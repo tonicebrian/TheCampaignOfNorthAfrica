@@ -46,8 +46,8 @@ supplying the air facilities).
 *[58.42]* Both Players are subject to truck losses in addition to those
 caused by land combat. These losses represent the abstracted effects of strafing
 and bombing the opposing Player's trucks. The losses are determined in the same
-manner as those for motorization points (see Case <<32_57>>) using the
-percentage loss figures in the Abstract Motorization Point Loss Chart <<32_59>>)
+manner as those for motorization points (see Case <<32_57,32.57>>) using the
+percentage loss figures in the Abstract Motorization Point Loss Chart <<32_59,32.59>>)
 but applying them to the Players' trucks.
 
 The owning Player may remove the lost Truck Points from any place he wishes.

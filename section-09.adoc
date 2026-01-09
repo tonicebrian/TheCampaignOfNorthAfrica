@@ -12,7 +12,7 @@ maximum number of points that may bein that hex.
 
 [#9_11]
 *[9.11]* Each unit (or counter) in the game has a Stacking Point value
-printed on the face of the unit. (See Sample Units, <<4_22>>). E.g., the 1/8
+printed on the face of the unit. (See Sample Units, <<4_22,4.22>>). E.g., the 1/8
 Panzer Battalion has 1 Stacking Point.
 
 [#9_12]
@@ -33,7 +33,7 @@ that enables the division to exist, and fight, in a more cohesive state.
 [#9_14]
 *[9.14]* Each hex, or rather each type of terrain, has a maximum number
 of Stacking Points which may be in that hex at the end of any Movement Segment.
-These limits are listed in Case <<8_37>>.
+These limits are listed in Case <<8_37,8.37>>.
 
 [#9_15]
 *[9.15]* Informational markers and air units of all types do not have any
@@ -151,16 +151,16 @@ of a Friendly Movement Segment, as well as at the end of an Operations Stage.
 Stacking restrictions also affect the ability of motorized units to move through
 Friendly units on a Road or Track. Stacking restrictions also apply during
 involuntary retreats. The stacking limits for each type of terrain are listed on
-the Terrain Effects Chart (<<8_37>>).
+the Terrain Effects Chart (<<8_37,8.37>>).
 
 [#9_31]
 *[9.31]* Units may never cease movement ina hex in violation of stacking
-restrictions (<<8_37>>).
+restrictions (<<8_37,8.37>>).
 
 [#9_32]
 *[9.32]* Units may always move through other friendly units, and stacking
 restrictions apply only at the instant all units have ceased movement.  However,
-see <<9_33>> and <<9_35>>.
+see <<9_33,9.33>> and <<9_35,9.35>>.
 
 [#9_33]
 *[9.33]* A motorized unit (tank, truck, artillery, motorcycle, etc.)
@@ -174,7 +174,7 @@ Track benefit.
 units could not move off a road to "go around”? in such terrain. A unit ending
 its movement in a hex that it entered along a Road or Track counts against the
 Road/Track Stacking limit for any other motorized unit(s) using that Road/Track.
-For this rule, Trucks in Convoy are treated separately. See Case <<9_29>>. 
+For this rule, Trucks in Convoy are treated separately. See Case <<9_29,9.29>>. 
 
 *Note*: Off-road markers are provided with the game.  They may be used to indicate units
 moved into a road hex without using the Road Bonus, and therefore are not "on
@@ -182,11 +182,11 @@ the road" for purposes of this Case.
 
 [#9_34]
 *[9.34]* Players are not permitted to "break up” a unit in order to avoid
-exceeding the limits of <<9_33>>; i.e, moving through an occupied Road/Track hex
+exceeding the limits of <<9_33,9.33>>; i.e, moving through an occupied Road/Track hex
 a sub-unit at a time and then recombining the subunits into the original unit.
-(Players should note that <<9_33>> and <<9_34>> operate to prohibit certain
+(Players should note that <<9_33,9.33>> and <<9_34,9.34>> operate to prohibit certain
 units from crossing escarpments by tracks if either side of that escarpment is
-occupied by Friendly units that would block passage as per Case <<9_33>>).
+occupied by Friendly units that would block passage as per Case <<9_33,9.33>>).
 
 [#9_35]
 *[9.35]* Stacking restrictions do apply during involuntary Retreats
@@ -196,7 +196,7 @@ However, in involuntary retreats, a stack of units (or parent formation) may be
 split up and retreated into different hexes (not through the same hex, though).
 Any portion of a unit forcéd to retreat that cannot so retreat because of
 Stacking Restrictions is required to "Stand" and receive additional losses (see
-<<15_82>>).
+<<15_82,15.82>>).
 
 [#9_4]
 === UNIT BASIC STACKING

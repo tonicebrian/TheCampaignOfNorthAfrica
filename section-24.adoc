@@ -24,7 +24,7 @@ Construction Segment of the Organization Phase within each Operations Stage.
 Construction is always completed at the beginning of the Construction Segment of
 a succeeding Operations Stage, depending on how long the construction takes. The
 number of Operations Stages required to complete construction are listed on the
-Construction Chart <<24_17>>. These Operations Stages include the Operations
+Construction Chart <<24_17,24.17>>. These Operations Stages include the Operations
 Stage in which construction is started.
 
 [#24_12]
@@ -83,7 +83,7 @@ from the beginning.
 [#24_23]
 *[24.23]* Units pinned by artillery fire or air bombardment may not
 engage in construction. The effects of this Case are similar to those of Case
-<<24_22>>.
+<<24_22,24.22>>.
 
 [#24_24]
 *[24.24]* The presence of Friendly units not engaged in construction has
@@ -128,7 +128,7 @@ Minefields may not be constructed in major cities.
 [#24_38]
 *[24.38]* If an Engineer unit or HQ unit with Engineering capability
 spends an entire Operations Stage in a hex with a real minefield (Enemy or
-Friendly), that Minefield is removed (see Case <<23_22>>). Dummy minefields are
+Friendly), that Minefield is removed (see Case <<23_22,23.22>>). Dummy minefields are
 removed upon revelation of their status.
 
 [#24_4]
@@ -152,7 +152,7 @@ complete, and a Fortification Level counter (with the correct level indicated)
 is placed in the hex.
 
 [#24_43]
-*[24.43]* In addition to Case <<24_42>>, the Player must have present at the
+*[24.43]* In addition to Case <<24_42,24.42>>, the Player must have present at the
 beginning of Construction 30 Stores Points. These Stores are then expended and
 Construction begins.
 
@@ -164,7 +164,7 @@ not be build from scratch in an Enemy Zone of Control.
 [#24_45]
 *[24.45]* Fortification Levels — as well as Levels of major cities —
 that have been destroyed by air bombardment or artillery barrage may be rebuilt,
-using the same guidelines as in Cases <<24_42>>and <<24_43>>, The major difference is
+using the same guidelines as in Cases <<24_42,24.42>>and <<24_43,24.43>>, The major difference is
 that the rebuilding (or repairing) of fortifications may take place in an Enemy
 Zone of Control.
 
@@ -244,7 +244,7 @@ completed at Tobruk) plus a defunct Benghazi-Barce line. The latter has been
 included for historical purposes only and may never be used for any reason.
 
 [#24_61]
-*[24.61]* The only units that may build railroads (see Case <<8_47>> are
+*[24.61]* The only units that may build railroads (see Case <<8_47,8.47>> are
 the two New Zealand railroad construction companies (the 10th and the 13th).
 The NZRRC companies are considered engineer companies, but they may be used only
 for RR work. All engineer battalions and companies, including the NZRRC — and
@@ -313,7 +313,7 @@ require one Construction Segment to complete.
 
 [#24_75]
 *[24.75]* The supply requirements for building new air facilities are
-listed on the Construction Chart <<24_17>>.
+listed on the Construction Chart <<24_17,24.17>>.
 
 [#24_76]
 *[24.76]* Air facilities may lose their effectiveness
@@ -324,7 +324,7 @@ listed on the Construction Chart <<24_17>>.
 
 landing strips, and flying boat facilities (both) must be built from scratch if
 destroyed. Airfields are rebuilt Capacity Level by Capacity Level (see Air
-Rules, Case <<36_12>>. The cost and time to tebuilt one Capacity Level of an
+Rules, Case <<36_12,36.12>>. The cost and time to tebuilt one Capacity Level of an
 airfield is the same as it costs to build an air landing strip. Only one Level
 may be rebuilt at a time.
 
@@ -332,7 +332,7 @@ may be rebuilt at a time.
 *[24.77]* Air facilities are represented by counters, each of which is
 lettered for identification purposes. When an air facility is constructed, the
 Player simply puts the corresponding counter on the game-map,. There are no
-hexes in which air facilities are printed (except for Case <<24_78>>; they must
+hexes in which air facilities are printed (except for Case <<24_78,24.78>>; they must
 all be constructed, unless provided by the initial set-up for a scenario.
 
 [#24_78]
@@ -349,7 +349,7 @@ Rules.
 
 [#24_81]
 *[24.81]* Only temporary repair facilities may be constructed as new;
-all major repair facilities are already in existence (see Case <<22_31>>. Both
+all major repair facilities are already in existence (see Case <<22_31,22.31>>. Both
 temporary and major repair facilities may have their effectiveness reduced or
 neutralized by air bombardment and/or artillery barrage. Temporary facilities
 may be destroyed by the presence of Enemy units; major facilities may not be so
@@ -368,7 +368,7 @@ start of construction and are expended immediately.
 
 [#24_84]
 *[24.84]* Repair facilities in major cities that have had their City
-Levels reduced by bombardment (see Case <<22_35>> may be rebuilt by first
+Levels reduced by bombardment (see Case <<22_35,22.35>> may be rebuilt by first
 rebuilding the Level of the city (see Case <<24_4>> and then expending 50 Stores
 Points and 30 Fuel Points, along with the presence of an Engineer unit spending
 one Construction Segment in the hex.

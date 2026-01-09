@@ -129,7 +129,7 @@ they started with in the Operations Stage.
 
 [#53_31]
 *[53.31]* Trucks, or any prohibited vehicles, that are in a salt marsh
-hex and not on a road or track are automatically abandoned (see <<8_44>>). If
+hex and not on a road or track are automatically abandoned (see <<8_44,8.44>>). If
 the abandoned vehicle was carrying infantry-type units or is an artillery unit
 and there is an Enemy combat unit within three traversable hexes (counted from
 Enemy unit to salt marsh hex) and there are no Friendly combat units (at the end

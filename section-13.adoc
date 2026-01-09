@@ -40,7 +40,7 @@ move one hex, whichever is greater) in a Retreat Before Assault.
 [#13_25]
 *[13.25]* During a Retreat Before Assault units may expend CP's only to
 move; they may not perform any other function except blowing supply dumps (see
-Cases <<54_14>> and <<32_3>>).
+Cases <<54_14,54.14>> and <<32_3>>).
 
 [#13_26]
 *[13.26]* As in normal Movement, units must cease Retreat Before Assault
@@ -50,7 +50,7 @@ Retreat Before Assault.
 
 [#13_27]
 *[13.27]* Retreat Before Assault is voluntary; as such it is handled
-somewhat differently from retreats mandated by the Close Assault CRT (<<15_82>>).
+somewhat differently from retreats mandated by the Close Assault CRT (<<15_82,15.82>>).
 
 [#13_28]
 *[13.28]* Units that Retreat Before Assault into Friendly-occupied

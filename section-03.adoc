@@ -358,7 +358,7 @@ aircraft (this ability occurs, aside from anti-aircraft units, only ina few
 headquarters, tanks, and other units).
 
 _Maximum TOE Strength_: This is, all things con- sidered, the most important
-number on the sheet (see <<4_46>>). It is the numerical expression of the
+number on the sheet (see <<4_46,4.46>>). It is the numerical expression of the
 manpower (for infantry), tank platoons (for armored units), or batteries (for
 guns) in that unit.  The infantry manpower figures are based roughly on anywhere
 from 100 to 200 men, depending on the combat function of the individual and his

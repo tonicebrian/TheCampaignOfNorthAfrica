@@ -25,8 +25,8 @@ resolved).
 
 Anti-Armor fire is directed against a specific hex designated by the Phasing
 Player and affects only those units in that hex that have an Armor Protection
-Rating (see Case <<14_23>>) which have not been withheld. Each Player totals his
-Actual AntiArmor Strength Points firing in that hex (see Case <<11_32>>), rolls two
+Rating (see Case <<14_23,14.23>>) which have not been withheld. Each Player totals his
+Actual AntiArmor Strength Points firing in that hex (see Case <<11_32,11.32>>), rolls two
 dice, and consults the AntiArmor Combat Results Table (<<14_6>>) to see how many
 Damage Points he has inflicted. These points are then applied by the owning
 (fired upon, so to speak) Player to remove (eliminate) TOE Points with Armor
@@ -44,7 +44,7 @@ all results are only applied after all fire is complete.
 against targets that have Armor Protection Ratings. Only units assigned to the
 Anti-Armor Sub-Segment of the Combat Segment may fire their Anti-Armor Points,
 and only those units actually committed to Anti-Armor or Close Assault are
-affected by such fire (see Case <<14_12>>).  Units with Armor Protection Ratings
+affected by such fire (see Case <<14_12,14.12>>).  Units with Armor Protection Ratings
 withheld from combat are not affected by Anti-Armor fire.
 
 [#14_12]
@@ -94,7 +94,7 @@ this occur.
 [#14_25]
 *[14.25]* Certain terrain influences the effectiveness of Anti-Armor
 fire, and these effects are noted on the Terrain Effects Chart (see Case
-<<8_37>>) and in Case <<14_3>>. All column adjustments are made before firing.
+<<8_37,8.37>>) and in Case <<14_3>>. All column adjustments are made before firing.
 
 [#14_26]
 *[14.26]* Remember, a Player may divide a unit's TOE Strength Points
@@ -113,7 +113,7 @@ impossible.
 *[14.32]* Where the defending armor is in a hex where there is a Terrain
 Effect, there is a Column Shift in favor of the Defender; i.e., it lessens the
 Anti-Armor firepower of the Attacker. All such effects are listed on the Terrain
-Effects Chart (Case <<8_37>>). E.g., if units in a Rough Terrain hex are fired
+Effects Chart (Case <<8_37,8.37>>). E.g., if units in a Rough Terrain hex are fired
 on by Anti-Armor Fire worth nine Actual Anti-Armor Strength Points the combat is
 resolved in the eight column of the Anti-Armor CRT because of the one column
 shift.
@@ -166,7 +166,7 @@ necessary seven point absorbtion.
 *[14.44]* Armor losses may be taken from any units with an Armor
 Protection Rating in the target hex, regardless of whether they were assigned to
 AntiArmor or Close Assault. However, Armor units withheld from both types of
-combat are not affected by Anti-Armor Fire (see Case <<13_28>>).
+combat are not affected by Anti-Armor Fire (see Case <<13_28,13.28>>).
 
 [#14_45]
 *[14.45]* Damage Points in excess of those necessary to destroy all
@@ -210,7 +210,7 @@ direction by the capturing Player at the instant of capture. The three hexes may
 not include Enemy units or Enemy ZOC's; nor may they include impassable terrain.
 
 [#14_54]
-*[14.54]* Except for <<14_53>>, Destroyed Tanks are treated like any
+*[14.54]* Except for <<14_53,14.53>>, Destroyed Tanks are treated like any
 other unit marked for possible Repair. In the Phasing Player's Repair Phase they
 may be towed to a Repair Facility for Maintenance.
 

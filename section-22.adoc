@@ -67,7 +67,7 @@ Facility (exceptions: see Cases <<22_6>> and <<22_7>>).
 [#22_22]
 *[22.22]* Field Repairs may take place in any hex in which there is a
 Broken down vehicle stacked with a Friendly unit of any type, even a Squadron
-Ground Support Unit (see Case <<22_13>>a). Field
+Ground Support Unit (see Case <<22_13,22.13>>a). Field
 Repairs may not be made if the vehicle in question has been towed in that Repair
 Phase (see also Case <<22_6>>).
 
@@ -101,7 +101,7 @@ Fuel Point. He may attempt to repair only those Tank TOE Strength Points he has
 expended Fuel for.
 
 [#22_27]
-*[22.27]* Weather affects Field Repairs; see Case <<22_13>>d.
+*[22.27]* Weather affects Field Repairs; see Case <<22_13,22.13>>d.
 
 [#22_28]
 *[22.28]* Players will note that field repairs are a risky proposition.
@@ -116,7 +116,7 @@ and Major Facilities. Temporary Facilities may be constructed by the Players
 designated in that scenario. Major Repair Facilities are found in Tripoli (the
 Tripoli Box), Tobruk (for whoever controls it), Alexandria and Cairo (all
 hexes). The effectiveness of Repair facilities may be reduced or neutralized by
-bombing (see Cases <<22_35>> and <<39_37>>) and Artillery Barrage.
+bombing (see Cases <<22_35,22.35>> and <<39_37,39.37>>) and Artillery Barrage.
 
 [#22_32]
 *[22.32]* If a Broken down Vehicle or Destroyed Tank beings a
@@ -131,9 +131,9 @@ Points, Brokendown Tanks and Guns by Type, and/or Destroyed Tanks by Type.
 *[22.34]* For each type of Brokendown vehicle the Player rolls one die
 and consults the Broken Down Vehicle Repair Table (<<22_8>>) under the correct
 column (Temporary or Major Facility). The dieroll may be modified by the effects
-of bombing on the Fortification Level of the city (see Case <<22_35>>).  The
+of bombing on the Fortification Level of the city (see Case <<22_35,22.35>>).  The
 result of the dieroll is the percentage of that type of vehicle that may be
-Repaired (see Case <<22_25>> for details). See Case <<22_4>> for Destroyed Tanks. ,
+Repaired (see Case <<22_25,22.25>> for details). See Case <<22_4>> for Destroyed Tanks. ,
 
 a. If the Repair Facility is in a Major City and the Enemy Player succeeds in
 reducing the Fortification Level of that City by one (see Air Bombardment Table)
@@ -153,7 +153,7 @@ repair only those points he has expended supplies for.
 
 [#22_36]
 *[22.36]* Temporary Repair Facilities may be affected by Weather (see
-Case <<22_13>>d). Major Facilities are never affected by Weather.
+Case <<22_13,22.13>>d). Major Facilities are never affected by Weather.
 
 [#22_37]
 *[22.37]* If a Temporary Repair Facility is in the ZOC of an Enemy unit
@@ -188,7 +188,7 @@ not the case with repairing aircraft.)
 [#22_43]
 *[22.43]* In order to attempt to repair a Tank TOE Strength Point, the
 owning Player rolls one die and consults the Destroyed Tank Repair Table (see
-Case <<22_44>>). The die must be rolled separately for each such tank TOE
+Case <<22_44,22.44>>). The die must be rolled separately for each such tank TOE
 Strength Point. If the attempt is successful, the TOE Strength Point is
 considered repaired; if unsuccessful, it is either considered permanently
 eliminated ("junked") or nothing happens, in which case another repair attempt
@@ -228,7 +228,7 @@ roll of "1". They do not ‘junk' and they may not repair Enemy tanks.
 
 [#22_63]
 *[22.63]* Each Tank Delivery Squadron has no combat ratings of any type
-(see Case <<22_64>>) and has no Stacking Points. They have a CPA of 25 as
+(see Case <<22_64,22.64>>) and has no Stacking Points. They have a CPA of 25 as
 vehicles but may never voluntarily exceed that CPA or move into an Enemy Zone of
 Control. If alone in a hex and an Enemy combat unit places the TDS in its ZOC
 the TDS is eliminated. An eliminated TDS may be returned to play eight

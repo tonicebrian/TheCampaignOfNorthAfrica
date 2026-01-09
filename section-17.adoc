@@ -59,7 +59,7 @@ unit can ever have is +3, and the minimum — 3,
 regardless of what mathematical possibilities occur. Thus a unit with a +2 Basic Morale Rating
 that earns a + 4 modifier does not get an Adjusted
 Rating of +6, but just +3 (exception: see Case
-<<17_28>>).
+<<17_28,17.28>>).
 
 [#17_24]
 *[17.24]* Ail Cohesion Levels of -17 or worse use
@@ -70,7 +70,7 @@ or higher use the "+8" row.
 *[17.25]* The farthest column on the right is the Surrender column. If a
 combination of Cohesion Level and diceroll places the Modifier in that column,
 the affected units immediately Surrender (and become Prisoners, see Section
-<<28_0>>; Exception: Case <<17_26>>). If both units, for some strange reason,
+<<28_0>>; Exception: Case <<17_26,17.26>>). If both units, for some strange reason,
 get a Surrender Modifier, the Surrenders are ignored, no assault occurs, and
 both sides are Engaged.
 
@@ -89,7 +89,7 @@ Assault to Friendly Raw Defensive Strength).
 [#17_27]
 *[17.27]* It is possible that a given Player has units of different
 Cohesion Levels in the same assault.  The method of determining the applicable
-Cohesion Level is the Largest Unit Rule, discussed in Case <<6_27>>.
+Cohesion Level is the Largest Unit Rule, discussed in Case <<6_27,6.27>>.
 
 [#17_28]
 *[17.28]* Axis units stacked with General Rommel at the instant of
@@ -189,7 +189,7 @@ to be moved directly into that unit's hex.
 
 [#17_53]
 *[17.53]* Units may be surrendered to an Enemy combat unit of any size
-or status (except <<17_54>>).
+or status (except <<17_54,17.54>>).
 
 [#17_54]
 *[17.54]* The enemy unit must accept the surrender, expending 2 CP's to

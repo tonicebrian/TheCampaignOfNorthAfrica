@@ -500,7 +500,7 @@ A. The Players' ability to bring in Motorization Points is equal to their
 respective ability's to bring in Medium Truck Points (i.e., each Medium Truck
 Point equals one Motorization Point).
 
-B. Axis Initial Supply Status: Case <<62_45>> is replaced by the following:
+B. Axis Initial Supply Status: Case <<62_45,62.45>> is replaced by the following:
 Regular Each with Location Supply Units Ammo Fuel Tripoli (box) 2 20 60 Nofilia
 (A2703) 3 30 25 el Agheila (A1816) 1 30 50 Benghazi (A4827) 4 30 60 Mechili
 (B4921) 3 30 60 Derna (B5925) 4 15 60 Group 1* 3 30 50
@@ -509,7 +509,7 @@ Regular Each with Location Supply Units Ammo Fuel Tripoli (box) 2 20 60 Nofilia
 following locations in any distribution at the Axis Player's choice: Gazala
 (B4933), Rotunda Segnali (B4432) and any location(s) on game map-section "B".
 
-C. Commonwealth Initial Supply Status: Case <<62_35>> is replaced by the following:
+C. Commonwealth Initial Supply Status: Case <<62_35,62.35>> is replaced by the following:
 
 [cols="3,1,1,1"]
 |===
@@ -563,10 +563,10 @@ A. The Players' ability to bring in Motorization Points is equal to their
 respective abilities to bring in Medium plus Heavy Trucks (i.e., each Medium and
 each Heavy Truck is equal to one Motorization Point).
 
-B. Axis Initial Supplies: As in <<62_62>> "B" above plus 1 regular supply unit
+B. Axis Initial Supplies: As in <<62_62,62.62>> "B" above plus 1 regular supply unit
 at each Axis airfield (except those off-map) with 30 Ammo and 40 Fuel Points.
 
-C. Commonwealth Initial Supplies: As in <<62_62>> "C" above plus | regular
+C. Commonwealth Initial Supplies: As in <<62_62,62.62>> "C" above plus | regular
 supply unit at each airfield (except Kabrit) with 30 Ammo and 40 Fuel Points
 and | regular supply unit at each remaining air facility (except off-map) each
 with 5 Ammo and 15 Fuel Points.

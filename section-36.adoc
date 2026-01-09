@@ -52,14 +52,14 @@ reduced to zero capacity, it is considered destroyed for all purposes.
 [#36_15]
 *[36.15]* Airfields may also be damaged by desert raiders. However,
 normal land units never damage airfields (except by barrage; see Cases
-<<36_14>>and <<12_5>>). Land combat units may capture or destroy (entirely) an
+<<36_14,36.14>>and <<12_5>>). Land combat units may capture or destroy (entirely) an
 airfield by occupying its hex. Airfields are, in essence, non-denominational;
 they may be used by anyone.
 
 [#36_16]
 *[36.16]* Players should keep in mind that, while it is the airfield
 that has the capacity for maintenance, it is the SGSU that actually performs
-that maintenance (see Case <<35_17>>).
+that maintenance (see Case <<35_17,35.17>>).
 
 [#36_17]
 *[36.17]* An airfield is a supply dump for supplies to be used by the
@@ -95,14 +95,14 @@ Construction details are in Case <<24_7>>. Players should note that they can bri
 supplies to a flying boat basin simply by bringing trucks into the hex; they
 need no other transport.  Flying boat basins are placed in any coastal hex.  As
 with airfields, flying boat basins have one intrinsic Strength Point of anti-air
-(see Case <<36_18>>.  Flying boat basins may not be used for normal aircraft.
+(see Case <<36_18,36.18>>.  Flying boat basins may not be used for normal aircraft.
 
 [#36_4]
 === FLYING BOAT ALIGHTING AREAS
 
 Alighting Areas are the same as flying boat basins, except that they have a
 capacity of one Squadron and they are immune to artillery barrage. They are
-still susceptible to Air Bombardment (see Cases <<24_7>> and <<41_36>>).
+still susceptible to Air Bombardment (see Cases <<24_7>> and <<41_36,41.36>>).
 
 [#36_5]
 === OFF-MAP AIR FACILITIES

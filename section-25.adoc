@@ -17,7 +17,7 @@ CASES:
 
 [#25_11]
 *[25.11]* Each level of Fortification gives an increasing defensive
-benefit to units in that hex (see T.E.C., Case <<8_37>>.
+benefit to units in that hex (see T.E.C., Case <<8_37,8.37>>.
 
 [#25_12]
 *[25.12]* Each major city on the game-map is a Level 2 fortification.
@@ -31,7 +31,7 @@ Alexandria. (Fortification counters have two sides, representing each level.)
 
 [#25_14]
 *[25.14]* Fortifications may be reduced in Level strength by air
-bombardment (see Case<<39_37>> or artillery barrage (Case<<12_5>>. No other type
+bombardment (see Case<<39_37,39.37>> or artillery barrage (Case<<12_5>>. No other type
 of combat affects fortifications. Reduced fortifications may be rebuilt.
 
 [#25_15]
@@ -53,7 +53,7 @@ units.
 
 [#25_22]
 *[25.22]* The effects on various combat types for a unit defending in a
-fortified hex are summarized on the Terrain Effects Chart, Case <<8_37>>.
+fortified hex are summarized on the Terrain Effects Chart, Case <<8_37,8.37>>.
 
 [#25_23]
 *[25.23]* Air bombardment and strafing of land units (combat or

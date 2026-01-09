@@ -12,7 +12,7 @@ another.
 [#42_12]
 *[42.12]* Transfer missions should be flown before undertaking any other
 missions, so as not to forget them in the heat of battle. Unless they run into
-Enemy CAP (see <<40_27>> they should not run into any problems.
+Enemy CAP (see <<40_27,40.27>> they should not run into any problems.
 
 [#42_13]
 *[42.13]* Planes flying transfer missions may double their range.
@@ -48,8 +48,8 @@ any hex except for major cities.
 *[42.23]* The Player assigns a number of planes to fly Recon to a
 specific hex. After all air-to-air and flak, the Player totals the number of
 planes on Recon in that hex and consults the Air Reconnaissance Table
-<<42_27>> rolling one die. The result is the number of units in hex the Player
-has learned information about  <<42_24>>.
+<<42_27,42.27>> rolling one die. The result is the number of units in hex the Player
+has learned information about  <<42_24,42.24>>.
 
 [#42_24]
 *[42.24]* For each battalion-sized unit the player flying Recon can
@@ -137,7 +137,7 @@ support Air Phase, under certain circumstances.
 
 [#42_42]
 *[42.42]* An airborne mission is the same as a transport mission
-(<<42_32>>a). The only difference is that the units are dropped into the hex, not
+(<<42_32,42.32>>a). The only difference is that the units are dropped into the hex, not
 landed, so an air facility is not needed for the transports.  However, they must
 start from a Friendly air facility.
 
@@ -147,7 +147,7 @@ They may not be airdropped into major cities and they may not be airdropped into
 hexes occupied by Enemy units or hexes in an Enemy Zone of Control. Units may be
 airdropped into a Friendly occupied hex, within stacking restrictions, as long
 as such hex is not in an Enemy ZOC. In addition, the drop-zone hex may not be
-more than two hexes from a recognizable land feature  <<42_44>>.
+more than two hexes from a recognizable land feature  <<42_44,42.44>>.
 
 [#42_44]
 *[42.44]* A recognizable land feature is a major city, a road
@@ -163,11 +163,11 @@ in an airdrop.
 *[42.46]* Airdropped units require and use supplies the same as any
 unit: they are not commandos. Thus, only certain types of supplies may be
 airdropped: ammunition and stores may be airdropped (using the precepts of
-<<42_42>>and <<42_43>>). Supplies may be airdropped into a Friendly-occupied hex
+<<42_42,42.42>>and <<42_43,42.43>>). Supplies may be airdropped into a Friendly-occupied hex
 even if it is in an Enemy Zone of Control. In the latter case, there is no need
 to use the recognizable land feature provision of the airdrop rule. Airdropped
 supplies may be used as soon as they arrive, unlike transported supplies
-<<42_35>>.
+<<42_35,42.35>>.
 
 [#42_47]
 *[42.47]* Airdropped combat units may move and fight normally, with one

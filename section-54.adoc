@@ -45,7 +45,7 @@ modifies the die roll if necessary for unit size, dump ownership, location, etc.
 The Player may adjust the die roll by announcing, before rolling the die, that
 he is expending an additional one-third or two-thirds of the attempting unit's
 basic CPA. Cross index the modified die roll with the percentage of supplies row
-on the Supply Dump Demolition Table  <<54_17>>) to determine the percentage of
+on the Supply Dump Demolition Table  <<54_17,54.17>>) to determine the percentage of
 each type of supply in the dump that is destroyed. In addition, a unit occupying
 the same hex as a supply dump may attempt to blow that dump as part of a retreat
 before combat. The Player may only expend one-third of the unit's basic CPA and

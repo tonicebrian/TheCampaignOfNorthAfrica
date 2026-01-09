@@ -24,7 +24,7 @@ group; each may be played separately to a specific conclusion.
 
 This scenario starts with Game-Turn 1, OpStage 1; it ends with the conclusion of
 Game-Turn 6, OpStage 3. The estimated time of play is anywhere from 25 to 50
-hours. Victory Conditions are listed in Case <<60_81>>.
+hours. Victory Conditions are listed in Case <<60_81,60.81>>.
 
 [#60_23]
 *[60.23]*. The Italian Campaign
@@ -32,7 +32,7 @@ hours. Victory Conditions are listed in Case <<60_81>>.
 This scenario starts with Game-Turn 1, OpStage 1, and proceeds through the end
 of Game-Turn 20, OpStage 3. It includes Operation Compass (O'Conner's
 counteroffensive). The estimated time of play is 90 to 150 hours. Victory
-Conditions are listed in Case <<60_81>>.
+Conditions are listed in Case <<60_81,60.81>>.
 
 [#60_3]
 === AXIS FORCES
@@ -204,7 +204,7 @@ They start the game in Tripoli.
 [#69_36]
 *[69.36]* The Axis Player's Strategic attacks on Malta are restricted to
 forces called for by Availability Level I (see the Axis strategic Commitment
-Chart, case <<44_41>>).
+Chart, case <<44_41,44.41>>).
 
 [#60_37]
 *[60.37]* The Italian Player must plan convoy runs for the remainder of
@@ -595,7 +595,7 @@ Game(s).
 A. The Players' ability to bring in Motorization Points is equal to their
 respective abilities to bring in Medium Truck Points (i.e., each Medium Truck
 Point equal one Motorization Point).
-B. Axis Initial Supply Status: Case <<60_34>> is replaced by the following:
+B. Axis Initial Supply Status: Case <<60_34,60.34>> is replaced by the following:
 [%header]
 |===
 |Location | Regular Supply Units | Ammo | Fuel
@@ -613,7 +613,7 @@ B. Axis Initial Supply Status: Case <<60_34>> is replaced by the following:
 aCommonwealth unit.  In addition, the Axis Player receives two groups of three
 dummy supply unit counters which may be placed according to the rules for
 Dumps | and 2.
-C. Commonwealth Initial Supply Status: Case <<60_44>> is replaced by the following:
+C. Commonwealth Initial Supply Status: Case <<60_44,60.44>> is replaced by the following:
 
 [%header]
 |===
@@ -637,7 +637,7 @@ three regular supply units, each supply unit containing 40 Ammo & 60 Fuel.
 A. The Players' ability to bring in motorization points is equal to their
 respective abilitys to bring in Medium plus Heavy Trucks (i.e., each Medium and
 each Heavy Truck is equal to one motorization point).
-B. Axis Initial Supplies: As in <<60_82>> "B" above and in addition a total of 5
+B. Axis Initial Supplies: As in <<60_82,60.82>> "B" above and in addition a total of 5
 regular supply units, each with 40 Ammo and 15 Fuel Points, to be distributed
 among and placed on any Axis airfields(s).
 C. Commonwealth Initial Supply Status: As in 60.82 "C" above and in addition a

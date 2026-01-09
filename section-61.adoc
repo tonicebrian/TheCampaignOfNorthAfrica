@@ -46,7 +46,7 @@ Light AA Regt; 57th Light AA Regt Trucks: ‘5 light, 5 Medium.
 
 Anywhere within one hex of:
 
-Alexandria: 7th Armored Division (see <<61_38>>); HQ: 70th Infantry Division;
+Alexandria: 7th Armored Division (see <<61_38,61.38>>); HQ: 70th Infantry Division;
 22nd Gds Bde (I; ATT: Ist Buffs; 2nd Scots Gds; 3rd Coldstream Gds); 107th RHA;
 149th AT Regt; 13th Light AA Regt; "Layforce"(I).
 
@@ -82,7 +82,7 @@ Unit Tanks
 (Captured)
 
 Tanks of the 7th Armored Division are at maximum TOE, but all are broken down (see Case
-<<61_38>>).
+<<61_38,61.38>>).
 
 [#61_33]
 *[61.33]* Commonwealth North African Air Force
@@ -395,7 +395,7 @@ Point equal one Motorization Point).
 B. Initial unattached motorization points: The Axis Player has 290; the
 Commonwealth Player has 150 in Alexandria/Cairo and 90 at other locations.
 
-C. Axis Initial Supply Status: Case <<61_43>> is replaced by the following: The
+C. Axis Initial Supply Status: Case <<61_43,61.43>> is replaced by the following: The
 Axis receives 10 regular supply units, each with 40 Ammo and 60 Fuel Points and
 3 Dummy supply units which may be distributed freely (within stacking
 restrictions) in any of the road hexes between El Agheila (A 1816) and Nofilia
@@ -424,10 +424,10 @@ supply unit contains 40 Ammo and 60 Fuel Points.
 A. The Players' ability to bring in motorization points is equal to their
 respective abilities to bring in Medium plus Heavy Truck Points (i.e., éach
 Medium and each Heavy Truck Point is equal to one Motorization Point).
-B. Axis Initial Supply Status: As in <<61_72>> "C" above and in addition 1
+B. Axis Initial Supply Status: As in <<61_72,61.72>> "C" above and in addition 1
 regular supply unit with 20 Ammo and 30 Fuel Points may be placed at any one
 Axis air facility.
-C. Commonwealth Initial Supply Status: As in <<61_72>> "D" above plus 1 regular
+C. Commonwealth Initial Supply Status: As in <<61_72,61.72>> "D" above plus 1 regular
 supply unit with 40 Ammo and 60 Fuel Points which may be placed at any one
 Commonwealth air facility.
 

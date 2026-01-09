@@ -59,7 +59,7 @@ permanently. (They will not be used in factories to promote your war effort.)
 [#28_17]
 *[28.17]* Each detention camp requires the presence of one Guard Point
 (see Case <<28_2>>).  When moving, one Guard Point is requried for each 1
-Prisoner Points. Any prisoners without a guard "escape" (see Case <<28_23>>).
+Prisoner Points. Any prisoners without a guard "escape" (see Case <<28_23,28.23>>).
 
 [#28_18]
 *[28.18]* Prisoners may be transported by trucks, if you are feeling
@@ -83,7 +83,7 @@ returned to their unit of origin.
 
 [#28_23]
 *[28.23]* If Guards abandon prisoners at any time, or there are
-prisoners in excess of the guard requirements (see Case <<28_17>>), those
+prisoners in excess of the guard requirements (see Case <<28_17,28.17>>), those
 prisoners escape. (There are no organized prison breaks here; this is Africa,
 not Colditz).
 

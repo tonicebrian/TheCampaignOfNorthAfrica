@@ -16,8 +16,7 @@ first scenario has the advantage of being remarkably short; the other scenario
 is for those who like to retreat or chase fleeing troops.
 
 [#63_2]
-=== SCENARIO LENGTH AND
-DURATION
+=== SCENARIO LENGTH AND DURATION
 
 Both scenarios begin with the Ist OpStage of Game-Turn 1OZ. "The Last Chance"
 Scenario ends with the completion of the 3rd OpStage of Game Turn 102 lst
@@ -798,7 +797,7 @@ Game(s).
 *[63.81]* Air Abstracted (Land & Logistics Games): The Commonwealth
 initial supplies are reduced as follows: The Front Line Dumps now total 2250
 Ammo, 1750 Fuel, 1500 Stores and 1250 Water Points. The other dumps now total
-500 Ammo, 2000 Fuel, 400 Stores and 1600 Water Points (see Case <<63_35>>).
+500 Ammo, 2000 Fuel, 400 Stores and 1600 Water Points (see Case <<63_35,63.35>>).
 
 [#63_82]
 *[63.82]* Air & Logistics Abstracted
@@ -809,7 +808,7 @@ A. The Players' ability to bring in Motorization Points is equal to their
 respective abilities to bring in Medium Trucks (i.e., each Medium Truck equals
 one Motorization Point).
 
-B. Axis Initial Supply Status: Case <<63_45>> is replaced by the following:
+B. Axis Initial Supply Status: Case <<63_45,63.45>> is replaced by the following:
 +
 [cols="2,1,1,1",options="header"]
 |===
@@ -854,13 +853,13 @@ A. The Players' ability to bring in motorization points is equal to their
 respective abilities to bring in Medium plus Heavy Trucks (i.e., each Medium and
 each Heavy Truck is equal to one. Motorization Point).
 
-B. Axis Initial Supplies: As in <<63_72>> "B" above plus 2 depot supply units,
+B. Axis Initial Supplies: As in <<63_72,63.72>> "B" above plus 2 depot supply units,
 each with 180 Fuel and 40 Ammo Points, one at Mersa Matruh and one at Tobruk. In
 addition, a total of 9 regular supply dumps, each with 30 Ammo and 50 Fuel
 Points, to be distributed among and placed on any Axis air facilities other than
 Mersa Matruh and Tobruk.
 
-C. Commonwealth Initial Supplies: As in <<63_72>> “C”' above plus a total of 2
+C. Commonwealth Initial Supplies: As in <<63_72,63.72>> “C”' above plus a total of 2
 depots, each with 40 Ammo and 180 Fuel Points, one each at any Commonwealth air
 facility not within three hexes of a Front Line hex.
 

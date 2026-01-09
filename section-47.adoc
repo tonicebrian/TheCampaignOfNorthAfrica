@@ -14,11 +14,11 @@ possess unlimited supplies for aircraft maintenance.
 [#47_12]
 *[47.12]* Cairo and Alexandria have unlimited supplies for Commonwealth
 aircraft maintenance for any-SGSU occupying a Cairo/Alexandria hex or within
-supply range (see Case <<47_13>>).
+supply range (see Case <<47_13,47.13>>).
 
 [#47_13]
 *[47.13]* An SGSU may draw supplies from any friendly supply unit per
-Case <<32_16>> (or Cairo/ Alexandria) that is within 15 Capability Points.
+Case <<32_16,32.16>> (or Cairo/ Alexandria) that is within 15 Capability Points.
 
 [#47_14]
 *[47.14]* The Players receive regular (i.e., those described in Section
@@ -102,7 +102,7 @@ III he receives three Depots per game-turn.
 === MOTORIZATION POINTS
 
 [#47_51]
-*[47.51]* Cases <<32_57>> and <<32_59>> are ignored and Case <<32_56>>
+*[47.51]* Cases <<32_57,32.57>> and <<32_59,32.59>> are ignored and Case <<32_56,32.56>>
 is modified as follows: Motorization Points may be attacked (and destroyed) as
 though they are trucks as per the Strafing (Cases <<40_5>> and 40.6) and Land
 Support Bombing (Cases <<41_2>>, 41.3 and <<41_5>>) rules in the Air Game.
@@ -183,7 +183,7 @@ limits as listed in Section <<9_0>>.
 
 [#47_82]
 *[47.82]* The Players may stack one Depot supply unit in addition to the
-regular supply unit stacking limits listed in Case <<32_14>>.
+regular supply unit stacking limits listed in Case <<32_14,32.14>>.
 
 = LOGISTICS GAME
 

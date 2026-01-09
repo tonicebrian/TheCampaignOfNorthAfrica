@@ -15,13 +15,13 @@ whether it may split its fire to Barrage more than one target.
 PROCEDURE:
 
 After all Targets have been designated and Barrage Points assigned to those
-Targets (see <<12_23>>), Barrage is resolved. The effects of Barrage are
+Targets (see <<12_23,12.23>>), Barrage is resolved. The effects of Barrage are
 simultaneous, in that all results are applied after all Barrages are completed,
 but each individual Target is barraged separately, in any order the Players
 desire. To resolve a Barrage, the Barraging Player states his Target (either by
-type or number, as explained in Case <<12_24>>, or by specific unit I.D., if he
+type or number, as explained in Case <<12_24,12.24>>, or by specific unit I.D., if he
 has that information), states the number of Actual Barrage Points (see Case
-<<11_32>>) directed at that Target and then consults the Barrage Results Table
+<<11_32,11.32>>) directed at that Target and then consults the Barrage Results Table
 (<<12_6>>), selecting the appropriate portion depending on the type of unit being
 fired at (Gun, Armor, or Infantry), He then rolls two dice, combining the
 results such that the larger die's result is stated first and the small die's
@@ -76,7 +76,7 @@ subject to losses from Close Assault, even if they do not participate in such an
 assault. See Section <<15_8>> for details on losses. All non-Phasing (Forward or
 Back) are subject to Close Assault losses if the Close Assault by the Phasing
 Player is conducted in the Overrun Columns of the Close Assault CRT (see Case
-<<15_84>>).
+<<15_84,15.84>>).
 
 [#12_18]
 *[12.18]* Artillery placed in a Forward position may participate in
@@ -110,7 +110,7 @@ Case <<16_4>>) and Commonwealth warships may be considered targets.
 
 [#12_23]
 *[12.23]* Barrage is directed at a specific target combat unit (as
-defined in <<12_22>>). The Barraging Player states which hexes he wishes to
+defined in <<12_22,12.22>>). The Barraging Player states which hexes he wishes to
 Barrage from. The opposing Player then states how many targets (individual
 battalions/companies) are in each hex adjacent to a hex which is firing. He also
 states whether each Target is a Gun class, Armor Class, or Infantry Class
@@ -120,7 +120,7 @@ hex under Barrage (through Patrol or previous combat) he may designate that
 specific unit as a target.
 
 [#12_24]
-*[12.24]* Except as stated in the last sentence of <<12_23>> the Barraging
+*[12.24]* Except as stated in the last sentence of <<12_23,12.23>> the Barraging
 Player fires "blind", stating only that he is firing at a given type of unit as
 target. For purposes of resolving Barrage, Players should assign, for a Barrage
 Step, ID numbers to each type of unit. E.g., Infantry #1, Infantry #2,
@@ -186,7 +186,7 @@ tanks, or artillery) and obtains the result.
 *[12.44]* If a result of "P" is obtained, the entire target unit is
 "Pinned", Pinned units may not move for the remainder of that Combat Segment,
 nor may they engage in Anti-Armor Fire or Close Assault. Pinned units are
-subject to casualties(see Case <<15_12>>). Place a Pinned marker on all Pinned
+subject to casualties(see Case <<15_12,15.12>>). Place a Pinned marker on all Pinned
 units; remove the marker at the end of the Combat Segment. "Pin" results from
 Barrage do not occur against Gun-class units or Artillery HQ units.
 
@@ -237,7 +237,7 @@ Points; use Raw Strength.
 
 [#12_55]
 *[12.55]* Off-Shore Bombardment may be used to Barrage facilities; see
-Case <<30_12>>.
+Case <<30_12,30.12>>.
 
 [#12_6]
 === ARTILLERY BARRAGE TABLE

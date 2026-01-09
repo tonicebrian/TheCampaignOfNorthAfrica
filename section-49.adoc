@@ -61,7 +61,7 @@ with the consuming unit/TOE Strength Point. Generally, movement of a unit will
 be "counted against'? its fuel capacity rating—i.e., the fuel in the unit's gas
 tanks, which by definition is in the same hex at all times—and players will have
 to record how far each land unit has been moved since the last time its fuel
-supply was replenished. See also Case <<49_16>>.
+supply was replenished. See also Case <<49_16,49.16>>.
 
 [#49_16]
 *[49.16]* In essence, a unit consumes fuel in the hex in which it begins
@@ -72,7 +72,7 @@ up". The Player simply notes how far he is going to go in that Movement Segment
 and then subtracts the necessary fuel points from whatever source is available
 in the hex. He then moves the unit. If such unit were to move again in that
 OpStage, it would have to draw fuel from the new hex or from its own Fuel
-Capacity  <<49_14>>).
+Capacity  <<49_14,49.14>>).
 
 [#49_17]
 *[49.17]* In an emergency, Players may "siphon gas." That is, if two
@@ -119,4 +119,4 @@ Sept., 1940 until the last Game-Turn (inclusive) in August, 1941, the
 Commonwealth spillage and evaporation rate is mime percent (9%) per Game-turn.
 This is due to the poorly constructed containers used by the British; it wasn't
 until the British copied that German ‘erry can" that their rate was reduced
-(This rule also applies to certain sources of water, see <<52_44>>.)
+(This rule also applies to certain sources of water, see <<52_44,52.44>>.)

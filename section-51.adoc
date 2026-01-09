@@ -20,7 +20,7 @@ per Game-Turn, except as noted below.
 
 [#51_12]
 *[51.12]* Prisoners use stores, at a rate of one Stores Point per five
-Prisoner Points per Operations Stage. (See <<28_15>>). Prisoners must be
+Prisoner Points per Operations Stage. (See <<28_15,28.15>>). Prisoners must be
 supplied with Stores before any other units. For this purpose only, if there are
 no Stores in the hex, Stores may be deducted from the nearest supply dump,
 regardless of how far away itis.
@@ -44,7 +44,7 @@ the opposing Player; the rest are lost. ;
 
 [#51_17]
 *[51.17]* Guard points require two Stores points per Game-Turn each.
-Guards may also draw from the nearest dump as per <<51_12>>.
+Guards may also draw from the nearest dump as per <<51_12,51.12>>.
 
 [#51_2]
 === EFFECTS OF LACK OF STORES

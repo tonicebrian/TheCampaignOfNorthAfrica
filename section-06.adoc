@@ -68,7 +68,7 @@ it would move with a CPA of '10', or that of its lowest-CPA unit — the Ist KRR
 Operations Stage. However, CP's not used in one Operations Stage do not carry
 over into the next Operations Stage (unlike Cohesion Levels, which do). They
 are not transferrable from one unit to another (although an infantry unit may
-assume the CPA ofa truck if it is motorized; see <<6_17>>).
+assume the CPA ofa truck if it is motorized; see <<6_17,6.17>>).
 
 [#6_17]
 *[6.17]* Certain units may become "motorized" during the game: i.e.,
@@ -98,13 +98,13 @@ uses over its CPA it earns one Disorganization Point. Thus, a unit witha CPA of
 ‘15° that uses 18 CP's in an Operations Stage earns three DP's. [A unit may
 also earn DP's as a result of combat.] If a unit (Parent Formation as well as
 all units in that formation) suffers losses of 30% or greater in any one Close
-Assault it earns three DP's. (See also <<15_29>>b).
+Assault it earns three DP's. (See also <<15_29,15.29>>b).
 
 [#6_22]
 *[6.22]* DP's are used to decrease the Cohesion Level of a unit. Thus a
 unit with a Cohesion Level of -1 that earns three DP's now has a Cohesion Level
 of -4. DP's accumulate from Segment to Segment; they may be negated only by
-certain actions on the part of the unit (See <<6_23>>). Furthermore, DP's are
+certain actions on the part of the unit (See <<6_23,6.23>>). Furthermore, DP's are
 credited immediately — not at the end of an Operations Stage. 
 
 *Example*: the 1st
@@ -169,7 +169,7 @@ nearest whole number). The Cohesion Level for that battle is thus -1.
 [#6_28]
 *[6.28]* If a Parent Formation has many units within it that have
 different Cohesion Levels the largest unit within the Parent Formation
-prevails, as per Case <<6_27>>.
+prevails, as per Case <<6_27,6.27>>.
 
 *Example*: An extreme example, and one not likely to occur, is one where a
 Parent Formation has three Brigades, all with different Cohesion Levels; in
@@ -179,7 +179,7 @@ determined before averaging the three Brigades to get the final Cohesion Level.
 Again, this will rarely, if ever, occur. 
 
 [#6_29]
-*[6.29]* Notwithstanding anything said in <<6_27>> or <<6_28>>, each
+*[6.29]* Notwithstanding anything said in <<6_27,6.27>> or <<6_28,6.28>>, each
 unit's Cohesion Level is kept track of individually. As most units ina Parent
 Formation will have the same level at all times, this will not prove to be too
 big a problem. 

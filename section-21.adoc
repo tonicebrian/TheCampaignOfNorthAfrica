@@ -89,7 +89,7 @@ to, from or amongst the Axis off-map Tripoli/Tunisia boxes.
 
 [#21_21]
 *[21.21]* Each hex (or rather the terrain in the hex) possesses a
-Breakdown Point Value, which is listed on the Terrain Effects Chart (<<8_37>>). In
+Breakdown Point Value, which is listed on the Terrain Effects Chart (<<8_37,8.37>>). In
 addition, certain types of hexsides (e.g., Wadis) also have a Breakdown Point
 Value. The Breakdown Point Value is the number of Breakdown Points a motorized
 unit or vehicle accumulates when moving into that type of terrain/hex and/or
@@ -101,7 +101,7 @@ be modified by Weather (see Section <<29_0>>).
 (Retreat, Reaction, etc.)  does accumulate Breakdown Points.
 
 [#21_23]
-*[21.23]* As a vehicle or motorized unit (see Case <<21_11>>) moves, it
+*[21.23]* As a vehicle or motorized unit (see Case <<21_11,21.11>>) moves, it
 accumulates Breakdown Points.  All of the vehicles/motorized units in a stack or
 Parent formation accumulate the Breakdown Points for given terrain. Example:
 
@@ -118,7 +118,7 @@ possible Breakdown.
 Operations Stage are accumulated until the end of that Stage. Simply because a
 Player checks for Breakdown for a unit does not mean those Breakdown Points
 accumulated up to that point are discharged; they continue to accumulate up
-until the end of the Stage (see Case <<21_26>>). In other words, Breakdown Points
+until the end of the Stage (see Case <<21_26,21.26>>). In other words, Breakdown Points
 are cumulative within an Operations Stage — and they are cumulative and
 applicable during both Players' portions of the Operations Stage.
 
@@ -127,7 +127,7 @@ applicable during both Players' portions of the Operations Stage.
 (regardless of whether or not it actually suffered any Breakdown), it is
 required to check for Breakdown again only if it has accumulated enough
 Breakdown Points to carry over into the next highest Breakdown Point Column on
-the Breakdown Table (21.38). Example: The LII (M) Battalion (in Case <<21_23>>)
+the Breakdown Table (21.38). Example: The LII (M) Battalion (in Case <<21_23,21.23>>)
 had accumulated 15 Breakdown Points the first time it moved. During the same
 Operations Stage it moves again, but it moves only one hex, accumulating 2 more
 Breakdown Points for a total of 17. As it is still in the same column (21-30;
@@ -160,7 +160,7 @@ example's sake, all M/13's — has accumulated 15 Breakdown Points for the illus
 crossing the Ridge hexside and 4 for entering the Clear Terrain hex
 
 [#21_29]
-*[21.29] Important*: In addition to Case <<21_28>>, Players must check
+*[21.29] Important*: In addition to Case <<21_28,21.28>>, Players must check
 separately for each type of unit in a stack that is in a different Breakdown
 Point column.
 
@@ -176,7 +176,7 @@ columns.
 === HOW BREAKDOWN IS DETERMINED
 
 [#21_31]
-*[21.31]* To determine Breakdown, the Breakdown Table (<<21_38>>) is used.
+*[21.31]* To determine Breakdown, the Breakdown Table (<<21_38,21.38>>) is used.
 Each column on the Breakdown Table corresponds to a Range of Breakdown Points
 accumulated. Thus 31-40 means anywhere from 31 to 40 Breakdown Points
 accumulated at the time of Breakdown check (all fractions are rounded up:
@@ -185,8 +185,8 @@ accumulated at the time of Breakdown check (all fractions are rounded up:
 [#21_32]
 *[21.32]* After the Player checking for Breakdown notes the Breakdown
 Points accumulated for a given unit, he takes into effect any Breakdown
-Adjustment Rating (<<21_13>>) as well as any adjustments to Breakdown Rates because
-of Weather (see Case <<21_37>>). These two are cumulative: a 2 column left Breakdown
+Adjustment Rating (<<21_13,21.13>>) as well as any adjustments to Breakdown Rates because
+of Weather (see Case <<21_37,21.37>>). These two are cumulative: a 2 column left Breakdown
 Adjustment Rating plus a onecolumn-higher shift for Weather makes for a final
 adjustment of one column lower.
 
@@ -201,8 +201,8 @@ adjustments are in columns, not in points accumulated.
 *[21.34]* Having determined the Breakdown Column, the Player throws two
 dice, reading sequentially , and cross-referencing that diceroll with the
 Breakdown Column. The result is the percentage of TOE Strength Points Broken
-down within the units for which the Player is rolling (remember Cases <<21_28>>
-and <<21_29>>). Each Truck Point is equivalent to a TOE Strength Point for this
+down within the units for which the Player is rolling (remember Cases <<21_28,21.28>>
+and <<21_29,21.29>>). Each Truck Point is equivalent to a TOE Strength Point for this
 purpose. (Remember that it is the TOE Strength Points that break down, not the
 units.) 
 
@@ -219,7 +219,7 @@ Points — have Broken down.
 
 [#21_35]
 *[21.35]* All Breakdown fractions are rounded up, (as the 6.7 Tank
-TOE Strength Points in Case <<21_34>> became 7). Exception: If the Player is
+TOE Strength Points in Case <<21_34,21.34>> became 7). Exception: If the Player is
 checking for a unit that has only one TOE Strength Point, all percentage results
 of 10% are ignored.
 
@@ -343,7 +343,7 @@ Facility in order to undergo repairs.
 [#21_62]
 *[21.62]* Only vehicles not undergoing Field Repair (or any other type
 of repair) may be towed. All towing occurs in the Repair Stage, except for
-instances such as Case <<21_55>>.
+instances such as Case <<21_55,21.55>>.
 
 [#21_63]
 *[21.63]* There are no towing vehicles (however, see <<22_6>> and <<22_7>>).
@@ -354,8 +354,8 @@ it is a Medium Truck.
 
 [#21_64]
 *[21.64]* No vehicle may ever be towed if it is in an Enemy-controlled
-hex with the exception of towing at the instant of capture (see Cases <<21_55>>
-and <<14_53>>). This restriction applies at all times during the Repair Phase.
+hex with the exception of towing at the instant of capture (see Cases <<21_55,21.55>>
+and <<14_53,14.53>>). This restriction applies at all times during the Repair Phase.
 Friendly units negate Enemy Zones of Control.
 
 [#21_65]

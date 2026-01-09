@@ -51,7 +51,7 @@ capacity or Efficiency Level.
 while others may be used each OpStage. Players should be careful to adjust ali
 capacities and Efficiency Levels to cover both uses. A port's capacity applies
 to all shipments received in a Game-Turn (including OpStages), except as stated
-in Case <<55_15>>.
+in Case <<55_15,55.15>>.
 
 [#55_17]
 *[55.17]* The port of Bizerta (Tunis Box) is an unusual case. Although
@@ -65,8 +65,8 @@ the Game-Turn that he does throw al12.
 
 [#55_18]
 *[55.18]* For every OpStage that a port does not lose any Efficiency
-Levels to Enemy bombs, it regains one point. Exception: Cases <<55_26>> and
-<<55_27>>. It can never go above its maximum assigned level (see Case <<55_3>>).
+Levels to Enemy bombs, it regains one point. Exception: Cases <<55_26,55.26>> and
+<<55_27,55.27>>. It can never go above its maximum assigned level (see Case <<55_3>>).
 
 [#55_2]
 === BLOCKING HARBORS
@@ -88,7 +88,7 @@ Aboukir (E3815) and Rosetta (E4019) may not be so blocked.
 engineer battalion or CW HQ with engineer capacity present in the port hex. He
 then expends 25 Ammunition Points and 10 Stores Points, which must be actually
 present in the hex, in the Construction Phase. The Efficiency Level of the port
-is reduced by one (see Case <<50_14>>).
+is reduced by one (see Case <<50_14,50.14>>).
 
 [#55_23]
 *[55.23]* All ports are reduced at the same rate, with one exception: it
@@ -107,7 +107,7 @@ reduces the efficiency level of Tobruk by three levels.
 [#55_26]
 *[55.26]* The effect of blocking harbors may be undone only by Friendly
 engineer battalions or CW HQ with engineering capability. Engineers reverse the
-process of <<55_22>>. However, for each port, it costs 50 Ammunition Points and
+process of <<55_22,55.22>>. However, for each port, it costs 50 Ammunition Points and
 25 Stores Points to undo the damage, at one level capacity per Operations Stage.
 There are two exceptions to this: Tobruk requires only 25 Ammunition Points and
 10 Stores Points to remove one level of blocking effect; Benghazi requires the
@@ -119,7 +119,7 @@ two engineer units to remove one level of blocking effect.
 air (see Case <<41_3>> for the mechanics). Each successfully laid mine lowers
 the Efficiency one level. Mines may be removed by engineer battalions. If there
 are mines in a harbor, and the Player controlling the harbor has an engineer
-unit (as in Case <<55_26>>) in that harbor, he rolls a die for each mine in the
+unit (as in Case <<55_26,55.26>>) in that harbor, he rolls a die for each mine in the
 harbor. A roll of 1-3 removes the mine; a roll of 4-6 and the mine remains. Mine
 removal is done in the Construction Stage, and the engineer unit may not move or
 voluntarily expend CPA's in that Stage. The engineers cannot be involved in any

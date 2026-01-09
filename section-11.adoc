@@ -76,7 +76,7 @@ the TOE Strength Points of that unit between both types of Assault. However, an
 individual TOE Strength Point may never be so divided. Players may also choose
 to withhold un pinned Armor or Gun-class units out of combat (for whatever
 reason they so desire; usually ammunition costs). The strengths of these units
-is not considered; see Cases <<15_29>> and <<15_8>>.
+is not considered; see Cases <<15_29,15.29>> and <<15_8>>.
 
 Both sides now engage in Anti-Armor Fire, each side firing at the other's
 "armor", All results from Anti-Armor Fire are taken before proceeding to Close
@@ -86,7 +86,7 @@ assigned to Close Assault roles may be destroyed during Anti-Armor Fire.
 
 After assessing losses from Anti-Armor Fire the Phasing Player engages in Close
 Assault against the non-Phasing Player. Only units assigned to Close Assault are
-used to determine the Assault Differential (however, see Case <<14_26>>).
+used to determine the Assault Differential (however, see Case <<14_26,14.26>>).
 Remember to adjust Close Assault Strengths for losses incurred from Anti-Armor
 Fire. Players now take casualties from Close Assault, place "Engaged" markers
 as needed and conduct any Retreats mandated by the Close Assault CRT. This
@@ -148,7 +148,7 @@ EXPENDITURES FOR COMBAT
 
 [#11_21]
 *[11.21]* A non-Phasing unit expends three CP's if
-it undergoes an attack. Exception: see Case <<11_27>>.
+it undergoes an attack. Exception: see Case <<11_27,11.27>>.
 This will occur under the following circumstances:
 
 [loweralpha]
@@ -185,7 +185,7 @@ circumstances:
 *[11.24]* A non-Phasing unit never expends more than three CP's in
 combat in a given Combat Segment, regardless of what happens to it in that
 Segment. A Phasing unit never expends more than five CP's in a given Combat
-Segment. See <<11_27>>.
+Segment. See <<11_27,11.27>>.
 
 [#11_25]
 *[11.25]* CP expenditures apply to all units in a hex, even if certain
@@ -223,7 +223,7 @@ used differently.
 exceptions noted' below) is expressed in Actual Stength Points. These Actual
 Points are either applied directly to a hex or unit (as in Barrage or
 Anti-Armor) or compared with the Enemy forces (as in Close Assauit or Probe).
-Case <<12_54>> is a minor exception to this rule.
+Case <<12_54,12.54>> is a minor exception to this rule.
 
 [#11_32]
 *[11.32]* The formula for arriving at the Actual Strength of a unit is
@@ -236,7 +236,7 @@ Players should round any decimals to the nearest whole number: 11.4 = 11,
 differently, has only four or less Raw Points) has an Actual Strength of zero
 (0). However, if both sides of a Close Assault or Probe have less than fen Raw
 Points Players should use the Raw Points as if they were Actual Points. See also
-Case <<15_51>>. Raw Points are the numbers arrived at by multiplying the Combat
+Case <<15_51,15.51>>. Raw Points are the numbers arrived at by multiplying the Combat
 Rating by the TOE Strength.
 
 [#11_34]
@@ -292,5 +292,5 @@ a rating of 4 and a strength of 2 would have 8 AA Points.
 *[11.38]* The only combat ratings that do not use the above formula
 (multiplying by TOE Strength, etc.) are the Vulnerability and Armor Protection
 ratings. These ratings are used to determine the number of gun and armor losses
-and are discussed in Cases <<14_42>> and <<15_85>>.
+and are discussed in Cases <<14_42,14.42>> and <<15_85,15.85>>.
 

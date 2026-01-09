@@ -20,7 +20,7 @@ To patrol, the Phasing Player announces the number of Patrol Points he wishes to
 allocate to a given patrol, expends the necessary fuel and ammunition, and
 states which hex is being patrolled.  He consults the Patrol Survival Table
 (<<16_6>>) and rolls one die to determine any Patrol casualties (unless no combat
-units are present in the hex; see Case <<16_32>>). If Patrol Points remain (that is,
+units are present in the hex; see Case <<16_32,16.32>>). If Patrol Points remain (that is,
 if the patrol is not wiped out), the Phasing Player rolls one die and
 cross-references the result with the number of remaining Patrol Points on the
 Reconnaissance Table (<<16_7>>) to determine what (if any) information his patrol
@@ -40,7 +40,7 @@ for Reconnaissance.
 
 [#16_12]
 *[16.12]* The Phasing Player subtracts — or rather detaches — TOE
-Strength Points from the unit/TOE types allowable (Case <<16_11>>) and designates
+Strength Points from the unit/TOE types allowable (Case <<16_11,16.11>>) and designates
 them as Patrol Points. 
 
 [example]
@@ -86,7 +86,7 @@ as he wishes.
 [#16_22]
 *[16.22]* Patrol Points may reconnoiter any Enemy-occupied hex within
 five hexes of the hex the Patrol Points originate from. The five-hex path may
-not include any terrain impassable to the units in the patrol (see Case <<16_11>>),
+not include any terrain impassable to the units in the patrol (see Case <<16_11,16.11>>),
 nor may they pass through an Enemy-controlled or occupied hex other than a hex
 in the Zone of Control ofthe unit being reconnoitered.
 
@@ -197,9 +197,9 @@ Patrol.
 
 [#16_52]
 *[16.52]* The non-Phasing Player may choose the units in a hex about
-which he will reveal the information listed in Case <<16_51>>, if more of his units
+which he will reveal the information listed in Case <<16_51,16.51>>, if more of his units
 are in.the hex than he is required to give information about (exceptions: see
-Case <<16_53>>, <<16_54>>, and <<16_55>>).
+Case <<16_53,16.53>>, <<16_54,16.54>>, and <<16_55,16.55>>).
 
 [#16_53]
 *[16.53]* Information must be revealed about battalion-sized units,

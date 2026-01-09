@@ -39,7 +39,7 @@ treated like any other HQ unit.
 *[23.21]* The cost for a unit that is stacked with any Engineer unit (or
 HQ unit with Engineering capability) to enter an Enemy Minefield is reduced to
 six CP's for Motorized units and three CP's for non-motorized units (see Terrain
-Effects Chart, Case <<8_37>>.
+Effects Chart, Case <<8_37,8.37>>.
 
 [#23_22]
 *[23.22]* If an.Engineer unit or a HQ with Engineer capability remains

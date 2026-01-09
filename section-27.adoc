@@ -105,14 +105,14 @@ resupplying in Stage 3 of the following Game-Turn,
 
 [#27_36]
 *[27.36]* If necessary, desert raiders have Reaction capability (see
-Case <<27_44>>).
+Case <<27_44,27.44>>).
 
 [#27_37]
 *[27.37]* Raiders may never exceed their 50 point Capability Point
 Allowance. If for any reason they are forced to do so, they are eliminated.
 
 [#27_38]
-*[27.38]* Desert Raiders do not consume fuel (except <<27_35>>) nor do
+*[27.38]* Desert Raiders do not consume fuel (except <<27_35,27.35>>) nor do
 they breakdown.
 
 [#27_4]
@@ -128,7 +128,7 @@ raider, the desert raider may be spotted.
 are going to raid.
 
 [#27_43]
-*[27.43]* If a Raider performs either action listed in Case <<27_41>>, the
+*[27.43]* If a Raider performs either action listed in Case <<27_41,27.41>>, the
 raider Player must announce the fact and roll one die. If he rolls a 6, the
 raider has been spotted. If a raider unit is spotted, it is eliminated. Any
 other dieroll has no effect; the raider has not been spotted.
@@ -172,7 +172,7 @@ present). The raid may not take place if there are Enemy combat units present.
 (Squadron Ground Support Units of any type are not combat units for this
 purpose.) An airfield destruction raid may be attempted only once per airfield
 per Game-Turn. However, it may be combined with a plane destruction raid (see
-Case <<27_54>>). Airfields in major cities may not be raided.
+Case <<27_54,27.54>>). Airfields in major cities may not be raided.
 
 [#27_54]
 *[27.54]* Desert raiders may attempt to destroy Enemy airplanes that are
@@ -216,7 +216,7 @@ destroy trucks and supplies. This may be ddne in one of two ways:
 
 a. The Raider enters a hex that has a truck convoy; or
 
-b. The raider uses interception (see Case <<27_59>> during the opposing Player's
+b. The raider uses interception (see Case <<27_59,27.59>> during the opposing Player's
 Convoy Movement Phase.
 
 [#27_58]
@@ -255,7 +255,7 @@ Rommel counter occupies.
 
 [#27_63]
 *[27.63]* The Commonwealth Player rolls two dice and consults the Raid
-on Rommel TAble <<27_64>>.  The results of that table are self-explanatory. The
+on Rommel TAble <<27_64,27.64>>.  The results of that table are self-explanatory. The
 cost for such a raid is 10 Capability Points, and if the LRDLG has no Capability
 Points remaining it is also eliminated.
 
@@ -282,7 +282,7 @@ its Commander: Lt. Col. R.E. Laycock, of the Royal Horse Guards.
 *[27.72]* Layforce "A" Battalion is the same as any other infantry unit
 with one exception: if Layforce starts an Operations Stage in Alexandria, it may
 be placed during that Operations Stage in any coastal hex on the game-map (see
-Case <<27_77>>.
+Case <<27_77,27.77>>.
 
 [#27_73]
 *[27.73]* Layforce "A" Battalion must spend one full Game-Turn in
@@ -323,7 +323,7 @@ the LRDG, which often arranged for transportation of the SAS after its raids.
 
 [#27_81]
 *[27.81]* The Special Air Service Brigade is a “battalion-size" infantry unit with
-a basic Capability Point Allowance of 15 (see the OA Sheets Section <<4_46>>.
+a basic Capability Point Allowance of 15 (see the OA Sheets Section <<4_46,4.46>>.
 It may be motorized; however, if being used on a raid where it is transported by
 air or sea it may not be motorized. The SAS Brigade may operate as a normal
 infantry unit (a waste) or as a Commando unit.
@@ -337,7 +337,7 @@ eliminate such units or force such units to retreat in some way. Any such combat
 is conducted normally.
 
 [#27_83]
-*[27.83]* The SAS Brigade may move by land (see Case <<27_81>>. If it
+*[27.83]* The SAS Brigade may move by land (see Case <<27_81,27.81>>. If it
 does so it moves like any other land combat unit. It may also be transported by
 any one Commonwealth Ship counter and debarked in any coastal hex, at a cost of
 five Capability Points to the SAS for every 50 Movement Points or fraction
@@ -354,7 +354,7 @@ necessary ammunition, water, and stores it needs for those three OpStages
 [#27_85]
 *[27.85]* The SAS Brigade may attempt to destroy planes on any Axis Air
 Facility that has no Axis combat units present at the time the raid is attempted
-(see Case <<27_82>>. The SAS unit may attempt its raid in any Movement/Combat
+(see Case <<27_82,27.82>>. The SAS unit may attempt its raid in any Movement/Combat
 Segment.
 
 [#27_86]

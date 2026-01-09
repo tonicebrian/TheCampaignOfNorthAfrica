@@ -131,7 +131,7 @@ to undergo Training. They must train for a specific number of Operations Stages,
 which may include the Stage of arrival, Players should consult the rules on
 Training (<<17_3>>) for particulars, as the same rules that apply to Training
 Reinforcements apply to Replacements. Axis points train in Tripoli or any major
-city. Commonwealth units train in those locations listed in Case <<17_32>>. When
+city. Commonwealth units train in those locations listed in Case <<17_32,17.32>>. When
 in doubt as to unit size, five Replacement Points equals one battalion. The
 schedule for Replacement Training is as follows:
 
@@ -153,7 +153,7 @@ schedule for Replacement Training is as follows:
 training for Morale.
 
 [#20_44]
-*[20.44]* In essence, within the parameters of Case <<20_42>>, Trained
+*[20.44]* In essence, within the parameters of Case <<20_42,20.42>>, Trained
 Infantry Replacement Points are usually trucked (if available) to the Front Line
 after undergoing Training, where they are transferred to the unit of
 assignation. Trained Tank, Gun and Recce Replacement Points may move on their
@@ -163,7 +163,7 @@ own, use Railroads (Commonwealth), etc.
 *[20.45]* Like other normal units, Replacement Points require Stores and
 Fuel (if vehicles) when moving. Remember, five Replacement Points is the
 equivalent of a battalion for all purposes. They can be assigned ammunition, but
-this is pretty much a waste of supplies, given the maxims of Case <<20_42>>.
+this is pretty much a waste of supplies, given the maxims of Case <<20_42,20.42>>.
 
 [#20_46]
 *[20.46]* Replacement Points moving toward the Front for purposes of
@@ -199,7 +199,7 @@ cars and carriers.  This rule reflects that increase in effectiveness.
 Code "ww" German ID Code "go" and Commonwealth ID Code "hh" thru "tt"
 inclusive) units that arrive/deploy with an Anti-armor Rating of zero (even
 those also possessing an Offensive Close Assault Rating of "3" — see Case
-<<20_54>>) may be increased in effectiveness with the following exception. None
+<<20_54,20.54>>) may be increased in effectiveness with the following exception. None
 of the Commonwealth Player's Recce units assigned to Infantry Divisions (for
 this purpose, the 18th Brigade of the 7th Australian Division is. considered a
 division) may be upgraded (i.e., the 51st Recce Regiment of the 51st Highland
@@ -207,7 +207,7 @@ division could not be upgraded).
 
 [#20_52]
 *[20.52]* To upgrade an Armored Recce or A/C unit, the Player simply
-adds one TOE Strength Point of certain types of tanks (as listed in <<20_53>>)
+adds one TOE Strength Point of certain types of tanks (as listed in <<20_53,20.53>>)
 to the Recce or A/C units, remembering that the unit may never exceed its stated
 TOE maximum.  Thus, he may add the TOE to replace a lost TOE Point, or he may
 simply add the Tank TOE in and not increase the TOE Strength Points, if the
@@ -231,7 +231,7 @@ of 3, instead of 2.
 === AXIS PLANNED REPLACEMENTS
 
 Italian and German Replacement Points enter the game from the Axis Replacement
-Pool (<<20_66>>) as a result of direct planning by the Axis Player.
+Pool (<<20_66,20.66>>) as a result of direct planning by the Axis Player.
 
 [#20_61]
 *[20.61]* In the Axis Replacement Pool, the Axis Player will find the
@@ -242,7 +242,7 @@ This is further limited by the maximum points available per turn, per type.
 
 [#20_62]
 *[20.62]* The Axis Player may bring in any number of Replacement Points
-of any and all Classes during any one OpStage (see Case <<20_23>>) limited of
+of any and all Classes during any one OpStage (see Case <<20_23,20.23>>) limited of
 course by the pool restrictions. However, each Replacement Point is counted
 against the Shipping Tonnage allowance for that Game-Turn (see Case 51.5). The
 equivalent tonnage of each Point is given in the Pool Table. Thus, if the Axis
@@ -285,7 +285,7 @@ place for them, so remember to space your Replacements carefully.
 *[20.71]* Most Commonwealth units and some of their Replacements arrive
 via the Reinforcement Track. However, most -Replacements — mostly "drafts" and
 transport — arrive somewhat randomly as mandated by the Commonwealth Production
-Tables (<<20_78>>).
+Tables (<<20_78,20.78>>).
 
 [#20_72]
 *[20.72]* The Commonwealth Player must plan two months in advance
@@ -316,7 +316,7 @@ his Replacement Points simply arrive.
 [#20_76]
 *[20.76]* All Planned Replacements arrive in any hex in Cairo or
 Alexandria. They, like other Replacements, must undergo Training (see Case
-<<20_43>>).
+<<20_43,20.43>>).
 
 [#20_77]
 *[20.77]* The Commonwealth Player may “upgrade”? his Infantry units in
@@ -358,7 +358,7 @@ to that level, the highest TOE Strength-level unit of its type available.
 [#20_83]
 *[20.83]* Units to be Withdrawn must be moved to Cairo or Alexandria on
 or before the Game-Turn or Stage they are to be withdrawn. If they are not
-present or at required TOE Strength (<<20_75>>) by that time, they are eliminated.
+present or at required TOE Strength (<<20_75,20.75>>) by that time, they are eliminated.
 (This is a play mechanism to forestall procrastination.) Units so eliminated may
 not return (as many Withdrawls do, later in the game).
 
@@ -369,7 +369,7 @@ simply removed from play.
 [#20_85]
 *[20.85]* If a unit scheduled for Mandatory Withdrawal is less than 75%
 TOE Strength, it must be brought up to that level by Replacement Points before
-Withdrawal Date (see Case <<20_82>>) or an equivalent substitute unit of similar
+Withdrawal Date (see Case <<20_82,20.82>>) or an equivalent substitute unit of similar
 type that is at least at 75% TOE strength.
 
 [#20_9]

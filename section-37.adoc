@@ -19,7 +19,7 @@ CASES:
 === THE MECHANICS OF FLIGHT
 
 [#37_11]
-*[37.11]* All planes have a range (see Case <<34_11>>).  This determines
+*[37.11]* All planes have a range (see Case <<34_11,34.11>>).  This determines
 how far a plane may fly in any one direction (unless the plane is flying a
 transfer mission, in which case it may double its range for the one-way flight).
 
@@ -45,7 +45,7 @@ the ground may take off to counterattack a nearby air threat (see Case <<40_3>>)
 [#37_15]
 *[37.15]* No plane may fly unless it has been fueled. Furthermore,
 other than units flying transfer missions, no plane may fly unless it has been
-refitted (see Case <<37_32>>).
+refitted (see Case <<37_32,37.32>>).
 
 [#37_16]
 *[37.16]* If a plane that has been fueled flies any distance it uses all

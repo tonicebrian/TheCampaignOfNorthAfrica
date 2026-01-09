@@ -215,7 +215,7 @@ initial supplies.
 facilities and those available at supply dumps. Air facilities automatically
 possess a supply dump. If a Player places supplies available at a supply dump in
 the same location as those available at an air facility, the totals are combined
-and it becomes one dump (see Case <<36_17>>). Some scenarios separately list an
+and it becomes one dump (see Case <<36_17,36.17>>). Some scenarios separately list an
 aggregate number of supplies available at a player's air facilities.:- These may
 never be allocated to off-map facilities.
 
@@ -259,11 +259,11 @@ Line trucks available to each Player in the same manner as in “A.” If the Ai
 Game is being abstracted, ignore all trucks available atair facilities. Note
 that the initial distribution/placement of these trucks will affect their
 ability to start a scenario loaded with supplies in addition to those listed as
-available in supply dumps (see Case <<59_66>>).
+available in supply dumps (see Case <<59_66,59.66>>).
 
 [#59_64]
 *[59.64]* Initial Motorization Point distributions may be, with one
-exception (see Case <<59_66>> "B"), freely altered once the game starts as per
+exception (see Case <<59_66,59.66>> "B"), freely altered once the game starts as per
 the Land Game rules on attachment and detachment.
 
 [#59_65]

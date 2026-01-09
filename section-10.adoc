@@ -32,7 +32,7 @@ etc., do not exert a ZOC.
 a ZOC.
 
 [#10_15]
-*[10.15]* Regardless of <<10_11>>, any unit(s) in a hex that total less
+*[10.15]* Regardless of <<10_11,10.11>>, any unit(s) in a hex that total less
 than ten Raw Defensive Close Assault Points do not exert a ZOC, whatever the
 organizational size of the unit. For this purpose, anti-tank units are always
 presumed to be Up Front (see Case <<12_1>>).
@@ -71,7 +71,7 @@ Enemy-controlled hex. The moving unit may not exit that Enemy-controlled hex
 until the next Movement Segment (within that Operations Stage or in the next
 Operations Stage). If a unit begins a Movement Segment in an Enemy controlled hex
 it may leave that ZOC, at a cost in CP's to Break Off (<<8_7>>). Units may not be
-retreated into a hex in an Enemy ZOC (exception: see Case <<10_26>>).
+retreated into a hex in an Enemy ZOC (exception: see Case <<10_26,10.26>>).
 
 [#10_24]
 *[10.24]* No units may be moved directly from one Enemy-controlled hex
@@ -85,7 +85,7 @@ no-movementinto-Enemy-ZOC's rule).
 [#10_25]
 *[10.25]* Friendly units may move through hexes adjacent to an Enemy
 combat unit that are not controlled by that Enemy unit's ZOC. (See Cases <<10_1>>
-and <<10_21>>).
+and <<10_21,10.21>>).
 
 [#10_26]
 *[10.26]* For al/ movement purposes, the presence of a Friendly combat
@@ -123,14 +123,14 @@ A Probe (see Case <<15_9>>) satisfies this requirement if the basic differential
 ====
 
 [#10_32]
-*[10.32]* As an exception to <<10_31>>, if the Friendly units in such
+*[10.32]* As an exception to <<10_31,10.31>>, if the Friendly units in such
 Enemy ZOC consist solely of Artillery, anti-tank, or anti-aircraft (or
-non-combat) units, or there are other type units but they are pinned (<<12_42>>),
-these units do not have to attack as in Case <<10_31>>.
+non-combat) units, or there are other type units but they are pinned (<<12_42,12.42>>),
+these units do not have to attack as in Case <<10_31,10.31>>.
 
 [#10_33]
 *[10.33]* Players may use a special "Holding Off" Artillery Barrage to
-satisfy the requirements of <<10_31>>. (For experienced gamers, this is a
+satisfy the requirements of <<10_31,10.31>>. (For experienced gamers, this is a
 sophisticated version of "Soaking Off".) Thus a Friendly Division that is in the
 ZOC of Enemy units from two different hexes may choose to Hold Off one of those
 hexes and Close Assault the other.
@@ -146,9 +146,9 @@ units, so the Friendly Barraging Player would need 11 Actual Barrage Points to
 perform a Holding Off action against such a Division.
 
 [#10_35]
-*[10.35]* If, according to the precepts of <<10_34>>, a Friendly Phasing
+*[10.35]* If, according to the precepts of <<10_34,10.34>>, a Friendly Phasing
 Player can not Hold Off Enemy units in a given hex, he must Close Assault
-that hex.  (Remember Case <<10_32>>). There is no minimum point requirement for
+that hex.  (Remember Case <<10_32,10.32>>). There is no minimum point requirement for
 a Close Assault.
 
 [#10_36]

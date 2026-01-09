@@ -183,7 +183,7 @@ easternmost/westernmot hexrow (respectively) occupied by a Friendly division
 (shell or full). In addition, the destination hex must be occupied by a Friendly
 division or brigade (not battle-group) headquarters counter. An air-transported
 supply unit (and its supplies) may not be moved at all by the owning Player that
-OpStage, although it may be drawn upon (see Case <<32_16>>).
+OpStage, although it may be drawn upon (see Case <<32_16,32.16>>).
 
 [#32_4]
 === AVAILABLILITY OF SUPPLY UNITS
@@ -192,7 +192,7 @@ OpStage, although it may be drawn upon (see Case <<32_16>>).
 *[32.41]* At the start of each scenario the Players receive a specified
 number of Supply Units (see the Simplified Supply case in each scenario). In
 addition, the Players receive Supply Units from the Simplified Supply Unit
-Availability Tables (see case <<32_46>> and <<32_47>>.
+Availability Tables (see case <<32_46,32.46>> and <<32_47,32.47>>.
 
 [#32_42]
 *[32.42]* Supply Units for the Axis Player arrive as per convoy,
@@ -330,7 +330,7 @@ Commonwealth Player then attacks each arriving convoy separately.
 
 [#32_64]
 *[32.64]* Each attack is carried out as follows: The Commonwealth Player
-consults the Simple Axis Naval Convoy Bombing Chart <<32_66>> and reads down the
+consults the Simple Axis Naval Convoy Bombing Chart <<32_66,32.66>> and reads down the
 proper Convoy Lane column until reaching the westernmost location of a
 qualifying Commonwealth division. He then reads across that row to determine the
 number of Bomb Points to be used in the attack. The Commonwealth Player then
@@ -394,7 +394,7 @@ Points: 1-20 column, etc.)
 
 b. The Axis Player rolls two dice, reading them sequentially. He cross-indexes
 the dice roll with the proper column to determine the result. The result is the
-number of damage points (see the Chariot Raid Table, <<30_46>> inflicted upon the
+number of damage points (see the Chariot Raid Table, <<30_46,30.46>> inflicted upon the
 ships in Alexandria Harbor (only). The Axis Player may distribute these Damage
 Points in any manner he wishes.
 
@@ -534,10 +534,10 @@ being performed.
 artillery units apply to any unit comprised of TOE Strength Points with a
 Barrage Rating.
 
-<<12_23>> (addition) Commonwealth warships are always considered to be
+<<12_23,12.23>> (addition) Commonwealth warships are always considered to be
 historically identified targets.
 
-<<12_46>> (clarification) Trucks do not receive terrain benefits.
+<<12_46,12.46>> (clarification) Trucks do not receive terrain benefits.
 
 <<14_0>> *(clarification)* Anti-armor fire occurs within a hex occupied by the
 non-Phasing Player's units. However, either Player may be the attacker and/or
@@ -553,16 +553,16 @@ anti-armor ratings. Note that replacement points do not affect this ability.
 Points from a unit into different hexes, regardless of whether all are engaging
 in anti-armor or all in close assault.
 
-<<16_51>> (clarification) Note that the Patrolling Player does not
+<<16_51,16.51>> (clarification) Note that the Patrolling Player does not
 identify the types of TOE Strength Points comprising the unit. Example: A tank
 battalion comprising four Shermans, two Stuarts, and two Mark VI Lights (8 TOE
 Points) can be simply reported as a tank battalion of six points (8 + 2 points).
 
-<<19_62>> (addition) Any eliminated unit whose maximum TOE Limit is one
+<<19_62,19.62>> (addition) Any eliminated unit whose maximum TOE Limit is one
 or two TOE Strength Points. If the unit's assigned spot has been taken by the
 time it is recreated, it is treated as an independent unit.
 
-<<20_63>> The Axis Player is required to schedule at least fwo weeks in
+<<20_63,20.63>> The Axis Player is required to schedule at least fwo weeks in
 advance, those Replacement Points (from his Axis Replacement Pool) he is sen
 ding to NorthAfrica via the Axis naval convoys.  Replacement Points may be
 scheduled to arrive during any OpStage of a Game-Turn, as per the naval convoy
@@ -572,15 +572,15 @@ Naval Convoy Schedule Phase. (Players should note that the maximum tonnage that
 the Axis naval convoys of the third week of August is determined during the
 second week of August!)
 
-<<21_11>> (addition) TOE Strength Points comprising a headquarters unit
+<<21_11,21.11>> (addition) TOE Strength Points comprising a headquarters unit
 are not subject to breakdown, regardless of type.
 
-<<21_63>> (clarification) Any portion of the broken down vehicles in a
+<<21_63,21.63>> (clarification) Any portion of the broken down vehicles in a
 hex may be towed. However, if only some are towed, the owning Player will have
 to place an additional marker in the new location and adjust his information on
-the control sheet (see Case<<21_67>>).
+the control sheet (see Case<<21_67,21.67>>).
 
-<<21_67>> (addition) Players should avoid proliferating masses of broken
+<<21_67,21.67>> (addition) Players should avoid proliferating masses of broken
 down vehicles and destroyed tank markers over the game map.
 
 [#23_15]
@@ -600,10 +600,10 @@ boat alighting areas may be upgraded to airfield and flying boat basin status
 respectively. However, the facility may not be used while the upgrading is
 underway and no benefit in reduction of construction is applied.
 
-<<27_32>> (clarification) This includes pipeline in railroad hexes
+<<27_32,27.32>> (clarification) This includes pipeline in railroad hexes
 (although the railroad itself may not be harmed by a raid).
 
-<<30_36>> (addition) If the warship is eliminated while transporting a
+<<30_36,30.36>> (addition) If the warship is eliminated while transporting a
 commando unit, the commando unit is also eliminated.
 
 [discrete]

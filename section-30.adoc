@@ -101,7 +101,7 @@ bombard Derna and any hexes ajdacent to it.
 [#30_24]
 *[30.24]* Any one ship may use its Barrage Strength only once in an
 Operations Stage; it may not fire repeatedly, like an artillery unit (e.g., in
-the example in Case <<30_23>>, the Commonwealth Player could fire twice, once with
+the example in Case <<30_23,30.23>>, the Commonwealth Player could fire twice, once with
 each ship). However, the Barrage Step that the ships fire in is up to the
 Commonwealth Player.
 
@@ -115,7 +115,7 @@ nothing to do with a ship firing antiaircraft guns at Enemy planes.
 
 [#30_31]
 *[30.31]* Ships may be damaged by airbombardment (see Case <<39_3>>
-Coastal Guns (Case <<30_36>>, or, in a special case, an Italian Chariot Raid
+Coastal Guns (Case <<30_36,30.36>>, or, in a special case, an Italian Chariot Raid
 (Case <<30_4>>).
 
 [#30_32]
@@ -166,7 +166,7 @@ where they are or what else they are doing — even repair.
 
 [#30_39]
 *[30.39]* The San Giorgio may fire at Commonwealth ships using its gun
-rating as Bombardment Points. See Case <<30_35>>.
+rating as Bombardment Points. See Case <<30_35,30.35>>.
 
 [#30_4]
 === THE ITALIAN 10TH LIGHT FLOTILLA: Chariot Raids
@@ -196,7 +196,7 @@ in the Ship Assignment Phase).
 
 [#30_44]
 *[30.44]* The Axis Player announces the Frogman Raid and rolls one die,
-consulting the "Chariot" Table <<30_46>>. The results on that table are
+consulting the "Chariot" Table <<30_46,30.46>>. The results on that table are
 selfexplanatory.
 
 [#30_45]
@@ -232,7 +232,7 @@ transfer/transport operation may occur per Operations Stage in any one port.
 
 [#30_53]
 *[30.53]* All transfer of personnel from one port to another may affect
-any shipments of supplies received (see Case <<30_57>>).
+any shipments of supplies received (see Case <<30_57,30.57>>).
 
 [#30_54]
 *[30.54]* The number of troops that may be debarked or embarked at a
@@ -258,7 +258,7 @@ Player to occupy the hex.)
 [#30_57]
 *[36.57]* Whenever a Player transports troops by way of a port, the
 ability of that port to handle supplies is reduced by the percentage listed in
-Case <<30_59>>. Thus, if Benghazi brought in any troops, its supply transport
+Case <<30_59,30.59>>. Thus, if Benghazi brought in any troops, its supply transport
 capacity (reduced or maximum level) is reduced by 25% for that Operations Stage.
 
 [#30_58]

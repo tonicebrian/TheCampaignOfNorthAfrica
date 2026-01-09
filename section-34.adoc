@@ -148,7 +148,7 @@ and strafe the same target.
 [#34_35]
 *[34.35]* Bombers may never initiate air-to-air combat; they may only
 defend if attacked.  However, bombers may increase their TacAir Ratings if they
-fly in large formations (see Case <<45_36>>).
+fly in large formations (see Case <<45_36,45.36>>).
 
 [#34_36]
 *[34.36]* Certain bombers are capable of transporting (TT) personnel or supplies.
@@ -303,7 +303,7 @@ emergency flight).
 
 The Players determine the number and rating of pilot reinforcements once a
 month, at the instant of their arrival. The owning player consults the
-appropriate Pilot Arrival Table (Case <<34_88>> or <<34_89>>) and if pilots are
+appropriate Pilot Arrival Table (Case <<34_88,34.88>> or <<34_89,34.89>>) and if pilots are
 available, makes a single roll of two dice (although separate rolls for the
 German and Italian pilots). The Player adds the dice together and cross indexes
 the result under: all of the columns to determine the number of pilots of that
@@ -333,12 +333,12 @@ Hurricanes arrive the fourth game-turn.
 *[34.85]* The Commonwealth Player is required to withdraw certain
 squadrons during the course of the game. The dates, squadron types and plane
 requirements are listed in the Commonwealth Airplane Reinforcement and Squadron
-Withdrawl Schedule (Case <<34_86>>). Squadron withdrawls are performed at the
+Withdrawl Schedule (Case <<34_86,34.86>>). Squadron withdrawls are performed at the
 beginning of the month indicated. Squadrons may be withdrawn from any air
 facility on Malta or game map section "E".  The Commonwealth Player simply
 removes from play all of the planes and pilots assigned to that squadron.
 SGSU's are not removed unless they now exceed the limit determined in Case
-<<34_82>>.
+<<34_82,34.82>>.
 
 [#34_86]
 *[34.86] Commonwealth Airplane Reinforcement and Squadron Withdrawal Schedule*

@@ -79,7 +79,7 @@ AA points.
 No flak counters are placed on the Malta map; the Commonwealth Player simply
 notes which bases have how many Flak Points. Any losses from bombing are noted
 as they occur. Flak points may move between airfields/strips as planes do in
-<<44_15>> but flak/AA units may not be moved between Malta and the mainland.
+<<44_15,44.15>> but flak/AA units may not be moved between Malta and the mainland.
 
 [#44_2]
 === AXIS AIR RAIDS ON MALTA
@@ -90,10 +90,10 @@ African-based Axis planes that can reach the island can raid Malta, bombing the
 Maltese air facilities to reduce their capability to refit planes.
 
 [#44_22]
-*[44.22]* In addition, to <<44_21>> the Axis may draw on Italian and
+*[44.22]* In addition, to <<44_21,44.21>> the Axis may draw on Italian and
 German aircraft based permanently in Italy and Sicily (and otherwise not
 available to the Axis Player). These planes are reflected by the Axis Malta
-Availability Levels. (See <<44_41>>.)
+Availability Levels. (See <<44_41,44.41>>.)
 
 [#44_23]
 *[44.23]* There are four Axis Malta Availability Levels, representing
@@ -109,13 +109,13 @@ the Game-Turn, and thus occur only once per Game-Turn. (This is, admittedly,
 somewhat abstract—and the various Malta tables reflect this abstraction.) The
 Axis Player chooses the planes in the game he wishes to bomb Malta with by
 consulting the portion of the Malta Availability Table of his choice
-<<44_23>>). He assigns each squadron to a-specific airfield in Malta and
+<<44_23,44.23>>). He assigns each squadron to a-specific airfield in Malta and
 conducts each bombing and/or strafing raid normally—including air-to-air and
 AA/flak.
 
 [#44_25]
 *[44.25]* To compute how many — and what types — of planes he may use,
-the Axis Player uses the Axis Malta Table  <<44_42>>). In addition to the planes
+the Axis Player uses the Axis Malta Table  <<44_42,44.42>>). In addition to the planes
 he receives from this Table he may then add in — up to the maximums he gets from
 the Table — any planes he wishes from Africa. In essence, the Table shows the
 Axis Player how many of his planes in the game, but in Italy/Sicily he may use
@@ -175,7 +175,7 @@ the Availability Table is not considered.
 [#44_29]
 *[44.29]* The Axis Player may, after rolling on the Table, decide not to
 raid. The raid is cancelled, but he still has used the table he rolled for
-once—regardless of whether he cancels or not (see Case <<44_23>>). In such a
+once—regardless of whether he cancels or not (see Case <<44_23,44.23>>). In such a
 case, the Axis Player may not, of course, use map-based planes.
 
 [#44_3]

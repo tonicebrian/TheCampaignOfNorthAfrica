@@ -90,7 +90,7 @@ port facilities at Tobruk, the Commonwealth Player would write "B-PF/Tobruk"
 all of the bombers of each type assigned to a particular mission in a hex is
 placed in that target hex (players will have to keep track on paper of which
 bombers are represented by each counter), unless they are intercepted en route
-by Enemy CAP (see Case <<40_27>>). (That is why it is important for a Player to
+by Enemy CAP (see Case <<40_27,40.27>>). (That is why it is important for a Player to
 be aware of the path of flight; if it passes through an enemy offensive CAP Air
 ZOC, the Enemy fighters may attack the bombers). Bombers may also be intercepted
 by Enemy fighters assigned to scramble missions.
@@ -144,7 +144,7 @@ after flak fire, unlike fighter flak suppression.
 
 [#41_34]
 *[41.34] Bombing Ships (B-CF)*: The result is the number of Damage
-Points inflicted on the ships in the hex (See <<30_34>>). Bombing of the
+Points inflicted on the ships in the hex (See <<30_34,30.34>>). Bombing of the
 Commonwealth Fleet may not be undertaken at night.  Torpedoes may be used
 against ships (See <<41_7>> and also <<41_6>>). Axis coastal shipping may not be
 bombed.
@@ -165,7 +165,7 @@ planes), rounded down.
 *[41.37] Bombing Major Cities/Fortifications (B-F/C)*: Any major city or
 hex with fortifications may be bombed. If the target is a major city, the
 mission may be flown at night (41 -4). Only one level of fortification may be
-destroyed in any Operations Stage. See also <<22_35>> Players may use this
+destroyed in any Operations Stage. See also <<22_35,22.35>> Players may use this
 mission to neutralize a temporary repair facility that is not in a major
 city hex. If the Player obtains a result that would reduce the fortification
 level by one, the temporary facility is neturalized (and may not be used) for
@@ -243,7 +243,7 @@ ineffective.
 
 [#41_49]
 *[41.49]* Night bombers do not get any benefits from formation flying
-<<45_36>>.
+<<45_36,45.36>>.
 
 [#41_5]
 === AIR BOMBARDMENT TABLES
@@ -339,7 +339,7 @@ listed reinforcements.
 
 [#41_71]
 *[41.71]* Certain planes have the capability of carrying torpedoes,
-which are effective against ships and port facilities (See Case <<38_47>> for
+which are effective against ships and port facilities (See Case <<38_47,38.47>> for
 arming Bombers with Torpedoes.)
 
 [#41_72]
@@ -352,7 +352,7 @@ planes.
 
 [#41_73]
 *[41.73]* When Commonwealth planes fly against Axis convoys and at least
-50% of the planes are carrying torpedoes, in determining the level (Case <<41_66>>),
+50% of the planes are carrying torpedoes, in determining the level (Case <<41_66,41.66>>),
 increase the bombing tonnage by 25%, rounding upward. Thus, if 160 tons of bombs
 were delivered to convoy route Nr. 3 via 30 planes, 17 of which were armed with
 torpedoes, the tonnage would be increased to 200 tons (effective).
@@ -380,13 +380,13 @@ to get the actual flight distance for the raid.
 [#41_83]
 *[41.83]* Bombing missions against Tripoli (the port) or Bizerta (Tunis)
 are conducted as any other similar mission, and the results are the same as any
-such mission. (See Case <<41_39>>)
+such mission. (See Case <<41_39,41.39>>)
 
 [#41_84]
 *[41.84]* Bombing missions against grounded Axis planes in
 Tripoli/Tunisia air facilities are conducted as a Bombing Air Facilities
 Mission, although the results against the facility are ignored (see Case
-<<41_36>>).
+<<41_36,41.36>>).
 
 [#41_85]
 *[41.85]* The AA/Flak capacity for Tripoli, et al, is constant,
@@ -430,4 +430,4 @@ effect.
 The following results occur from a Pin to a unit belonging to the B Player for
 that OpStage: such unit may not move voluntarily or engage in combat voluntarily
 during A OpStage. As soon as it is B's turn, the effects of Section
-<<41_91>> apply. The unit becomes unpinned at the end of that OpStage.
+<<41_91,41.91>> apply. The unit becomes unpinned at the end of that OpStage.

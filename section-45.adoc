@@ -24,9 +24,9 @@ combat takes'place before fighters may attack any Enemy bombers/transports, etc.
 (unless they are unescorted).
 
 Having determined the planes involved, the Players now decide who will be the
-Attacker (see Case <<45_16>>). (Remember, all Missions are flown simultaneous).
+Attacker (see Case <<45_16,45.16>>). (Remember, all Missions are flown simultaneous).
 The defender places all his planes being attacked down on a flat surface,using
-available aircraft counters (see <<34_75>>). The attacker now allocates his
+available aircraft counters (see <<34_75,34.75>>). The attacker now allocates his
 attacking fighters against the defending planes. Each individual air-to-air
 combat is now resolved, using the Air-to-Air Combat Tables. After attacking
 fighters have attacked escorts/screens they may, if possible, now attack the
@@ -270,7 +270,7 @@ other screened planes (See <<45_3>>).
 
 [#45_31]
 *[45.31]* When all fighter vs fighter combat has been finished, Friendly
-fighters remaining may, if possible (see Case <<45_32>>) attack any Enemy
+fighters remaining may, if possible (see Case <<45_32,45.32>>) attack any Enemy
 screened planes. They do not have to do so, even if they are on offensive
 CAP—unless only non-fighter planes were in the hex to start with (and so there
 was no fighter vs. fighter combat). In such case, offensive CAP fighters must
@@ -290,9 +290,9 @@ air-to-air.
 
 [#45_33]
 *[45.33]* The Defender is automatically the Player with the screened
-planes. He places his planes down as in <<45_22>>. The attacker may now assign
+planes. He places his planes down as in <<45_22,45.22>>. The attacker may now assign
 his fighters in amy way he sees fit; he does not have to cover all the
-defender's planes, as in <<45_23>>. He may take, using the above example, all 14
+defender's planes, as in <<45_23,45.23>>. He may take, using the above example, all 14
 Hurricanes and attack one of the Henkels, or he may divide them amongst the 12
 Henkels. The choice is the attacker's.
 
@@ -300,7 +300,7 @@ Henkels. The choice is the attacker's.
 *[45.34]* Air-to-air fighter vs non-fighter is resolved in the same way
 as fighter vs fighter (see <<45_2>>) with one exception: defending, screening
 planes may shoot at each and every fighter attacking that plane — not just one,
-as in <<45_24>>. (A dive bomber may shoot at one attacking fighter.)
+as in <<45_24,45.24>>. (A dive bomber may shoot at one attacking fighter.)
 
 [#45_35]
 *[45.35]* Any screened planes that survive may now proceed to the
@@ -350,7 +350,7 @@ Ju88, needing an 11-26 fora kill.
 
 [#45_61]
 *[45.61]* In certain cases fighters shot down during air-to-air, as well
-as planes strafed on the ground <<40_63>>), may be recovered.
+as planes strafed on the ground <<40_63,40.63>>), may be recovered.
 
 [#45_62]
 *[45.62]* For planes strafed on the ground, the Player expends 1 Stores
@@ -365,18 +365,18 @@ and once repaired that plane may fly one full Game-Turn later.
 *[45.63]* For fighters (only) shot down (by either Enemy planes or flak)
 the Player rolls only one die. In this case, a roll of ‘1' means the fighter
 actually was not shot down and has managed to limp back to base. (This roll is
-the same used for recovery of the pilot  <<45_66>>); thus if a ‘1' is thrown,
+the same used for recovery of the pilot  <<45_66,45.66>>); thus if a ‘1' is thrown,
 both the pilot and fighter return. On a 2, only the pilot makes it back.)
 
 [#45_64]
-*[45.64]* Once the fighter has returned (from <<45_63>>), the Player
-must attempt to repair it. He uses the same system as in <<45_62>>, but in this
+*[45.64]* Once the fighter has returned (from <<45_63,45.63>>), the Player
+must attempt to repair it. He uses the same system as in <<45_62,45.62>>, but in this
 instance no die roll is needed to repair the plane; simply expending the
 supplies will do.
 
 [#45_65]
 *[45.65]* Fighters recovered and repaired in this fashion are not
-"kills" for the purposes of <<40_18>>.
+"kills" for the purposes of <<40_18,40.18>>.
 
 [#45_66]
 *[45.66]* If a plane is shot down, the pilot may bail out and survive.
@@ -394,7 +394,7 @@ unless the Player makes a decision to jettison the extended range fuel tank. In
 that case, the higher maneuverability rating may be used in airto-air combat,
 but the plane cannot return to any air facility that is beyond its normal range.
 If out of range of any Friendly air facility, the plane must be crash landed
-(see Case <<37_23>>)—if it survives the combat, that is. Fighter-bombers
+(see Case <<37_23,37.23>>)—if it survives the combat, that is. Fighter-bombers
 attacked by Enemy planes while on bombing missions may jettison their bombs to
 increase their Maneuver Rating for Air-to-Air. The jettisoned bombs have no
 effect.

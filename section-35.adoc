@@ -74,7 +74,7 @@ another squadron base. However, refitting must be performed at their assigned
 squadron base (SGSU) for maximum efficiency. If a plane attempts to refit at an
 SGSU other than its assigned squadron, the Player adds one to his dieroll for
 refit. In addition, Players should remember that planes may not be refueled or
-refitted beyond the capacity of the air facility (see Case <<36_12>>, <<36_2>>,
+refitted beyond the capacity of the air facility (see Case <<36_12,36.12>>, <<36_2>>,
 <<36_3>>and <<36_4>>).
 
 [#35_18]
@@ -141,7 +141,7 @@ are used to supplement aircraft that were not readied. Reserves may not
 scramable. They may use emergency flight (see Case <<37_3>>).
 
 [#35_27]
-*[35.27]* If an SGSU is eliminated (see Case <<35_12>>) and there are
+*[35.27]* If an SGSU is eliminated (see Case <<35_12,35.12>>) and there are
 planes on the ground with the SGSU, the planes are captured. They may be used
 by the opposing Player one Game-Turn later or destroyed as he sees fit.
 
