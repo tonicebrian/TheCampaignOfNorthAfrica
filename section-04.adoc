@@ -176,6 +176,7 @@ along with any other information needed or desired.
 
 [#4_43]
 *[4.43] Reinforcement Schedules*
+
 (see Charts and Tables)
 
 [#4_44]
@@ -298,6 +299,7 @@ the tanks were American. This was readjusted later on.
 
 [#4_47]
 *[4.47] Commonwealth Tank and Gun Characteristics Chart*
+
 (see charts and tables)
 
 This chart lists the values for TOE Strength Points
@@ -310,6 +312,7 @@ these characteristics are listed in <<3_3>>.
 
 [#4_49]
 *[4.49] German Tank and Gun Characteristics Chart*
+
 (see Charts and Tables)
 
 [#4_5]

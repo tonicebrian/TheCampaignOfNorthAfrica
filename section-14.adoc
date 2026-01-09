@@ -220,8 +220,7 @@ capturing Destroyed Tanks and capturing Broken down Vehicles. Consult Section
 <<21_5>> for a discussion of this.
 
 [#14_6]
-=== ANTI-ARMOR COMBAT
+=== ANTI-ARMOR COMBAT RESULTS TABLE
 
-RESULTS TABLE
 (see Charts and Tables)
 
