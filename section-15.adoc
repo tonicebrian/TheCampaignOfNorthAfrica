@@ -52,8 +52,8 @@ of determining casualties vis a vis the number of TOE Strength Points in a hex,
 a percentage of which will be eliminated. This pertains only to non-Phasing
 defending units.
 
-[#45_13]
-*[45.13]* Guns that are Back are not affected by Close Assault unless
+[#15_13]
+*[15.13]* Guns that are Back are not affected by Close Assault unless
 there is an Overrun situation (see Case <<15_86>>). Guns that are Forward may
 participate in Offensive or Defensive Close Assault, but their Vulnerability
 Ratings may be affected (see Case <<12_18>>).

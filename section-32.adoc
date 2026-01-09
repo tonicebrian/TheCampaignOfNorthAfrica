@@ -218,8 +218,8 @@ indixes the roll with the column matching the letter. The result is the number
 of Real Supply Units he may bring in on Axis Naval Convoys two Game-Turns from
 then.
 
-[#32_43]
-*[32.43]* The Commonwealth Player plans his supply using the following
+[#32_45]
+*[32.45]* The Commonwealth Player plans his supply using the following
 procedure. He consults the Commonwealth Simplified Supply Availability Table and
 determines the time period involved.  This time period is that of the arrival of
 the Supply Units, not the one in which they are being planned.  He then rolls
@@ -239,8 +239,8 @@ Real Supply Units he receives four Game-Turns hence.
 [#32_5]
 === MOTORIZATION POINTS
 
-[#32_53]
-*[32.53]* Motorization Points are used in place of Truck Points. They
+[#32_51]
+*[32.51]* Motorization Points are used in place of Truck Points. They
 are used to transport (motorize)units and may also be assigned to transport
 Supply Units. Motorization Points are treated in all aspects as Medium Truck
 Points except as modified in this Major Case.
@@ -534,12 +534,10 @@ being performed.
 artillery units apply to any unit comprised of TOE Strength Points with a
 Barrage Rating.
 
-[#12_23]
-*[12.23]* (addition) Commonwealth warships are always considered to be
+<<12_23>> (addition) Commonwealth warships are always considered to be
 historically identified targets.
 
-[#12_46]
-*[12.46]* (clarification) Trucks do not receive terrain benefits.
+<<12_46>> (clarification) Trucks do not receive terrain benefits.
 
 <<14_0>> *(clarification)* Anti-armor fire occurs within a hex occupied by the
 non-Phasing Player's units. However, either Player may be the attacker and/or
@@ -555,19 +553,16 @@ anti-armor ratings. Note that replacement points do not affect this ability.
 Points from a unit into different hexes, regardless of whether all are engaging
 in anti-armor or all in close assault.
 
-[#16_51]
-*[16.51]* (clarification) Note that the Patrolling Player does not
+<<16_51>> (clarification) Note that the Patrolling Player does not
 identify the types of TOE Strength Points comprising the unit. Example: A tank
 battalion comprising four Shermans, two Stuarts, and two Mark VI Lights (8 TOE
 Points) can be simply reported as a tank battalion of six points (8 + 2 points).
 
-[#19_62]
-*[19.62]* (addition) Any eliminated unit whose maximum TOE Limit is one
+<<19_62>> (addition) Any eliminated unit whose maximum TOE Limit is one
 or two TOE Strength Points. If the unit's assigned spot has been taken by the
 time it is recreated, it is treated as an independent unit.
 
-[#20_63]
-*[20.63]* The Axis Player is required to schedule at least fwo weeks in
+<<20_63>> The Axis Player is required to schedule at least fwo weeks in
 advance, those Replacement Points (from his Axis Replacement Pool) he is sen
 ding to NorthAfrica via the Axis naval convoys.  Replacement Points may be
 scheduled to arrive during any OpStage of a Game-Turn, as per the naval convoy
@@ -577,18 +572,15 @@ Naval Convoy Schedule Phase. (Players should note that the maximum tonnage that
 the Axis naval convoys of the third week of August is determined during the
 second week of August!)
 
-[#21_11]
-*[21.11]* (addition) TOE Strength Points comprising a headquarters unit
+<<21_11>> (addition) TOE Strength Points comprising a headquarters unit
 are not subject to breakdown, regardless of type.
 
-[#21_63]
-*[21.63]* (clarification) Any portion of the broken down vehicles in a
+<<21_63>> (clarification) Any portion of the broken down vehicles in a
 hex may be towed. However, if only some are towed, the owning Player will have
 to place an additional marker in the new location and adjust his information on
 the control sheet (see Case<<21_67>>).
 
-[#21_67]
-*[21.67]* (addition) Players should avoid proliferating masses of broken
+<<21_67>> (addition) Players should avoid proliferating masses of broken
 down vehicles and destroyed tank markers over the game map.
 
 [#23_15]
@@ -608,12 +600,10 @@ boat alighting areas may be upgraded to airfield and flying boat basin status
 respectively. However, the facility may not be used while the upgrading is
 underway and no benefit in reduction of construction is applied.
 
-[#27_32]
-*[27.32]* (clarification) This includes pipeline in railroad hexes
+<<27_32>> (clarification) This includes pipeline in railroad hexes
 (although the railroad itself may not be harmed by a raid).
 
-[#30_36]
-*[30.36]* (addition) If the warship is eliminated while transporting a
+<<30_36>> (addition) If the warship is eliminated while transporting a
 commando unit, the commando unit is also eliminated.
 
 [discrete]

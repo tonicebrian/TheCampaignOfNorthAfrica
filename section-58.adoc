@@ -26,7 +26,7 @@ The Axis Player is entitled to make attacks on the Commonwealth fleet. Such
 attacks utilize the same procedure as that in the Basic Logistics and Air Rules
 described in the Land Game (see <<32_0>>).
 
-[#38_3]
+[538_3]
 === EFFECT ON SUPPLIES
 
 There is only one restriction — the Axis Player loses three-quarters of all fuel

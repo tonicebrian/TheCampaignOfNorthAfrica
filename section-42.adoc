@@ -193,7 +193,7 @@ assigned to that Lane.
 to a specific Convoy Lane. A plane may only be assigned to a naval recon mission
 if it posses Recon capability (R). A plane may be assigned to any Lane within
 its range. The distances to the convoy lanes are listed in the Axis Naval Convoy
-Air Distance Chart (Case <<56_18>>). A plane flying a recon mission from North
+Air Distance Chart (Case <<56_1>>). A plane flying a recon mission from North
 Africa must possess a range.at least equal to the distance from its air facility
 to one of the key cities listed on the chart plus the distance from that city to
 the Lane.

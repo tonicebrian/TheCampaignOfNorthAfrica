@@ -127,7 +127,7 @@ RP's, like DP's, are applied immediately.
 *[6.24]* RP's are earned under the following circumstances:
 
 1. For each Operations Stage in which a unit uses absolutely no CP's (except
-for a unit undergoing Training or conducting Training; see <<18_3>>) that unit
+for a unit undergoing Training or conducting Training; see <<17_3>>) that unit
 earns five RP's. However, no unit may ever increase his Cohesion Level above
 ‘0' by this method. Thus, a unit with a Cohesion Level of -1 that uses no CP's
 for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stage

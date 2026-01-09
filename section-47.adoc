@@ -7,8 +7,8 @@ as modified below.
 [#47_1]
 === SUPPLY UNITS AND SUPPLY
 
-[#47_13]
-*[47.13]* Alloff-map (N. African and Mediterranean) air facilities
+[#47_11]
+*[47.11]* Alloff-map (N. African and Mediterranean) air facilities
 possess unlimited supplies for aircraft maintenance.
 
 [#47_12]
@@ -54,8 +54,8 @@ refuel the squadron.
 [#47_3]
 === MOVEMENT OF SUPPLY UNITS
 
-[#47_23]
-*[47.23]* Fifty motorization points are required to transport a depot.
+[#47_31]
+*[47.31]* Fifty motorization points are required to transport a depot.
 
 [#47_32]
 *[47.32]* A depot may only be transported in the Truck Convoy Movement

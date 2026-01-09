@@ -270,8 +270,8 @@ information on his Broken Down Vehicles Sheet. Broken Down Vehicle Markers are
 numbered so that the Player may keep track of what is represented by each
 different marker.
 
-[#24_43]
-*[24.43]* When a Truck Breaks down, its cargo stays with it, unless
+[#21_43]
+*[21.43]* When a Truck Breaks down, its cargo stays with it, unless
 there are sufficient empty Trucks to pick up the slack. Players will note that a
 Motorized Infantry battalion that loses even one Truck Point that it cannot
 replace will become "un-motorized" because of the rule that the entire

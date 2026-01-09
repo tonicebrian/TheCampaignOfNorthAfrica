@@ -95,8 +95,8 @@ is reduced by one (see Case <<50_14>>).
 requires the expenditure of 50 Ammunition Points and 25 Stores Points to reduce
 Tobruk port one Level.
 
-[#53_24]
-*[53.24]* A port may be reduced one Level per Operations Stage; it may
+[#55_24]
+*[55.24]* A port may be reduced one Level per Operations Stage; it may
 never be reduced more, regardless of the expenditure of supplies.
 
 [#55_25]

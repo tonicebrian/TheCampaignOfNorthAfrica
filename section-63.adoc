@@ -794,8 +794,8 @@ This case covers the adiustments needed in addition to those given in Case
 <<59_6>> in order to play these scenarios without the Air and/or Logistics
 Game(s).
 
-[#63_31]
-*[63.31]* Air Abstracted (Land & Logistics Games): The Commonwealth
+[#63_81]
+*[63.81]* Air Abstracted (Land & Logistics Games): The Commonwealth
 initial supplies are reduced as follows: The Front Line Dumps now total 2250
 Ammo, 1750 Fuel, 1500 Stores and 1250 Water Points. The other dumps now total
 500 Ammo, 2000 Fuel, 400 Stores and 1600 Water Points (see Case <<63_35>>).
@@ -810,7 +810,7 @@ respective abilities to bring in Medium Trucks (i.e., each Medium Truck equals
 one Motorization Point).
 
 B. Axis Initial Supply Status: Case <<63_45>> is replaced by the following:
-
++
 [cols="2,1,1,1",options="header"]
 |===
 |Location |Regular Supply Units |Ammo |Each with Fuel
@@ -826,11 +826,11 @@ B. Axis Initial Supply Status: Case <<63_45>> is replaced by the following:
 |Benghazi (A 4827) |2 |25 |60
 |Marble Arch (A 2109) |1 |40 |60
 |===
-
++
 *These plus 2 dummy supply units may be placed in any hexes on maps A thru D at
 the Axis Player's discretion except that no more than a total of four supply
 units (i.e., regular plus dummy) may be placed on maps A through C.
-
++
 †These, and in addition | dummy supply unit, may be placed in any hexes on Maps
 A through C.
 

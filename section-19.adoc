@@ -7,7 +7,7 @@ As has been discussed previously in a variety of sections, the Organization of
 the various units — i.e., which battalions are part of which Brigade, which
 Brigades and support units form which Division, etc. — is important to the play
 of the game, particularly as pertains to Stacking. The basic Organizational
-heirarchy is pyramidical: 2-3 battalions form a brigade, and <<2_3>>
+heirarchy is pyramidical: 2-3 battalions form a brigade, and 2-3
 brigades forma Division. This Section discusses which units are Assigned to a
 Parent Unit and which units may be Attached, how to Attach and Detach units, and
 when and how units may be built up to maximum strength,

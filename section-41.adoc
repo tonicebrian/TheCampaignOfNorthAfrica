@@ -263,7 +263,7 @@ ineffective.
 *[41.61]* The Axis Player uses the convoy shipping lanes to place his
 arriving convoys of supplies and personnel (see <<55_1>>. Each of these convoy
 shipping lanes has distances in hexes from certain key cities listed in the
-lane. This is the airflight distance from that city (see <<56_18>>).
+lane. This is the airflight distance from that city (see <<56_1>>).
 
 [#41_62]
 *[41.62]* Commonwealth bombers assigned to the Strategic Air Phase may
@@ -279,7 +279,7 @@ to obtain the full distance.
 Naval Convoys. Axis fighters based in the Mediteranean may fly CAP for any
 Convoy Lane within range. Commonwealth fighters may fly CAP or Flak Suppression
 missions to any Convoy Lane within range.  The distances to the Convoy Lanes are
-given in the Axis Naval Convoy Air Distance Chart (Case <<56_18>>). Note that planes
+given in the Axis Naval Convoy Air Distance Chart (Case <<56_1>>). Note that planes
 flying from North Africa must be able to fly to one of the cities listed plus
 the additional distance from that city to the Convoy Lane.
 

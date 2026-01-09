@@ -15,8 +15,8 @@ CASES:
 [#25_1]
 === FORTIFICATION LEVELS
 
-[#25_14]
-*[25.14]* Each level of Fortification gives an increasing defensive
+[#25_11]
+*[25.11]* Each level of Fortification gives an increasing defensive
 benefit to units in that hex (see T.E.C., Case <<8_37>>.
 
 [#25_12]

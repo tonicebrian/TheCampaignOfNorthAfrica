@@ -268,7 +268,7 @@ fine and treacherous salty sand —a veritable quicksand grave for vehicles, and
 no fun for infantry either. Vehicles, except for Light Trucks, Recce-type
 units, and motorcycle infantry may enter or leave a Salt Marsh hex only on a
 Road or Track. A prohibited vehicle that enters a Salt Marsh hex without using
-the Track, whatever the reason, is Abandoned (see <<5_33>>). Because most vehicles
+the Track, whatever the reason, is Abandoned (see <<53_3>>). Because most vehicles
 are prohibited from entering Salt Marshes in a normal manner, no motorized unit
 or AFV (tank, armored car, etc.) may ever engage in Assault with units
 defending in a Salt Marsh hex. The one camel unit in the game (the Italian

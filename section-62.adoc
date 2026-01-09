@@ -504,7 +504,7 @@ B. Axis Initial Supply Status: Case <<62_45>> is replaced by the following:
 Regular Each with Location Supply Units Ammo Fuel Tripoli (box) 2 20 60 Nofilia
 (A2703) 3 30 25 el Agheila (A1816) 1 30 50 Benghazi (A4827) 4 30 60 Mechili
 (B4921) 3 30 60 Derna (B5925) 4 15 60 Group 1* 3 30 50
-
++
 *These, and in addition 2 dummy supply units, are to be placed in any of the
 following locations in any distribution at the Axis Player's choice: Gazala
 (B4933), Rotunda Segnali (B4432) and any location(s) on game map-section "B".

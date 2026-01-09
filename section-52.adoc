@@ -71,7 +71,7 @@ land unit expend 5 CP's and roll a die. If the result is a 1, 2, or 3 the well
 is OK. Any number of attempts—at 5 CP's a shot—may be undertaken, except that a
 unit may not exceed its CPA trying to sweeten wells.
 
-[#32_2]
+[#52_2]
 === WATER PIPELINES
 
 [#52_21]

@@ -190,8 +190,8 @@ helpless in the air and must have heavy CAP to insure their arrival.
 [#34_7]
 === AIRCRAFT COUNTERS
 
-[#34_74]
-*[34.74]* The aircraft counters do not represent individual planes in
+[#34_71]
+*[34.71]* The aircraft counters do not represent individual planes in
 the game; they are used to note the location of planes and facilitate air-to-air
 combat.
 

@@ -10,8 +10,8 @@ maximum number of points that may bein that hex.
 [#9_1]
 === THE STACKING POINT SYSTEM
 
-[#9_14]
-*[9.14]* Each unit (or counter) in the game has a Stacking Point value
+[#9_11]
+*[9.11]* Each unit (or counter) in the game has a Stacking Point value
 printed on the face of the unit. (See Sample Units, <<4_22>>). E.g., the 1/8
 Panzer Battalion has 1 Stacking Point.
 
