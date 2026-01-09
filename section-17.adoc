@@ -30,11 +30,13 @@ has been out onits own.
 [#17_2]
 === ADJUSTMENTS TO BASIC MORALE RATINGS
 
-[#17_21]*[17.21]* Every time a unit is involved in a Close Assault (or Probe)
+[#17_21]
+*[17.21]* Every time a unit is involved in a Close Assault (or Probe)
 its Basic Morale Rating may be adjusted by its Cohesion Level at the instant of
 Assault. The effect of Morale on Assault has been discussed in Case <<15_6>>.
 
-[#17_22]*[17.22]* In order to determine the effect of a unit's Cohesion Level on
+[#17_22]
+*[17.22]* In order to determine the effect of a unit's Cohesion Level on
 its Basic Morale Rating, the Players use the Morale Modification Table
 (<<17_4>>).  This is another table that uses a two-dice sequential read out
 (11-66), with the diceroll taking up the "center" of the Table. In this case,
@@ -51,25 +53,29 @@ a diceroll of 42 is located. That roll is in the —2 column, so the Morale
 Modifier is —2, and the Basic Morale is adjusted by that number (+1 —~2 = —1).
 The unit's Adjusted Morale Rating for that Assault is -1.
 
-[#17_23]*[17.23]* The maximum Adjusted Morale Rating a
+[#17_23]
+*[17.23]* The maximum Adjusted Morale Rating a
 unit can ever have is +3, and the minimum — 3,
 regardless of what mathematical possibilities occur. Thus a unit with a +2 Basic Morale Rating
 that earns a + 4 modifier does not get an Adjusted
 Rating of +6, but just +3 (exception: see Case
 <<17_28>>).
 
-[#17_24]*[17.24]* Ail Cohesion Levels of -17 or worse use
+[#17_24]
+*[17.24]* Ail Cohesion Levels of -17 or worse use
 the "-17 et seq" row. All Cohesion Levels of +8
 or higher use the "+8" row.
 
-[#17_25]*[17.25]* The farthest column on the right is the Surrender column. If a
+[#17_25]
+*[17.25]* The farthest column on the right is the Surrender column. If a
 combination of Cohesion Level and diceroll places the Modifier in that column,
 the affected units immediately Surrender (and become Prisoners, see Section
 <<28_0>>; Exception: Case <<17_26>>). If both units, for some strange reason,
 get a Surrender Modifier, the Surrenders are ignored, no assault occurs, and
 both sides are Engaged.
 
-[#17_26]*[17.26]* If a unit or a Formation with a Basic Morale (individual or
+[#17_26]
+*[17.26]* If a unit or a Formation with a Basic Morale (individual or
 combined) of +1 or better is involved in a Morale Adjustment computation, such
 unit follows the Morale Adjustment Table normally with one exception: it ignores
 all Surrenders (treating them as a -4 adjustment).  However, it does not ignore
@@ -80,11 +86,13 @@ a. The unit has a Cohesion Level of -11 or worse; or
 b. The Enemy unit(s) has af least 3 times the Strength (Enemy Raw Offensive
 Assault to Friendly Raw Defensive Strength).
 
-[#17_27]*[17.27]* It is possible that a given Player has units of different
+[#17_27]
+*[17.27]* It is possible that a given Player has units of different
 Cohesion Levels in the same assault.  The method of determining the applicable
 Cohesion Level is the Largest Unit Rule, discussed in Case <<6_27>>.
 
-[#17_28]*[17.28]* Axis units stacked with General Rommel at the instant of
+[#17_28]
+*[17.28]* Axis units stacked with General Rommel at the instant of
 Assault have their Adjusted Morale Rating further adjusted by +1. Thus a unit
 with an Adjusted Morale Rating of 0 that is assaulting under the direct command
 of Rommel has an Adjusted Morale Rating of +1.
@@ -106,25 +114,30 @@ served in Africa, had seen, combat, or are of too low a designated morale to
 bother with training.  Those Commonwealth units designated for Training are
 based on unit descriptions and fitness reports in the various sources. .
 
-[#17_31]*[17.32]* Units that are in need of Training have, on their OA Sheets,
+[#17_31]
+*[17.32]* Units that are in need of Training have, on their OA Sheets,
 two Basic Morale Ratings. The rating in parentheses is the Untrained Rating: the
 other Rating is the maximum level of Training and Experience that that unit may
 reach, through Training.
 
-[#17_32]*[17.32]* A Commonwealth unit undergoes Training in any one of three
+[#17_32]
+*[17.32]* A Commonwealth unit undergoes Training in any one of three
 areas: Cairo (any one of the city hexes); Helwan (1430); or Alexandria (any city
 hex), or Amiriya, Abougir or Deghelia.
 
-[#17_33]*[17.33]* To undergo Training a unit may not expend any Capability
+[#17_33]
+*[17.33]* To undergo Training a unit may not expend any Capability
 Points during an Operations Stage. If, for any reason whatsoever, a unit expends
 CP's during an Operations Stage, its Training has been interrupted.
 
-[#17_34]*[17.34]* For every six Operations Stages that a unit undergoes
+[#17_34]
+*[17.34]* For every six Operations Stages that a unit undergoes
 Training, it raises its Untrained Basic Morale Rating one point. (Thus, a -1
 would become a 0, a +1 a +2, etc.) It may never exceed its designated Basic
 Morale.
 
-[#17_35]*[17.35]* In order for a unit to undergo Training, a combat battalion
+[#17_35]
+*[17.35]* In order for a unit to undergo Training, a combat battalion
 which has (or has reached) its designated Basic Morale must be present in the
 hex with the Training unit during each Operations Stage of Training. Infantry
 divisions or brigades may use an Infantry-type battalion; any unit with tanks
@@ -133,12 +146,14 @@ count against stacking limitations, and such battalions used for instructional
 purposes must be at least '4 of their assigned TOE Strength. Each instruction
 battalion may train as many units as may be stacked in that hex, ;
 
-[#17_36]*[17.36]* Units are not required to undergo Training; they may enter
+[#17_36]
+*[17.36]* Units are not required to undergo Training; they may enter
 combat with their lesser Morale Rating and then be pulled back at a later time
 for Training. However, only Training can permanently raise the Basic Morale
 Rating, regardless of the amount of combat encountered.
 
-[#17_37]*[17.37]* Commonwealth And Axis (see Case 20.43) Training Areas are
+[#17_37]
+*[17.37]* Commonwealth And Axis (see Case 20.43) Training Areas are
 indicated on the game maps.
 
 [#17_4]
@@ -154,12 +169,14 @@ surrender as a result of morale determination during a Close Assault, lack of
 ammunition of possessing 26 or more Disorganization Points. A player may
 voluntarily Surrender his units under certain conditions.
 
-[#17_51]*[17.51]* A Player may voluntarily surrender units.  The surrendered
+[#17_51]
+*[17.51]* A Player may voluntarily surrender units.  The surrendered
 units are treated as though they were captured or involuntarily surrendered
 (e.i., create prisoners for the infantry and turn the tanks, guns, and aircraft
 into replacements).
 
-[#17_52]*[17.52]* In order to voluntarily Surrender the following conditions
+[#17_52]
+*[17.52]* In order to voluntarily Surrender the following conditions
 must be met:
 
 A. The event is not occuring during Step "b" thru "f" of a Combat Segment.
@@ -170,20 +187,24 @@ being surrendered.
 C. The surrendering units must be adjacent to an Enemy combat unit and be able
 to be moved directly into that unit's hex.
 
-[#17_53]*[17.53]* Units may be surrendered to an Enemy combat unit of any size
+[#17_53]
+*[17.53]* Units may be surrendered to an Enemy combat unit of any size
 or status (except <<17_54>>).
 
-[#17_54]*[17.54]* The enemy unit must accept the surrender, expending 2 CP's to
+[#17_54]
+*[17.54]* The enemy unit must accept the surrender, expending 2 CP's to
 do so. If the Enemy unit cannot expend 2 CP's the units may not voluntarily
 surrender.
 
-[#17_55]*[17.55]* The owning Player may attempt to destroy part of the unit's
+[#17_55]
+*[17.55]* The owning Player may attempt to destroy part of the unit's
 material at the instant of voluntary surrender. This may only occur after he has
 declared that units in a hex are being voluntarily surrendered. The Player may
 not attempt to destroy anything that may not be moved or may only be moved in
 his Phasing Truck Convoy or Repair Phase.
 
-[#17_56]*[17.56]* The Player may attempt to destroy any portion of his eligible
+[#17_56]
+*[17.56]* The Player may attempt to destroy any portion of his eligible
 material. Two determinations are made, one for tanks and guns and one for
 trucks/Motorization Points The Player determines how his attempt at destroying
 tanks and guns has fared by rolling one die, subtracting one from the die roll

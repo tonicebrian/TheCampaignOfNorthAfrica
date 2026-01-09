@@ -110,28 +110,34 @@ its capabilities and relative strength in each of these areas. (See Designer's
 Notes for a discussion of how these ratings were arrived at). These are
 described in Case <<3_5>>.
 
-[#11_11]*[11.11]* The Barrage Rating is the measure of a unit's ability to
+[#11_11]
+*[11.11]* The Barrage Rating is the measure of a unit's ability to
 engage in long-range indirect fire.  Only Artillery units possess a Barrage
 rating.
 
-[#11_12]*[11.12]* The Vulnerability Rating is an abstraction of a Gun unit's
+[#11_12]
+*[11.12]* The Vulnerability Rating is an abstraction of a Gun unit's
 susceptibility to Close Assault, or how far back from the front it can operate
 without being affected by direct fire. All Guns — i.e., Artillery and Anti-Tank
 units — possess Vulnerability Ratings.
 
-[#11_13]*[11.13]* The Anti-Armor Rating is a measure of a unit's ability to
+[#11_13]
+*[11.13]* The Anti-Armor Rating is a measure of a unit's ability to
 engage in direct fire with and destroy opposing Armored units.
 
-[#11_14]*[11.14]* Armor Protection is a measure of a unit's armor, its strength
+[#11_14]
+*[11.14]* Armor Protection is a measure of a unit's armor, its strength
 and thickness vis a vis opposing Anti-Armor Ratings. Units that have Armor
 Protection Ratings are usually limited to Tanks, Recce and Armored Car units,
 and Self-Propelled Artillery.
 
-[#11_15]*[11.15]* The two Close Assault Ratings are a measure of a unit's
+[#11_15]
+*[11.15]* The two Close Assault Ratings are a measure of a unit's
 ability to perform (Offensive Assault) and defend against (Defensive Assault)
 Close Assault combat.
 
-[#11_16]*[11.16]* The AA Rating of a unit is its ability to shoot down planes.
+[#11_16]
+*[11.16]* The AA Rating of a unit is its ability to shoot down planes.
 For the most part, only AA/Flak units have this rating, but it can be found on
 other units. E.g., some Tanks have AA/Flak capability, as do some HQ units.
 
@@ -140,7 +146,8 @@ other units. E.g., some Tanks have AA/Flak capability, as do some HQ units.
 
 EXPENDITURES FOR COMBAT
 
-[#11_21]*[11.21]* A non-Phasing unit expends three CP's if
+[#11_21]
+*[11.21]* A non-Phasing unit expends three CP's if
 it undergoes an attack. Exception: see Case <<11_27>>.
 This will occur under the following circumstances:
 
@@ -154,7 +161,8 @@ later assaulted.
 
 . If it undergoes a Holding Off Barrage (see <<10_3>>).
 
-[#11_22]*[11.22]* A Phasing unit expends five CP's to perform any form of
+[#11_22]
+*[11.22]* A Phasing unit expends five CP's to perform any form of
 attack, other than a Probe. It can never expend more than five CP's in a given
 Combat, although if it engages in a different (new) round of combat after
 completing the first round of combat it will (possibly) expend more CP's. The
@@ -165,19 +173,22 @@ attack:
 
 2. It engages in Anti-Armor or Close Assault.
 
-[#11_23]*[11.23]* A Phasing unit expends fewer than 5 CP's under the following
+[#11_23]
+*[11.23]* A Phasing unit expends fewer than 5 CP's under the following
 circumstances:
 
 1. It Probes an Enemy unit (2 CP's), or
 
 2. It undergoes Barrage (3 CP's).
 
-[#11_24]*[11.24]* A non-Phasing unit never expends more than three CP's in
+[#11_24]
+*[11.24]* A non-Phasing unit never expends more than three CP's in
 combat in a given Combat Segment, regardless of what happens to it in that
 Segment. A Phasing unit never expends more than five CP's in a given Combat
 Segment. See <<11_27>>.
 
-[#11_25]*[11.25]* CP expenditures apply to all units in a hex, even if certain
+[#11_25]
+*[11.25]* CP expenditures apply to all units in a hex, even if certain
 units did not participate in combat in any way. This applies to Phasing and
 non-Phasing units. Thus, if the Commonwealth Player Close Assaults with his
 entire 7th Armored Division, but chooses to withhold the Ist KRRC, the entire
@@ -186,12 +197,14 @@ Concurrently, if the Artillery units of the 7th Armored Division had barraged
 Enemy units and then the 7th Armored did nothing else, the entire division (if
 it were all in the same hex) would still expend 5 CP's.
 
-[#11_26]*[11.26]* Generally, Phasing units will expend 5 CP's and non-Phasing
+[#11_26]
+*[11.26]* Generally, Phasing units will expend 5 CP's and non-Phasing
 units 3 CP's ina given combat Segment, except where a Phasing unit chooses to
 Probe. However, remember, if units in the hex with the Probing units Barrage the
 Enemy units those units expend 5 CP's, regardless of the Probe attempt.
 
-[#11_27]*[11.27]* A unit defending against a full (nonProbe) Close Assault in
+[#11_27]
+*[11.27]* A unit defending against a full (nonProbe) Close Assault in
 which the final Assault Differential is minus four or worse expends only one CP
 to defend.
 
@@ -205,29 +218,34 @@ this Raw Strength by fen (except for A.A). This does not apply to a unit's Armor
 Protection or Vulnerability Ratings, which remain constant and are applied and
 used differently.
 
-[#11_31]*[11.31]* The relative strength value of units during combat (with some
+[#11_31]
+*[11.31]* The relative strength value of units during combat (with some
 exceptions noted' below) is expressed in Actual Stength Points. These Actual
 Points are either applied directly to a hex or unit (as in Barrage or
 Anti-Armor) or compared with the Enemy forces (as in Close Assauit or Probe).
 Case <<12_54>> is a minor exception to this rule.
 
-[#11_32]*[11.32]* The formula for arriving at the Actual Strength of a unit is
+[#11_32]
+*[11.32]* The formula for arriving at the Actual Strength of a unit is
 as follows: Combat Rating x TOE Strength used + 10 = Actual Strength Points.
 Players should round any decimals to the nearest whole number: 11.4 = 11,
 11.5 = 12.
 
-[#11_33]*[11.33]* A unit that has less than .5 Actual Points (or, to state it
+[#11_33]
+*[11.33]* A unit that has less than .5 Actual Points (or, to state it
 differently, has only four or less Raw Points) has an Actual Strength of zero
 (0). However, if both sides of a Close Assault or Probe have less than fen Raw
 Points Players should use the Raw Points as if they were Actual Points. See also
 Case <<15_51>>. Raw Points are the numbers arrived at by multiplying the Combat
 Rating by the TOE Strength.
 
-[#11_34]*[11.34]* All Raw Points are totaled before dividing by 10 for Actual
+[#11_34]
+*[11.34]* All Raw Points are totaled before dividing by 10 for Actual
 Strength. This applies for units within a hex as well as units attacking from
 different hexes (against the same target).
 
-[#11_35]*[11.35]* As an example, we will demonstrate how to determine a variety
+[#11_35]
+*[11.35]* As an example, we will demonstrate how to determine a variety
 of combat strengths for an entire Division, using the German 90th Leichte
 Division as an example (see the OA Sheets for this unit). We will assume the
 unit is at full strength and that all units assigned are currently attached to
@@ -257,18 +275,21 @@ up). As above, these points could be split, by dividing the TOE points, or
 assigning different battalions to assault different hexes, etc. Each separate
 Close Assault is determined individually.
 
-[#11_36]*[11.36]* It will behoove the Players to keep a running track of all Raw
+[#11_36]
+*[11.36]* It will behoove the Players to keep a running track of all Raw
 and Actual Point totals for his Parent organizations on his TOE Sheets, so he
 knows at a glance what is available and what his strengths are. These strengths
 are to be kept secret from opposing Players, revealed only upon attack.
 
-[#11_37]*[11.37]* AA/Flak Actual Points are calculated the same as other
+[#11_37]
+*[11.37]* AA/Flak Actual Points are calculated the same as other
 strengths, with one major difference. As with anti-armor, close assault, and
 barrage calculations, multiply the TOE Strength by the AA Rating. But do not
 divide by ten; the raw AA Points are the Actual AA Points. Thus, an AA unit with
 a rating of 4 and a strength of 2 would have 8 AA Points.
 
-[#11_38]*[11.38]* The only combat ratings that do not use the above formula
+[#11_38]
+*[11.38]* The only combat ratings that do not use the above formula
 (multiplying by TOE Strength, etc.) are the Vulnerability and Armor Protection
 ratings. These ratings are used to determine the number of gun and armor losses
 and are discussed in Cases <<14_42>> and <<15_85>>.

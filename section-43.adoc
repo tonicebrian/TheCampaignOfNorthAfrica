@@ -15,41 +15,50 @@ Mediterranean, in terms of fighter support.
 [#43_1]
 === AXIS MEDITERRANEAN BOMBER BASE REQUIREMENTS
 
-[#43_11]*[43.11]* At least 75% of all German He 111's, Ju88D's and FW220's must
+[#43_11]
+*[43.11]* At least 75% of all German He 111's, Ju88D's and FW220's must
 be based in Mediterranean Bases.
 
-[#43_12]*[43.12]* Until 1/35 Game-Turn 1941, 75% of all German bombers must be
+[#43_12]
+*[43.12]* Until 1/35 Game-Turn 1941, 75% of all German bombers must be
 based in Italy/Sicily.
 
-[#43_13]*[43.13]* From June 1/35 Game-Turn 1941 to the end of the game at least
+[#43_13]
+*[43.13]* From June 1/35 Game-Turn 1941 to the end of the game at least
 50% of all Helll's, Ju88's, and FW220's must be based in Crete; the remaining
 25% may be based in Sicily/Italy or in Crete.
 
-[#43_14]*[43.14]* It takes one OpStage to transfer from Italy to Sicily and/or
+[#43_14]
+*[43.14]* It takes one OpStage to transfer from Italy to Sicily and/or
 to Crete, and vice-versa.
 
 [#43_2]
 === MEDITERRANEAN BASE RESTRICTIONS AND CAPABILITIES
 
-[#43_21]*[43.21]* German Bombers based in Italy/Sicily and Crete do not need
+[#43_21]
+*[43.21]* German Bombers based in Italy/Sicily and Crete do not need
 SGSU's. All their requirments are met by the specific "Box" they are in,
 including fuel and ammunition. The Axis Player does not expend fuel or ammo for
 these planes. However, all planes must be refitted  <<38_3>>)
 
-[#43_22]*[43.22]* When refitting planes as per <<38_37>> (per Squadron), the
+[#43_22]
+*[43.22]* When refitting planes as per <<38_37>> (per Squadron), the
 Axis Player should divide all bombers in a given area into groups of 6 to 12,
 considering each such group a squadron.
 
-[#43_23]*[43.23]* Bombers based in Crete must be used to attempt to raid the
+[#43_23]
+*[43.23]* Bombers based in Crete must be used to attempt to raid the
 Suez Canal area (not on the game-maps) each month. This is handled abstractly in
 that during four OpStages within a given month there may be zo bombing missions
 flown from Crete . There is no effect on the game of such missions (as they had
 little effect operationally on the Commonwealth, other than harrassment and
 extended work hours). There are also no losses.
 
-[#43_24]*[43.24]* Bombers flying from Crete may not receive any protective CAP
+[#43_24]
+*[43.24]* Bombers flying from Crete may not receive any protective CAP
 from planes in Africa.  They fly "naked".
 
-[#43_25]*[43.25]* Bombers based in Italy/Sicily may coordinate with
+[#43_25]
+*[43.25]* Bombers based in Italy/Sicily may coordinate with
 African-based fighters for CAP.  They may also be used in raids on Malta (see
 <<44_0>>).

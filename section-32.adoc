@@ -30,31 +30,37 @@ with some adjustments, in the same manner as standard supplies.
 [#32_1]
 === SUPPLY UNITS AND SUPPLY
 
-[#32_11]*[32.11]* The Players ignore all references to usage and expenditure of
+[#32_11]
+*[32.11]* The Players ignore all references to usage and expenditure of
 Ammo, Fuel, Stores and Water. (Thus, no unit will ever suffer attrition from
 lack of Stores, etc.). Only those rules for supply given below apply.
 
-[#32_12]*[32.12]* The Players will be receiving Supply Units, which are abstract
+[#32_12]
+*[32.12]* The Players will be receiving Supply Units, which are abstract
 substitutes for all of the aforementioned points. A Supply Unit is represented
 by a Supply Dump counter.
 
-[#32_13]*[32.13]* A Supply Unit has no combat capabilities. If any enemy combat
+[#32_13]
+*[32.13]* A Supply Unit has no combat capabilities. If any enemy combat
 unit enters a Supply Unit's hex, that unit is captured (and its supplies used
 immediately and freely).
 
-[#32_14]*[32.14]* A Supply Unit possesses a stacking value of zero. However,
+[#32_14]
+*[32.14]* A Supply Unit possesses a stacking value of zero. However,
 only five such units may be placed in a Major City hex while only three units
 may be placed in any other type of hex off-map.  The boxes of the
 Tripoli/Tunisia region may contain an unlimited number of Supply Units.
 
-[#32_15]*[32.15]* A Supply Unit initially contains and may never contain more
+[#32_15]
+*[32.15]* A Supply Unit initially contains and may never contain more
 than 40 Ammo Points and 60 Fuel Points. Expenditures will reduce these numbers,
 When both Ammo and Fuel Points are at zero, the Supply Unit is removed. Supplies
 may be rearranged (at no cost) among Supply Units occupying the same hex during
 the Organization Phase. Movement and combat supply requirements may be satisfied
 by any Friendly Supply Unit within range.
 
-[#32_16]*[32.16]* A Supply Unit may be drawn upon by any Friendly combat unit if
+[#32_16]
+*[32.16]* A Supply Unit may be drawn upon by any Friendly combat unit if
 it is within one-half (1/2) of that combat unit's CPA. Thus, a nonmotorized
 infantry unit would have to be within 5 CP's of a Supply Unit, while a heavy
 weapons unit being transported by Motorization Points would have to be within 10
@@ -64,7 +70,8 @@ Truck unless the unit is a non-motorized infantry unit in which case it is
 traced as infantry movement. The supply line may not be traced thru impassable
 terrain or enemy ZOC's unoccupied by Friendly units.
 
-[#32_17]*[32.17]* Players may attempt to destroy Supply Units they are with. To
+[#32_17]
+*[32.17]* Players may attempt to destroy Supply Units they are with. To
 do so the Player expends one-half of the CPA of all units in the hex (rounding
 upwards) and rolls one die for each Supply Unit in the hex. If he rolls a 1, 2
 or 3 the Supply Unit is destroyed, any other result and it is unaffected. If the
@@ -73,7 +80,8 @@ to the die roll. Attempting destruction of Supply Unit(s) occurs prior to any
 movement in a given sub-segment of a Movement/Combat Segment. Only one attempt
 may be made per Supply Unit per subSegment.
 
-[#32_18]*[32.18]* Players may use dummy Supply Units to confuse their
+[#32_18]
+*[32.18]* Players may use dummy Supply Units to confuse their
 opponent(s). For every three Supply Units a Player receives and/or begins a
 scenario with, a Player may place one dummy Supply Unit on the map. It is moved
 in the same fashion as the real thing (although it requires less Motorization
@@ -87,16 +95,19 @@ in each supply unit. The Supply Dump, Truck Convoy and TOE Log Sheets may be
 used for this purpose. Note that for this Case's purposes, the Commonwealth
 Fleet and TOE Strength Points being used to Patrot do not require supplies.
 
-[#32_21]*[32.21]* Ammo Points are expended by the number of individual
+[#32_21]
+*[32.21]* Ammo Points are expended by the number of individual
 battalion-equivalents supplied (that is, a five Stacking Point value division
 expends ammo by its component counters — not as a whole). A non-Phasing Bn-Eq
 requires one Ammo Point to participate in an Assault and two Ammo Points to
 participate in a Barrage. A Phasing unit requires twice the appropriate number
 of Ammo Points as a non-Phasing Unit.
 
-[#32_22]*[32.22]* Ammo Points must be expended at the instant of combat.
+[#32_22]
+*[32.22]* Ammo Points must be expended at the instant of combat.
 
-[#32_23]*[32.23]* Fuel Points are expended per Operations State. Basically, each
+[#32_23]
+*[32.23]* Fuel Points are expended per Operations State. Basically, each
 battalion-equivalent expends one Fuel Point in any Operations State in which it
 is moved by land (as opposed to rail or sea). In each Operations Stage, the
 first time a fuel requiring unit is moved, the required one (or two) Fuel Points
@@ -105,7 +116,8 @@ combination of movements and halts within that Operations State. If the unit
 exceeds its CPA in that OpStage, additional Fuel Points must be expended at the
 instant the unit exceeds its CPA.
 
-[#32_24]*[32.24]* Each tank battalion equivalent requires two fuel points for
+[#32_24]
+*[32.24]* Each tank battalion equivalent requires two fuel points for
 movement. Each tank Company-Eq requires one fuel point to move, All Gun-Class
 and Recce-type (excluding camel reconnaissance) battalion-equivalents require
 one Fuel Point to move. Any Motorization Points transporting infantry units (not
@@ -113,43 +125,51 @@ Replacement Points) or gun unit battalion-equivalents or a real Supply Unit
 require one Fuel Point. (Companyequivalents or Motorization Points used for
 purposes other than listed above do not require Fuel Points).
 
-[#32_25]*[32.25]* Patrolling does not require supply expenditure.
+[#32_25]
+*[32.25]* Patrolling does not require supply expenditure.
 
 [#32_3]
 === MOVEMENT OF SUPPLY UNITS
 
-[#32_31]*[32.31]* Supply Units may be moved by land, rail, sea, and air. A
+[#32_31]
+*[32.31]* Supply Units may be moved by land, rail, sea, and air. A
 Supply Unit may be moved by land or rail during the OpStage in which it arrives.
 
-[#32_32]*[32.32]* Supply Units may be transported by Motorization Points. Thirty
+[#32_32]
+*[32.32]* Supply Units may be transported by Motorization Points. Thirty
 Motorization Points are required to transport one real supply unit. Six
 Motorization Points are required to transport a dummy supply unit. Motorization
 Points may be attached/detached to supply units only during the Organization
 Phase of an OpStage. A supply unit not assigned the minimum necessary number of
 Motorization Points may not be moved.
 
-[#32_33]*[32.33]* A supply unit being transported by Motorization Points may be
+[#32_33]
+*[32.33]* A supply unit being transported by Motorization Points may be
 moved in the owning Player's Movement/Combat Phase or Truck Convoy Phase but not
 both. It may be moved in the friendly Movement and Combat Phase only if it
 begins and remains stacked with a Friendly combat unit. Not that this
 restriction has no effect on the normal non-Phasing movement.
 
-[#32_34]*[32.34]* The Commonwealth Player may transport any two supply units
+[#32_34]
+*[32.34]* The Commonwealth Player may transport any two supply units
 (real and/or dummy) by rail in any one direction as the total load for a given
 Operation Stage. Normal rail movement rules apply.
 
-[#32_35]*[32.35]* The Axis Player may transport supply units by Axis Coastal
+[#32_35]
+*[32.35]* The Axis Player may transport supply units by Axis Coastal
 Shipping. Each supply unit requires 2000 tons of coastal shipping (he may use
 two ships on one mission).
 
-[#32_36]*[32.36]* The Commonwealth Player may transport a total of one supply
+[#32_36]
+*[32.36]* The Commonwealth Player may transport a total of one supply
 unit per OpStage by sea to/from the ports of Alexandria, Benghazi, and Torbruk.
 The port of destination must currenly possess an efficiency level permitting the
 usage of at least 50% of the port's listed capacity. This sea transport occurs
 during the Naval Convoy Arrival Phase andis in lieu of any combat unit transport
 from the port of origin and into the port of destination.
 
-[#32_37]*[32.37]* Only supply units may be transported by
+[#32_37]
+*[32.37]* Only supply units may be transported by
 air. Each Player may air transport one supply unit per Game-Turn. The air
 transport occurs during the Organization Phase of an OpStage (Motorization
 Points may be detached in order for the supply unit to be air transported).  The
@@ -168,24 +188,28 @@ OpStage, although it may be drawn upon (see Case <<32_16>>).
 [#32_4]
 === AVAILABLILITY OF SUPPLY UNITS
 
-[#32_41]*[32.41]* At the start of each scenario the Players receive a specified
+[#32_41]
+*[32.41]* At the start of each scenario the Players receive a specified
 number of Supply Units (see the Simplified Supply case in each scenario). In
 addition, the Players receive Supply Units from the Simplified Supply Unit
 Availability Tables (see case <<32_46>> and <<32_47>>.
 
-[#32_42]*[32.42]* Supply Units for the Axis Player arrive as per convoy,
+[#32_42]
+*[32.42]* Supply Units for the Axis Player arrive as per convoy,
 see <<32_6>> Commonwealth Supply Units are placed in Cairo unless more than three
 are received in a single Game-Turn. In sucha case, one Supply Unit for every
 three received may be placed in Alexandria.
 
-[#32_43]*[32.43]* At the beginning of each Game-Turn, the Players plan for the
+[#32_43]
+*[32.43]* At the beginning of each Game-Turn, the Players plan for the
 arrival of their supply units.  The Axis Player plans two Game-Turns in advance,
 the Commonwealth four Game Turns in advance. Players may do as much planning as
 is necessary to that, with the exception of the starting Game-Turn of a
 scenario, Supply Units arrive on all Game-Turns (if permitted by the planning
 die rolls).
 
-[#32_44]*[32.44]* The Axis Player plans his supply using the following
+[#32_44]
+*[32.44]* The Axis Player plans his supply using the following
 procedure. He consults the Axis Naval Convoy 00.00 and determines the
 appropriate Availability Chart Tonnage Availability Letter for the month in
 which he is planning (not the month in which it is arriving). He then consults
@@ -194,53 +218,63 @@ indixes the roll with the column matching the letter. The result is the number
 of Real Supply Units he may bring in on Axis Naval Convoys two Game-Turns from
 then.
 
-[#32_43]*[32.43]* The Commonwealth Player plans his supply using the following
+[#32_43]
+*[32.43]* The Commonwealth Player plans his supply using the following
 procedure. He consults the Commonwealth Simplified Supply Availability Table and
 determines the time period involved.  This time period is that of the arrival of
 the Supply Units, not the one in which they are being planned.  He then rolls
 one die, cross indexing it with the proper column. The result is the number of
 Real Supply Units he receives four Game-Turns hence.
 
-[#32_46]*[32.46] Axis Simplified Supply Availability Table*
+[#32_46]
+*[32.46] Axis Simplified Supply Availability Table*
 
 (see Charts and Tables)
 
-[#32_47]*[32.47] Commonwealth Simplified Supply Availability Table*
+[#32_47]
+*[32.47] Commonwealth Simplified Supply Availability Table*
 
 (see Charts and Tables)
 
 [#32_5]
 === MOTORIZATION POINTS
 
-[#32_53]*[32.53]* Motorization Points are used in place of Truck Points. They
+[#32_53]
+*[32.53]* Motorization Points are used in place of Truck Points. They
 are used to transport (motorize)units and may also be assigned to transport
 Supply Units. Motorization Points are treated in all aspects as Medium Truck
 Points except as modified in this Major Case.
 
-[#32_52]*[32.52]* Each scenario lists the number of Motorization Points
+[#32_52]
+*[32.52]* Each scenario lists the number of Motorization Points
 initially available to the Players. Additional Motorization Points are received
 as reinforcements as per scenario instructions. In addition, Players may bring
 in Motorization Points as Replacements at a rate equal to their ability to bring
 in Mdium Truck Replacement Points.
 
-[#32_53]*[32.53]* Motorization Points may be used to transport units and all
+[#32_53]
+*[32.53]* Motorization Points may be used to transport units and all
 Guns with a CPA of 0+.  All normal units are considered to possess their own
 'built-in' transport, as in the standard game.
 
-[#32_54]*[32.54]* All 'leg' infantry units may be motorized.  However, a Player
+[#32_54]
+*[32.54]* All 'leg' infantry units may be motorized.  However, a Player
 must assign Motorization Points sufficient to transport all historically
 motorized infantry units (i.e., those with CPA's of 8+ and 10+) before assigning
 them to any other infantry-type units.
 
-[#32_55]*[32.55]* Motorization points are not subject to Breakdown. All other
+[#32_55]
+*[32.55]* Motorization points are not subject to Breakdown. All other
 Breakdown rules apply.
 
-[#32_56]*[32.56]* Motorization Points are normally subject to loss only if the
+[#32_56]
+*[32.56]* Motorization Points are normally subject to loss only if the
 unit they are assigned to is eliminated. If their assigned unit is captured, the
 Motorization Points are also captured and may be used by the Enemy. Note that a
 Barrage Combat Result against Trucks never occurs.
 
-[#32_57]*[32.57]* Motorization Points are subject to (abstract) loss from
+[#32_57]
+*[32.57]* Motorization Points are subject to (abstract) loss from
 various factors (mostly Enemy aircraft). During the first Naval Convoy Stage of
 each month, Motorization Points losses for the previous month are determined.
 The Players consult the Abstract Motorization Point Loss Chart and read the
@@ -252,7 +286,8 @@ is that of the total Motorization Points belonging to the Player on the map
 lost may be removed from anywhere on map Section E for the Commonwealth Player
 or anywhere on Section A (including the off-map region) for the Axis Player.
 
-[#32_58]*[32.58]* Motorization Points transporting a supply unit have the
+[#32_58]
+*[32.58]* Motorization Points transporting a supply unit have the
 following attributes:
 
 A. They possess a CPA of 15.
@@ -265,31 +300,36 @@ combat.
 
 D. May react unless the unit moving adjacent possesses a CPA of 35 or more.
 
-[#32_59]*[32.59] Abstract Truck/Motorization Loss Chart*
+[#32_59]
+*[32.59] Abstract Truck/Motorization Loss Chart*
 
 (see Charts and Tables)
 
 [#32_6]
 === SIMPLIFIED AXIS NAVAL CONVOYS
 
-[#32_61]*[32.61]* In the abstract Logistics game system, Axis Naval Convoys
+[#32_61]
+*[32.61]* In the abstract Logistics game system, Axis Naval Convoys
 consist of all Supply Units, Motorization Points and Replacement Points for that
 Game-Turn. These items may be divided and assigned to any Convoy Lane available,
 as per rules for such assignment <<56_0>>. These have no tonnage limitation.
 
-[#32_62]*[32.62]* The Axis Player may never assign more than three Supply Units
+[#32_62]
+*[32.62]* The Axis Player may never assign more than three Supply Units
 and twenty Motorization Points to any one Convoy Lane in any one Naval Convoy
 Stage. Note that the Axis Player is limited by the Replacement Pool's charts as
 to the maximum number of each type item that may be assigned to Axis Naval
 Convoys (total) for arrival during a particular Game-Turn.
 
-[#32_63]*[32.63]* The Commonwealth Player may attempt to destroy whatever is
+[#32_63]
+*[32.63]* The Commonwealth Player may attempt to destroy whatever is
 being shipped by a particular convoy. He may attack all convoys regardless of
 the weather on the map. The attack(s) occur in the Naval Convoy Phase of the
 OpStage. The Axis Player announces which convoy lanes are being used. The
 Commonwealth Player then attacks each arriving convoy separately.
 
-[#32_64]*[32.64]* Each attack is carried out as follows: The Commonwealth Player
+[#32_64]
+*[32.64]* Each attack is carried out as follows: The Commonwealth Player
 consults the Simple Axis Naval Convoy Bombing Chart <<32_66>> and reads down the
 proper Convoy Lane column until reaching the westernmost location of a
 qualifying Commonwealth division. He then reads across that row to determine the
@@ -299,7 +339,8 @@ sequentially and refers to the previously determined Bomb Points column to yield
 the result. The result is expressed in percentage of supply units, Motorization
 Points and Replacement Points assigned to that convoy lane that are destroyed.
 
-[#32_65]*[32.65]* The result obtained above on the Axis Naval' Convoy is
+[#32_65]
+*[32.65]* The result obtained above on the Axis Naval' Convoy is
 modified as follows:
 
 A. A result of 10% applies only to Motorization Points and Replacement Points,
@@ -316,28 +357,33 @@ total, not the individual types. For example, a convoy carrying one point of CV
 that suffers a 10% loss only has the CV 33 and one German tank point eliminated
 (the Axis Player's choice).
 
-[#32_66]*[32.66] Simple Axis Naval Convoy Bombing Chart*
+[#32_66]
+*[32.66] Simple Axis Naval Convoy Bombing Chart*
 
 (see Charts and Tables)
 
 [#32_7]
 === BOMBARDMENT OF THE COMMONWEALTH FLEET
 
-[#32_71]*[32.71]* The Axis Player may perform a limited number of Bombardment
+[#32_71]
+*[32.71]* The Axis Player may perform a limited number of Bombardment
 attacks on the Commonwealth Fleet in Alexandria Harbor.
 
-[#32_72]*[32.72]* The Axis Player determines the number of such attacks he is
+[#32_72]
+*[32.72]* The Axis Player determines the number of such attacks he is
 permitted to make in the scenario as follows: He rolls one die secretly, adding
 two to the number if playing a Campaign Game. The result is the number of
 attacks the Axis Player may perform against Commonwealth ships using the Air
 Bombardment and Secondary Barrage Targets Combat Results Table in that Scenario.
 
-[#32_73]*[32.73]* The Axis Player may only perform one such attack per
+[#32_73]
+*[32.73]* The Axis Player may only perform one such attack per
 Operations Stage. Each attack must be plotted secretly during the Commonwealth
 Fleet Assignment Segment of an Operations Stage. Once planned, it occurs in the
 Tactical Naval Movement Segment of that Operations Stage.
 
-[#32_74]*[32.74]* The attack is performed as follows:
+[#32_74]
+*[32.74]* The attack is performed as follows:
 
 a. The Axis Player determines the strength of the attack by consulting the Air
 Bombardment and Secondary Barrage Target Combat Results Table and rolling one
@@ -352,23 +398,27 @@ number of damage points (see the Chariot Raid Table, <<30_46>> inflicted upon th
 ships in Alexandria Harbor (only). The Axis Player may distribute these Damage
 Points in any manner he wishes.
 
-[#32_75]*[32.75]* No Bombardment attack may be made if Game-map section "E"'s
+[#32_75]
+*[32.75]* No Bombardment attack may be made if Game-map section "E"'s
 weather is either rain storm or sand storm.
 
 [#32_8]
 === ANTI-AIR UNIT MODIFICATIONS
 
-[#32_81]*[32.81]* The Commonwealth Player removes all Anti-air units and all
+[#32_81]
+*[32.81]* The Commonwealth Player removes all Anti-air units and all
 Light and Heavy Anti-air TOE Strength Points (regardless of where assigned) from
 play. This includes anti-air Replacement Points. Captured Axis anti-air TOE
 Strength Points are immediately removed from play.
 
-[#32_82]*[32.82]* The Axis Player removes all German antiair units with ID Codes
+[#32_82]
+*[32.82]* The Axis Player removes all German antiair units with ID Codes
 of "z" and "bb" from play. All assigned light anti-air TOE Strength Points and
 Replacement Points are removed from play. Heavy anti-air TOE Strength Points and
 Replacement Points are unaffected.
 
-[#32_83]*[32.83]* The Axis Player's Italian forces are affected as follows:
+[#32_83]
+*[32.83]* The Axis Player's Italian forces are affected as follows:
 
 1. All anti-air units (.e., those with ID Codes of "ss" "tt" and "uu") are
 removed from play.
@@ -384,7 +434,8 @@ assigned Heavy anti-air TOE Strength Points.
 5. Light anti-air Replacement Points may only be brought in at a rate of one per
 month (effectively halving the number of available points).
 
-[#32_84]*[32.84]* All of the above modifications and restrictions apply to
+[#32_84]
+*[32.84]* All of the above modifications and restrictions apply to
 anti-air TOE Strength Points and Replacement Points. They do not affect
 non-antiair TOE Strength Points/Replacement Points that possess an anti-air
 rating.
@@ -429,16 +480,18 @@ moved. Note that there were emplaced guns at Benghazi that are not represented
 in CNA due to their inability to fire at shoreward targets coupled with the game
 restriction as to how far west Commonwealth warships may operate.
 
-<<3_6>> LIMITED INTELLIGENCE (addition). CNA relies heavily on the Players'
+*[3.6] LIMITED INTELLIGENCE (addition)*. CNA relies heavily on the Players'
 willingness to trust one another. Virtually all of the information in the game
 is kept hidden from your opponent.  Even in land combat, only the totals are
 revealed, not the units producing them.
 
-[#3_61]*[3.61]* Players are not entitled to any knowledge
+[#3_61]
+*[3.61]* Players are not entitled to any knowledge
 of the status, composition, or any other attributes
 of any opposing counter in CNA except as expressly indicated in the rules.
 
-[#3_62]*[3.62]* The following is a partial listing of the information available
+[#3_62]
+*[3.62]* The following is a partial listing of the information available
 to opposing Players:
 
 Map:: A Player may examine any stack of counters
@@ -481,33 +534,40 @@ being performed.
 artillery units apply to any unit comprised of TOE Strength Points with a
 Barrage Rating.
 
-[#12_23]*[12.23]* (addition) Commonwealth warships are always considered to be
+[#12_23]
+*[12.23]* (addition) Commonwealth warships are always considered to be
 historically identified targets.
 
-[#12_46]*[12.46]* (clarification) Trucks do not receive terrain benefits.
+[#12_46]
+*[12.46]* (clarification) Trucks do not receive terrain benefits.
 
 <<14_0>> *(clarification)* Anti-armor fire occurs within a hex occupied by the
 non-Phasing Player's units. However, either Player may be the attacker and/or
 the defender.
 
-[#14_15]*[14.15]* (addition) A parenthesized anti-armor rating may only be used
+[#14_15]
+*[14.15]* (addition) A parenthesized anti-armor rating may only be used
 if there are no units comprising TOE Strength Points possessing nonparenthesized
 anti-armor ratings. Note that replacement points do not affect this ability.
 
-[#14_27]*[14.27]* (clarification) The Phasing Player may send TOE Strength
+[#14_27]
+*[14.27]* (clarification) The Phasing Player may send TOE Strength
 Points from a unit into different hexes, regardless of whether all are engaging
 in anti-armor or all in close assault.
 
-[#16_51]*[16.51]* (clarification) Note that the Patrolling Player does not
+[#16_51]
+*[16.51]* (clarification) Note that the Patrolling Player does not
 identify the types of TOE Strength Points comprising the unit. Example: A tank
 battalion comprising four Shermans, two Stuarts, and two Mark VI Lights (8 TOE
 Points) can be simply reported as a tank battalion of six points (8 + 2 points).
 
-[#19_62]*[19.62]* (addition) Any eliminated unit whose maximum TOE Limit is one
+[#19_62]
+*[19.62]* (addition) Any eliminated unit whose maximum TOE Limit is one
 or two TOE Strength Points. If the unit's assigned spot has been taken by the
 time it is recreated, it is treated as an independent unit.
 
-[#20_63]*[20.63]* The Axis Player is required to schedule at least fwo weeks in
+[#20_63]
+*[20.63]* The Axis Player is required to schedule at least fwo weeks in
 advance, those Replacement Points (from his Axis Replacement Pool) he is sen
 ding to NorthAfrica via the Axis naval convoys.  Replacement Points may be
 scheduled to arrive during any OpStage of a Game-Turn, as per the naval convoy
@@ -517,18 +577,22 @@ Naval Convoy Schedule Phase. (Players should note that the maximum tonnage that
 the Axis naval convoys of the third week of August is determined during the
 second week of August!)
 
-[#21_11]*[21.11]* (addition) TOE Strength Points comprising a headquarters unit
+[#21_11]
+*[21.11]* (addition) TOE Strength Points comprising a headquarters unit
 are not subject to breakdown, regardless of type.
 
-[#21_63]*[21.63]* (clarification) Any portion of the broken down vehicles in a
+[#21_63]
+*[21.63]* (clarification) Any portion of the broken down vehicles in a
 hex may be towed. However, if only some are towed, the owning Player will have
 to place an additional marker in the new location and adjust his information on
 the control sheet (see Case<<21_67>>).
 
-[#21_67]*[21.67]* (addition) Players should avoid proliferating masses of broken
+[#21_67]
+*[21.67]* (addition) Players should avoid proliferating masses of broken
 down vehicles and destroyed tank markers over the game map.
 
-[#23_15]*[23.15]* (addition) The Commonwealth Player receives, via the
+[#23_15]
+*[23.15]* (addition) The Commonwealth Player receives, via the
 Reinforcement Track, two tank battalions completely refitted (re-equipped) with
 Scorpion tanks (historically the 42nd and 44th Royal Tank Regiments). These two
 battalions are engineer units but possess only anti-minefield capabilities. Each
@@ -537,16 +601,19 @@ least six Scorpion TOE Strength Points. Note that the points may not be
 transferred to other units for any reason, including the elimination of the
 "tank" battalion.
 
-[#24_79]*[24.79]* (addition) A maximum of one flying boat facility and one
+[#24_79]
+*[24.79]* (addition) A maximum of one flying boat facility and one
 non-flying boat facility may be built in any hex. Air landing strips and flying
 boat alighting areas may be upgraded to airfield and flying boat basin status
 respectively. However, the facility may not be used while the upgrading is
 underway and no benefit in reduction of construction is applied.
 
-[#27_32]*[27.32]* (clarification) This includes pipeline in railroad hexes
+[#27_32]
+*[27.32]* (clarification) This includes pipeline in railroad hexes
 (although the railroad itself may not be harmed by a raid).
 
-[#30_36]*[30.36]* (addition) If the warship is eliminated while transporting a
+[#30_36]
+*[30.36]* (addition) If the warship is eliminated while transporting a
 commando unit, the commando unit is also eliminated.
 
 [discrete]

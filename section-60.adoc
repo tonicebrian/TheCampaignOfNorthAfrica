@@ -15,26 +15,30 @@ starts with the first Italian offensive and subsequent British counter-attack.
 [#60_2]
 === SCENARIO LENGTH
 
-[#60_21]*[60.21]* There are two separate scenarios in the Italian scenario
+[#60_21]
+*[60.21]* There are two separate scenarios in the Italian scenario
 group; each may be played separately to a specific conclusion.
 
-[#60_22]*[60.22]* Graziani's Offensive
+[#60_22]
+*[60.22]* Graziani's Offensive
 
 This scenario starts with Game-Turn 1, OpStage 1; it ends with the conclusion of
 Game-Turn 6, OpStage 3. The estimated time of play is anywhere from 25 to 50
-hours. Victory Conditions are listed in Case <<60_71>>.
+hours. Victory Conditions are listed in Case <<60_81>>.
 
-[#60_23]*[60.23]*. The Italian Campaign
+[#60_23]
+*[60.23]*. The Italian Campaign
 
 This scenario starts with Game-Turn 1, OpStage 1, and proceeds through the end
 of Game-Turn 20, OpStage 3. It includes Operation Compass (O'Conner's
 counteroffensive). The estimated time of play is 90 to 150 hours. Victory
-Conditions are listed in Case <<60_72>>.
+Conditions are listed in Case <<60_81>>.
 
 [#60_3]
 === AXIS FORCES
 
-[#60_31]*[60.31]* Italian Initial Deployment (Hex; Units)
+[#60_31]
+*[60.31]* Italian Initial Deployment (Hex; Units)
 C4218: 1 CCNN Div (I; Att: I(M) [T; Ar/LTC]
 Trucks: 10 light, 25 medium, 10 heavy.
 
@@ -108,7 +112,8 @@ may be attached, each point to any unit (but not both to the same) ignoring all
 regular unit composition restrictions.  Or they may be deployed in Tobruk as
 regular (i.e., trained and fueled) replacement points.
 
-[#60_32]*[60.32]* Italian Air Strengths The following planes may be placed at
+[#60_32]
+*[60.32]* Italian Air Strengths The following planes may be placed at
 any Italian airfields, landing strips, flying boat basins, etc., within the
 capacities of those facilities. However, no planes start the game in
 Italy/Scily. Crete is unavailable (it is still British).
@@ -140,7 +145,8 @@ One's: 15
 
 Italian SGSU Available: 39.
 
-[#60_33]*[60.33]* Italian Second-Third Lime Trucks
+[#60_33]
+*[60.33]* Italian Second-Third Lime Trucks
 
 The Italian Player receives the following trucks (Points). He may assign them
 and place them as he wishes; within the restrictions listed. (Original
@@ -165,7 +171,8 @@ assignments may, of course, be changed as the game progresses).
 The Italians have a major repair facility at Tripoli, and a temporary facility
 at Tobruk and Benghazi.
 
-[#60_34]*[60.34]* Axis Initial Supply Status: The Axis Player receives Dumps
+[#60_34]
+*[60.34]* Axis Initial Supply Status: The Axis Player receives Dumps
 with the following supplies at the following locations:
 
 
@@ -190,14 +197,17 @@ Libya that is not within four hexes of a Commonwealth unit.
 In addition the Axis Player receives a total of 1200 Ammo, 850 Fuel, 100 Stores
 and 100 Water Points which may be freely distributed among his airfields,
 
-[#60_35]*[60.35]* The Italian Player may use all Axis coastal shipping counters.
+[#60_35]
+*[60.35]* The Italian Player may use all Axis coastal shipping counters.
 They start the game in Tripoli.
 
-[#69_36]*[69.36]* The Axis Player's Strategic attacks on Malta are restricted to
+[#69_36]
+*[69.36]* The Axis Player's Strategic attacks on Malta are restricted to
 forces called for by Availability Level I (see the Axis strategic Commitment
 Chart, case <<44_41>>).
 
-[#60_37]*[60.37]* The Italian Player must plan convoy runs for the remainder of
+[#60_37]
+*[60.37]* The Italian Player must plan convoy runs for the remainder of
 September, 1940, prior to starting the game. He may only use lanes 2,3 and 6.
 
 Consult the Convoy Availability Charts to see what shipping the Italian
@@ -206,7 +216,8 @@ Player has. He receives all reinforcements as per the Reinforcement Track.
 [#60_4]
 === COMMONWEALTH FORCES
 
-[#60_41]*[60.41]* Commonwealth Initial Deployment
+[#60_41]
+*[60.41]* Commonwealth Initial Deployment
 (Hex: Units)
 
 C4131: 2nd Scots Guards (I); 31st Field Arty Regt
@@ -270,7 +281,8 @@ Broken Down Vehicles
 Alexandria: 2 TOE of A9 Cruiser Tanks; 1 TOE of
 A10 Cruiser tanks.
 
-[#60_42]*[60.42]* Commonwealth North African Air Force The following planes,
+[#60_42]
+*[60.42]* Commonwealth North African Air Force The following planes,
 SGSU's and pilots may be placed at any Commonwealth N. African air facility,
 within the capacity of that facility.
 
@@ -294,7 +306,8 @@ within the capacity of that facility.
 *May be in the same squadron (Free French).  Pilots Available: 1 Three, 5 Two's
 and 8 One's.  SGSU Available: 14.
 
-[#60_43]*[60.43]* Commonwealth Second-Third Line Trucks The Commonwealth Player
+[#60_43]
+*[60.43]* Commonwealth Second-Third Line Trucks The Commonwealth Player
 receives the following Truck Points; He may assign them and place them as he
 wishes, within the restrictions listed. (These will change).
 
@@ -321,7 +334,8 @@ wishes, within the restrictions listed. (These will change).
 20 Heavy
 |===
 
-[#60_44]*[60.44]* INITIAL SUPPLY STATUS
+[#60_44]
+*[60.44]* INITIAL SUPPLY STATUS
 
 |===
 | Location | Ammo | Fuel | Stores
@@ -347,7 +361,8 @@ The Commonwealth Player has his Major Repair
 Facility in Alexandria. He has one Temporary
 Facility in Mersa Matruh.
 
-[#60_45]*[60.45]* Commonwealth Fleet: The Commonwealth Player has a total of one battleship,
+[#60_45]
+*[60.45]* Commonwealth Fleet: The Commonwealth Player has a total of one battleship,
 three cruisers and seven destroyers available at the
 beginning of the campaign. These are deployed according to the Commonwealth Fleet Schedule (see
 Section <<30_0>>). The warships may not be moved until the first OpStage of the second Game-Turn.
@@ -377,7 +392,8 @@ The following units are in Valetta, in Malta:
 No Fleet units may be moved until the September 1/IV Stage/Turn. All ships may
 use their AA Ratings.
 
-[#60_46]*[60.46]* Malta Planes:
+[#60_46]
+*[60.46]* Malta Planes:
 
 [cols="1,3,2,2"]
 |===
@@ -398,7 +414,8 @@ SGSU's. These may be spread amongst the Malta facilities as the player wishes.
 Construction on increasing the capacity of Malta Air Facilities may begin in
 October, 1940.
 
-[#60_47]*[60.47]* The Commonwealth Player uses his Reinforcement Track as
+[#60_47]
+*[60.47]* The Commonwealth Player uses his Reinforcement Track as
 printed, bringing in units where and when listed (Remember that some units need
 Training, which means that other units have to be assigned as Training Units!)
 No Replacement Points may arrive before November 1940.
@@ -505,7 +522,8 @@ blocking the harbor).
 [#60_8]
 === FIRST SCENARIO GROUP VICTORY CONDITIONS
 
-[#60_81]*[60.81]* Grazianni's Offensive
+[#60_81]
+*[60.81]* Grazianni's Offensive
 
 Italian Strategic Victory: The Italian Player must take and hold either
 Alexandria or Cairo (any hex) with a combat unit that can be supplied (by
@@ -527,7 +545,8 @@ Omar, Sollum and Siwa, supply as above.
 
 Commonwealth Strategic Victory: Must take and hold Tobruk; supply as above.
 
-[#60_82]*[60.82]* The Italian Campaign
+[#60_82]
+*[60.82]* The Italian Campaign
 
 Players are awarded points for holding (occupying) the following locations.
 Units holding such places must be combat units (i.e., units with
@@ -565,11 +584,13 @@ This Case lists the adjustments needed in addition to those given in Case
 <<59_6>> in order to play this scenario without the Air and/or Logistics
 Game(s).
 
-[#60_91]*[60.91]* Air Abstracted
+[#60_91]
+*[60.91]* Air Abstracted
 
 (Land & Logistics Games): None.
 
-[#60_92]*[60.92]* Air & Logistics Abstracted (Land Game Only):
+[#60_92]
+*[60.92]* Air & Logistics Abstracted (Land Game Only):
 
 A. The Players' ability to bring in Motorization Points is equal to their
 respective abilities to bring in Medium Truck Points (i.e., each Medium Truck
@@ -610,7 +631,8 @@ units which may be placed according to the rule for Dump 1.
 In addition, Alexandria and Cairo each possess
 three regular supply units, each supply unit containing 40 Ammo & 60 Fuel.
 
-[#60_93]*[60.93]* Logistics Abstracted (Land & Air Games):
+[#60_93]
+*[60.93]* Logistics Abstracted (Land & Air Games):
 
 A. The Players' ability to bring in motorization points is equal to their
 respective abilitys to bring in Medium plus Heavy Trucks (i.e., each Medium and

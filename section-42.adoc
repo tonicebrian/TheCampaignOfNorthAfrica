@@ -5,23 +5,28 @@
 [#42_1]
 === TRANSFER MISSIONS
 
-[#42_11]*[42.11]* A transfer mission is flying a plane from one air facility to
+[#42_11]
+*[42.11]* A transfer mission is flying a plane from one air facility to
 another.
 
-[#42_12]*[42.12]* Transfer missions should be flown before undertaking any other
+[#42_12]
+*[42.12]* Transfer missions should be flown before undertaking any other
 missions, so as not to forget them in the heat of battle. Unless they run into
 Enemy CAP (see <<40_27>> they should not run into any problems.
 
-[#42_13]*[42.13]* Planes flying transfer missions may double their range.
+[#42_13]
+*[42.13]* Planes flying transfer missions may double their range.
 Transfer is a one-way flight; transfer planes do not (cannot) return to their
 base of origin.
 
-[#42_14]*[42.14]* Planes flying transfer need not be refitted to fly. However, a
+[#42_14]
+*[42.14]* Planes flying transfer need not be refitted to fly. However, a
 plane completing a transfer mission must be refitted to fly another mission in
 the next Stage or Turn. Transfer missions consume fuel; whether planes
 conducting them are armed is a question of choice.
 
-[#42_15]*[42.15]* To assign a plane a transfer mission, write "Transfer to" and
+[#42_15]
+*[42.15]* To assign a plane a transfer mission, write "Transfer to" and
 the hex of destination in the mission box of the Squadron Control Sheet.  The
 plane is then placed in the new hex. Transfers are flown only in Tactical Land
 Support Phases of the Operations Stage.
@@ -29,21 +34,25 @@ Support Phases of the Operations Stage.
 [#42_2]
 === RECONNAISSANCE MISSIONS
 
-[#42_21]*[42.21]* Reconnaissance (Recon) missions may be flown by any plane with
+[#42_21]
+*[42.21]* Reconnaissance (Recon) missions may be flown by any plane with
 a Recon Capability ("R").
 
-[#42_22]*[42.22]* The object of a Recon mission is to find out what units—in
+[#42_22]
+*[42.22]* The object of a Recon mission is to find out what units—in
 general terms—the Enemy has in a given hex. Therefore, Recon missions are flown
 over a specific hex with an Enemy unit in it.  Recon missions may be flown over
 any hex except for major cities.
 
-[#42_23]*[42.23]* The Player assigns a number of planes to fly Recon to a
+[#42_23]
+*[42.23]* The Player assigns a number of planes to fly Recon to a
 specific hex. After all air-to-air and flak, the Player totals the number of
 planes on Recon in that hex and consults the Air Reconnaissance Table
 <<42_27>> rolling one die. The result is the number of units in hex the Player
 has learned information about  <<42_24>>.
 
-[#42_24]*[42.24]* For each battalion-sized unit the player flying Recon can
+[#42_24]
+*[42.24]* For each battalion-sized unit the player flying Recon can
 learn about, the opposing Player must reveal the type of unit and its TOE
 strength under the following conditions:
 
@@ -55,26 +64,31 @@ b. The opposing player must give the TOE strength, but may "lie" in either
 direction to a deviation of '2'. Thus, for a unit witha TOE of '3' he could say
 it had '1' or '5' or any number in between.
 
-[#42_25]*[42.25]* No Recon mission may be flown in a hex that is undergoing air
+[#42_25]
+*[42.25]* No Recon mission may be flown in a hex that is undergoing air
 bombardment,
 
-[#42_26]*[42.26]* Land Recon missions are flown in the Tactical Land Support Air
+[#42_26]
+*[42.26]* Land Recon missions are flown in the Tactical Land Support Air
 Phase of the OpStage.  Planes flying Recon require refit. Recon missions against
 Axis Naval convoys are flown during the Strategic Air Phase.
 
-[#42_27]*[42.27] Air Reconnaissance of Land Units Table*
+[#42_27]
+*[42.27] Air Reconnaissance of Land Units Table*
 
 (see Charts and Tables)
 
 [#42_3]
 === TRANSPORT MISSIONS
 
-[#42_31]*[42.31]* Certain planes with transport capability may transport
+[#42_31]
+*[42.31]* Certain planes with transport capability may transport
 personnel or supplies by air. The cargo capacity of each transport is listed on
 the Aircraft Characteristics Chart in terms of TOE Strength Points or tons of
 supplies.
 
-[#42_32]*[42.32]* For a Transport to carry a TOE Strength Point or supplies to a
+[#42_32]
+*[42.32]* For a Transport to carry a TOE Strength Point or supplies to a
 given hex, that "cargo" must start the Operations Stage in the hex with the
 transport. The transport may then fly one type of transport mission:
 
@@ -82,25 +96,30 @@ a. The Transport flies to the target hex, lands the cargo, and flies back; or
 b. The transport flies to the target hex and lands, remaining in that hex. In
 this case, the transport may use its transfer range (double its normal range).
 
-[#42_33]*[42.33]* Transport missions must be flown to Friendly air facilities,
+[#42_33]
+*[42.33]* Transport missions must be flown to Friendly air facilities,
 as the planes have to land.  Supplies and personnel may be airdropped under
 special circumstances (See <<42_4>>)
 
-[#42_34]*[42.34]* Personnel transported by air may not voluntarily move in the
+[#42_34]
+*[42.34]* Personnel transported by air may not voluntarily move in the
 Operations Stage they are transported in, having used their allotted CPA.
 ‘Personnel may be flown into a hex in an Enemy Zone of Control; however, such
 units may not be used for any attacks. That is, they may not voluntarily expend
 CP's on combat. They may defend.  Personnel air-transported may never
 voluntarily exceed their basic CPA, through reaction or retreat before assault.
 
-[#42_35]*[42.35]* Supplies air-transported may be used as soon as they can be
+[#42_35]
+*[42.35]* Supplies air-transported may be used as soon as they can be
 assigned to a dump or specific units. They cannot be used directly "off the
 plane." They must be distributed in the Organization Phase first.
 
-[#42_36]*[42.36]* Transport missions may be flown only in Operations Stages.
+[#42_36]
+*[42.36]* Transport missions may be flown only in Operations Stages.
 Planes require refitting,even when flying Transport Missions.
 
-[#42_37]*[42.37]* Only infantry (without trucks), motorcycle infantry/recce
+[#42_37]
+*[42.37]* Only infantry (without trucks), motorcycle infantry/recce
 units, and airborne units may be transported by air. Exception: dead camels may
 be transported by air. Live camels may nor be transported by air.
 
@@ -111,31 +130,37 @@ Although there were several airborne units in the desert campaign (The Ramcke
 Brigade and the Folgore Division), there were no major airborne missions. The
 following rules are, in. essence, hypothetical.
 
-[#42_41]*[42.41]* Units capable of being airdropped are so noted on the OA
+[#42_41]
+*[42.41]* Units capable of being airdropped are so noted on the OA
 Sheets. Such units may be airdropped by transport planes during a tactical land
 support Air Phase, under certain circumstances.
 
-[#42_42]*[42.42]* An airborne mission is the same as a transport mission
+[#42_42]
+*[42.42]* An airborne mission is the same as a transport mission
 (<<42_32>>a). The only difference is that the units are dropped into the hex, not
 landed, so an air facility is not needed for the transports.  However, they must
 start from a Friendly air facility.
 
-[#42_43]*[42.43]* Units may be airdropped into any clear, gravel or desert hex.
+[#42_43]
+*[42.43]* Units may be airdropped into any clear, gravel or desert hex.
 They may not be airdropped into major cities and they may not be airdropped into
 hexes occupied by Enemy units or hexes in an Enemy Zone of Control. Units may be
 airdropped into a Friendly occupied hex, within stacking restrictions, as long
 as such hex is not in an Enemy ZOC. In addition, the drop-zone hex may not be
 more than two hexes from a recognizable land feature  <<42_44>>.
 
-[#42_44]*[42.44]* A recognizable land feature is a major city, a road
+[#42_44]
+*[42.44]* A recognizable land feature is a major city, a road
 (unfinished, destroyed or not) or railroad hex, a village, air facility, or
 oasis.
 
-[#42_45]*[42.45]* Airdrops may not occur in sandstorms or rainstorms. However,
+[#42_45]
+*[42.45]* Airdrops may not occur in sandstorms or rainstorms. However,
 there is no drift; units always drop in the target hex. There are no casualties
 in an airdrop.
 
-[#42_46]*[42.46]* Airdropped units require and use supplies the same as any
+[#42_46]
+*[42.46]* Airdropped units require and use supplies the same as any
 unit: they are not commandos. Thus, only certain types of supplies may be
 airdropped: ammunition and stores may be airdropped (using the precepts of
 <<42_42>>and <<42_43>>). Supplies may be airdropped into a Friendly-occupied hex
@@ -144,11 +169,13 @@ to use the recognizable land feature provision of the airdrop rule. Airdropped
 supplies may be used as soon as they arrive, unlike transported supplies
 <<42_35>>.
 
-[#42_47]*[42.47]* Airdropped combat units may move and fight normally, with one
+[#42_47]
+*[42.47]* Airdropped combat units may move and fight normally, with one
 exception: they may not voluntarily exceed their CPA in the Operations Stage in
 which they are dropped.
 
-[#42_48]*[42.48]* There is no limit to the number of TOE Strength Points that
+[#42_48]
+*[42.48]* There is no limit to the number of TOE Strength Points that
 may be dropped (within the limits of how many transport planes you can muster).
 However, no unit may be airdropped more than once a month (every 12 Operations
 Stages).
@@ -156,11 +183,13 @@ Stages).
 [#42_5]
 === NAVAL CONVOY RECONNAISSANCE MISSIONS
 
-[#42_51]*[42.51]* The Commonwealth Player may fly reconnaissance missions in
+[#42_51]
+*[42.51]* The Commonwealth Player may fly reconnaissance missions in
 Convoy Lanes to determine the existence and size of the Axis Naval Convoy
 assigned to that Lane.
 
-[#42_52]*[42.52]* The Commonwealth Player must assign each reconnoitering plane
+[#42_52]
+*[42.52]* The Commonwealth Player must assign each reconnoitering plane
 to a specific Convoy Lane. A plane may only be assigned to a naval recon mission
 if it posses Recon capability (R). A plane may be assigned to any Lane within
 its range. The distances to the convoy lanes are listed in the Axis Naval Convoy
@@ -169,18 +198,22 @@ Africa must possess a range.at least equal to the distance from its air facility
 to one of the key cities listed on the chart plus the distance from that city to
 the Lane.
 
-[#42_53]*[42.53]* Naval recon missions are resolved on the Air Reconnaissance of
+[#42_53]
+*[42.53]* Naval recon missions are resolved on the Air Reconnaissance of
 Axis Naval Convoys Table.  If a successful reconnaissance of the convoy lane has
 been made the Axis Player must indicate whether or not a convoy is assigned to
 that lane this game-turn; and if so, its approximate tonnage.
 
-[#42_54]*[42.54]* Planes flying naval recon missions may not be attacked in
+[#42_54]
+*[42.54]* Planes flying naval recon missions may not be attacked in
 air-to-air combat or by antiaircraft fire.
 
-[#42_55]*[42.55]* Naval recon missions are Strategic missions that are flown in
+[#42_55]
+*[42.55]* Naval recon missions are Strategic missions that are flown in
 the Naval Convoy Stage
 
-[#42_56]*[42.56]* Naval convoy recon missions are assigned in the Strategic
+[#42_56]
+*[42.56]* Naval convoy recon missions are assigned in the Strategic
 Mission Assignment Phase of the Strategic Air Planning Stage. An unlimited
 number of planes may be assigned recon missions in the same convoy lane. Naval
 recon missions are resolved in the Naval Convoy Reconnaissance Segment of the

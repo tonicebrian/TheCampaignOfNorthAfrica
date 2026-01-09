@@ -52,15 +52,18 @@ expire.
 [#64_5]
 === SPECIAL RULES/ADJUSTMENTS
 
-[#64_51]*[64.51]* There are no restrictions on normal game actions (i.e., Raids
+[#64_51]
+*[64.51]* There are no restrictions on normal game actions (i.e., Raids
 on Rommel, the Commonwealth Fleet, etc. may be performed as per the appropriate
 rules).
 
-[#64_52]*[64.52]* The Axis Player's Malta Air Availability is determined using
+[#64_52]
+*[64.52]* The Axis Player's Malta Air Availability is determined using
 the appropriate campaign game row on the Axis Strategic Airforce Commitment
 Chart.
 
-[#64_53]*[64.53]* If the shorter campaign game is being played the Axis
+[#64_53]
+*[64.53]* If the shorter campaign game is being played the Axis
 Replacement Pool must be adjusted as follows:
 
 A. German Production Chart: No change.
@@ -73,7 +76,8 @@ fractions up) that could be planned up thru (i.e., including) GameTurn 24 are no
 longer available with the following exception: the Axis Player still has 60 CV
 L.3 & CV 33/35 tank replacement points available.
 
-[#64_54]*[64.54]* If the shorter campaign game is being played the Commonwealth
+[#64_54]
+*[64.54]* If the shorter campaign game is being played the Commonwealth
 Production System must be adjusted as follows:
 
 A. Commonwealth Truck Production Table: No change.
@@ -122,20 +126,23 @@ Allied invasion of Africa from the West. Thus, the Axis had to take Alexandria
 Alexandria is thus the Axis objective, historically.  As for gaming, it becomes
 a matter of points, or who can hold onto what.
 
-[#64_71]*[64.71]* If the Axis Player occupies all hexes of Alexandria and Cairo
+[#64_71]
+*[64.71]* If the Axis Player occupies all hexes of Alexandria and Cairo
 for one full Game-Turn, and sucn occupying units can trace a line of supply
 (i.e., convoy route) back to a Supply Dump which in turn can be supplied from
 Tobruk or Tripoli in any way, and that line is 90 movement points by truck or
 less, the Axis wins the game—regardless of the turn or date. Failing that, we
 count points, as below.
 
-[#64_72]*[64.72]* Starting with the first OpStage of GameTurn 35, if there are
+[#64_72]
+*[64.72]* Starting with the first OpStage of GameTurn 35, if there are
 no Axis Combat units that can trace a line of supply of 60 Movement Points
 (Truck) to a Supply Dump and thence to Tobruk or Tripoli as per case <<64_71>> ,
 game-map, the Commonwealth wins the game automatically. This does not include
 air or coastal shipping units.
 
-[#64_73]*[64.73]* Failing the above two cases, players receive points for doing
+[#64_73]
+*[64.73]* Failing the above two cases, players receive points for doing
 (or not doing) certain things. The first of these points are Geographical
 Occupation Points. The Player occupying the given cities/villages gains the
 points listed. Occupation for these purposes means having a combat unit of at
@@ -159,7 +166,8 @@ do not occupy for victory conditons.
 |Benghazi |75 |100
 |===
 
-[#64_74]*[64.74]* The next series of points are replacement Victory Points. Each
+[#64_74]
+*[64.74]* The next series of points are replacement Victory Points. Each
 Player receives one point for each unused Replacement Point allotted to him in
 his Production Charts, not including planes and/or Trucks and, for the
 Commonwealth Player only, Infantry. Thus, if the Commonwealth Player had a total
@@ -168,7 +176,8 @@ of 35 Crusader I
 Tank Replacement Points available for the game, but he uses only 18, he gains 17
 points.
 
-[#64_75]*[64.75]* The final type of Victory Points apply solely to the
+[#64_75]
+*[64.75]* The final type of Victory Points apply solely to the
 Commonwealth Player: Withdrawal Points. (Unit, not Drug). These apply to
 battalions withdrawn from the game, other than those Withdrawn via The
 Reinforcement Track. These are voluntary withdrawals, not mandatory withdrawals.
@@ -186,7 +195,8 @@ then returned to the game may not be Withdrawn until six months from the date of
 return. (This may not be entirely accurate, but it will stop players from doing
 the One-Point Two Step, shuffling a single unit in and out to get one point).
 
-[#64_76]*[64.76]* The levels of Victory are as follows.  Again, anyone who
+[#64_76]
+*[64.76]* The levels of Victory are as follows.  Again, anyone who
 actually finishes this game can consider himself a winner (much as the soldier
 who fights two-three years does when he survives.)  Questions about the balance
 of the campaign scenario received before 1981 will be considered with the

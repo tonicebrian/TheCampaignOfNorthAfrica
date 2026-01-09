@@ -27,35 +27,43 @@ CASES: Reserve
 [#18_1]
 === WHICH UNITS MAY BE PLACED IN RESERVE
 
-[#18_11]*[18.11]* Any units belonging to the Phasing Player may be placed in
+[#18_11]
+*[18.11]* Any units belonging to the Phasing Player may be placed in
 Reserve. The non-Phasing Player may not place units in Reserve.
 
-[#18_12]*[18.12]* Units assigned to Reserve Status must be so designated in the
+[#18_12]
+*[18.12]* Units assigned to Reserve Status must be so designated in the
 Reserve Designation Phase of the Operations Stage. Units are so designated by
 placing a Reserve I marker on top of them.
 
-[#18_13]*[18.13]* Units still in Reserve during the first Reserve Release
+[#18_13]
+*[18.13]* Units still in Reserve during the first Reserve Release
 Segment of each Movement/Combat Phase, must either be released or have their
 Reserve I marker flipped over to its Reserve ET side.
 
-[#18_14]*[18.14]* Units in Reserve II Status remain in that status until either
+[#18_14]
+*[18.14]* Units in Reserve II Status remain in that status until either
 they are released in a subsequent Reserve Release Segment of that Operations
 Stage or the Operations Stage ends.
 
-[#18_15]*[18.15]* Units may be placed in Reserve only in the Reserve Designation
+[#18_15]
+*[18.15]* Units may be placed in Reserve only in the Reserve Designation
 Phase. No unit may be placed in Reserve during the Movement/Combat Phase.
 
 [#18_2]
 === EFFECTS OF RESERVE STATUS
 
-[#18_21]*[18.21]* There are two states of Reserve: Reserve I and Reserve II. The
+[#18_21]
+*[18.21]* There are two states of Reserve: Reserve I and Reserve II. The
 Reserve marker on top of the units indicate their current Reserve Status.
 
-[#18_22]*[18.22]* In a Movement Segment, units in Reserve I status may move one
+[#18_22]
+*[18.22]* In a Movement Segment, units in Reserve I status may move one
 hex (regardless of Capability Point expenditure) as long as they do not enter an
 Enemy-controlled hex. Units in Reserve IT status may never move.
 
-[#18_23]*[18.23]* A unit in Reserve / status may be released from such status in
+[#18_23]
+*[18.23]* A unit in Reserve / status may be released from such status in
 the Reserve Release Segment in the first Reserve Release Segment in that
 Operations Stage; i.e., after other units have been moved once. Such a released
 unit may then move and fight in the ensuing Movement and Combat Segments with
@@ -66,7 +74,8 @@ Operations Stage; and
 
 2. lt may engage in only one offensive Close Assault in that Operation State.
 
-[#18_24]*[18.24]* A unit in Reserve Il Status may be released in any Reserve
+[#18_24]
+*[18.24]* A unit in Reserve Il Status may be released in any Reserve
 Release Segment subsequent to the first Reserve Release Segment of a given
 Operations Stage. Such a unit may then move and fight with the following
 restrictions:
@@ -83,10 +92,12 @@ restrictions of (1), above, in that Operation Stage; and
 that Operations Stage it automatically earns one Disorganization Point, in
 addition to any others it might earn.
 
-[#18_25]*[18.25]* Units released from Reserve may be moved (in the immediately
+[#18_25]
+*[18.25]* Units released from Reserve may be moved (in the immediately
 subsequent Movement Segment only) even if they are not within two hexes of an
 Enemy unit, which is an exception to Case <<8_23>>.
 
-[#18_26]*[18.26]* Placing a unit in and releasing it from Reserve Status does
+[#18_26]
+*[18.26]* Placing a unit in and releasing it from Reserve Status does
 not cost any Capability Points.
 

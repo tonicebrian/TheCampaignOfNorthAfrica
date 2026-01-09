@@ -167,23 +167,27 @@ CASES:
 [#45_1]
 === HOW AND WHEN AIR-TO-AIR COMBAT OCCURS
 
-[#45_11]*[45.11]* Air-to-air combat takes place within a hex. Only planes in a
+[#45_11]
+*[45.11]* Air-to-air combat takes place within a hex. Only planes in a
 given hex may engage in airto-air combat with each other, regardless of air
 Zones of Control. (Remember, fighters with air ZOC's may move into an adjacent
 hex to engage in air-to-air; if they are on offensive CAP in a hex without
 opposing aircraft they must move into an adjacent controlled hex to engage.)
 
-[#45_12]*[45.12]* All planes in a given hex are subject to airto-air combat.
+[#45_12]
+*[45.12]* All planes in a given hex are subject to airto-air combat.
 However, there are priorities as to who attacks whom, and when. The primary rule
 is that only fighters or fighter-bombers on a fighter combat mission may
 initiate air to air combat.
 
-[#45_13]*[45.13]* Air-to-air combat occurs before flack/AA fire and before any
+[#45_13]
+*[45.13]* Air-to-air combat occurs before flack/AA fire and before any
 missions in that hex may be completed. Remember, fighters may scramble or
 intercept into a hex, and that must be done before attempting to resolve
 air-to-air.
 
-[#45_14]*[45.14]* If there are fighters in a hex on offensive CAP, those
+[#45_14]
+*[45.14]* If there are fighters in a hex on offensive CAP, those
 fighters must attack all Enemy planes in that hex. Thus, fighters on offensive
 CAP automatically intiate air-to-air combat. If there are no fighters on
 offensive CAP, both Players must decide (secretly; to be revealed
@@ -195,7 +199,8 @@ home, and all missions in that hex are cancelled. (This is sort of a free abort;
 planes may always try to abort even if the other Player desires combat, but this
 is not automatic. See <<39_3>>.)
 
-[#45_15]*[45.15]* Once air-to-air has been initiated, the Players determine
+[#45_15]
+*[45.15]* Once air-to-air has been initiated, the Players determine
 which planes, if any, are being screened by Friendly fighter escort (planes
 flying defensive CAP for the bombers, etc.). Only planes flying a mission other
 than CAP may be screened.  Furthermore, planes flying a mission other than CAP
@@ -203,65 +208,76 @@ are automatically screened, unless they have no escort. Planes without Friendly
 defensive CAP are not screened. The Players now set the screened units aside,
 and engage in air-to-air with their fighters on CAP.
 
-[#45_16]*[45.16]* The Players must now decide who is the attacker. The Player
+[#45_16]
+*[45.16]* The Players must now decide who is the attacker. The Player
 with the most fighters (pure numbers) is the Attacker in all situations. In the
 instance where both Players have the same number of fighters, the Player with
 initiative for that Game-Turn  <<7_0>>) is the attacker. At this point, Players
 attempt to abort any missions they desire to abort. See <<39_3>>.
 
-[#45_17]*[45.17]* A plane without ammo (bombs aside) may not fire in Air-to-Air
+[#45_17]
+*[45.17]* A plane without ammo (bombs aside) may not fire in Air-to-Air
 combat. However, its normal ratings are still used to resolve the effects of
 opposing fire.
 
-[#45_18]*[45.18]* Players now resolve the first wave of airto-air combat
+[#45_18]
+*[45.18]* Players now resolve the first wave of airto-air combat
 <<45_2>>). Once this is completed, the screened planes may be attacked. (See
 <<45_3>>). This is resolved in the same way, with certain restrictions and
 changes.
 
-[#45_19]*[45.19]* A plane assigned to a particular match-up may never be
+[#45_19]
+*[45.19]* A plane assigned to a particular match-up may never be
 switched to another match-up, even if the plane it was matched-up against is
 shot down before it has a chance to fire.
 
 [#45_2]
 === FIGHTER VS FIGHTER
 
-[#45_21]*[45.21]* In resolving air-to-air combat between fighters (planes with
+[#45_21]
+*[45.21]* In resolving air-to-air combat between fighters (planes with
 nonparenthesized tacair ratings), the Player follows the general outline of the
 Procedure augmented as below.
 
-[#45_22]*[45.22]* The Defender places his fighters down on a flat surface, using
+[#45_22]
+*[45.22]* The Defender places his fighters down on a flat surface, using
 the aircraft counters. He then states what type of plane (e.g. Mel09F, CR42,
 etc.) each fighter counter represents. He does not reveal the rating of his
 pilot at this time.
 
-[#45_23]*[45.23]* The attacker must now assign at least one fighter to every
+[#45_23]
+*[45.23]* The attacker must now assign at least one fighter to every
 fighter the defender has placed down. Once every defending fighter is "covered",
 the attacker may assign more than one fighter toa defending fighter. There is no
 limit to the number of attacking fighters that may engage a solitary defending
 fighter, as long as all the defending fighters are attacked.
 
-[#45_24]*[45.24]* Each individual air-to-air match-up is now resolved
+[#45_24]
+*[45.24]* Each individual air-to-air match-up is now resolved
 <<45_5>>). A defending fighter may fire at only (any) one attacking fighter,
 while, if there is more than one fighter attacking a defending fighter they all
 may fire at the defending plane. However, all air-to-air combat is resolved
 individually. No planes ever add their strengths together. The Players may
 resolve the individual match-ups in any order they wish.
 
-[#45_25]*[45.25]* After fighter vs fighter has been resolved, there is a
+[#45_25]
+*[45.25]* After fighter vs fighter has been resolved, there is a
 possibility that some of the fighters may fire, again, against enemy bombers and
 other screened planes (See <<45_3>>).
 
 [#45_3]
 === FIGHTER VS NON-FIGHTER (SCREENED PLANES)
 
-[#45_31]*[45.31]* When all fighter vs fighter combat has been finished, Friendly
+[#45_31]
+*[45.31]* When all fighter vs fighter combat has been finished, Friendly
 fighters remaining may, if possible (see Case <<45_32>>) attack any Enemy
 screened planes. They do not have to do so, even if they are on offensive
 CAP—unless only non-fighter planes were in the hex to start with (and so there
 was no fighter vs. fighter combat). In such case, offensive CAP fighters must
 initiate air-to-air with such unscreened planes.
 
-[#45_32]*[45.32]* If the Player wishing to attack screened planes has more
+[#45_32]
+*[45.32]* If the Player wishing to attack screened planes has more
 fighters remaining (after fighter vs. fighter combat) in the hex than does the
 Enemy Player, he may attack the screened planes with the excess number of
 fighters; e.g., the Axis Player sends a squadron of Helll's escorted by 6 Me
@@ -272,23 +288,27 @@ The Commonwealth Player may now take any of his 14 excess Hurricanes (19-5=14)
 and attack the Heinkels. The 14 Hurricanes are now engaging ina second round of
 air-to-air.
 
-[#45_33]*[45.33]* The Defender is automatically the Player with the screened
+[#45_33]
+*[45.33]* The Defender is automatically the Player with the screened
 planes. He places his planes down as in <<45_22>>. The attacker may now assign
 his fighters in amy way he sees fit; he does not have to cover all the
 defender's planes, as in <<45_23>>. He may take, using the above example, all 14
 Hurricanes and attack one of the Henkels, or he may divide them amongst the 12
 Henkels. The choice is the attacker's.
 
-[#45_34]*[45.34]* Air-to-air fighter vs non-fighter is resolved in the same way
+[#45_34]
+*[45.34]* Air-to-air fighter vs non-fighter is resolved in the same way
 as fighter vs fighter (see <<45_2>>) with one exception: defending, screening
 planes may shoot at each and every fighter attacking that plane — not just one,
 as in <<45_24>>. (A dive bomber may shoot at one attacking fighter.)
 
-[#45_35]*[45.35]* Any screened planes that survive may now proceed to the
+[#45_35]
+*[45.35]* Any screened planes that survive may now proceed to the
 flak/AA fire portion of the mission
 Tun.
 
-[#45_36]*[45.36]* Bombers flying in formation receive a bonus: if 6-17 bombers
+[#45_36]
+*[45.36]* Bombers flying in formation receive a bonus: if 6-17 bombers
 are on the mission, add one to each plane's tacair rating; if 18 or more bombers
 are on the mission add two to each plane's tacair rating.
 
@@ -328,10 +348,12 @@ Ju88, needing an 11-26 fora kill.
 
 (see Charts and Tables)
 
-[#45_61]*[45.61]* In certain cases fighters shot down during air-to-air, as well
+[#45_61]
+*[45.61]* In certain cases fighters shot down during air-to-air, as well
 as planes strafed on the ground <<40_63>>), may be recovered.
 
-[#45_62]*[45.62]* For planes strafed on the ground, the Player expends 1 Stores
+[#45_62]
+*[45.62]* For planes strafed on the ground, the Player expends 1 Stores
 Point and 1 Fuel Point for every plane he wishes to attempt to repair. He then
 throws one die; if die roll is "1" or "2", the plane is repaired. Any other
 number and the plane is permanently destroyed. In this case supplies are
@@ -339,21 +361,25 @@ expended only if the repairs are succesful! For the plane to be repaired, the
 supplies must be expended, Any strafed plane may be repaired in this fashion,
 and once repaired that plane may fly one full Game-Turn later.
 
-[#45_63]*[45.63]* For fighters (only) shot down (by either Enemy planes or flak)
+[#45_63]
+*[45.63]* For fighters (only) shot down (by either Enemy planes or flak)
 the Player rolls only one die. In this case, a roll of ‘1' means the fighter
 actually was not shot down and has managed to limp back to base. (This roll is
 the same used for recovery of the pilot  <<45_66>>); thus if a ‘1' is thrown,
 both the pilot and fighter return. On a 2, only the pilot makes it back.)
 
-[#45_64]*[45.64]* Once the fighter has returned (from <<45_63>>), the Player
+[#45_64]
+*[45.64]* Once the fighter has returned (from <<45_63>>), the Player
 must attempt to repair it. He uses the same system as in <<45_62>>, but in this
 instance no die roll is needed to repair the plane; simply expending the
 supplies will do.
 
-[#45_65]*[45.65]* Fighters recovered and repaired in this fashion are not
+[#45_65]
+*[45.65]* Fighters recovered and repaired in this fashion are not
 "kills" for the purposes of <<40_18>>.
 
-[#45_66]*[45.66]* If a plane is shot down, the pilot may bail out and survive.
+[#45_66]
+*[45.66]* If a plane is shot down, the pilot may bail out and survive.
 For each fighter that is shot down, the owning Player rolls one die. If a ‘*1”'
 or “2”? is obtained, the pilot survives and is recovered, regardless of where
 the plane was shot down. He is ready for action three Operations Stages later.

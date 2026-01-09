@@ -111,7 +111,7 @@ being moved may be moved. Non-Phasing (Player "B") units may React if
 permitted and Player "B" wishes to do so. 
 
 2. _Breakdown Determination Segment_:
-All vehicles and motorized units of both sides check for Breakdown (<<2_10>>).
+All vehicles and motorized units of both sides check for Breakdown (2.10).
 Broken down vehicles are indicated by a marker. 
 
 3. Combat Segment: (Combat is resolved as follows see <<11_0>> through <<15_0>>).

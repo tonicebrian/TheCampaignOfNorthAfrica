@@ -20,7 +20,8 @@ estimated playing time for this scenario is between 200 and 250 hours.
 [#62_3]
 === COMMONWEALTH FORCES
 
-[#62_31]*[62.31]* Commonwealth Forces Initial Deployment (Hex: Units)
+[#62_31]
+*[62.31]* Commonwealth Forces Initial Deployment (Hex: Units)
 
 Within 1 hex of
 
@@ -100,7 +101,8 @@ Trucks: 5 Light, 22 Medium, 6 Heavy.
 
 12001: 1st South African Road Construction Bn.  Trucks: 3 Light .
 
-[#62_32]*[62.32]* Tanks
+[#62_32]
+*[62.32]* Tanks
 
 The units listed below have the following TOE of tanks (Unit: Tanks).
 
@@ -136,7 +138,8 @@ considered to be broken down in Repair Shops in Alexandria.
 
 Repair on these tanks may not start until the scenario's second OpStage.
 
-[#62_33]*[62.33]* Commonwealth North African Air Force
+[#62_33]
+*[62.33]* Commonwealth North African Air Force
 
 Planes: These may be distributed freely amongst the available air facilities:
 
@@ -172,7 +175,8 @@ perform maintenance ona single squadron).
 
 SGSU's: As per Air Game rules.
 
-[#62_34]*[62.34]* Commonwealth Trucks
+[#62_34]
+*[62.34]* Commonwealth Trucks
 
 The Commonwealth Player receives the following Second/Third Line (Convoy) Trucks
 for distribution to any location on game map-sections C thru
@@ -189,7 +193,8 @@ be placed within five hexes of Tobruk.
 The Commonwealth Player receives the following Trucks for distribution to any
 Air Facility (except that in Tobruk): 80 Medium and 20 Heavy.
 
-[#62_35]*[62.35]* Commonwealth Supply
+[#62_35]
+*[62.35]* Commonwealth Supply
 
 The Commonwealth Player possesses dumps at the following locations containing
 the listed amounts of Supplies:
@@ -215,7 +220,8 @@ Water Points at each Airfield and 10 Ammo 150 Fuel, 10 Stores and 20 Water
 Points at each Air Landing Strip, Flying Boat Basin, or Flying Boat Alighting
 Area. (This does not include off-map facilities.)
 
-[#62_36]*[62.36]* Malta
+[#62_36]
+*[62.36]* Malta
 
 The following Planes are Available on Malta
 
@@ -233,20 +239,23 @@ The Malta air facilities have an initial capacity of 14 Squadrons. There are 24
 AA Points to place where desired. Malta receives 1 Three Pilot, 4 Two Pilots, 5
 One Pilots.
 
-[#62_37]*[62.37]* Commonwealth Fleet
+[#62_37]
+*[62.37]* Commonwealth Fleet
 
 The Commonwealth Player may place all his warship counters in Alexandria. In
 addition, note that the Italian 10th Light Flotilla is active this scenario (See
 <<30_4>>). However, the 10th Light may not raid Alexandria until December.
 
-[#62_38]*[62.38]* Reinforcements/Replacements
+[#62_38]
+*[62.38]* Reinforcements/Replacements
 
 These are taken as normal, from the tracks and production.
 
 [#62_4]
 === AXIS FORCES
 
-[#62_41]*[62.41]* Axis Forces Initial Deployment
+[#62_41]
+*[62.41]* Axis Forces Initial Deployment
 
 (Hex: Units)
 
@@ -310,7 +319,8 @@ Regt; II/15 and IJ1/16 Inf Bns (55 Say); Trucks: 5 Light, 7 Medium, 10 Heavy.
 Attached to any Italian Inf Div(s): III(M) and LII(M) tank Bns; Trucks (each
 tank battalion): 2 Light, 6 Medium.
 
-[#62_42]*[62.42]* Axis Tanks
+[#62_42]
+*[62.42]* Axis Tanks
 
 The Axis Player assigns German tank TOE Strength Points as follows:
 
@@ -343,7 +353,8 @@ around other Italian units, assigned to Recce units, Bersagliere regiments,
 HQ's, etc. This information is "factored" into the strengths/TOE of those
 units.)
 
-[#62_43]*[62.43]* Axis Air Strength
+[#62_43]
+*[62.43]* Axis Air Strength
 
 The Axis Player receives the following planes. The Axis Player receives 23
 SGSU's.
@@ -396,7 +407,8 @@ thru C. The Axis Player has one Flying Boat Basin anywhere on Map A or B.  In
 addition, he may base planes in Crete/Italy/ Sicily within the restrictions of
 Case <<43_1>>
 
-[#62_44]*[62.44]* Axis Trucks
+[#62_44]
+*[62.44]* Axis Trucks
 
 The Axis Player receives the following
 Second/Third Line (In Convoy) Trucks:
@@ -414,7 +426,8 @@ Second/Third Line (In Convoy) Trucks:
 The Axis Player receives 30 Light and 60 Medium trucks for distribution among
 his air facilities.
 
-[#62_45]*[62.45]* Axis Supply
+[#62_45]
+*[62.45]* Axis Supply
 
 The Axis Player possesses dumps at the following locations containing the listed
 amounts of Supplies:
@@ -439,10 +452,12 @@ active dump.
 In addition, the Axis Player receives 150 Ammo, 350 Fuel, 25 Stores and 50 Water
 Points at each Airfield (excepting Tripoli/Tunesia).
 
-[#62_46]*[62.46]* All Axis Coastal Shipping units are available, and may be
+[#62_46]
+*[62.46]* All Axis Coastal Shipping units are available, and may be
 distributed among the parts of Maps A, BandC.
 
-[#62_47]*[62.47]* Axis Player must plan Replacements for all November OpStages
+[#62_47]
+*[62.47]* Axis Player must plan Replacements for all November OpStages
 in advance of starting the game. After that, he plans normally.
 
 [#62_5]
@@ -471,11 +486,13 @@ city. There is a Major Repair facility in Benghazi.
 This case covers the adjustments needed in addito those given in Case <<59_6>>
 in order to play this scenario without the Air and/or Logistics Game(s).
 
-[#62_61]*[62.61]* Air Abstracted
+[#62_61]
+*[62.61]* Air Abstracted
 
 (Land & Logistics Games): None.
 
-[#62_62]*[62.62]* Air & Logistics Abstracted
+[#62_62]
+*[62.62]* Air & Logistics Abstracted
 
 (Land Game Only):
 
@@ -537,7 +554,8 @@ hexes (other than Mersa Matruh) on game-map-section "D". In addition, Cairo and
 Alexandria each contain two regular py units, each with 40 Ammo and 60 Fuel
 Points.
 
-[#62_63]*[62.63]* Logistics Abstracted
+[#62_63]
+*[62.63]* Logistics Abstracted
 
 (Land & Air Games):
 

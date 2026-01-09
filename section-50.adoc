@@ -18,11 +18,13 @@ CASES:
 === CONSUMPTION OF
 AMMUNTION
 
-[#50_11]*[50.11]* All ammunition is considered in terms of Ammunition Points.
+[#50_11]
+*[50.11]* All ammunition is considered in terms of Ammunition Points.
 Each Ammunition Point is (very) roughly the equivalent of four tons. Ammunition
 consumption rates are given in <<50_2>>
 
-[#50_12]*[50.12]* Whenever a land unit uses its barrage strength, its
+[#50_12]
+*[50.12]* Whenever a land unit uses its barrage strength, its
 anti-armour strength, its AA points, or any of its assault strengths it consumes
 ammunition. A unit without ammunition of any type is useless in combat; it may
 not even defend against assault if it finds itself in an Enemy Zone, of Control
@@ -31,12 +33,14 @@ without ammunition have NO ZOC.) A unit without ammunition may not enter an
 Enemy ZOC unless stacked with (or entering a hex occupied by) a Friendly unit
 with ammunition or a supply dump.
 
-[#50_13]*[50.13]* Each combat function has an ammunition consumption rate,
+[#50_13]
+*[50.13]* Each combat function has an ammunition consumption rate,
 listed in <<50_2>>. Units, such as tanks, that have several types of strengths
 (antiarmour as well as assault) use the ammunition consumption rate of on the
 combat function chosen.
 
-[#50_14]*[50.14]* The ammunition consumption rate is the number of Ammunition
+[#50_14]
+*[50.14]* The ammunition consumption rate is the number of Ammunition
 Points expended for each' TOE Strength Point being used in combat. Ammunition is
 expended by guns barraging (or firing flak), anti-armour fire, or offensive and
 defensive assault: Thus, four TOE Strength Points of German 150mm guns would
@@ -45,17 +49,20 @@ expend 16 Ammunition Points (4 TOE times the artillery consumption rate of 4 =
 Player may choose to conserve ammunition by only firing, say, 3 out of 6
 available TOE Strength Points.
 
-[#50_15]*[50.15]* Ammunition is consumed only if present in the hex. However,
+[#50_15]
+*[50.15]* Ammunition is consumed only if present in the hex. However,
 ammunition on truck convoys (2nd or 3rd line trucks) may not be used until it is
 off-loaded. Ammunition is expended the instant it is used, and the ammunition
 level for that hex/unit/dump must be reduced accordingly.
 
-[#50_16]*[50.16]* Ammunition is specialized for both players. Only one-third of
+[#50_16]
+*[50.16]* Ammunition is specialized for both players. Only one-third of
 all captured Ammo Points (rounded up) may be used by the opposing Player. The
 rest are lost. If a supply dump is recaptured, only one-third of all remaining
 Ammo Points may be used by the re-capturing Player.
 
-[#50_17]*[50.17]* Ammunition may be transported by trucks or aircraft; it may be
+[#50_17]
+*[50.17]* Ammunition may be transported by trucks or aircraft; it may be
 airdropped. It is available for use when in first line trucks or supply dumps.
 Ammunition with truck convoys may not be used until off-loaded. Combat units may
 carry enough ammo to fire once.

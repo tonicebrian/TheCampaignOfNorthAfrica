@@ -65,7 +65,8 @@ planes are determined after all losses from destroyed planes are completed.
 [#46_1]
 === FLAK/AA UNITS
 
-[#46_11]*[46.11]* A large number of units have AA/Flak capability; that is, they
+[#46_11]
+*[46.11]* A large number of units have AA/Flak capability; that is, they
 may fire at enemy planes.  A unit that has an AA Rating may so fire (however,
 see Case <<46_22>>). Most of these units are called AA or Flak units, and are so
 delineated by their unit symbol on the counter. However, many other types of
@@ -74,29 +75,35 @@ the unit to determine the Actual AA. Points that can fire. (There is mo dividing
 by 10, as with other strengths.) Any unit with an AA symbol on its counter is
 called a Pure Flak unit (See <<46_17>>.).
 
-[#46_12]*[46.12]* A flak unit having a (parenthesized) defense assault rating,
+[#46_12]
+*[46.12]* A flak unit having a (parenthesized) defense assault rating,
 defends against an assault only if alone in the hex. Players should note that
 the German 88's and Italian 90mms have a defensive assault rating and are
 treated as artillery units with assault ratings when attacked.
 
-[#46_13]*[46.13]* Unless specifically stated otherwise, flak units are treated
+[#46_13]
+*[46.13]* Unless specifically stated otherwise, flak units are treated
 as artillery in terms of having their own transport. There are some flak units'
 without transport, and to "motorize" these units requires trucks. Each Point of
 AA may be towed by a medium truck point or a Heavy Truck Point.
 
-[#46_14]*[46.14]* Flak/AA units require supplies like any other unit. (They are
+[#46_14]
+*[46.14]* Flak/AA units require supplies like any other unit. (They are
 treated as artillery). They will, of course, use ammunition when firing.
 
-[#46_15]*[46.15]* Certain combat units—in addition to regular flak units—have
+[#46_15]
+*[46.15]* Certain combat units—in addition to regular flak units—have
 AA/Flak Points. Certain tanks and recce units have AA/Flak Points, and these are
 points per TOE Strength Point (Thus, 5 TOE points of Sherman tanks would have 5
 AA/Flak Points).
 
-[#46_16]*[46.16]* Tanks may use their AA/Flak Points only against fighters
+[#46_16]
+*[46.16]* Tanks may use their AA/Flak Points only against fighters
 strafing units in that hex or against dive bombers. They may not use their AA
 Points against any other planes/missions.
 
-[#46_17]*[46.17]* Pure AA/flak units (i.e., units that have only AA Points) may
+[#46_17]
+*[46.17]* Pure AA/flak units (i.e., units that have only AA Points) may
 stack freely in major cities; they do not count against the stacking limits. In
 addition, one pure AA/flak unit may stack freely in an air landing strip hex,
 and three may stack freely in an airfield.
@@ -104,24 +111,30 @@ and three may stack freely in an airfield.
 [#46_2]
 === RESTRICTIONS ON ANTIAIRCRAFT FIRE
 
-[#46_21]*[46.21]* Anti-aircraft fire may only be directed at planes flying
+[#46_21]
+*[46.21]* Anti-aircraft fire may only be directed at planes flying
 missions in the same hex as the units and air facilities possessing an
 anti-aircraft ability.
 
-[#46_22]*[46.22]* Infantry, recce, and tank units may fire AA only at planes in
+[#46_22]
+*[46.22]* Infantry, recce, and tank units may fire AA only at planes in
 the fighter mission, strafing and/or dive bombing target group (see Case 46.26).
 
-[#46_23]*[46.23]* Anti-aircraft fire occurs after all air-to-air combat and flak
+[#46_23]
+*[46.23]* Anti-aircraft fire occurs after all air-to-air combat and flak
 suppression missions have been performed.
 
-[#46_24]*[46.24]* The planes fighters flying flak suppression missions and those
+[#46_24]
+*[46.24]* The planes fighters flying flak suppression missions and those
 flying naval convoy reconnaissance missions may not be attacked by antiaircraft
 fire.
 
-[#46_25]*[46.25]* Opposing planes flying missions in a hex must be grouped into
+[#46_25]
+*[46.25]* Opposing planes flying missions in a hex must be grouped into
 target groups for antiaircraft fire purposes.
 
-[#46_26]*[46.26]* The target groups are as follows:
+[#46_26]
+*[46.26]* The target groups are as follows:
 
 a. All Enemy planes not assigned to fighter-type missions and flying (normal)
 daytime missions by each mission,
@@ -133,10 +146,12 @@ d. All Enemy planes assigned night fighter-type missions of combat air patrol,
 scramble and interception.
 e. All planes flying fighter-type missions of strafing and/or dive bombing.
 
-[#46_27]*[46.27]* AA may be fired at as many target groups as the owning Player
+[#46_27]
+*[46.27]* AA may be fired at as many target groups as the owning Player
 wishes.
 
-[#46_28]*[46.28]* Replacement Points may not use AA ratings until absorbed by a
+[#46_28]
+*[46.28]* Replacement Points may not use AA ratings until absorbed by a
 unit.
 
 [#46_3]

@@ -7,17 +7,21 @@ as modified below.
 [#47_1]
 === SUPPLY UNITS AND SUPPLY
 
-[#47_13]*[47.13]* Alloff-map (N. African and Mediterranean) air facilities
+[#47_13]
+*[47.13]* Alloff-map (N. African and Mediterranean) air facilities
 possess unlimited supplies for aircraft maintenance.
 
-[#47_12]*[47.12]* Cairo and Alexandria have unlimited supplies for Commonwealth
+[#47_12]
+*[47.12]* Cairo and Alexandria have unlimited supplies for Commonwealth
 aircraft maintenance for any-SGSU occupying a Cairo/Alexandria hex or within
 supply range (see Case <<47_13>>).
 
-[#47_13]*[47.13]* An SGSU may draw supplies from any friendly supply unit per
+[#47_13]
+*[47.13]* An SGSU may draw supplies from any friendly supply unit per
 Case <<32_16>> (or Cairo/ Alexandria) that is within 15 Capability Points.
 
-[#47_14]*[47.14]* The Players receive regular (i.e., those described in Section
+[#47_14]
+*[47.14]* The Players receive regular (i.e., those described in Section
 <<32_0>>) and Depot supply units.  A Depot initially contains 180 Fuel and 40
 Ammo Points. It retains its Depot status until it contains no more than 60 Fuel
 Points, at which time it is treated as a regular supply unit. Depots may never
@@ -29,16 +33,19 @@ or motorization points not actively engaged in moving that depot).
 [#47_2]
 === SUPPLY EXPENDITURES
 
-[#47_21]*[47.21]* Only Gun-class units are required to expend ammo in order to
+[#47_21]
+*[47.21]* Only Gun-class units are required to expend ammo in order to
 fire at enemy aircraft. A gun-class unit must expend | Ammo Point in order to
 perform anti-aircraft fire against a target group.
 
-[#47_22]*[47.22]* Fighter and fighter-bomber squadrons do not require ammo
+[#47_22]
+*[47.22]* Fighter and fighter-bomber squadrons do not require ammo
 expenditures to enable their planes to use their TacAir and Bombload ratings.
 Non-fighter squadrons are entirely rearmed with the expenditure of one Ammo
 Point.
 
-[#47_23]*[47.23]* Fighter/Fighter-bomber squadrons require the expenditure of
+[#47_23]
+*[47.23]* Fighter/Fighter-bomber squadrons require the expenditure of
 one Fuel Point to refuel the entire sqaudron. Axis non-fighter squadrons require
 the expenditure of two Fuel Points in order to refuel the squadron. Commonwealth
 nonfighter squadrons require the expenditure of three Fuel Points in order to
@@ -47,18 +54,23 @@ refuel the squadron.
 [#47_3]
 === MOVEMENT OF SUPPLY UNITS
 
-[#47_23]*[47.23]* Fifty motorization points are required to transport a depot.
+[#47_23]
+*[47.23]* Fifty motorization points are required to transport a depot.
 
-[#47_32]*[47.32]* A depot may only be transported in the Truck Convoy Movement
+[#47_32]
+*[47.32]* A depot may only be transported in the Truck Convoy Movement
 Phase (i.e., it may not be attached to a combat unit).
 
-[#47_33]*[47.33]* A depot counts as two supply units if being transported by
+[#47_33]
+*[47.33]* A depot counts as two supply units if being transported by
 rail. The Commonwealth Player'may not transport a depot by sea.
 
-[#47_34]*[47.34]* The Axis Player may transport a depot by Axis Coastal
+[#47_34]
+*[47.34]* The Axis Player may transport a depot by Axis Coastal
 Shipping. Each depot requires 3,000 tons of coastal shipping.
 
-[#47_35]*[47.35]* Regular supply units may be transported by air. The Axis
+[#47_35]
+*[47.35]* Regular supply units may be transported by air. The Axis
 Player may air transport regular supply units as follows: Any thirty planes with
 air transport capability may transport a supply unit containing up to 8 Ammo
 Points and up to 20 Fuel Points, any sixty planes with transport capability may
@@ -74,11 +86,13 @@ location to another.
 [#47_4]
 === AVAILABILITY OF SUPPLY UNITS
 
-[#47_41]*[47.41]* The Axis Player receives Depot supply units as an addition to
+[#47_41]
+*[47.41]* The Axis Player receives Depot supply units as an addition to
 the regular supply units produced by the Axis Simplified Supply Availability
 Table. He receives one Depot for each regular supply unit produced.
 
-[#47_42]*[47.42]* The Commonwealth Player receives Depot supply units as an
+[#47_42]
+*[47.42]* The Commonwealth Player receives Depot supply units as an
 addition to the regular supply units produced by the Commonwealth Simple Supply
 Availability Table. During time period I he receives one Depot per game turn.
 During time period II he receives two Depots per game-turn.  During time period
@@ -87,17 +101,20 @@ III he receives three Depots per game-turn.
 [#47_5]
 === MOTORIZATION POINTS
 
-[#47_51]*[47.51]* Cases <<32_57>> and <<32_59>> are ignored and Case <<32_56>>
+[#47_51]
+*[47.51]* Cases <<32_57>> and <<32_59>> are ignored and Case <<32_56>>
 is modified as follows: Motorization Points may be attacked (and destroyed) as
 though they are trucks as per the Strafing (Cases <<40_5>> and 40.6) and Land
 Support Bombing (Cases <<41_2>>, 41.3 and <<41_5>>) rules in the Air Game.
 
-[#47_52]*[47.52]* The initial motorization points available to the Players are
+[#47_52]
+*[47.52]* The initial motorization points available to the Players are
 calculated in the same manner as listed in <<32_5>> except that Second/Third
 Line trucks listed as available at air facilities are included in the
 calculations.
 
-[#47_53]*[47.53]* Motorization points may be received as though they are truck
+[#47_53]
+*[47.53]* Motorization points may be received as though they are truck
 replacements. The Players' ability to bring in motorization points is equal to
 their ability to bring in Medium plus Heavy Truck Points (i.e., each
 medium/heavy truck point is equal to one motorization point) as per the Axis
@@ -109,28 +126,33 @@ Production Table of the Commonwealth Production System.
 
 These rules replace those listed in Case <<32_6>>.
 
-[#47_61]*[47.61]* In the abstract Logistics game system, Axis Naval Convoys
+[#47_61]
+*[47.61]* In the abstract Logistics game system, Axis Naval Convoys
 consist of all Supply Units, Motorization Points and Replacement Points for that
 Game-Turn. These items may be divided and assigned to any Convoy Lane available,
 as per rules for such assignment. There are no tonnage limitations.
 
-[#47_62]*[47.62]* The Axis Player may never assign more than three regular and
+[#47_62]
+*[47.62]* The Axis Player may never assign more than three regular and
 three depot supply units and twenty-five motorization points to any one Convoy
 Lane in any one Naval Convoy Stage.  Note that the Axis Player is limited by the
 Replacement Pool as to the maximum number of replacement points of each type of
 item that may be assigned to Axis Naval Convoys (total) for arrival during a
 particular Game-Turn.
 
-[#47_63]*[47.63]* If the Commonwealth Player successfully performs a Axis Naval
+[#47_63]
+*[47.63]* If the Commonwealth Player successfully performs a Axis Naval
 Convoy reconnaissance mission, he is informed as to the composition of the
 convoy in total'number of: Regular supply units, depot supply units,
 motorization points, tank replacement points, infantry replacement points, gun
 replacement points and armored recce/armored car replacement points.
 
-[#47_64]*[47.64]* Attacks against a convoy are carried out as per the Axis Naval
+[#47_64]
+*[47.64]* Attacks against a convoy are carried out as per the Axis Naval
 Convoy Bombing rules.
 
-[#47_65]*[47.65]* The result of an attack on an Axis Naval Convoy is modified as
+[#47_65]
+*[47.65]* The result of an attack on an Axis Naval Convoy is modified as
 follows:
 
 A. A result of 10% applies only to motorization points and replacement points,
@@ -155,10 +177,12 @@ Rules:
 [#47_8]
 === STACKING MODIFICATIONS
 
-[#47_81]*[47.81]* The Players ignore all Road and Track (only) Stacking Point
+[#47_81]
+*[47.81]* The Players ignore all Road and Track (only) Stacking Point
 limits as listed in Section <<9_0>>.
 
-[#47_82]*[47.82]* The Players may stack one Depot supply unit in addition to the
+[#47_82]
+*[47.82]* The Players may stack one Depot supply unit in addition to the
 regular supply unit stacking limits listed in Case <<32_14>>.
 
 = LOGISTICS GAME

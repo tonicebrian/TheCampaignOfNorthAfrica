@@ -40,26 +40,32 @@ themselves are resolved.
 The term "bombers" generally refers to planes that do not require pilot
 points.
 
-[#41_11]*[41.11]* Bombers may not scramble, nor do bombers have an air zone of
+[#41_11]
+*[41.11]* Bombers may not scramble, nor do bombers have an air zone of
 control.
 
-[#41_12]*[41.12]* Bombers may bomb only one target per mission, and that target
+[#41_12]
+*[41.12]* Bombers may bomb only one target per mission, and that target
 must be selected prior to actual flight. (Sorry, you can't drop your excess
 bombs on Tobruk on the way back.)
 
-[#41_13]*[41.13]* Bombers may abort before dropping their bombs on their
+[#41_13]
+*[41.13]* Bombers may abort before dropping their bombs on their
 selected target. (See Case <<41_3>>) However, whether the bombers abort or not,
 they are considered to have dropped their bombs somewhere, and thus expend their
 ammunition.
 
-[#41_14]*[41.14]* In order to fly any mission (excepting Transfer), a bomber
+[#41_14]
+*[41.14]* In order to fly any mission (excepting Transfer), a bomber
 must be refueled and refitted (as well as armed).
 
-[#41_15]*[41.15]* Players will note that bombers have parenthesized TacAir
+[#41_15]
+*[41.15]* Players will note that bombers have parenthesized TacAir
 Ratings. This means that they may not be used except to fire back at Enemy
 fighters that attack them. See the Section on Airto-Air combat.  <<45_0>>.
 
-[#41_16]*[41.16]* Certain planes may undertake two missions simultaneously (see
+[#41_16]
+*[41.16]* Certain planes may undertake two missions simultaneously (see
 Case <<39_2>>) dive bombers may strafe and bomb the same target and fighters with
 bombload capacities may both strafe and bomb a target, if they have a "D"
 capability.  However, fighter-bombers may either bomb or undertake a fighter
@@ -67,12 +73,14 @@ mission; they do not have the capacity to undertake both types of missions at
 once. If a fighter-bomber is flying a bombing mission,it is considered to have a
 parenthesized TacAir Rating (unless it jettisons bombload).
 
-[#41_17]*[41.17]* Torpedoes may be used only against ships and ports.
+[#41_17]
+*[41.17]* Torpedoes may be used only against ships and ports.
 
 [#41_2]
 === LAND SUPPORT MISSION PROCEDURE
 
-[#41_21]*[41.21]* Land support missions are concerned with bombing land
+[#41_21]
+*[41.21]* Land support missions are concerned with bombing land
 installations, ports, personnel and equipment in furtherance of operations on
 land.  Bombers assigned to land support missions for a Game-Turn are assigned a
 specific mission in a specific hex during the Mission Assignment Segment of a
@@ -87,7 +95,8 @@ be aware of the path of flight; if it passes through an enemy offensive CAP Air
 ZOC, the Enemy fighters may attack the bombers). Bombers may also be intercepted
 by Enemy fighters assigned to scramble missions.
 
-[#41_22]*[41.22]* Once a bomber has reached the target hex, any air-to-air
+[#41_22]
+*[41.22]* Once a bomber has reached the target hex, any air-to-air
 combat is resolved. Then any flak fire is resolved. Then, after any losses are
 subtracted, any remaining bombers may drop their bombload, and the opposing
 Player determines the effects of same. He does this by totaling the number of
@@ -105,7 +114,8 @@ Air Bombardment and Secondary Barrage Target Combat Results Table  <<41_5>>.
 Mining harbor attempts are resolved using the Mining Harbors by Plane Table
 <<41_9>>.
 
-[#41_31]*[41.31] Bombing Personnel (B-CU)*: The effect of the anti-personnel
+[#41_31]
+*[41.31] Bombing Personnel (B-CU)*: The effect of the anti-personnel
 bombing mission is to Pin a number of units (battalion-equivalent) in the target
 hex; see Case <<41_9>> for the explanation of Air bombardment pins. The Player
 totals his bomb total and consults the Air Bombardment CRT. He rolls two dice,
@@ -117,7 +127,8 @@ Pinned is determined the same as an artillery barrage (See <<12_2>>).  There is
 one exception to this section: Units in Major Cities may not be bombed unless
 and until the fortification level of the city is reduced to one (1) or less.
 
-[#41_32]*[41.32] Bombing Truck Convoys (B-TC)*: The results are given in the
+[#41_32]
+*[41.32] Bombing Truck Convoys (B-TC)*: The results are given in the
 number of truck units destroyed. The defending Player must divide the losses as
 evenly as possible amongst type of trucks and types of cargo. Trucks in major
 cities may not be bombed by air until the city is reduced to zero ('0'). In
@@ -125,28 +136,33 @@ addition, first line trucks (attached) may be bombed in similar fashion, except
 that first line trucks may be bombed only by planes with a "D" capability.
 The method and results are the same, however.
 
-[#41_33]*[41.33] Flak Destruction (B-FS)*: The results are in terms of the
+[#41_33]
+*[41.33] Flak Destruction (B-FS)*: The results are in terms of the
 number of TOE strength points with an Anti-Air rating that are destroyed.
 Flak/AA may also be pinned; see B-CU above. Flak destruction bombing takes place
 after flak fire, unlike fighter flak suppression.
 
-[#41_34]*[41.34] Bombing Ships (B-CF)*: The result is the number of Damage
+[#41_34]
+*[41.34] Bombing Ships (B-CF)*: The result is the number of Damage
 Points inflicted on the ships in the hex (See <<30_34>>). Bombing of the
 Commonwealth Fleet may not be undertaken at night.  Torpedoes may be used
 against ships (See <<41_7>> and also <<41_6>>). Axis coastal shipping may not be
 bombed.
 
-[#41_35]*[41.35] Bombing Supply Dumps (B-SD)*: The result is the percentage of
+[#41_35]
+*[41.35] Bombing Supply Dumps (B-SD)*: The result is the percentage of
 each type of supply in that dump that is destroyed. In addition, if there are
 any unattached trucks in the hex, for every 10% of supplies destroyed, one Truck
 Point is lost, choice of defender, dividing losses as evenly as possible.
 
-[#41_36]*[41.36] Bombing Air Facilities (B-AF)*: The result is the number of
+[#41_36]
+*[41.36] Bombing Air Facilities (B-AF)*: The result is the number of
 capacity levels. That that facility is reduced. In addition, for every level
 destroyed, remove 10% of the planes on the ground (e.g., 2 levels, 20%
 planes), rounded down.
 
-[#41_37]*[41.37] Bombing Major Cities/Fortifications (B-F/C)*: Any major city or
+[#41_37]
+*[41.37] Bombing Major Cities/Fortifications (B-F/C)*: Any major city or
 hex with fortifications may be bombed. If the target is a major city, the
 mission may be flown at night (41 -4). Only one level of fortification may be
 destroyed in any Operations Stage. See also <<22_35>> Players may use this
@@ -155,7 +171,8 @@ city hex. If the Player obtains a result that would reduce the fortification
 level by one, the temporary facility is neturalized (and may not be used) for
 one Operations Stage.
 
-[#41_38]*[41.38] Bombing Roads or Railroads (B-R or B-RR)*: This is done in the
+[#41_38]
+*[41.38] Bombing Roads or Railroads (B-R or B-RR)*: This is done in the
 same fashion as Bombing Cities, using the same table (but a different row,
 according to the target). Roads may be bombed at night if the Road is in a
 Coastal Hex.
@@ -164,7 +181,8 @@ The results are simply having the road or railroad hex destroyed. (Railroads are
 very easy to repair; whether they are worth the effort to destroy is the
 player's problem.)
 
-[#41_39]*[41.39] A. Mining Harbors (B-MH)*: Players use the Harbor Mining Table, with the Player
+[#41_39]
+*[41.39] A. Mining Harbors (B-MH)*: Players use the Harbor Mining Table, with the Player
 rolling for each six bombers attempting to successfully lay the mines. Rolling
 one die, if the Player succeeds, place one mine counter in the port hex. The
 result of a mine is the same as blocking harbors: Note: The capacity column
@@ -178,32 +196,39 @@ Torpedoes may be used against ports.
 [#41_4]
 === NIGHT BOMBING MISSIONS
 
-[#41_41]*[41.41]* Certain bombers may fly night missions.  Bombers capable of
+[#41_41]
+*[41.41]* Certain bombers may fly night missions.  Bombers capable of
 flying and bombing at night have a capability code of "N" or "O" in their
 capability column.
 
-[#41_42]*[41.42]* In night bombing, accuracy is sacrificed for the sake of
+[#41_42]
+*[41.42]* In night bombing, accuracy is sacrificed for the sake of
 safety. Only fighters with night fighting capacity may escort bombers on night
 missions.
 
-[#41_43]*[41.43]* The Player must designate that a given bombing mission is a
+[#41_43]
+*[41.43]* The Player must designate that a given bombing mission is a
 night mission as such: B-P(N). See the Air Mission Summary (Case <<39_5>>) for a
 list of which missions may be flown at night.
 
-[#41_44]*[41.44]* All regular missions are resolved before night missions, and
+[#41_44]
+*[41.44]* All regular missions are resolved before night missions, and
 the "defending" Player must be informed if a given mission is a night mission
 prior to ali resolving of missions, scramble, etc.
 
-[#41_45]*[41.45]* Bombers flying night missions have their bombload tonnage
+[#41_45]
+*[41.45]* Bombers flying night missions have their bombload tonnage
 halved, rounded .down.  Torpedoes may not be used at night.
 
-[#41_46]*[41.46]* Only Night Fighters may Scramble against a Night Bombing
+[#41_46]
+*[41.46]* Only Night Fighters may Scramble against a Night Bombing
 Mission (see Case <<40_9>>). Fighters without NF capability may be given an
 offensive CAP versus night raid mission, but have no ZOC, and may only search
 for (and thus attack) Enemy planes with a mission in the same hex (see Case
-41.96). Night Fighters also go through the search procedure in <<41_96>>.
+41.96). Night Fighters also go through the search procedure in 41.96.
 
-[#41_47]*[41.47]* Fighters of CAP as well as Enemy night fighters scrambling
+[#41_47]
+*[41.47]* Fighters of CAP as well as Enemy night fighters scrambling
 against night bombers must go through a search procedure in order to find the
 bombers. The Player rolls one die for each Squadron; if he rolls a '1' the
 fighters have found the bombers (and any NF escort). Subtract '2' from any
@@ -211,11 +236,13 @@ search die roll involving squadrons of night fighters (at night). If the die
 roll is not good, search is unsuccessful and the fighters go home.  Any
 air-to-air combat proceeds normally.
 
-[#41_48]*[41.48]* Flak/AA fire against night missions is adjusted one column to
+[#41_48]
+*[41.48]* Flak/AA fire against night missions is adjusted one column to
 the left. If already in the lowest column, the flak fire is considered
 ineffective.
 
-[#41_49]*[41.49]* Night bombers do not get any benefits from formation flying
+[#41_49]
+*[41.49]* Night bombers do not get any benefits from formation flying
 <<45_36>>.
 
 [#41_5]
@@ -223,19 +250,23 @@ ineffective.
 
 (see Charts and Tables)
 
-[#41_51]*[41.51] Air Bombardment & Secondary Barrage Table*
+[#41_51]
+*[41.51] Air Bombardment & Secondary Barrage Table*
 
-[#41_52]*[41.52] Mining Harbors by Plane Table*
+[#41_52]
+*[41.52] Mining Harbors by Plane Table*
 
 [#41_6]
 === STRATEGIC PHASE BOMBING MISSIONS: AXIS NAVAL CONVOYS
 
-[#41_61]*[41.61]* The Axis Player uses the convoy shipping lanes to place his
+[#41_61]
+*[41.61]* The Axis Player uses the convoy shipping lanes to place his
 arriving convoys of supplies and personnel (see <<55_1>>. Each of these convoy
 shipping lanes has distances in hexes from certain key cities listed in the
 lane. This is the airflight distance from that city (see <<56_18>>).
 
-[#41_62]*[41.62]* Commonwealth bombers assigned to the Strategic Air Phase may
+[#41_62]
+*[41.62]* Commonwealth bombers assigned to the Strategic Air Phase may
 fly bombing missions against Axis naval convoys. This includes Africa based
 bombers as well as those based on Malta. The only requirement is that the
 distance flown is within that plane's range. In tracing the range from
@@ -243,7 +274,8 @@ Africa-based air facilities, the planes must fly to one of the cities listed in
 the lane and then fly to the lane from that point. The two distances are added
 to obtain the full distance.
 
-[#41_63]*[41.63]* Axis fighters based in North Africa may not fly CAP for Axis
+[#41_63]
+*[41.63]* Axis fighters based in North Africa may not fly CAP for Axis
 Naval Convoys. Axis fighters based in the Mediteranean may fly CAP for any
 Convoy Lane within range. Commonwealth fighters may fly CAP or Flak Suppression
 missions to any Convoy Lane within range.  The distances to the Convoy Lanes are
@@ -251,11 +283,13 @@ given in the Axis Naval Convoy Air Distance Chart (Case <<56_18>>). Note that pl
 flying from North Africa must be able to fly to one of the cities listed plus
 the additional distance from that city to the Convoy Lane.
 
-[#41_64]*[41.64]* The Commonwealth Player may only attack Axis Convoys that he
+[#41_64]
+*[41.64]* The Commonwealth Player may only attack Axis Convoys that he
 has located. Axis Convoys may only be located as a result of a Strategic Convoy
 Reconnaissance Mission.
 
-[#41_65]*[41.65]* The procedure for resolving attacks against Axis Naval Convoys
+[#41_65]
+*[41.65]* The procedure for resolving attacks against Axis Naval Convoys
 is as follows:
 
 A. The Players divide their planes between those assigned to Land Support and
@@ -281,72 +315,86 @@ G. Commonwealth bombing of the convoy is resolved. The Axis Naval Convoy
 Missions are now completed. All of the surviving planes will return in base
 during the Strategic Air Recovery Stage.
 
-[#41_66]*[41.66]* Convoy bombing is resolved on the Air Bombardment and
+[#41_66]
+*[41.66]* Convoy bombing is resolved on the Air Bombardment and
 Secondary Barrage Target Results Table. The Commonwealth Player totals his
 attacking bomb points, modifying for torpedos if necessary (see Case <<41_7>>)
 and rolls two dice. The cross-indexed result is in tens of percent of the cargo
 in that convoy lost.
 
-[#41_67]*[41.67]* All losses are evenly divided percentagewise among the various
+[#41_67]
+*[41.67]* All losses are evenly divided percentagewise among the various
 cargo types, rounding fractions up. All truck replacement points are considered
 to be one cargo type. All Italian tanks are considered to be one cargo type. All
 German tanks are considered to be one cargo type. All Italian guns are
 considered to be one cargo type. All German guns are considered to be one cargo
 type.
 
-[#41_68]*[41.68]* Bombing of Axis Naval convoys never affects the arrival of
+[#41_68]
+*[41.68]* Bombing of Axis Naval convoys never affects the arrival of
 listed reinforcements.
 
 [#41_7]
 === TORPEDOES
 
-[#41_71]*[41.71]* Certain planes have the capability of carrying torpedoes,
+[#41_71]
+*[41.71]* Certain planes have the capability of carrying torpedoes,
 which are effective against ships and port facilities (See Case <<38_47>> for
 arming Bombers with Torpedoes.)
 
-[#41_72]*[41.72]* When Axis planes are carrying torpedoes against Enemy ships
+[#41_72]
+*[41.72]* When Axis planes are carrying torpedoes against Enemy ships
 (this refers to Axis plane vs.  Commonwealth Fleet) the Axis Player uses the
 torpedo line, not the normal bombload line. Thus, if he has a mixture of planes
 (some carrying bombs and some carrying torpedoes) he rolls twice for that
 mission: once for the bomb-carrying planes and once for the torpedo-carrying
 planes.
 
-[#41_73]*[41.73]* When Commonwealth planes fly against Axis convoys and at least
+[#41_73]
+*[41.73]* When Commonwealth planes fly against Axis convoys and at least
 50% of the planes are carrying torpedoes, in determining the level (Case <<41_66>>),
 increase the bombing tonnage by 25%, rounding upward. Thus, if 160 tons of bombs
 were delivered to convoy route Nr. 3 via 30 planes, 17 of which were armed with
 torpedoes, the tonnage would be increased to 200 tons (effective).
 
-[#41_74]*[41.74]* Torpedoes may be used against port facilities, but as such
+[#41_74]
+*[41.74]* Torpedoes may be used against port facilities, but as such
 count as normal bombs.
 
-[#41_75]*[41.75]* Only planes with "T" capability can carry torpedoes.
+[#41_75]
+*[41.75]* Only planes with "T" capability can carry torpedoes.
 
 [#41_8]
 === BOMBING TRIPOLI
 
-[#41_81]*[41.81]* Commonwealth bombers may bomb the Tripoli/Tunisia boxes in
+[#41_81]
+*[41.81]* Commonwealth bombers may bomb the Tripoli/Tunisia boxes in
 order to reduce the port capacity level and destroy any planes on the ground.
 These are the only two types of missions that may be flown against Tripoli, etc.
 
-[#41_82]*[41.82]* Distances from game-map hexes to Tripoli, etc., are printed on
+[#41_82]
+*[41.82]* Distances from game-map hexes to Tripoli, etc., are printed on
 the Air Distance Chart Add that distance to any actually flown on the Game-Map
 to get the actual flight distance for the raid.
 
-[#41_83]*[41.83]* Bombing missions against Tripoli (the port) or Bizerta (Tunis)
+[#41_83]
+*[41.83]* Bombing missions against Tripoli (the port) or Bizerta (Tunis)
 are conducted as any other similar mission, and the results are the same as any
 such mission. (See Case <<41_39>>)
 
-[#41_84]*[41.84]* Bombing missions against grounded Axis planes in
+[#41_84]
+*[41.84]* Bombing missions against grounded Axis planes in
 Tripoli/Tunisia air facilities are conducted as a Bombing Air Facilities
 Mission, although the results against the facility are ignored (see Case
 <<41_36>>).
 
-[#41_85]*[41.85]* The AA/Flak capacity for Tripoli, et al, is constant,
+[#41_85]
+*[41.85]* The AA/Flak capacity for Tripoli, et al, is constant,
 non-destructable, and printed in the respective boxes. CAP coverage depends on
 the Axis Player, but any CAP coverage is for all targets in that box.
 
-[#41_86]*[41.86]* Night missions may be flown against the port of Tripoli.
+[#41_86]
+*[41.86]* Night missions may be flown against the port of Tripoli.
 
 [#41_9]
 === PINNED BY BOMBING
@@ -357,7 +405,8 @@ somewhat incorrect definition of Pinned given in Case <<3_1>>; in essence this c
 is an early errata.)  The Pinned by Bombing result depends on whether the
 "pinned" unit belongs to the "A" Player or the "B" Player.
 
-[#41_91]*[41.91]* Pinned Unit: "A" Player
+[#41_91]
+*[41.91]* Pinned Unit: "A" Player
 
 The following results occur from a Pin to a unit belonging to the A Player for
 that OpStage:
@@ -375,7 +424,8 @@ use Offensive Close Assault or Anti-Armour.
 As soon as the OpStage switches to the B Player these results are no longer in
 effect.
 
-[#41_92]*[41.92]* Pinned Unit: "B" Player
+[#41_92]
+*[41.92]* Pinned Unit: "B" Player
 
 The following results occur from a Pin to a unit belonging to the B Player for
 that OpStage: such unit may not move voluntarily or engage in combat voluntarily

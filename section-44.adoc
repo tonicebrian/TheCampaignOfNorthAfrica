@@ -21,46 +21,54 @@ over Malta must be assigned a specific hex.
 [#44_1]
 === THE MALTESE AIR BASES
 
-[#44_11]*[44.11]* The map of Malta represented on GameMap "A" is not in the samé
+[#44_11]
+*[44.11]* The map of Malta represented on GameMap "A" is not in the samé
 scale as the African portions of the game-maps, nor is it in scale in terms of
 geographic location vis-a-vis the African coast. The air distances to key points
 in Africa are listed in the Malta Box. The map-of Malta itself shows different
 terrain and cities, mostly for historical purposes. The only items of importance
 on the Malta map are the air facilities and the port of Valetta.
 
-[#44_12]*[44.12]* Maltese air facilities are printed directly on the game-map
+[#44_12]
+*[44.12]* Maltese air facilities are printed directly on the game-map
 (unlike most others). They are permanent and may never be moved. No further air
 facilities may be built on Malta. Although they may not be destroyed, Maltese
 air facilities may be reduced (by Axis bombing) to zero effectiveness.
 
-[#44_13]*[44.13]* The initial capacity of Maltese air bases is given in each
+[#44_13]
+*[44.13]* The initial capacity of Maltese air bases is given in each
 scenario. It may be increased—up to the standard levels—by using the Maltese Air
 Facility Construction Table  <<44_5>>) The Commonwealth Player may use the table
 once each Game-Turn for each air facility on Malta, the table informing the
 Commonwealth Player how many "levels" he may construct for each facility.  No
 supplies need be expended.
 
-[#44_14]*[44.14]* The Commonwealth Player does not need—nor does he use—SGSU's
+[#44_14]
+*[44.14]* The Commonwealth Player does not need—nor does he use—SGSU's
 on Malta. Each "level" of air facility can handle up to 18 planes of any type.
 Thus an airfield operating at maximum capacity (6 levels) could handle 108
 planes. However, for the sake of play ease, the Commonwealth Player should
 group his planes as if they were squadrons.
 
-[#44_15]*[44.15]* Planes on Malta may be moved from one field to another without
+[#44_15]
+*[44.15]* Planes on Malta may be moved from one field to another without
 flying. Such a movement is not considered a mission and happens "outside”' the
 play sequence. In essence, the Commonwealth Player simply moves his squadrons or
 planes from one field to the other at the beginning of the OpStage, noting such
 movement on his squadron sheets, prior to any missions being flown. The Axis
 Player need not be informed of such moves.  
 
-[#44_16]*[44.16]* Planes based on Malta do not need fuel or ammo; they are 
+[#44_16]
+*[44.16]* Planes based on Malta do not need fuel or ammo; they are 
 automatically refueled and rearmed each Stage. However, they must be refit like ail 
 other planes, using the same method as all other planes.
 
-[#44_17]*[44.17]* Commonwealth planes may transfer to and from Malta and the
+[#44_17]
+*[44.17]* Commonwealth planes may transfer to and from Malta and the
 African fields, provided they have the range.
 
-[#44_18]*[44.18]* The Commonwealth Player may divert AA/Flak points
+[#44_18]
+*[44.18]* The Commonwealth Player may divert AA/Flak points
 (Replacements) to Malta. For each light AA Flak point he diverts to Malta he
 receives one AA Point on Malta; for each heavy AA point he diverts he receives
 four AA points on Malta. These points: come from the Commonwealth Replacement
@@ -76,23 +84,27 @@ as they occur. Flak points may move between airfields/strips as planes do in
 [#44_2]
 === AXIS AIR RAIDS ON MALTA
 
-[#44_21]*[44.21]* Axis bombers based in Italy/Sicily as well as any
+[#44_21]
+*[44.21]* Axis bombers based in Italy/Sicily as well as any
 African-based Axis planes that can reach the island can raid Malta, bombing the
 Maltese air facilities to reduce their capability to refit planes.
 
-[#44_22]*[44.22]* In addition, to <<44_21>> the Axis may draw on Italian and
+[#44_22]
+*[44.22]* In addition, to <<44_21>> the Axis may draw on Italian and
 German aircraft based permanently in Italy and Sicily (and otherwise not
 available to the Axis Player). These planes are reflected by the Axis Malta
 Availability Levels. (See <<44_41>>.)
 
-[#44_23]*[44.23]* There are four Axis Malta Availability Levels, representing
+[#44_23]
+*[44.23]* There are four Axis Malta Availability Levels, representing
 the levels of Axis commitment to Malta. Each level gives the number of
 Game-Turns during the Campaign Game that that portion may be used. Each shorter
 scenario has separate listings. No Availability Level may ever be used more
 Game-Turns than it is listed as available. It is up to the Axis Player to plan
 his raids according to what he wants to accomplish and when he want to doit.
 
-[#44_24]*[44.24]* Axis Raids on Malta take place in the Strategic Air Phase of
+[#44_24]
+*[44.24]* Axis Raids on Malta take place in the Strategic Air Phase of
 the Game-Turn, and thus occur only once per Game-Turn. (This is, admittedly,
 somewhat abstract—and the various Malta tables reflect this abstraction.) The
 Axis Player chooses the planes in the game he wishes to bomb Malta with by
@@ -101,7 +113,8 @@ consulting the portion of the Malta Availability Table of his choice
 conducts each bombing and/or strafing raid normally—including air-to-air and
 AA/flak.
 
-[#44_25]*[44.25]* To compute how many — and what types — of planes he may use,
+[#44_25]
+*[44.25]* To compute how many — and what types — of planes he may use,
 the Axis Player uses the Axis Malta Table  <<44_42>>). In addition to the planes
 he receives from this Table he may then add in — up to the maximums he gets from
 the Table — any planes he wishes from Africa. In essence, the Table shows the
@@ -112,11 +125,13 @@ Planes Available, to which are added any Africa-based planes. If, at any time,
 the Axis Player does not wish to bomb Malta he is considered to have used Level
 I (which is unlimited).
 
-[#44_26]*[44.26]* In using the Axis Malta Availability Tables, the Axis Player
+[#44_26]
+*[44.26]* In using the Axis Malta Availability Tables, the Axis Player
 always assigns his mapbased planes after determining how many planes he will get
 from the tables.
 
-[#44_27]*[44.27]* In no case may the Axis Player assign more planes of any one
+[#44_27]
+*[44.27]* In no case may the Axis Player assign more planes of any one
 type from map bases than are assigned from the Availability Tables. That is, if
 the table says 6 S.M. 81's may be used, the Axis Player may add in no more than
 6 map-based SM 81's. Furthermore, if a plane is not assigned from the table it
@@ -134,7 +149,8 @@ now has available 150% of the total planes he has based in Italy/Sicily. He may
 also add to this the same number of planes (or less) — by type — as he has
 available from the above from bases in Africa.
 
-[#44_28]*[44.28]* To determine what losses are are absorbed by planes actually
+[#44_28]
+*[44.28]* To determine what losses are are absorbed by planes actually
 in play — as opposed to those taken by planes that are used only for Malta
 bombing as per <<44_4>> — the player must obtain a ratio between the planes he
 uses that come from (1) Africa, plus (2) the percentage to the left of the slash
@@ -156,7 +172,8 @@ noted—when determining who takes losses. 33%, rounded up, of 8 means 3 bombers
 from Benina have been shot down. The number of bombers lost in Italy/Sicily from
 the Availability Table is not considered.
 
-[#44_29]*[44.29]* The Axis Player may, after rolling on the Table, decide not to
+[#44_29]
+*[44.29]* The Axis Player may, after rolling on the Table, decide not to
 raid. The raid is cancelled, but he still has used the table he rolled for
 once—regardless of whether he cancels or not (see Case <<44_23>>). In such a
 case, the Axis Player may not, of course, use map-based planes.
@@ -182,11 +199,13 @@ game—the Axis Player may not invade Malta. Sorry.
 
 (see Charts & Tables)
 
-[#44_41]*[44.41] Axis Strategic Airforce Commitment Chart*
+[#44_41]
+*[44.41] Axis Strategic Airforce Commitment Chart*
 
 (see Charts & Tables)
 
-[#44_42]*[44.42] Axis Malta Availability Table*
+[#44_42]
+*[44.42] Axis Malta Availability Table*
 
 (see Charts & Tables)
 

@@ -19,24 +19,28 @@ CASES:
 [#36_1]
 === AIRFIELDS
 
-[#36_11]*[36.11]* Airfields are fully-equipped and engineered air facilities,
+[#36_11]
+*[36.11]* Airfields are fully-equipped and engineered air facilities,
 with repair shops, full maintenance facilities and runway capacity for a large
 number of squadrons. Airfield construction is covered in Case <<24_7>>. Each
 airfield is noted by an airfield counter in the hex in which the airfield has
 been constructed.
 
-[#36_12]*[36.12]* Each Airfield has a capacity level of six (maximum). This
+[#36_12]
+*[36.12]* Each Airfield has a capacity level of six (maximum). This
 means that it may handle a maximum of six squadrons (regardless of squadron
 size) at any one time. There may never be more than six SGSU's in a given
 airfield hex. However, see Case <<36_5>>.
 
-[#36_13]*[36.13]* If an airfield is landing six squadrons planes in a given
+[#36_13]
+*[36.13]* If an airfield is landing six squadrons planes in a given
 Operations Stage, it may not receive any more airplanes, even in an emergency.
 Such excess planes must seek other fields or strips at which to land. Likewise,
 no more than six squadron's worth of planes may be readied at a given airfield
 (see Aircraft Maintenance Section <<38_0>>).
 
-[#36_14]*[36.14]* The capacity of an airfield (its levels) may be reduced by
+[#36_14]
+*[36.14]* The capacity of an airfield (its levels) may be reduced by
 enemy bombardment (air or artillery). Players should keep track of the capacity
 level of an airfield. Thus, if bombing has reduced the capacity of an airfield
 from six to three, that airfield may handle only three squadrons at a time,
@@ -45,24 +49,28 @@ airfield, each airfield may still have six SGSU's with it, even though some may
 not be able to function because of a reduced capacity level. If an airfield is
 reduced to zero capacity, it is considered destroyed for all purposes.
 
-[#36_15]*[36.15]* Airfields may also be damaged by desert raiders. However,
+[#36_15]
+*[36.15]* Airfields may also be damaged by desert raiders. However,
 normal land units never damage airfields (except by barrage; see Cases
 <<36_14>>and <<12_5>>). Land combat units may capture or destroy (entirely) an
 airfield by occupying its hex. Airfields are, in essence, non-denominational;
 they may be used by anyone.
 
-[#36_16]*[36.16]* Players should keep in mind that, while it is the airfield
+[#36_16]
+*[36.16]* Players should keep in mind that, while it is the airfield
 that has the capacity for maintenance, it is the SGSU that actually performs
 that maintenance (see Case <<35_17>>).
 
-[#36_17]*[36.17]* An airfield is a supply dump for supplies to be used by the
+[#36_17]
+*[36.17]* An airfield is a supply dump for supplies to be used by the
 SGSU's on that airfield. Fuel, ammunition, stores, etc., may be stored at an
 airfield as if it were a dump. Land units may not use airfield supply dumps
 unless it is an emergency.  Exactly what constitutes an emergency is left to
 the Player. Any SGSU at an airfield may make use of the supplies there to
 maintain and ready its planes.
 
-[#36_18]*[36.18]* Airfields have an intrinsic anti-aircraft Strength Point of
+[#36_18]
+*[36.18]* Airfields have an intrinsic anti-aircraft Strength Point of
 one (in addition to any other anti-aircraft units present). The Strength Point
 may only be used against planes on strafing and/or dive-bombing combat missions.
 

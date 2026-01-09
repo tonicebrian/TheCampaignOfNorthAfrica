@@ -153,7 +153,8 @@ Armor Protection Rating and of weapons without
 one are considered ¢wo units for target purposes.
 ====
 
-[#3_23]*[3.23]* Combat units consist of all Infantry-Type, Tank-Type Recce-Type,
+[#3_23]
+*[3.23]* Combat units consist of all Infantry-Type, Tank-Type Recce-Type,
 Artillery-Type, Antitank-Type, and Anti-aircraft-Type units. For certain
 determinations, such as Zone of Control, Reconnaissance, Barrage and
 Bombardment, certain non-combat units may be considered combat units.
@@ -165,15 +166,18 @@ HQ's serve two functions: They act as command coordination for the individual
 units under them, and they also represent, when on the game-map, all of the
 units attached to that HQ.
 
-[#3_31]*[3.31]* HQ units represent all combat units, Trucks (and their
+[#3_31]
+*[3.31]* HQ units represent all combat units, Trucks (and their
 Supplies), etc. attached to that counter. If any combat units are attached, the
 HQ counter itself is considered a combat unit, and fights with the combined
 strengths of all units in it.
 
-[#3_32]*[3.32]* An HQ (and for that matter, all Parent Units) have a CPA equal
+[#3_32]
+*[3.32]* An HQ (and for that matter, all Parent Units) have a CPA equal
 to the CPA of the 'slowest' unit attached to the HQ.
 
-[#3_33]*[3.33]* The Stacking Points printed on the HQ are those of a full
+[#3_33]
+*[3.33]* The Stacking Points printed on the HQ are those of a full
 complement of units. Thus a divisional HQ representing an entire division
 occupies 5 Stacking Points of space. The rules on unit Equivalents (see
 <<9_2>>) discuss what happens if the division operates at less than full strength.
@@ -181,13 +185,15 @@ If an HQ has no combat units attached it occupies zero Stacking Points and may
 use its parenthesized Ratings. It is no longer considered to be a combat unit
 and may not voluntarily attack.
 
-[#3_34]*[3.34]* Certain HQ units, mostly with the Italian Army, have artillery
+[#3_34]
+*[3.34]* Certain HQ units, mostly with the Italian Army, have artillery
 assigned to regimental HQ's (guns directly under command of the HQ). These HQ's
 may use their combat strengths, and losses for the guns are taken as regular
 losses. However, when all gun TOE Strength Points are eliminated, the HQ is not
 destroyed: it reverts to the status of a non-combat HQ.
 
-[#3_35]*[3.35]* Armored Division and Armored Brigade HQ units usually have a
+[#3_35]
+*[3.35]* Armored Division and Armored Brigade HQ units usually have a
 "platoon" of tanks assigned, as Players will note by the ratings of each such
 HQ. These tanks may not be used in combat unless the HQ has no combat units
 attached.  Tanks assigned to HQ's may not be transferred to combat units,
@@ -195,7 +201,8 @@ regardless of the situation. If such an HQ loses its tanks, they should be
 replaced by the first available Tank Replacement Points. HQ's with tanks
 attached are not subject to Breakdown.
 
-[#3_36]*[3.36]* An HQ unit that has no combat values, either with or without
+[#3_36]
+*[3.36]* An HQ unit that has no combat values, either with or without
 parentheses, is captured instantly if it is in a hex without any combat units
 and an Enemy combat unit places the HQ in its Zone of Control. There is no
 Capability Point expenditure required for such a capture, and the HQ is treated
@@ -292,7 +299,7 @@ _Anti-Tank Units_: These have "guns" with the ability to pierce armor, thus
 destroying tanks and other armored units. There are certain TOE Strength Points,
 not specifically anti-tank, that also have this ability: British 25-pdrs., the
 famous German 88mm Flak units, Italian 75mm and 90mm AA/Flak units, etc. British
-Heavy Antiaircraft units, with <<3_7>>" guns, theoretically had the capability to
+Heavy Antiaircraft units, with 3.7" guns, theoretically had the capability to
 fire as anti-tank weapons. However, British doctrine was such that they were
 never (well, hardly ever) used in this role. ("If they were meant to be used as
 anti-tank guns they would have been called anti-tank guns." Apocryphal, but
@@ -303,7 +310,7 @@ the most liberties in terms of design. The myriad and voluminous AA/Flak
 batteries spread over Africa were often combined into larger regiments and
 battalions, making the historical battalions/regiments seem larger than they
 perhaps were. AA/Flak units comprise a fairly wide section of weapons: British
-40mm, as well as the ill-used <<3_7>>"s, German 20 and 88mm's, plus Italian 20mm's,
+40mm, as well as the ill-used 3.7"s, German 20 and 88mm's, plus Italian 20mm's,
 75's and 90mm's.  Many of these guns had other tactical uses, apart from
 shooting down planes. Thus AA/Flak units are given a variety of ratings, most of
 them parenthesized. Some units, especially German 88's, can be used in many

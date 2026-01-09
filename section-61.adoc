@@ -19,7 +19,8 @@ ends at the conclu sion of the 3rd OpStage of Game-Turn 38. It should take from
 [#61_3]
 === COMMONWEALTH FORCES
 
-[#61_31]*[61.31]* Commonwealth Land Forces
+[#61_31]
+*[61.31]* Commonwealth Land Forces
 
 Initial Deployment (Hex: Units)
 
@@ -63,7 +64,8 @@ see action and were eventually shipped to Crete or Syria; e.g. 7th RTR, 1st
 Hampshires, Ist Welch; 1st Durham Light, infantry and the entire 16th Bde of the
 70th Infantry division, among others.
 
-[#61_32]*[61.32]* Tank
+[#61_32]
+*[61.32]* Tank
 
 The following tanks (in TOE Points) are assigned
 to the given units (which start this scenario assigned to the 3rd Armored Bde):
@@ -82,7 +84,8 @@ Unit Tanks
 Tanks of the 7th Armored Division are at maximum TOE, but all are broken down (see Case
 <<61_38>>).
 
-[#61_33]*[61.33]* Commonwealth North African Air Force
+[#61_33]
+*[61.33]* Commonwealth North African Air Force
 
 Planes & SGSU's:; The following squadrons of
 planes, each being represented by one SGSU, are
@@ -120,7 +123,8 @@ Barrani (C 4131), Gerawla (D 3516), Sidi Haneish (D 3418), Maaten Baggush (D
 3520), and Fuka (D 3323). In addition the Commonwealth Player may place three
 Landing Strips anywhere on the game map.
 
-[#61_34]*[61.34]* Malta: The Commonwealth Player has an initial total air
+[#61_34]
+*[61.34]* Malta: The Commonwealth Player has an initial total air
 facility capacity of 8 which he may divide amongst the facilities. He has 26AA
 Points which he may divide amongst the facilities:
 
@@ -132,7 +136,8 @@ Marylands.
 He may not begin construction/repair of air facilities until the second
 game-turn of this scenario.  9
 
-[#61_35]*[61.35]* COMMONWEALTH TRUCKS
+[#61_35]
+*[61.35]* COMMONWEALTH TRUCKS
 
 The Commonwealth Player receives the following Second-Third Line Trucks for
 distribution to any location on game-maps A through D. (Not E).  This includes
@@ -155,7 +160,8 @@ The Commonwealth Player places the following Trucks in Alexandria or Cairo:
 | Heavy | 35
 |===
 
-[#61_36]*[61.36]* Supply
+[#61_36]
+*[61.36]* Supply
 
 The Commonwealth Player receives nine Dumps and three Dummy Dumps. In addition,
 both Benghazi and Tobruk are supply dumps.
@@ -189,13 +195,15 @@ Air Supply
 The Commonwealth Player has 180 Fuel Points, 250 Ammo Points, and 50 Stores for
 distribution amongst Air Facilities.
 
-[#61_37]*[61.37]* COMMONWEALTH FLEET
+[#61_37]
+*[61.37]* COMMONWEALTH FLEET
 
 The Commonwealth Player receives all his fleet counters in Alexandria. They may
 not move out of Alexandria before the first OpStage of GameTurn 27. All are
 armed and undamaged.
 
-[#61_38]*[61.38]* REINFORCEMENTS/ REPLACEMENTS
+[#61_38]
+*[61.38]* REINFORCEMENTS/ REPLACEMENTS
 
 Except as listed below, the Commonwealth Player takes his Reinforcements as they
 arrive, via The Reinforcement Track. Replacement Points arrive in the normal
@@ -232,7 +240,8 @@ Release Schedule, the 22nd Guards Brigade counts as one battalion.
 [#61_4]
 === AXIS FORCES
 
-[#61_44]*[61.44]* Axis Land Forces
+[#61_41]
+*[61.41]* Axis Land Forces
 
 All German land units that are scheduled to arrive before the third OpStage of
 Game-Turn 26 (See Reinforcements Schedule) may be placed within one hex of El
@@ -255,7 +264,8 @@ Tanks).
 One Oasis Company (German) is at Maaten Groter (A 1318) and one at Magadah (A
 0817).
 
-[#61_42]*[61.42]* Axis Airforce
+[#61_42]
+*[61.42]* Axis Airforce
 
 Planes: The Axis Player receives all of the German planes listed in the Axis
 Airplane Reinforcement Chart as shceduled to arrive prior to the 3rd OpStage of
@@ -285,7 +295,8 @@ Italy/Sicily within the minimum German plane restrictions of Case <<43_1>>
 (Crete is still British). The Axis Player may place one airfield and one air
 landing strip in any hex west of El Agheila (A 1816).
 
-[#61_43]*[61.43]* Axis Tracks
+[#61_43]
+*[61.43]* Axis Tracks
 
 AJl German first line Trucks (which are indicated on the Reinforcement Schedule
 as being attached to arrived German units) may be distributed among those units
@@ -317,7 +328,8 @@ Trucks, otherwise he will have a hard time moving his Supply around.
 
 Additional second/third line trucks: 10 Medium Trucks at air facilities.
 
-[#61_44]*[61.44]* Supply
+[#61_44]
+*[61.44]* Supply
 
 The Axis Player receives five Dumps, two of which are Dummies. These dumps may
 be placed at any hex between El Agheila and Nofilia.
@@ -334,7 +346,8 @@ have unlimited Fuel and Ammo) there are 50 Fuel Points and 50 Ammo Points. The
 Axis player does not receive a Convoy during the first game-turn. He must plan
 his convoys for the second and third game-turns.
 
-[#61_45]*[61.45]* All Axis Reinforcements are taken normally, as they appear on
+[#61_45]
+*[61.45]* All Axis Reinforcements are taken normally, as they appear on
 the track.
 
 [#61_5]
@@ -361,7 +374,8 @@ This Case covers the adjustments needed in addition to those given in Case
 <<59_6>> in order to play this scenario without the Air and/or Logistics
 Game(s).
 
-[#61_71]*[61.71]* Air Abstracted (Land & Logistics Games): The 2nd-3rd Line
+[#61_71]
+*[61.71]* Air Abstracted (Land & Logistics Games): The 2nd-3rd Line
 Trucks available to the Players are modified as follows:
 
 A. Axis Player: 2nd-3rd Line are now a total of 90 Light; 270 Medium and 40
@@ -371,7 +385,8 @@ B. Commonwealth Player: 2nd/3rd Line Trucks in Alexandria/Cairo are now a total
 of 25 Light, 150 Medium and 25 Heavy. Other 2nd/3rd Line Trucks are now a total
 of 40 Light, 90 Medium and 20 Heavy.
 
-[#61_72]*[61.72]* Air & Logistics Abstracted (Land Game Only):
+[#61_72]
+*[61.72]* Air & Logistics Abstracted (Land Game Only):
 
 A. The Players' ability to bring in motorization points is equal to their
 respective abilities to bring in Medium Truck Points (i.e., each Medium Truck
@@ -403,12 +418,13 @@ Timimi (B 5229) and Derna (B 5925)
 In addition, Cairo and Alexandria each contain two regular supply units: each
 supply unit contains 40 Ammo and 60 Fuel Points.
 
-[#61_73]*[61.73]* Logistics Abstracted (Land & Air Games):
+[#61_73]
+*[61.73]* Logistics Abstracted (Land & Air Games):
 
 A. The Players' ability to bring in motorization points is equal to their
 respective abilities to bring in Medium plus Heavy Truck Points (i.e., éach
 Medium and each Heavy Truck Point is equal to one Motorization Point).
-B. Axis Initial Supply Status: As in <<61_62>> "C" above and in addition 1
+B. Axis Initial Supply Status: As in <<61_72>> "C" above and in addition 1
 regular supply unit with 20 Ammo and 30 Fuel Points may be placed at any one
 Axis air facility.
 C. Commonwealth Initial Supply Status: As in <<61_72>> "D" above plus 1 regular

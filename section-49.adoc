@@ -18,19 +18,22 @@ convoys) the Player should record the changes in levels immediately.
 
 [#49_1]
 === FUEL CONSUMPTION RATES
-[#49_11]*[49.11]* All Fuel is considered in terms of Fuel Points. The Fuel Point
+[#49_11]
+*[49.11]* All Fuel is considered in terms of Fuel Points. The Fuel Point
 is the basic unit of consumption. A Fuel Point is roughly equivalent to 250
 pounds or 35 gallons of gasoline and auxiliary petroleum products: (This rate
 does not apply to the Air Game, where fuel usage has been abstracted because of
 the decrease in the true number of sorties flown.)
 
-[#49_12]*[49.12]* Every vehicle in the game consumes fuel when it moves, except
+[#49_12]
+*[49.12]* Every vehicle in the game consumes fuel when it moves, except
 where specifically noted.  (e.g. desert raiders and patrols among others, have
 slightly different rules.) Fuel users include HQ's with non-parenthesized TOE
 Strength Points and all gun class units. They do not include motorcycles or the
 towing of tanks and trucks back to repair facilities.
 
-[#49_13]*[49.13]* Every TOE Strength Point of vehicles has a fuel consumption
+[#49_13]
+*[49.13]* Every TOE Strength Point of vehicles has a fuel consumption
 rate and a fuel capability rating. The fuel consumption factor is the number of
 Fuel Points consumed for every five Capability Points (or fraction thereof)
 expended by the TOE Strength Point for movement (or any type). Note: Fuel is not
@@ -40,7 +43,8 @@ of tanks with a fuel consumption rate of "4" that moved in such a way that
 expends 12 Capability Points would consume 12 Fuel Points—"4", the fuel
 consumption rate multiplied by ‘'3", the number of groups of 5 CP's expended.
 
-[#49_14]*[49.14]* The fuel capacity rating is the number of
+[#49_14]
+*[49.14]* The fuel capacity rating is the number of
 
 Fuel Points a TOE Strength Point may have, so to speak, in its gas tanks. All
 vehicles' fuel capacity ratings are determined according to the following
@@ -51,14 +55,16 @@ Fuel capacity rating = CPA x 1/5 x fuel consumption rate
 Players will note that a TOE Strength Point always has a fuel capacity rating
 exactly sufficient to allow allits CPA to be expended on movement.
 
-[#49_15]*[49.15]* For fuel to be consumed, it must be present in the same hex
+[#49_15]
+*[49.15]* For fuel to be consumed, it must be present in the same hex
 with the consuming unit/TOE Strength Point. Generally, movement of a unit will
 be "counted against'? its fuel capacity rating—i.e., the fuel in the unit's gas
 tanks, which by definition is in the same hex at all times—and players will have
 to record how far each land unit has been moved since the last time its fuel
 supply was replenished. See also Case <<49_16>>.
 
-[#49_16]*[49.16]* In essence, a unit consumes fuel in the hex in which it begins
+[#49_16]
+*[49.16]* In essence, a unit consumes fuel in the hex in which it begins
 Movement for any Movement Segment in the OpStage. It may draw fuel from any
 source in that hex, except for second-third line trucks. (Such fuel from
 convoying trucks must be off-loaded first). There is no cost in CP's to "gas
@@ -68,7 +74,8 @@ in the hex. He then moves the unit. If such unit were to move again in that
 OpStage, it would have to draw fuel from the new hex or from its own Fuel
 Capacity  <<49_14>>).
 
-[#49_17]*[49.17]* In an emergency, Players may "siphon gas." That is, if two
+[#49_17]
+*[49.17]* In an emergency, Players may "siphon gas." That is, if two
 units are in a hex, one has fuel and the other doesn't, and there is no other
 fuel supply available, the Player may transfer some—or all—of the fuel from one
 unit to the other, up to the maximum Fuel Capacity of the receiving unit. Such
@@ -78,12 +85,14 @@ may be siphoned from abandoned or Brokendown enemy vehicles; it may not be
 siphoned from a destroyed vehicle. The enemy player should supply the siphoning
 player with the number of fuel points so available—when requested.)
 
-[#49_18]*[49.18]* Trucks carrying fuel will also consume fuel themselves while
+[#49_18]
+*[49.18]* Trucks carrying fuel will also consume fuel themselves while
 they are moving. They may consider the fuel they are transporting as a source of
 fuel. It is possible for a truck to consume half of its cargo getting from a
 port to a forward area.
 
-[#49_19]*[49.19]* Fuel is non-denominational. It can be used by either player,
+[#49_19]
+*[49.19]* Fuel is non-denominational. It can be used by either player,
 making a supply dump a worthwhile objective.
 
 [#49_2]

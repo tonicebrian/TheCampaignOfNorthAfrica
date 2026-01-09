@@ -28,7 +28,8 @@ to play, excluding set-up; "The Long Retreat" should take from 50to 100 hours.
 [#63_3]
 === COMMONWEALTH FORCES
 
-[#63_31]*[63.31]* Commonwealth Land Forces Deployment
+[#63_31]
+*[63.31]* Commonwealth Land Forces Deployment
 
 Initial
 
@@ -156,7 +157,8 @@ they had used Replacement Points)
 E. Any artillery units with 18-pounders or 18/25 pounders may replace them with
 25 pounders.
 
-[#63_32]*[63.32]* Commonwealth Tank Battalion Composition
+[#63_32]
+*[63.32]* Commonwealth Tank Battalion Composition
 
 The following tank battalions are listed as to their assigned parent formatin(s)
 for this scenario and their starting compositions, in TOE Strength Points, if
@@ -239,7 +241,8 @@ Staffordshire Yeo 8/10 3 Crusader III's,
 £This armored unit is a tank battalion for these
 scenarios.
 
-[#63_33]*[63.33]* Commonwealth Air Strength
+[#63_33]
+*[63.33]* Commonwealth Air Strength
 
 [cols="1,1,5"]
 |===
@@ -309,7 +312,8 @@ and 1 Flying Boat Alighting Area anywhere on Map E, but not within five hexes of
 an enemy unit, or in the Qatarra Depression. The Commonwealth Player's seven
 off-map facilities are all undamaged.
 
-[#63_34]*[63.34]* Commonwealth Trucks Second-Third Line Trucks (In Convoy):
+[#63_34]
+*[63.34]* Commonwealth Trucks Second-Third Line Trucks (In Convoy):
 
 Anywhere on gamemapsD&E: 200 Light, 725
 
@@ -318,7 +322,8 @@ Medium, 225 Heavy
 The Commonwealth Player receives 100 Medium and 60 Heavy trucks for distribution
 among his Air Facilities.
 
-[#63_35]*[63.35]* Commonwealth Supply
+[#63_35]
+*[63.35]* Commonwealth Supply
 
 The Commonwealth Player receives 10 Supply Dumps plus 3 Dummies, for a total of
 13 Dumps.  As many as five of these dumps may be placed within one hex of the
@@ -336,12 +341,14 @@ Trucks not carrying men may be loaded with supplies as the Player wishes. The
 Commonwealth has no temporary repair facility. Alexandria and Cairo are Major
 Repair Facilities.
 
-[#63_36]*[63.36]* Commonwealth Fleet
+[#63_36]
+*[63.36]* Commonwealth Fleet
 
 The Commonwealth Player receives the following warship counters in Alexandria: 2
 Heavy Cruisers, 3 Light Cruisers, 4 Destroyers.
 
-[#63_37]*[63.37]* Malta
+[#63_37]
+*[63.37]* Malta
 
 All Air Facilities are operating at full capacity.
 The following planes are available in Malta:
@@ -399,7 +406,8 @@ Three 1
 Two 5
 One 5
 
-[#63_38]*[63.38]* Reinforcements and Replacements
+[#63_38]
+*[63.38]* Reinforcements and Replacements
 
 All Reinforcements are taken as per the Reinforcement Schedules. Ail
 Replacements are taken normally, except that all available points are reduced to
@@ -413,7 +421,8 @@ Reinforcements for the "Last Chance”' scenario.
 [#63_4]
 === AXIS FORCES
 
-[#63_41]*[63.41]* Axis Land Forces Initial Deployment
+[#63_41]
+*[63.41]* Axis Land Forces Initial Deployment
 
 (Hex: Units)
 
@@ -483,7 +492,8 @@ anti-aircraft units. This includes the 1st and 2nd African Arty HQ's and the
 Modifications to units strength: All Axis Infantrytype units are reduced to 2/3
 (round fractions up) of their maximum TOE Strength.
 
-[#63_42]*[63.42]* Tank Deployment
+[#63_42]
+*[63.42]* Tank Deployment
 
 The following are exceptions to the OA Chart
 
@@ -520,7 +530,8 @@ The following are exceptions to the OA Chart
 Broken down in Tobruk's Repair Facility: 3
 PzHIH's; 1 PzIVD.
 
-[#63_43]*[63.43]* Axis Air Strength
+[#63_43]
+*[63.43]* Axis Air Strength
 
 German Planes
 
@@ -600,7 +611,8 @@ Air Facilities
 The Axis Player has nine Airfields, eight one Flying Boat Basin and One Flying
 Boat Alighting Area. He may place these wherever he wishes, on Maps A-D.
 
-[#63_44]*[63.44]* Axis Trucks
+[#63_44]
+*[63.44]* Axis Trucks
 
 Second-Third Line Trucks (In Convoy):
 
@@ -609,7 +621,8 @@ May be placed anywhere on game maps A thru D: 115 Light, 350 Medium, 75 Heavy.
 The Axis Player receives 50 Light and 100 Medium trucks for distribution among
 his Air Facilities.
 
-[#63_45]*[63.45]* Axis Supply
+[#63_45]
+*[63.45]* Axis Supply
 
 The Axis Player receives ten Supply Dumps, three of which are Dummies. At least
 five of those dumps must be placed on Game-Maps A, B or C.  The other five may
@@ -651,14 +664,16 @@ in Bardia and Mersa Matruh.
 Axis Coastal Shipping (all units/tonnage) is available. Ships may be placed at
 any port between Tobruk and Tripoli.
 
-[#63_46]*[63.46]* Axis Mediterranean Air Force Deployment
+[#63_46]
+*[63.46]* Axis Mediterranean Air Force Deployment
 
 The Axis Player may transfer 10% of his available force to Italy or Sicily but
 no more. He may not have more than 10% of his air power in Italy or Sicily.
 Strategic air attacks against Malta may be made only in the Long Retreat
 scenario (see 44.41).
 
-[#63_47]*[63.47]* Replacements and Reinforcements
+[#63_47]
+*[63.47]* Replacements and Reinforcements
 
 For the "Last Chance" Scenario, ignore all Reinforcements and Replacements.
 
@@ -676,7 +691,8 @@ This rule takes into effect the Allied Landings (feared and actual) to the West,
 and the historical fact that almost all manpower at this time was being diverted
 to Tunisia.
 
-[#63_48]*[63.48]* Upgraded Axis Equipment
+[#63_48]
+*[63.48]* Upgraded Axis Equipment
 
 A. All eligible Axis armored car and armored recce units may be upgraded as per
 rules for such.  It is not necessary to use Replacement Points; simply upgrade
@@ -691,7 +707,7 @@ C. The following German anti-tank units have their weaponry upgraded replacing
 their OA Sheet listing: The 605th SP of the 21st Panzer has 6 TOE Strength
 Points of Marder SP anti-tank guns. The 3.7mm anti-tank guns in the 15th and
 21st Panzers are replaced by the same number of 5cm guns. The Scm guns in the
-15th and 21st Panzers and 90th Light are replaced by the same number of <<7_62>>
+15th and 21st Panzers and 90th Light are replaced by the same number of 7.62
 Pak(R) guns.
 
 D. Any four eligible Italian brigade-level HQ's are ad hoc anti-tank batteries
@@ -731,29 +747,36 @@ Axis Player, of course.)
 
 [#63_7]
 === CONSTRUCTION
-[#63_71]*[63.71]* All unfinished Roads have been built.
+[#63_71]
+*[63.71]* All unfinished Roads have been built.
 
-[#63_72]*[63.72]* The entire unfinished railroad complex has been built.
+[#63_72]
+*[63.72]* The entire unfinished railroad complex has been built.
 However, the RR in the three hexes immediately west of el Alamein are destroyed.
 
-[#63_73]*[63.73]* The only pipeline available is that in railroad hexes. The
+[#63_73]
+*[63.73]* The only pipeline available is that in railroad hexes. The
 Axis Player may draw water through it from Tobruk while the Commonwealth Player
 may draw water through it from Alexandria.
 
-[#63_74]*[63.74]* All ports are at full (listed) Efficiency except Benghazi, at
+[#63_74]
+*[63.74]* All ports are at full (listed) Efficiency except Benghazi, at
 Efficiency Level One, and Tobruk at Efficiency Level Five.
 
-[#63_75]*[63.75]* Level One Fortifications are placed in the four hexes adjacent
+[#63_75]
+*[63.75]* Level One Fortifications are placed in the four hexes adjacent
 to Tobruk. In addition, the Axis Player may place a total of three Level One
 Fortifications among the four hexes adjacent to Bardia.
 
-[#63_76]*[63.76]* Commonwealth Player places minefields in the following hexes:
+[#63_76]
+*[63.76]* Commonwealth Player places minefields in the following hexes:
 D3033, and on map-section E3101, 2901, 2801, 2701, 2702, 2601, 2501, 2401, 2302
 and other five hexes (on map-section E). Of the fifteen, ten are Real and five
 are Dummy; the distribution is at the Commonwealth Player's choice. All start
 the scenario at unknown status (i.e., face-up).
 
-[#63_77]*[63.77]* The Axis Player places minefields in the following hexes of
+[#63_77]
+*[63.77]* The Axis Player places minefields in the following hexes of
 map-section D: 3233, 3133, 3032, 2933, 2833, 2733, 2632, 2633, 2533, 2429, 2433,
 2831, 2832, and 2731. Of the fourteen, eleven are Real and three are Dummy; the
 distribution is at the Axis Player's choice. In addition the Axis Player may
@@ -771,12 +794,14 @@ This case covers the adiustments needed in addition to those given in Case
 <<59_6>> in order to play these scenarios without the Air and/or Logistics
 Game(s).
 
-[#63_31]*[63.31]* Air Abstracted (Land & Logistics Games): The Commonwealth
+[#63_31]
+*[63.31]* Air Abstracted (Land & Logistics Games): The Commonwealth
 initial supplies are reduced as follows: The Front Line Dumps now total 2250
 Ammo, 1750 Fuel, 1500 Stores and 1250 Water Points. The other dumps now total
 500 Ammo, 2000 Fuel, 400 Stores and 1600 Water Points (see Case <<63_35>>).
 
-[#63_82]*[63.82]* Air & Logistics Abstracted
+[#63_82]
+*[63.82]* Air & Logistics Abstracted
 
 (Land Game only)
 
@@ -820,7 +845,8 @@ units, each with 40 Ammo and 60 Fuel Points, which may be placed anywhere on map
 E except that neither may be placed within two hexes of the Front Line (this
 includes Front Line hexes not occupied by supply units).
 
-[#63_83]*[63.83]* Logistics Abstracted
+[#63_83]
+*[63.83]* Logistics Abstracted
 
 (Land & Air Games):
 
@@ -841,7 +867,8 @@ facility not within three hexes of a Front Line hex.
 [#63_9]
 === VICTORY CONDITIONS
 
-[#63_91]*[63.91]* "The Last Chance" Scenario
+[#63_91]
+*[63.91]* "The Last Chance" Scenario
 
 A. The Axis Player wins a Strategic Victory if he can occupy at least one hex of
 Alexandria with at least a Brigade-equivalent unit. Supply doesn't matter.
@@ -851,7 +878,8 @@ B. Failing the above, the Axis Player totals the number of TOE Strength Points
 on Game-Map D (exclusive of Layforce and SAS units). The Player with the most
 TOE points (in comparison to the other) is the winner of a tactical victory.
 
-[#63_92]*[63.92]* ‘“The Long Retreat" Scenario
+[#63_92]
+*[63.92]* ‘“The Long Retreat" Scenario
 
 The name of the game is survival here. How good is the Axis Player at delaying,
 at giving territory grudgingly. He cannot win in a military sense (the Allies

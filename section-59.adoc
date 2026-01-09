@@ -44,11 +44,13 @@ CASES:
 [#59_1]
 === SCENARIO ORGANIZATION
 
-[#59_11]*[59.11]* The scenarios in CNA are divided into five groups. The first
+[#59_11]
+*[59.11]* The scenarios in CNA are divided into five groups. The first
 four of these groups deal with individual battles or offensives, and the fifth
 covers the campaign game.
 
-[#59_12]*[59.12]* Each of the first four scenario groups contains the following information:
+[#59_12]
+*[59.12]* Each of the first four scenario groups contains the following information:
 
 a. Length of the scenarios in the group.
 
@@ -141,51 +143,62 @@ organization.
 [#59_3]
 === INITIAL AIR STRENGTHS
 
-[#59_31]*[59.31]* Each scenario lists the starting Axis and Allied plane types,
+[#59_31]
+*[59.31]* Each scenario lists the starting Axis and Allied plane types,
 numbers, pilots, air facilities, and squadron ground support units. This listing
 is divided into forces available in North Africa and Malta for the Allied Player
 and to forces available in North Africa and Sicily/Italy/Crete for the Axis
 Player.
 
-[#59_32]*[59.32]* Planes are listed by type, with the ready planes indicated as
+[#59_32]
+*[59.32]* Planes are listed by type, with the ready planes indicated as
 a portion of the total available.  All planes (refitted or not) are considered
 to begin a scenario fueled and armed (at no cost to the supplies available).
 
-[#59_33]*[59.33]* Planes may be distributed among the squadron ground support
+[#59_33]
+*[59.33]* Planes may be distributed among the squadron ground support
 units as the owning Player desires within the restrictions on squadron
 composition listed in Case <<35_2>>.
 
-[#59_34]*[59.34]* Pilots may be assigned to planes and squadrons as the owning
+[#59_34]
+*[59.34]* Pilots may be assigned to planes and squadrons as the owning
 Player desires.
 
-[#59_35]*[59.35]* Squadron ground support units may be placed on any of the air
+[#59_35]
+*[59.35]* Squadron ground support units may be placed on any of the air
 facilities owned by the Player. However the number of SGSU's may not exceed an
 air facility's readying capability.
 
-[#59_36]*[59.36]* Maintenance may not be _ performed onplanes during the first
+[#59_36]
+*[59.36]* Maintenance may not be _ performed onplanes during the first
 OpStage of a Scenario.
 
 [#59_4]
 === INITIAL TRUCK STRENGTHS
 
-[#59_41]*[59.41]* Trucks initially available to each Player are divided into Ist
+[#59_41]
+*[59.41]* Trucks initially available to each Player are divided into Ist
 line, 2nd-3rd line available for supplies, and 2nd-3rd line available for air
 facilities,
 
-[#59_42]*[59.42]* First line trucks are listed by hex in the land forces initial
+[#59_42]
+*[59.42]* First line trucks are listed by hex in the land forces initial
 deployment section of the scenario. These trucks must be assigned to units in
 their listed hex. The trucks may be divided among the units in that hex in any
 manner the Player desires.
 
-[#59_43]*[59.43]* Second-third line (in convoy) trucks available for air
+[#59_43]
+*[59.43]* Second-third line (in convoy) trucks available for air
 facilities must be placed on an air facility.
 
-[#59_44]*[59.44]* Second-third line trucks available to transport supplies must
+[#59_44]
+*[59.44]* Second-third line trucks available to transport supplies must
 be placed (if the Axis Player is not starting them off-map) on a hex occupied by
 a Friendly combat unit, a supply dump, or a major city/town/oasis. These trucks
 may be distributed as the owning Player desires.
 
-[#59_45]*[59.45]* Trucks may start a scenario transporting supplies or
+[#59_45]
+*[59.45]* Trucks may start a scenario transporting supplies or
 motorizing troops or anti-aircraft units at no cost or penalty. Any trucks
 starting with supplies may load any type of supply. These supplies are in
 addition to those listed in the supply section of the scenario.
@@ -193,10 +206,12 @@ addition to those listed in the supply section of the scenario.
 [#59_5]
 === INITIAL SUPPLY
 
-[#59_51]*[59.51]* Each scenario lists the location and amounts of a Player's
+[#59_51]
+*[59.51]* Each scenario lists the location and amounts of a Player's
 initial supplies.
 
-[#59_52]*[59.52]* The supplies are divided into those available at air
+[#59_52]
+*[59.52]* The supplies are divided into those available at air
 facilities and those available at supply dumps. Air facilities automatically
 possess a supply dump. If a Player places supplies available at a supply dump in
 the same location as those available at an air facility, the totals are combined
@@ -204,26 +219,31 @@ and it becomes one dump (see Case <<36_17>>). Some scenarios separately list an
 aggregate number of supplies available at a player's air facilities.:- These may
 never be allocated to off-map facilities.
 
-[#59_53]*[59.53]* Certain scenarios list a Player as receiving active and
+[#59_53]
+*[59.53]* Certain scenarios list a Player as receiving active and
 non-active supply dumps. Non-active dumps are dummy dumps and cannot, therefore,
 be placed in the same hex as an air facility.
 
-[#59_54]*[59.54]* Axis coastal shipping begins all scenarios unloaded (i.e.,
+[#59_54]
+*[59.54]* Axis coastal shipping begins all scenarios unloaded (i.e.,
 empty).
 
 [#59_6]
 === ABSTRACT LOGISTICS AND AIR
 
-[#59_61]*[59.61]* If only the Air Game is abstracted, the Players simply ignore
+[#59_61]
+*[59.61]* If only the Air Game is abstracted, the Players simply ignore
 all Trucks and supplies available at/for Air facilities in the initial set-ups.
 Play is then governed by the rules in Section <<58_0>>.
 
-[#59_62]*[59.62]* If the Logistics Game is abstracted, whether or not the Air
+[#59_62]
+*[59.62]* If the Logistics Game is abstracted, whether or not the Air
 Gameis also abstracted, Players will be using Motorization Points and Supply
 Units. The initial set-ups for the Supply Units and Motorization Points are
 given in the following cases.
 
-[#59_63]*[59.63]* Initial Motorization Point Strengths: The initial motorization
+[#59_63]
+*[59.63]* Initial Motorization Point Strengths: The initial motorization
 points available to each Player are calculated from the trucks listed in the
 scenario set-up.
 
@@ -241,11 +261,13 @@ that the initial distribution/placement of these trucks will affect their
 ability to start a scenario loaded with supplies in addition to those listed as
 available in supply dumps (see Case <<59_66>>).
 
-[#59_64]*[59.64]* Initial Motorization Point distributions may be, with one
+[#59_64]
+*[59.64]* Initial Motorization Point distributions may be, with one
 exception (see Case <<59_66>> "B"), freely altered once the game starts as per
 the Land Game rules on attachment and detachment.
 
-[#59_65]*[59.65]* Supply Units: The Player's initial supply levels are listed as
+[#59_65]
+*[59.65]* Supply Units: The Player's initial supply levels are listed as
 to the number, location, and contents of regular and depot supply units
 available. Regular supply units are described in Section <<32_0>>. Depot supply
 units — used only if the Air Game is being played and the Logistics Game is
@@ -257,7 +279,8 @@ distribution meets stacking restrictions all normal stacking restrictions for
 that hex must be met from that point on. (Remember that motorization points
 transporting supply units do not count against hex stacking limits.)
 
-[#59_65]*[59.65]* Additional Supplies:
+[#59_66]
+*[59.66]* Additional Supplies:
 
 A. Motorization Points may begin a scenario loaded with supplies. These do not
 count against supplies listed in the scenarios supply dumps.

@@ -35,22 +35,26 @@ order to engage in bombing missions, a bomber must have bombs.
 [#38_2]
 === REFUELING AIRCRAFT
 
-[#38_21]*[38.21]* Planes must have fuel to fly. The amount of fuel needed to
+[#38_21]
+*[38.21]* Planes must have fuel to fly. The amount of fuel needed to
 refuel a plane is its Fuel Consumption Rating, listed on the Aircraft
 Characteristics Chart. That is the number of Fuel Points required to enable one
 plane of that type to fly any one mission.
 
-[#38_22]*[38.22]* Planes are refueled at air facilities by SGSU's. The SGSU does
+[#38_22]
+*[38.22]* Planes are refueled at air facilities by SGSU's. The SGSU does
 the actual refueling; the airfield or air strip simply limits the number of
 SGSU's that may operate there.
 
-[#38_23]*[38.23]* An SGSU may refuel planes from any squadron. However, it may
+[#38_23]
+*[38.23]* An SGSU may refuel planes from any squadron. However, it may
 never refuel more planes than the maximum capacity of that SGSU (readied plus
 reserve). Therefore, an Italian SGSU can handle refueling chores for a total of
 12 planes, regardless of squadron assignment, in a given Operations Stage or 12
 planes in a given Strategic Maintenance Phase.
 
-[#38_24]*[38.24]* To refuel a plane the necessary fuel must be in the hex
+[#38_24]
+*[38.24]* To refuel a plane the necessary fuel must be in the hex
 containing the air facility (which usually acts as a supply dump for its
 planes). The fuel is subtracted from the total supply in the air facility, and
 the plane is marked as refueled on the Squadron Composition Sheet. This is done.
@@ -58,12 +62,14 @@ for each plane that a Player wishes to refuel. Refueling takes place in the
 Tactical Maintenance Segment or the Strategic Maintenance Phase, depending on
 the class of mission assigned.
 
-[#38_25]*[38.25]* Planes do not have to be refueled (if the Player does not wish
+[#38_25]
+*[38.25]* Planes do not have to be refueled (if the Player does not wish
 to use them), nor do refueled planes have to fly. Planes in reserve for a
 squadron may be refueled. Planes may sit refueled without flying for the entire
 game; fuel never gets stale.
 
-[#38_26]*[38.26]* Players will note that certain aircraft have the capability of
+[#38_26]
+*[38.26]* Players will note that certain aircraft have the capability of
 adding to their range by carrying extra fuel (or, to be exact, extra fuel
 tanks). This decreases their maneuverability but adds greatly to their range.
 Such tangs may be jettisoned if the planes become involved in air-to-air combat,
@@ -78,23 +84,27 @@ Refitting aircraft is repairing and maintaining them so that they can fly
 another mission. In order to fly any mission other than a transfer, a plane must
 be refitted.
 
-[#38_31]*[38.31]* At the start of a Scenario, all planes are considered
+[#38_31]
+*[38.31]* At the start of a Scenario, all planes are considered
 refitted, unless otherwise indicated. As soon as a plane flies any mission other
 than transfer, it must be refitted again. A plane that is not refitted may fly
 no mission other than transfer, even if it is refueled.
 
-[#38_32]*[38.32]* Refitting takes place in the Tactical Maintenance Segment, for
+[#38_32]
+*[38.32]* Refitting takes place in the Tactical Maintenance Segment, for
 planes assigned tactical missions, and in the Strategic Mainteriance Phase, ‘for
 planes assigned strategic missions.
 
-[#38_33]*[38.33]* Planes are refitted at air facilities by their SGSUs. It is
+[#38_33]
+*[38.33]* Planes are refitted at air facilities by their SGSUs. It is
 the capacity of the SGSU that counts; the air facility only limits the number of
 SGSUs allowed. Each SGSU can refit up to the maximum planes the SGSU can contain
 (Ready plus Reserve). An SGSU can Refit planes from other squadrons; however,
 when doing so, the Player must add one to his refit dieroll if the plane being
 refitted is not assigned to the SGSU doing the work.
 
-[#38_34]*[38.34]* Refitting is not a guaranteed process, like refueling. Players
+[#38_34]
+*[38.34]* Refitting is not a guaranteed process, like refueling. Players
 must roll for each squadron undergoing refit. If planes not belonging to that
 squadron undergo,a refit attempt, they are rolled for separately from the rest
 of the squadron. The Player simply determines the number of aircraft in the
@@ -102,26 +112,31 @@ squadron undergoing refit and throws one die, making any adjustments (see Case
 <<38_35>>) and consulting the Aircraft Refit Table  <<38_38>>. The table gives
 him the percentage of planes successfully refitted. (Round all fractions up).
 
-[#38_35]*[38.35]* When rolling for refit, the Player adds one to his die roll if
+[#38_35]
+*[38.35]* When rolling for refit, the Player adds one to his die roll if
 the planes do not belong to the squadron attempting the refit. If the planes at
 tempting refit are Italian, the Player (be he Axis or Commonwealth) adds two to
 the dieroll. If the planes are German, add one to the dieroll. The effects may
 be cumulative.
 
-[#38_36]*[38.36]* For every squadron undergoing an attempted refit — whether
+[#38_36]
+*[38.36]* For every squadron undergoing an attempted refit — whether
 successful or not — the Player must have present and actually expend one Stores
 Point. A Player is not required to try to refit any plane; the choice to refit
 or not is up to him.
 
-[#38_37]*[38.37]* Twenty percent (rounded up) of all refitted planes in a hex on
+[#38_37]
+*[38.37]* Twenty percent (rounded up) of all refitted planes in a hex on
 the ground in which there is a sandstorm must be refitted again before they can
 be flown. Players should distribute this effect as equally as possible.
 
-[#38_38]*[38.38]* Aircraft Refit Table
+[#38_38]
+*[38.38]* Aircraft Refit Table
 
 (see Charts and Tables)
 
-[#38_39]*[38.39]* Players wishing to use a more painstaking if (slightly) more
+[#38_39]
+*[38.39]* Players wishing to use a more painstaking if (slightly) more
 accurate, method of refitting planes may roll for each plane individually. The
 Player, in this case, rolls two dice. The Commonwealth Player refits a plane on
 a roll of 2 through 8; the Axis Player refits German planes on a roll of 2-7,
@@ -133,30 +148,37 @@ they lovedit...).
 [#38_4]
 === ARMING AIRCRAFT
 
-[#38_41]*[38.41]* Aircraft are armed to provide them with ammunition for combat
+[#38_41]
+*[38.41]* Aircraft are armed to provide them with ammunition for combat
 and bombing. Arming is not necessary for flight; it is necessary to fly a
 bombing mission — and for safety.
 
-[#38_42]*[38.42]* Planes are rearmed by SGSU's with the same limits and
+[#38_42]
+*[38.42]* Planes are rearmed by SGSU's with the same limits and
 restrictions as applied to refueling.  Ammunition comes from the air facility
 (supply dump).
 
-[#38_43]*[38.43]* Each squadron requires one Ammunition Point to allow its
+[#38_43]
+*[38.43]* Each squadron requires one Ammunition Point to allow its
 planes to use their TacAir Rating. If that point is not supplied, each plane has
 a TacAir Rating of zero and may not fire at any Enemy planes (see Case
 <<46_21>>).
 
-[#38_44]*[38.44]* For bomb tonnage, one Ammunition Point is required for all
+[#38_44]
+*[38.44]* For bomb tonnage, one Ammunition Point is required for all
 bombs loaded onto a plane. Thus a bomber with a tonnage capacity of 15 would
 need and expend only one Ammunition Point to carry its maximum bomb load (see
 Case <<41_22>>).
 
-[#38_45]*[38.45]* A plane's bombload, whether used or not, is expended during a
+[#38_45]
+*[38.45]* A plane's bombload, whether used or not, is expended during a
 mission including Emergency Flight. (It was dangerous to land with bombs, so if
 unused after an abort they were often dropped in the sea or into the desert).
 
-[#38_46]*[38.46]* The armament status of a plane may be noted on the Squadron
+[#38_46]
+*[38.46]* The armament status of a plane may be noted on the Squadron
 Composition Sheet.
 
-[#38_47]*[38.47]* The cost in Ammo Points to load a bomber with mines (see Case
+[#38_47]
+*[38.47]* The cost in Ammo Points to load a bomber with mines (see Case
 <<41_39>>) or torpedoes (see Case <<41_7>>) is one Point.

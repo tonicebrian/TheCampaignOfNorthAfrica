@@ -18,46 +18,56 @@ CASES:
 [#37_1]
 === THE MECHANICS OF FLIGHT
 
-[#37_11]*[37.11]* All planes have a range (see Case <<34_11>>).  This determines
+[#37_11]
+*[37.11]* All planes have a range (see Case <<34_11>>).  This determines
 how far a plane may fly in any one direction (unless the plane is flying a
 transfer mission, in which case it may double its range for the one-way flight).
 
-[#37_12]*[37.12]* To move a plane, the Player notes the location of the target
+[#37_12]
+*[37.12]* To move a plane, the Player notes the location of the target
 hex for that mission and counts the distance in hexes, using any path he wishes,
 from the base/air facility to the target hex.  If the number of hexes falls
 within the range of the plane, the plane may be flown to that hex (see Cases
-<<37_4>>and <<56_18>>).
+<<37_4>>and 56.18).
 
-[#37_13]*[37.13]* Having determined the path of flight, the Player takes an
+[#37_13]
+*[37.13]* Having determined the path of flight, the Player takes an
 aircraft counter to represent each class of plane that is assigned to a mission
 in that hex and places that counter (or counters) in the target hex. The Player
 will have a record of what missions each squadron is undertaking. Flight takes
 place in the Mission Deployment Segment of the Land Support Air Phase, or in the
 Malta and Convoy Bombing Segments of the Strategic Air Stage.
 
-[#37_14]*[37.14]* There is a form of flight called scramble, wherein planes on
+[#37_14]
+*[37.14]* There is a form of flight called scramble, wherein planes on
 the ground may take off to counterattack a nearby air threat (see Case <<40_3>>).
 
-[#37_15]*[37.15]* No plane may fly unless it has been fueled. Furthermore,
+[#37_15]
+*[37.15]* No plane may fly unless it has been fueled. Furthermore,
 other than units flying transfer missions, no plane may fly unless it has been
 refitted (see Case <<37_32>>).
 
-[#37_16]*[37.16]* If a plane that has been fueled flies any distance it uses all
+[#37_16]
+*[37.16]* If a plane that has been fueled flies any distance it uses all
 its Fuel and must be refueled to fly again.
 
-[#37_17]*[37.17]* Planes may be flown without Ammunition, although this could be
+[#37_17]
+*[37.17]* Planes may be flown without Ammunition, although this could be
 a dangerous practice.
 
 [#37_2]
 === RESTRICTIONS ON FLIGHT
 
-[#37_21]*[37.21]* Planes may never exceed their range in any one direction,
+[#37_21]
+*[37.21]* Planes may never exceed their range in any one direction,
 unless they are flying transfer missions. Planes flying transfer may double
 their range for the one-way transfer trip.
 
-[#37_22]*[37.22]* No plane may fly into or out of a sandstorm or rainstorm hex.
+[#37_22]
+*[37.22]* No plane may fly into or out of a sandstorm or rainstorm hex.
 
-[#37_23]*[37.23]* Planes must return to their base of origin; i.e., where the
+[#37_23]
+*[37.23]* Planes must return to their base of origin; i.e., where the
 Flight started from. If, for some reason, that air facility had been so reduced
 that it cannot hold the returning planes then — and only then — may planes
 attempt to land elsewhere. If such a plane cannot land at any air facility it
@@ -69,9 +79,10 @@ plane does not survive (a roll of 4, 5, or 6), roll the die again. If the Player
 rolls a 1 or 2 the second time, the pilot survives the crash and escapes serious
 injury and may return to play one Game Turn following his crash.
 
-[#37_24]*[37.24]* No planes may fly in excess of the air facility's capability
+[#37_24]
+*[37.24]* No planes may fly in excess of the air facility's capability
 level. Moreover, no planes may fly in excess of an SGSU's ready capacity (see
-Case <<33_23>>. Thus, if there are five SGSU's on an airfield, but the capacity
+Case <<35_1>>). Thus, if there are five SGSU's on an airfield, but the capacity
 level of that airfield has been reduced to two, only two of those SGSU's may
 refit and ready their planes (thus enabling them to fly). The other three
 squadrons are forced to remain inactive because of the reduced field capacity.
@@ -81,26 +92,31 @@ on a mission, regardless of how many planes it has ready (as reserves).
 [#37_3]
 === EMERGENCY FLIGHT
 
-[#37_31]*[37.31]* If an Enemy land combat unit moves adjacent to a Friendly air
+[#37_31]
+*[37.31]* If an Enemy land combat unit moves adjacent to a Friendly air
 facility that has readied planes on the ground, and those planes are in danger
 of being destroyed or captured by that Enemy unit, the readied planes may
 attempt an emergency flight to escape such danger. Emergency flight is a
 transfer mission
 
-[#37_32]*[37.32]* Only fueled planes — including reserves — may make an
+[#37_32]
+*[37.32]* Only fueled planes — including reserves — may make an
 emergency flight.
 
-[#37_33]*[37.33]* The Player assigns pilots and then rolls once for each plane
+[#37_33]
+*[37.33]* The Player assigns pilots and then rolls once for each plane
 attempting to escape. Using one die, if the plane is a fighter or fighter bomber
 and he rolls a 1, 2, or 3, or if the plane is a bomber, recon, or transport and
 the Player rolls a 1 or 2, then the plane escapes. On any other die roll, the
 plane must remain on the ground.
 
-[#37_34]*[37.34]* Emergency flight follows all normal rules of flight, except
+[#37_34]
+*[37.34]* Emergency flight follows all normal rules of flight, except
 that it occurs out of sequence.  Planes performing emergency flight may be flown
 up to double their range.
 
-[#37_35]*[37.35]* The Player must exercise this option immediately. If an Enemy
+[#37_35]
+*[37.35]* The Player must exercise this option immediately. If an Enemy
 unit moves adjacent and the Friendly Player does not roll for emergency flight
 prior to the movement of another Enemy unit, all planes are stuck on the ground.
 

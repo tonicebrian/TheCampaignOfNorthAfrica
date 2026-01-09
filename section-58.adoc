@@ -37,11 +37,13 @@ calculated.
 [#58_4]
 === EFFECT ON TRUCKS
 
-[#58_41]*[58.41]* The Players' initial set-ups will be reduced by a certain
+[#58_41]
+*[58.41]* The Players' initial set-ups will be reduced by a certain
 number of Truck Points (those assigned or that would be assigned the task of
 supplying the air facilities).
 
-[#58_42]*[58.42]* Both Players are subject to truck losses in addition to those
+[#58_42]
+*[58.42]* Both Players are subject to truck losses in addition to those
 caused by land combat. These losses represent the abstracted effects of strafing
 and bombing the opposing Player's trucks. The losses are determined in the same
 manner as those for motorization points (see Case <<32_57>>) using the
@@ -59,13 +61,15 @@ he is required to lose 10% of the total Truck Points, he must lose 4 Light and 1
 Medium Truck Points from those in convoy and 1 Light, 9 Medium, and 5 Heavy
 Truck Points from those attached.
 
-[#58_43]*[58.43]* Both Players are subject to a reduction in their total
+[#58_43]
+*[58.43]* Both Players are subject to a reduction in their total
 available truck force in order to account for the trucks that would be carrying
 supplies to their air facilities. Both Players lose 10% (rounding fractions up)
 of all truck points that arrive in N. Africa (the instant they arrive) via the
 Commonwealth Truck Production Table and the Axis Replacement Pool. Trucks listed
 on the reinforcement track are not affected.
 
-[#58_44]*[58.44] Abstract Truck Loss Chart*
+[#58_44]
+*[58.44] Abstract Truck Loss Chart*
 
 (see Charts and Tables)

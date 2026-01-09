@@ -38,7 +38,8 @@ the players should sort their counters into divisions, and organize their
 divisions so that they know where the individual units of that division are. It
 may even be wise to have a separate table for placement of such units.
 
-[#4_21]*[4.21]* Sample Units
+[#4_21]
+*[4.21]* Sample Units
 
 [WARNING]
 ====
@@ -61,7 +62,8 @@ FORTIFICATION MARKER
 AIRPLANE CLASS MARKER
 ====
 
-[#4_22]*[4.22]* Unit Type Symbols
+[#4_22]
+*[4.22]* Unit Type Symbols
 
 [WARNING]
 ====
@@ -69,20 +71,23 @@ Page 8 is fully of symbol we will have to create corresponding images
 ====
 
 
-[#4_23]*[4.23]* Counter Summary
+[#4_23]
+*[4.23]* Counter Summary
 
 [WARNING]
 ====
 Page 8 is fully of symbol we will have to create corresponding images
 ====
 
-[#4_24]*[4.24]* Informational Marker Summary
+[#4_24]
+*[4.24]* Informational Marker Summary
 [WARNING]
 ====
 Page 8 is fully of symbol we will have to create corresponding images
 ====
 
-[#4_25]*[4.25]* *Counter Deployment*
+[#4_25]
+*[4.25]* *Counter Deployment*
 
 A unit attached to another unit is not represented by a counter on the game
 map.
@@ -97,7 +102,8 @@ assigned units beginning a scenario in the same hex as their parent unit are
 attached to that parent unit. The counters representing said units are therefore
 not deployed on the game-map.
 
-[#4_26]*[4.26] Holding Boxes*
+[#4_26]
+*[4.26] Holding Boxes*
 
 Certain hexes on the game-map "attract" a large number of counters. These hexes
 are represented by Holding Boxes which are nothing more than large spaces for
@@ -121,7 +127,8 @@ discussion of these can be found in <<20_2>>. The Cases below give the Players
 a base for using and understanding the terminology and location of the terms
 and tables for acquiring and using units.
 
-[#4_41]*[4.41]* There are three types of charts which the Player will refer to
+[#4_41]
+*[4.41]* There are three types of charts which the Player will refer to
 in order to gain information on his units. These are the Characteristics Charts,
 which show what capabilities and characteristics each unit or unit-type has (in
 terms of. ratings and numbers), the "OA" Sheets, which list the organization of
@@ -130,7 +137,8 @@ Reinforce- ment Schedules, which list the names and dates of all newly arriving
 land units. Air units have separate reinforcement charts and tables which
 determine their arrival.
 
-[#4_42]*[4.42]* The following procedure is used to deter- mine which units
+[#4_42]
+*[4.42]* The following procedure is used to deter- mine which units
 arrive during a Game-Turn and the abilities of those arriving units. The Player
 consults the appropriate Reinforcement Schedule and determines the current
 Operations Stage of the Game-Turn in progress; noting the units arriving, he
@@ -166,10 +174,12 @@ are. This information is then placed on the TOE Sheet for the 18th Brigade,
 along with any other information needed or desired.
 ====
 
-[#4_43]*[4.43] Reinforcement Schedules*
+[#4_43]
+*[4.43] Reinforcement Schedules*
 (see Charts and Tables)
 
-[#4_44]*[4.44] Aircraft Characteristics Charts*
+[#4_44]
+*[4.44] Aircraft Characteristics Charts*
 
 There are two identically organized Aircraft Characteristics Charts one for each
 Player. Within each nationality the planes are grouped into those needing
@@ -179,7 +189,8 @@ Player may freely choose which line of characteristics and capabilities he will
 assign that plane every time he readies it. The explanation of the various
 ratings is discussed in <<34_1>> of the Air Game.
 
-[#4_45]*[4.45] Organization At Arrival Charts (OA)*
+[#4_45]
+*[4.45] Organization At Arrival Charts (OA)*
 
 A great deal of time (perhaps too much time) was spent in arriving at the most
 accurate Order of Battle possible. As with any major campaign, sources differed,
@@ -253,7 +264,8 @@ of the "Tank Regiments" are battalion-size units. Most Players familiar with the
 campaign should have little trouble with items such as these (few people will
 think that the 1st King's Royal Rifle Corps is, in fact, an actual Corps).
 
-[#4_46]*[4.46] Unit Characteristics Charts*
+[#4_46]
+*[4.46] Unit Characteristics Charts*
 
 There are three identically organized Unit Characteristics charts, one for
 Allied units, one for German units and one for Italian units. The Unit
@@ -284,17 +296,20 @@ the allotment of tanks to a regiment, however, was dropped from 52 to 44 when
 the tanks were American. This was readjusted later on.
 
 
-[#4_47]*[4.47] Commonwealth Tank and Gun Characteristics Chart*
+[#4_47]
+*[4.47] Commonwealth Tank and Gun Characteristics Chart*
 (see charts and tables)
 
 This chart lists the values for TOE Strength Points
 of a specific type of tank or gun. The definitions of
 these characteristics are listed in <<3_3>>.
 
-[#4_48]*[4.48] Italian Tank and Gun Characteristics Chart*
+[#4_48]
+*[4.48] Italian Tank and Gun Characteristics Chart*
 (see Charts and Tables)
 
-[#4_49]*[4.49] German Tank and Gun Characteristics Chart*
+[#4_49]
+*[4.49] German Tank and Gun Characteristics Chart*
 (see Charts and Tables)
 
 [#4_5]
@@ -321,11 +336,13 @@ One copy of each type of Log Sheet is provided with CNA. Players should
 therefore produce as many copies of each form as they need, The designers
 suggest you use pencils and write lightly to make complete erasures easy.
 
-[#4_51]*[4.51]* The Log Sheets have been divided into four groups on the basis
+[#4_51]
+*[4.51]* The Log Sheets have been divided into four groups on the basis
 of their "owning" Player's usage. This is simply a presentation decision and
 has no effect on who actually uses what in a game.
 
-[#4_52]*[4.52] Field Commander's Group*
+[#4_52]
+*[4.52] Field Commander's Group*
 
 These forms are used by the Players in charge of frontline fighting combat
 units.
@@ -422,7 +439,8 @@ with the boxes unstructured so as to permit the expected variations in both
 multiple weapons systems in a single unit and variations in division
 organization.
 
-[#4_53]*[4.53] Rear Area Commander's Group*
+[#4_53]
+*[4.53] Rear Area Commander's Group*
 
 This group belongs to the Player in charge of construction, demolition, mopping
 up operations, and other rear area jobs having nothing to do with supplies.
@@ -440,7 +458,8 @@ _POW Control Sheet_: Designed to handle all POW's, their Capability Points
 expended, location and inhabitation of the POW Camps, and the TOE Strength and
 infantry-type of their Guards.
 
-[#4_54]*[4.54] Air Marshal's Group*
+[#4_54]
+*[4.54] Air Marshal's Group*
 
 The Player in charge of all the airplanes uses the following two forms and
 usually the Supply Dump Control Sheet to simplify required aircraft supply
@@ -456,7 +475,8 @@ _Air Mission Log Sheet_: Permits the Player to coordinate all air missions
 assigned in that Operations Stage/Game-Turn, by hex and by squadron supplying
 the planes.
 
-[#4_55]*[4.55] Logistics Commander's Group*
+[#4_55]
+*[4.55] Logistics Commander's Group*
 
 The Player in overall charge of supplies.
 

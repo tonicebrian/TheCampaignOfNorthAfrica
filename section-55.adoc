@@ -5,22 +5,26 @@
 [#55_1]
 === PORT CAPACITY AND USE
 
-[#55_11]*[55.11]* There are two types of ports: major ports and minor ports.
+[#55_11]
+*[55.11]* There are two types of ports: major ports and minor ports.
 Major ports may receive both men and supplies; minor ports may receive only
 supplies. Both types of ports may ship out men and supplies.
 
-[#55_12]*[55.12]* Every port in the game has an Efficiency Level, which is an
+[#55_12]
+*[55.12]* Every port in the game has an Efficiency Level, which is an
 abstract number assigned to that port. For example, Tobruk has an Efficiency
 Level of 5. This Efficiency Level indicates the level of efficiency at which the
 port is operating. The Efficiency Level of the port may be reduced by various
 Enemy activities, all discussed previously.
 
-[#55_13]*[55.13]* In addition to its Efficiency Level, each port has a specific
+[#55_13]
+*[55.13]* In addition to its Efficiency Level, each port has a specific
 limit (capacity) as to the number of TOE Strength Points and/or tons of supplies
 that may enter and leave that port; this is called the port capacity. (See the
 Port Capacity and Efficiency Level Chart, <<55_3>>.)
 
-[#55_14]*[55.14]* The amount of troops and supplies that can be brought into or
+[#55_14]
+*[55.14]* The amount of troops and supplies that can be brought into or
 out of a port depends on its current Efficiency Level and its capacity. A port
 operating at peak efficiency (its level is at maximum assigned) uses its listed
 capacity. A port that has been reduced by bombing or mines operates at a lower
@@ -33,7 +37,8 @@ of 3. If this Level has been reduced to 1, its supply receiving capacity is
 reduced to 1/3 of 2500 (or 834 tons). Round all reductions upward to the
 nearest ton.
 
-[#55_15]*[55.15]* In addition to any reductions brought about by Enemy action,
+[#55_15]
+*[55.15]* In addition to any reductions brought about by Enemy action,
 the fact that troops are being debarked at a port — as opposed to supplies
 (fuel, ammo, etc.) — may reduce its Efficiency Level vis a vis supplies for the
 OpStage or GameTurn in which the troops arrive. The arrival of scheduled
@@ -41,13 +46,15 @@ reinforcements (those that arrive mandatorily, via the Reinforcement Schedule),
 as opposed to those which the Players plan, etc., do not affect a port's
 capacity or Efficiency Level.
 
-[#55_16]*[55.16]* Some ports may receive shipments only in a Strategic Phase,
+[#55_16]
+*[55.16]* Some ports may receive shipments only in a Strategic Phase,
 while others may be used each OpStage. Players should be careful to adjust ali
 capacities and Efficiency Levels to cover both uses. A port's capacity applies
 to all shipments received in a Game-Turn (including OpStages), except as stated
 in Case <<55_15>>.
 
-[#55_17]*[55.17]* The port of Bizerta (Tunis Box) is an unusual case. Although
+[#55_17]
+*[55.17]* The port of Bizerta (Tunis Box) is an unusual case. Although
 nominally open to the Axis via Vichy France, on Hitler's request it was never
 used (for various convoluted reasons). To add to that, it is quite a long way to
 the front — even if it is out of range of most Commonwealth planes. In any case,
@@ -56,7 +63,8 @@ with that Game-Turn, the Axis Player throws two dice each Game-Turn. If he
 throws a 12, he may use Bizerta from that turn on. It remains inoperative until
 the Game-Turn that he does throw al12.
 
-[#55_18]*[55.18]* For every OpStage that a port does not lose any Efficiency
+[#55_18]
+*[55.18]* For every OpStage that a port does not lose any Efficiency
 Levels to Enemy bombs, it regains one point. Exception: Cases <<55_26>> and
 <<55_27>>. It can never go above its maximum assigned level (see Case <<55_3>>).
 
@@ -69,29 +77,35 @@ notably at Benghazi by the Axis,.thereby reducing the effectiveness of Benghazi
 (as a port) to almost zero during the entire war. Enemy Players may also mine
 opposing ports.
 
-[#55_21]*[55.21]* A Player who controls a port may desire — for whatever reason
+[#55_21]
+*[55.21]* A Player who controls a port may desire — for whatever reason
 occurs to him — to block up the harbor. Each harbor being different, the ability
 to do this varies with the port. The ports at Bizerta, Tripoli, Alexandria,
 Aboukir (E3815) and Rosetta (E4019) may not be so blocked.
 
-[#55_22]*[55.22]* In order to block a port harbor, the Player must have an
+[#55_22]
+*[55.22]* In order to block a port harbor, the Player must have an
 engineer battalion or CW HQ with engineer capacity present in the port hex. He
 then expends 25 Ammunition Points and 10 Stores Points, which must be actually
 present in the hex, in the Construction Phase. The Efficiency Level of the port
 is reduced by one (see Case <<50_14>>).
 
-[#55_23]*[55.23]* All ports are reduced at the same rate, with one exception: it
+[#55_23]
+*[55.23]* All ports are reduced at the same rate, with one exception: it
 requires the expenditure of 50 Ammunition Points and 25 Stores Points to reduce
 Tobruk port one Level.
 
-[#53_24]*[53.24]* A port may be reduced one Level per Operations Stage; it may
+[#53_24]
+*[53.24]* A port may be reduced one Level per Operations Stage; it may
 never be reduced more, regardless of the expenditure of supplies.
 
-[#55_25]*[55.25]* Players will note that at the start of the game, the Italian
+[#55_25]
+*[55.25]* Players will note that at the start of the game, the Italian
 cruiser San Giorgio is partially blocking the harbor of Tobruk. The San Giorgio
 reduces the efficiency level of Tobruk by three levels.
 
-[#55_26]*[55.26]* The effect of blocking harbors may be undone only by Friendly
+[#55_26]
+*[55.26]* The effect of blocking harbors may be undone only by Friendly
 engineer battalions or CW HQ with engineering capability. Engineers reverse the
 process of <<55_22>>. However, for each port, it costs 50 Ammunition Points and
 25 Stores Points to undo the damage, at one level capacity per Operations Stage.
@@ -100,7 +114,8 @@ There are two exceptions to this: Tobruk requires only 25 Ammunition Points and
 expenditure of 100 Ammunition Points and 50 Stores Points plus the presence of
 two engineer units to remove one level of blocking effect.
 
-[#55_27]*[55.27]* Harbors may also be blocked by Enemy bombers laying mines by
+[#55_27]
+*[55.27]* Harbors may also be blocked by Enemy bombers laying mines by
 air (see Case <<41_3>> for the mechanics). Each successfully laid mine lowers
 the Efficiency one level. Mines may be removed by engineer battalions. If there
 are mines in a harbor, and the Player controlling the harbor has an engineer
@@ -110,7 +125,8 @@ removal is done in the Construction Stage, and the engineer unit may not move or
 voluntarily expend CPA's in that Stage. The engineers cannot be involved in any
 other construction or removal work.
 
-[#55_28]*[55.28]* CW ships in an Axis port hex have no effect on Convoy
+[#55_28]
+*[55.28]* CW ships in an Axis port hex have no effect on Convoy
 arrivals. (This is somewhat of an abstraction; attempts to block the ports
 during the day would not have worked due to Axis air power:)
 

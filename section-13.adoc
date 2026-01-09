@@ -17,35 +17,43 @@ Cohesion Level of -26 or worse may not Retreat Before Assault.
 [#13_2]
 === HOW TO OF RETREAT BEFORE ASSAULT
 
-[#13_21]*[13.21]* Retreat Before Assault is Voluntary Movement and is handled
+[#13_21]
+*[13.21]* Retreat Before Assault is Voluntary Movement and is handled
 exactly as other types of Movement. It expends CP's (and Fuel, for vehicles),
 and vehicles are subject to Breakdown.  In addition, there are certain other
 restrictions, as listed below.
 
-[#13_22]*[13.22]* Non-Phasing units in the Zone of Control of an Enemy unit must
+[#13_22]
+*[13.22]* Non-Phasing units in the Zone of Control of an Enemy unit must
 pay the cost to Break Off (Contact or Engaged) as stated in Case <<8_6>>.
 
-[#13_23]*[13.23]* Non-Phasing units that begin a Retreat Before Assault Step
+[#13_23]
+*[13.23]* Non-Phasing units that begin a Retreat Before Assault Step
 adjacent to an Enemy combat unit may expend as many CP's in Retreating as
 desired.
 
-[#13_24]*[13.24]* Non-Phasing units that do not begin a Retreat Before Assault
+[#13_24]
+*[13.24]* Non-Phasing units that do not begin a Retreat Before Assault
 Step adjacent to an Enemy combat unit may not expend more than four CP's (or
 move one hex, whichever is greater) in a Retreat Before Assault.
 
-[#13_25]*[13.25]* During a Retreat Before Assault units may expend CP's only to
+[#13_25]
+*[13.25]* During a Retreat Before Assault units may expend CP's only to
 move; they may not perform any other function except blowing supply dumps (see
 Cases <<54_14>> and <<32_3>>).
 
-[#13_26]*[13.26]* As in normal Movement, units must cease Retreat Before Assault
+[#13_26]
+*[13.26]* As in normal Movement, units must cease Retreat Before Assault
 when they enter an Enemy Zone of Control. They may not Retreat directly from one
 Enemy ZOC into another, and if they cannot avoid this restriction they may not
 Retreat Before Assault.
 
-[#13_27]*[13.27]* Retreat Before Assault is voluntary; as such it is handled
+[#13_27]
+*[13.27]* Retreat Before Assault is voluntary; as such it is handled
 somewhat differently from retreats mandated by the Close Assault CRT (<<15_82>>).
 
-[#13_28]*[13.28]* Units that Retreat Before Assault into Friendly-occupied
+[#13_28]
+*[13.28]* Units that Retreat Before Assault into Friendly-occupied
 Enemy-controlled hexes, or into any hex that is attacked in the ensuing
 AntiArmor and Close Assault sub-segments are affected by such combat. They will
 take — and are susceptible to — Anti-Armor Fire, but they may not direct

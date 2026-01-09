@@ -10,31 +10,37 @@ maximum number of points that may bein that hex.
 [#9_1]
 === THE STACKING POINT SYSTEM
 
-[#9_14]*[9.14]* Each unit (or counter) in the game has a Stacking Point value
+[#9_14]
+*[9.14]* Each unit (or counter) in the game has a Stacking Point value
 printed on the face of the unit. (See Sample Units, <<4_22>>). E.g., the 1/8
 Panzer Battalion has 1 Stacking Point.
 
-[#9_12]*[9.12]* HQ units, whether Division, Brigade, or Regiment, have
+[#9_12]
+*[9.12]* HQ units, whether Division, Brigade, or Regiment, have
 parenthesized Stacking Point values. This means the Stacking Point value of that
 HQ is ‘0' when it has no combat units of any type attached; the printed number
 is its Stacking Point value when it represents the division or brigade as a
 combat unit. (See Unit Equivalents, <<9_2>>).
 
-[#9_13]*[9.13]* Stacking Points not only represent a given number of men but
+[#9_13]
+*[9.13]* Stacking Points not only represent a given number of men but
 also, and more importantly, they represent organizational ability. Thus a full
 division has a Stacking Point value of '5', while, at the same time, it may
 include units whose total Stacking Point values are much greater than five.  The
 divisional HQ supplies the necessary administrative and organizational functions
 that enables the division to exist, and fight, in a more cohesive state.
 
-[#9_14]*[9.14]* Each hex, or rather each type of terrain, has a maximum number
+[#9_14]
+*[9.14]* Each hex, or rather each type of terrain, has a maximum number
 of Stacking Points which may be in that hex at the end of any Movement Segment.
 These limits are listed in Case <<8_37>>.
 
-[#9_15]*[9.15]* Informational markers and air units of all types do not have any
+[#9_15]
+*[9.15]* Informational markers and air units of all types do not have any
 Stacking Point value.
 
-[#9_16]*[9.16]* There are three specific types of units that, on certain
+[#9_16]
+*[9.16]* There are three specific types of units that, on certain
 occasions, ignore Stacking restrictions:
 
 [loweralpha] 
@@ -53,14 +59,16 @@ transport them) have zero Stacking Points.
 [#9_2]
 === UNIT EQUIVALENTS
 
-[#9_21]*[9.21]* A Division is considered to represent all units assigned and
+[#9_21]
+*[9.21]* A Division is considered to represent all units assigned and
 attached to (not simply stacked with) the HQ unit for that division. Units
 assigned (<<19_1>>) to a division (see the TOE Sheets for the units) may not
 necessarily be part of that division at a given time; they may have been
 detached for duty elsewhere. Only those units with the Parent unit/HQ at a given
 time are considered to be part of that parent unit for Stacking purposes.
 
-[#9_22]*[9.22]* The next lowest level of unit organization in CNA is the Brigade
+[#9_22]
+*[9.22]* The next lowest level of unit organization in CNA is the Brigade
 Equivalent. Now, because of the peculiarities of the individual countries
 involved, not all units which are called "brigades”' are brigade equivalents.
 The Italians used a Regimental designation as their next lowest organizational
@@ -74,17 +82,20 @@ counter or the unit's name but rather through the printed Stacking Point value.
 This number, cross-referenced with Section <<9_4>>, will reveal the
 organizatioinal level of the unit (for game purposes).
 
-[#9_23]*[9.23]* The basic combat unit in the game is the infantry and tank
+[#9_23]
+*[9.23]* The basic combat unit in the game is the infantry and tank
 battalion ("battalion equivalent"). As noted, some battalion-sized units (actual
 battalion equivalents) may be called "regiments" or some such. Check the
 Stacking Point value when in doubt.
 
-[#9_24]*[9.24]* Regardiess of its organizational designation, every artillery
+[#9_24]
+*[9.24]* Regardiess of its organizational designation, every artillery
 unit in the game, with the exception of certain scattered batteries, has a
 Stacking Point value of '1'. (The rare Artillery HQ unit may have a larger
 Stacking Point value).
 
-[#9_25]*[9.25]* There are a number of companies and batteries in the game with a
+[#9_25]
+*[9.25]* There are a number of companies and batteries in the game with a
 Stacking Point value of "?", due to the miniscule number of men and combat
 impact those units had. Nevertheless, unless directly attached or assigned to a
 parent unit, no more than five such companies or batteries may ever be stacked
@@ -95,7 +106,8 @@ no limit to the number of such units which may be placed in a Major City hex.
 Note: an HQ unit that has no combat units attached to it has a Stacking Point
 value of "0".
 
-[#9_26]*[9.26]* A Division is considered a "shell" (see Case <<3_1>>) when 50% or
+[#9_26]
+*[9.26]* A Division is considered a "shell" (see Case <<3_1>>) when 50% or
 less of the total number of brigade-equivalents that may be assigned to it are
 attached to it. E.g., if a division which may have a maximum of two brigades
 assigned currently has only one brigade attached to it (ignore any independent
@@ -110,20 +122,23 @@ its maximum TOE Strength Points are attached to it, unless it is an Artillery
 battalion (or regiment or whatever); an artillery unit must be less than 25% of
 TOE strength to bea shell.
 
-[#9_27]*[9.27]* If a unit attached to a parent formation is a shell, it does not
+[#9_27]
+*[9.27]* If a unit attached to a parent formation is a shell, it does not
 count as one of the pre-requisite lower level units necessary to allow the
 parent unit to qualify as a full-strength unit. For example, a division to which
 a maximum of three brigades may be assigned has three brigades attached to it,
 but two of the brigades are shells. The division itself is thus considered to
 be a shell.
 
-[#9_28]*[9.28]* A unit that is a shell is reduced one level to the next
+[#9_28]
+*[9.28]* A unit that is a shell is reduced one level to the next
 lowest-level formation for purposes of Unit Differentiation on Close Assault
 (see <<15_5>>) and for any rule where unit size is important.  Thus, a division
 shell would be considered a brigade equivalent, a brigade shell a battalion
 equivalent, and a battalion shell a company equivalent.
 
-[#9_29]*[9.29]* First line (attached) Trucks do not count in any way towards
+[#9_29]
+*[9.29]* First line (attached) Trucks do not count in any way towards
 unit organizational size or for road space stacking limits. Furthermore, Truck
 Convoys (unattached, see Case <<9_3>>) that are in a hex do not count against any
 stacking limits, except those concerning road space, for which they do count.
@@ -138,14 +153,17 @@ Friendly units on a Road or Track. Stacking restrictions also apply during
 involuntary retreats. The stacking limits for each type of terrain are listed on
 the Terrain Effects Chart (<<8_37>>).
 
-[#9_31]*[9.31]* Units may never cease movement ina hex in violation of stacking
+[#9_31]
+*[9.31]* Units may never cease movement ina hex in violation of stacking
 restrictions (<<8_37>>).
 
-[#9_32]*[9.32]* Units may always move through other friendly units, and stacking
+[#9_32]
+*[9.32]* Units may always move through other friendly units, and stacking
 restrictions apply only at the instant all units have ceased movement.  However,
 see <<9_33>> and <<9_35>>.
 
-[#9_33]*[9.33]* A motorized unit (tank, truck, artillery, motorcycle, etc.)
+[#9_33]
+*[9.33]* A motorized unit (tank, truck, artillery, motorcycle, etc.)
 using a Road or Track to facilitate movement may not exceed the five point Road
 or Track Stacking Limit by moving through a Friendly unit or units on that Track
 or Road. Ifa unit using a Road or Track would create such a situation it must
@@ -162,14 +180,16 @@ For this rule, Trucks in Convoy are treated separately. See Case <<9_29>>.
 moved into a road hex without using the Road Bonus, and therefore are not "on
 the road" for purposes of this Case.
 
-[#9_34]*[9.34]* Players are not permitted to "break up” a unit in order to avoid
+[#9_34]
+*[9.34]* Players are not permitted to "break up” a unit in order to avoid
 exceeding the limits of <<9_33>>; i.e, moving through an occupied Road/Track hex
 a sub-unit at a time and then recombining the subunits into the original unit.
 (Players should note that <<9_33>> and <<9_34>> operate to prohibit certain
 units from crossing escarpments by tracks if either side of that escarpment is
 occupied by Friendly units that would block passage as per Case <<9_33>>).
 
-[#9_35]*[9.35]* Stacking restrictions do apply during involuntary Retreats
+[#9_35]
+*[9.35]* Stacking restrictions do apply during involuntary Retreats
 (those retreats mandated by the Close Assault CRT). A unit or stack of units may
 not retreat through a hex involuntarily in violation of Stacking Restrictions.
 However, in involuntary retreats, a stack of units (or parent formation) may be
