@@ -32,6 +32,7 @@ jobs:
           gem install asciidoctor
           gem install asciidoctor-epub3
           gem install pygments.rb
+          gem install epubcheck
 
       - name: Build EPUB
         run: |
