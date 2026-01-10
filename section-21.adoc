@@ -31,7 +31,7 @@ Broken down vehicles may not move, defend or attack. They are represented by
 Broken down Unit Counters.  Broken down units may be captured (by the Enemy) or
 retrieved (by the owning Player). Either way, Broken down vehicles may be Towed
 back to a Repair Facility for Maintenance, or they may be Repaired in the Field
-(see Section <<22_0>> for Repairs).
+(see Section <<22_0,22.0>> for Repairs).
 
 CASES
 
@@ -94,7 +94,7 @@ addition, certain types of hexsides (e.g., Wadis) also have a Breakdown Point
 Value. The Breakdown Point Value is the number of Breakdown Points a motorized
 unit or vehicle accumulates when moving into that type of terrain/hex and/or
 through that type of hexside. Breakdown Point Values for given terrain types may
-be modified by Weather (see Section <<29_0>>).
+be modified by Weather (see Section <<29_0,29.0>>).
 
 [#21_22]
 *[21.22]* Combat does not cause Breakdown, although any movement
@@ -233,7 +233,7 @@ Panzer battalions.
 
 [#21_37]
 *[21.37]* Weather affects the Breakdown Rates/Columns as follows
-(consult also <<29_0>>):
+(consult also <<29_0,29.0>>):
 
 a. Normal Weather: No Effect.
 
@@ -281,8 +281,8 @@ considered motorized.
 [#21_44]
 *[21.44]* Broken down vehicles have no Capability Point Allowance, nor
 may they participate in combat of any type. Broken down vehicles may be captured
-(by the Enemy) — see Case <<21_5>> — or retrieved by the owning Player (see
-Towing, Case <<21_6>>).
+(by the Enemy) — see Case <<21_5,21.5>> — or retrieved by the owning Player (see
+Towing, Case <<21_6,21.6>>).
 
 [#21_45]
 *[21.45]* Supplies on broken down Trucks may be transferred to working
@@ -302,7 +302,7 @@ is a Capability Point cost for Loading.
 [#21_51]
 *[21.51]* Broken down vehicles may be captured by the Enemy. Players
 should differentiate between the capture of Broken down vehicles and (1) the
-capture of Destroyed Tanks (see Case <<14_5>>); as well as (2) the Capture of
+capture of Destroyed Tanks (see Case <<14_5,14.5>>); as well as (2) the Capture of
 abandoned vehicles.
 
 [#21_52]
@@ -346,7 +346,7 @@ of repair) may be towed. All towing occurs in the Repair Stage, except for
 instances such as Case <<21_55,21.55>>.
 
 [#21_63]
-*[21.63]* There are no towing vehicles (however, see <<22_6>> and <<22_7>>).
+*[21.63]* There are no towing vehicles (however, see <<22_6,22.6>> and <<22_7,22.7>>).
 Rather, each Broken Down Vehicle marker or Destroyed Tank marker may move 10
 Capability Points per Repair Phase. They may move only in the Repair Phase, and
 they may not React or Retreat Before Combat, etc. The marker is towed as though

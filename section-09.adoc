@@ -20,7 +20,7 @@ Panzer Battalion has 1 Stacking Point.
 parenthesized Stacking Point values. This means the Stacking Point value of that
 HQ is ‘0' when it has no combat units of any type attached; the printed number
 is its Stacking Point value when it represents the division or brigade as a
-combat unit. (See Unit Equivalents, <<9_2>>).
+combat unit. (See Unit Equivalents, <<9_2,9.2>>).
 
 [#9_13]
 *[9.13]* Stacking Points not only represent a given number of men but
@@ -62,7 +62,7 @@ transport them) have zero Stacking Points.
 [#9_21]
 *[9.21]* A Division is considered to represent all units assigned and
 attached to (not simply stacked with) the HQ unit for that division. Units
-assigned (<<19_1>>) to a division (see the TOE Sheets for the units) may not
+assigned (<<19_1,19.1>>) to a division (see the TOE Sheets for the units) may not
 necessarily be part of that division at a given time; they may have been
 detached for duty elsewhere. Only those units with the Parent unit/HQ at a given
 time are considered to be part of that parent unit for Stacking purposes.
@@ -79,7 +79,7 @@ lesser-sized units, usually battalions. (E.g., the 7th Rifle Brigade is really a
 battalion-sized infantry unit while the 7th Motor Brigade is a Brigade).
 Players should be guided through this maze not by the unit designation on the
 counter or the unit's name but rather through the printed Stacking Point value.
-This number, cross-referenced with Section <<9_4>>, will reveal the
+This number, cross-referenced with Section <<9_4,9.4>>, will reveal the
 organizatioinal level of the unit (for game purposes).
 
 [#9_23]
@@ -107,7 +107,7 @@ Note: an HQ unit that has no combat units attached to it has a Stacking Point
 value of "0".
 
 [#9_26]
-*[9.26]* A Division is considered a "shell" (see Case <<3_1>>) when 50% or
+*[9.26]* A Division is considered a "shell" (see Case <<3_1,3.1>>) when 50% or
 less of the total number of brigade-equivalents that may be assigned to it are
 attached to it. E.g., if a division which may have a maximum of two brigades
 assigned currently has only one brigade attached to it (ignore any independent
@@ -133,14 +133,14 @@ be a shell.
 [#9_28]
 *[9.28]* A unit that is a shell is reduced one level to the next
 lowest-level formation for purposes of Unit Differentiation on Close Assault
-(see <<15_5>>) and for any rule where unit size is important.  Thus, a division
+(see <<15_5,15.5>>) and for any rule where unit size is important.  Thus, a division
 shell would be considered a brigade equivalent, a brigade shell a battalion
 equivalent, and a battalion shell a company equivalent.
 
 [#9_29]
 *[9.29]* First line (attached) Trucks do not count in any way towards
 unit organizational size or for road space stacking limits. Furthermore, Truck
-Convoys (unattached, see Case <<9_3>>) that are in a hex do not count against any
+Convoys (unattached, see Case <<9_3,9.3>>) that are in a hex do not count against any
 stacking limits, except those concerning road space, for which they do count.
 
 [#9_3]

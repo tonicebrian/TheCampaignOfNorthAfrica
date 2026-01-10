@@ -36,7 +36,7 @@ may not return to Recce/AC status.
 [#27_14]
 *[27.14]* LRDG's have a Capability Point Allowance of fifty (50).
 However, they have no combat ratings and may not engage in normal combat (see
-Case <<27_3>>). They have no Stacking Points.
+Case <<27_3,27.3>>). They have no Stacking Points.
 
 [#27_15]
 *[27.15]* There is no cost in Capability Points to form an LRDG unit.
@@ -77,9 +77,9 @@ type) except that they are usually not on the game-map.
 *[27.33]* Desert raiders remain hidden until either of the following
 occurs:
 
-a. They engage in a raid (Case <<27_5>>); or
+a. They engage in a raid (Case <<27_5,27.5>>); or
 
-b. They are spotted (Case <<27_4>>)
+b. They are spotted (Case <<27_4,27.4>>)
 
 When either one of the above occurs, the desert raider counter is placed on the
 game-map in the hex in which the event occurred.
@@ -87,8 +87,8 @@ game-map in the hex in which the event occurred.
 [#27_34]
 *[27.34]* Desert raiders have no Zone of Control.  Furthermore, they do
 not have to stop when entering an Enemy Zone of Control, although such movement
-risks being spotted (see Case <<27_6>>. To enter an Enemy-occupied hex is to raid
-(Case <<27_5>>).
+risks being spotted (see Case <<27_6,27.6>>. To enter an Enemy-occupied hex is to raid
+(Case <<27_5,27.5>>).
 
 [#27_35]
 *[27.35]* Desert raider units need supplies but not the same as normal
@@ -146,7 +146,7 @@ raider once per Operations Stage.
 [#27_51]
 *[27.51]* The type of raid a desert raider may perform usually depends
 on the objective. Most raids are "harassment" in nature, as they can cause
-little real damage (except for Case <<27_6>>. They invariably take place behind
+little real damage (except for Case <<27_6,27.6>>. They invariably take place behind
 Enemy lines.
 
 [#27_52]
@@ -165,7 +165,7 @@ strips are immune from raids; they are simply not the type of facility that can
 be rendered ineffective by desert raiders). If an Enemy airfield has no Enemy
 combat units in that hex, the desert raider may enter the airfield hex, reveal
 itself, and attempt to cripple the field. The Player rolls one die. If he rolls
-a 1 or 2, the capacity of the airfield is reduced by one level (see Case <<36_0>>).
+a 1 or 2, the capacity of the airfield is reduced by one level (see Case <<36_0,36.0>>).
 On a dieroll of 3-6, nothing happens. The cost of the Raid is five Capability
 Points, and no casualties are suffered (as there are no Enemy combat units
 present). The raid may not take place if there are Enemy combat units present.
@@ -341,7 +341,7 @@ is conducted normally.
 does so it moves like any other land combat unit. It may also be transported by
 any one Commonwealth Ship counter and debarked in any coastal hex, at a cost of
 five Capability Points to the SAS for every 50 Movement Points or fraction
-thereofused by the ship. It may also be airdropped (see Case <<42_4>> at a cost
+thereofused by the ship. It may also be airdropped (see Case <<42_4,42.4>> at a cost
 of 5 Capability Points to the SAS unit.
 
 [#27_84]
@@ -360,7 +360,7 @@ Segment.
 [#27_86]
 *[27.86]* To destroy Axis Planes by an SAS raid the Commonwealth Player
 consults the SAS Raid Table, rolls one die, and removes the resultant percentage
-of each type and make of plane present (see Case <<27_9>>). The TOE Strength of
+of each type and make of plane present (see Case <<27_9,27.9>>). The TOE Strength of
 the SAS Brigade at the time of such raid is irrelevant.
 
 [#27_87]

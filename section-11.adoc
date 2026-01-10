@@ -41,29 +41,29 @@ expenditure of Capability Points.
 
 This Section discusses combat in general terms, as well as showing how the
 combat ratings are used.  Combat resolution for each type of activity is
-discussed specifically in Sections <<12_0>> (Barrage) <<13_0>> (Retreat Before
-Combat), <<14_0>> (Anti-Armor Fire), and <<15_0>> (Close Assault).
+discussed specifically in Sections <<12_0,12.0>> (Barrage) <<13_0,13.0>> (Retreat Before
+Combat), <<14_0,14.0>> (Anti-Armor Fire), and <<15_0,15.0>> (Close Assault).
 
 PROCEDURE:
 
 Once all movement has ceased (i.e., the Phasing Player's movement and the
 non-Phasing Player's reactions), combat may occur. During a Combat Segment, the
 Phasing Player must attack all Enemy-occupied hexes which have units exerting
-Zones of Control upon Friendly units (see <<10_3>>). Any other Enemy units in
+Zones of Control upon Friendly units (see <<10_3,10.3>>). Any other Enemy units in
 hexes adjacent to Friendly units may be attacked subject to terrain restrictions
 on combat. After determining which units are undergoing combat, each Player
 decides which Gun-class units in hexes adjacent to Enemy units will be placed in
 a Forward position and which will be considered in a Back position (see Case
-<<12_1>>). This is done "secretly," each Player simply noting on either the TOE
+<<12_1,12.1>>). This is done "secretly," each Player simply noting on either the TOE
 sheets or some other piece of paper the appropriate positions of his guns. Gun
 units remain in their specified positions throughout that Combat Segment.
 Players now engage in Barrage. Each Player decides which of his units will
-Barrage which Enemy hexes (see Case <<12_2>>), noting the targets secretly on a
+Barrage which Enemy hexes (see Case <<12_2,12.2>>), noting the targets secretly on a
 piece of paper. Any adjacent hex containing Enemy units may be barraged. Both
 Players now Barrage individually, hex by hex, but casualties and Pinned results
 are taken after all Barrages have been completed. Players should note here any
 Barrages undertaken as Holding Off actions to satisfy ZOC combat requirements
-(see Case <<10_3>>).
+(see Case <<10_3,10.3>>).
 
 The non-Phasing Player may now Retreat Before Assault with any of his units that
 were not Pinned during Barrage.
@@ -76,7 +76,7 @@ the TOE Strength Points of that unit between both types of Assault. However, an
 individual TOE Strength Point may never be so divided. Players may also choose
 to withhold un pinned Armor or Gun-class units out of combat (for whatever
 reason they so desire; usually ammunition costs). The strengths of these units
-is not considered; see Cases <<15_29,15.29>> and <<15_8>>.
+is not considered; see Cases <<15_29,15.29>> and <<15_8,15.8>>.
 
 Both sides now engage in Anti-Armor Fire, each side firing at the other's
 "armor", All results from Anti-Armor Fire are taken before proceeding to Close
@@ -94,7 +94,7 @@ concludes the Combat Segment, and the Phasing Player may now release any
 reserves he wishes and proceeds back to his Movement Segment (if he so desires).
 
 The above sequence is general. For a complete description of all activities,
-consult Sections <<12_0>> through <<15_0>>
+consult Sections <<12_0,12.0>> through <<15_0,15.0>>
 
 CASES:
 
@@ -108,7 +108,7 @@ unit in the game; the unit counters do not carry this information.) Every Land
 unit has been given a Rating (or a Factor used to multiply by TOE Strength) of
 its capabilities and relative strength in each of these areas. (See Designer's
 Notes for a discussion of how these ratings were arrived at). These are
-described in Case <<3_5>>.
+described in Case <<3_5,3.5>>.
 
 [#11_11]
 *[11.11]* The Barrage Rating is the measure of a unit's ability to
@@ -159,7 +159,7 @@ This will occur under the following circumstances:
 the situation where a unit Retreats Before Assault into a Friendly hex that is
 later assaulted.
 
-. If it undergoes a Holding Off Barrage (see <<10_3>>).
+. If it undergoes a Holding Off Barrage (see <<10_3,10.3>>).
 
 [#11_22]
 *[11.22]* A Phasing unit expends five CP's to perform any form of
@@ -262,7 +262,7 @@ up to 11). The 90th may now Barrage with those 11 Actual Points against the
 enemy. The Axis Player could also split up its TOE Strength if he wishes, using
 2 TOE points of the 361st (or 2 Actual Points) against one unit and the other
 TOE point against a different unit. There are restrictions involved, and the
-Section on Barrage (<<12_0>>) covers them all.
+Section on Barrage (<<12_0,12.0>>) covers them all.
 
 Skipping to Close Assault — for demonstration purposes — we see that the 90th
 Leichte has seven Infantry Battalions: the entire 155th Schutzen Regt. (3

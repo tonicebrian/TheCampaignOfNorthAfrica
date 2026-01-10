@@ -28,7 +28,7 @@ transfer mission, in which case it may double its range for the one-way flight).
 hex for that mission and counts the distance in hexes, using any path he wishes,
 from the base/air facility to the target hex.  If the number of hexes falls
 within the range of the plane, the plane may be flown to that hex (see Cases
-<<37_4>>and 56.18).
+<<37_4,37.4>>and 56.18).
 
 [#37_13]
 *[37.13]* Having determined the path of flight, the Player takes an
@@ -40,7 +40,7 @@ Malta and Convoy Bombing Segments of the Strategic Air Stage.
 
 [#37_14]
 *[37.14]* There is a form of flight called scramble, wherein planes on
-the ground may take off to counterattack a nearby air threat (see Case <<40_3>>).
+the ground may take off to counterattack a nearby air threat (see Case <<40_3,40.3>>).
 
 [#37_15]
 *[37.15]* No plane may fly unless it has been fueled. Furthermore,
@@ -82,7 +82,7 @@ injury and may return to play one Game Turn following his crash.
 [#37_24]
 *[37.24]* No planes may fly in excess of the air facility's capability
 level. Moreover, no planes may fly in excess of an SGSU's ready capacity (see
-Case <<35_1>>). Thus, if there are five SGSU's on an airfield, but the capacity
+Case <<35_1,35.1>>). Thus, if there are five SGSU's on an airfield, but the capacity
 level of that airfield has been reduced to two, only two of those SGSU's may
 refit and ready their planes (thus enabling them to fly). The other three
 squadrons are forced to remain inactive because of the reduced field capacity.

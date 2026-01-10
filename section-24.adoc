@@ -123,7 +123,7 @@ Minefields may not be constructed in major cities.
 *[24.36]* Minefields may not be constructed in Enemy-controlled hexes,
 
 [#24_37]
-*[24.37]* See Section <<26_0>>for the effects of Minefields.
+*[24.37]* See Section <<26_0,26.0>>for the effects of Minefields.
 
 [#24_38]
 *[24.38]* If an Engineer unit or HQ unit with Engineering capability
@@ -176,7 +176,7 @@ which is undergoing fortification construction.
 *[24.47]* Once emplaced, fortifications may not be voluntarily removed.
 They may be reduced only by air bombardment or artillery barrage. No other type
 of combat affects fortifications, although fortifications affect combat (see
-Section <<25_0>>).
+Section <<25_0,25.0>>).
 
 [#24_48]
 *[24.48]* Fortifications may be built or rebuilt one Level at a time.
@@ -369,7 +369,7 @@ start of construction and are expended immediately.
 [#24_84]
 *[24.84]* Repair facilities in major cities that have had their City
 Levels reduced by bombardment (see Case <<22_35,22.35>> may be rebuilt by first
-rebuilding the Level of the city (see Case <<24_4>> and then expending 50 Stores
+rebuilding the Level of the city (see Case <<24_4,24.4>> and then expending 50 Stores
 Points and 30 Fuel Points, along with the presence of an Engineer unit spending
 one Construction Segment in the hex.
 
@@ -398,7 +398,7 @@ dismantled may not be used..
 === CONSTRUCTING SUPPLY DUMPS AND DUMMY SUPPLY DUMPS
 
 A supply dump is a place where supplies (in the Land Game, ammo and fuel only)
-are stored in a quasi-organized fashion (see Case <<54_1>>. A supply dump may be
+are stored in a quasi-organized fashion (see Case <<54_1,54.1>>. A supply dump may be
 constructed by having any one TOE Strength Point of any type expend three
 Capability Points and 20 Store Points (Logistics Game only) in a hex. A dummy
 supply dump may be constructed in a hex with an expenditure of three Capability

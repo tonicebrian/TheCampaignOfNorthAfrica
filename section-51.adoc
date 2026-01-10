@@ -31,7 +31,7 @@ Game-Turn.
 
 [#51_14]
 *[51.14]* Stores may have to be expended during construction. See
-<<24_0>>.
+<<24_0,24.0>>.
 
 [#51_15]
 *[51.15]* Each Stores Point weighs one ton. Stores may be transported by

@@ -123,7 +123,7 @@ loose sheets of paper or printed on the game-map or in the Rules booklets.
 In any given scenario, the Players receive units via the Initial Deployment
 (given in each scenario) and via the Reinforcement Schedules. In addition to
 these, Players may plan for Replacement Points to augment depleted units; the
-discussion of these can be found in <<20_2>>. The Cases below give the Players
+discussion of these can be found in <<20_2,20.2>>. The Cases below give the Players
 a base for using and understanding the terminology and location of the terms
 and tables for acquiring and using units.
 
@@ -188,7 +188,7 @@ pilots and those not requiring pilots. Each plane is listed individually.
 Certain bear two or more rows of information. With these planes the owning
 Player may freely choose which line of characteristics and capabilities he will
 assign that plane every time he readies it. The explanation of the various
-ratings is discussed in <<34_1>> of the Air Game.
+ratings is discussed in <<34_1,34.1>> of the Air Game.
 
 [#4_45]
 *[4.45] Organization At Arrival Charts (OA)*
@@ -285,7 +285,7 @@ unit comprising different TOE Strength Points normally possess a CPA of that of
 the slowest TOE Strength Point. The characteristics of the individiual weapons
 systems are listed on the appropriate nationality's Tank and Gun
 Characteristics' Chart. Certain unit posses parenthesized combat ratings. These
-units are discussed in <<3_3>>. Certain headquarters units' maximum limit in
+units are discussed in <<3_3,3.3>>. Certain headquarters units' maximum limit in
 assigned TOE Strength Points are enclosed in parentheses. Any weapons system TOE
 Strength Points assigned to such a unit operate with parenthesized combat
 values.  Players should note that the maximum number of assigned TOE Strength
@@ -304,7 +304,7 @@ the tanks were American. This was readjusted later on.
 
 This chart lists the values for TOE Strength Points
 of a specific type of tank or gun. The definitions of
-these characteristics are listed in <<3_3>>.
+these characteristics are listed in <<3_3,3.3>>.
 
 [#4_48]
 *[4.48] Italian Tank and Gun Characteristics Chart*

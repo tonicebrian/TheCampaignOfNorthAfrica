@@ -26,7 +26,7 @@ first Operations Stage, last in the second stage and then first in the third
 Stage (which would give him, in effect, two "turns" in a row).
 
 [#7_13]
-*[7.13]* Each side possesses an Initiative Rating (<<7_2>>), which is
+*[7.13]* Each side possesses an Initiative Rating (<<7_2,7.2>>), which is
 dependent on the date of the GameTurn.
 
 [#7_14]

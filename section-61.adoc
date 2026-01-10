@@ -291,7 +291,7 @@ SGSU's: 13 Italian. German SGSU's are available as per the Air Game rules
 (because of Air Facilities, below).
 
 Air Facilities: The Axis Player may base any portion of his airforce at
-Italy/Sicily within the minimum German plane restrictions of Case <<43_1>>
+Italy/Sicily within the minimum German plane restrictions of Case <<43_1,43.1>>
 (Crete is still British). The Axis Player may place one airfield and one air
 landing strip in any hex west of El Agheila (A 1816).
 
@@ -371,7 +371,7 @@ have been built.
 === AIR & LOGISTICS GAMES ABSTRACTIONS
 
 This Case covers the adjustments needed in addition to those given in Case
-<<59_6>> in order to play this scenario without the Air and/or Logistics
+<<59_6,59.6>> in order to play this scenario without the Air and/or Logistics
 Game(s).
 
 [#61_71]

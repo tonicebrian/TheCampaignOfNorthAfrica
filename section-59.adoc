@@ -158,7 +158,7 @@ to begin a scenario fueled and armed (at no cost to the supplies available).
 [#59_33]
 *[59.33]* Planes may be distributed among the squadron ground support
 units as the owning Player desires within the restrictions on squadron
-composition listed in Case <<35_2>>.
+composition listed in Case <<35_2,35.2>>.
 
 [#59_34]
 *[59.34]* Pilots may be assigned to planes and squadrons as the owning
@@ -234,7 +234,7 @@ empty).
 [#59_61]
 *[59.61]* If only the Air Game is abstracted, the Players simply ignore
 all Trucks and supplies available at/for Air facilities in the initial set-ups.
-Play is then governed by the rules in Section <<58_0>>.
+Play is then governed by the rules in Section <<58_0,58.0>>.
 
 [#59_62]
 *[59.62]* If the Logistics Game is abstracted, whether or not the Air
@@ -269,9 +269,9 @@ the Land Game rules on attachment and detachment.
 [#59_65]
 *[59.65]* Supply Units: The Player's initial supply levels are listed as
 to the number, location, and contents of regular and depot supply units
-available. Regular supply units are described in Section <<32_0>>. Depot supply
+available. Regular supply units are described in Section <<32_0,32.0>>. Depot supply
 units — used only if the Air Game is being played and the Logistics Game is
-being abstracted — are described in Section <<47_0>>. Initial supply unit
+being abstracted — are described in Section <<47_0,47.0>>. Initial supply unit
 placement may exceed stacking limitations only if unavoidable due to scenario
 distribution instructions. There is no penalty in such situations; however, no
 additional supply unit may be stacked in that hex. Once the supply unit

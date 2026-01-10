@@ -181,4 +181,4 @@ Composition Sheet.
 
 [#38_47]
 *[38.47]* The cost in Ammo Points to load a bomber with mines (see Case
-<<41_39,41.39>>) or torpedoes (see Case <<41_7>>) is one Point.
+<<41_39,41.39>>) or torpedoes (see Case <<41_7,41.7>>) is one Point.

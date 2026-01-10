@@ -9,7 +9,7 @@ opinion plays an important part in what is otherwise a highly objective game. In
 any case, the Morale rules combine the elements of a Basic Morale Rating
 (representing initial training, fitness, enthusiasm, secondary command
 capability, etc.), which is a fixed number (with one exception; see Case
-<<17_3>>), with the effects of constant campaigning and victory or defeat. The
+<<17_3,17.3>>), with the effects of constant campaigning and victory or defeat. The
 Cohesion Level of a unit is used to raise or lower the Morale Rating of a unit
 at the instant of Close Assault.  This adjusted Morale Rating is then compared
 with that of the opposing Player to adjust the Assault Differential one way or
@@ -21,7 +21,7 @@ CASES:
 === UNIT BASIC MORALE RATINGS
 
 Each unit in the game has a Basic Morale Rating, listed on its OA Sheet, which,
-with the exception of Training (Case <<17_3>>), never changes (although it may
+with the exception of Training (Case <<17_3,17.3>>), never changes (although it may
 be adjusted by Cohesion for individual assaults). The Morale Ratings run from +3
 to -3. The Basic Morale Rating of a battalion (or brigade) is always that of its
 assigned Parent Formation, unless the unit has been attached to another force or
@@ -33,12 +33,12 @@ has been out onits own.
 [#17_21]
 *[17.21]* Every time a unit is involved in a Close Assault (or Probe)
 its Basic Morale Rating may be adjusted by its Cohesion Level at the instant of
-Assault. The effect of Morale on Assault has been discussed in Case <<15_6>>.
+Assault. The effect of Morale on Assault has been discussed in Case <<15_6,15.6>>.
 
 [#17_22]
 *[17.22]* In order to determine the effect of a unit's Cohesion Level on
 its Basic Morale Rating, the Players use the Morale Modification Table
-(<<17_4>>).  This is another table that uses a two-dice sequential read out
+(<<17_4,17.4>>).  This is another table that uses a two-dice sequential read out
 (11-66), with the diceroll taking up the "center" of the Table. In this case,
 the Cohesion Level of the unit is on the left, comprising the rows of the Table,
 while the Morale Modifier — the number the Player is rolling for — is on the top
@@ -70,7 +70,7 @@ or higher use the "+8" row.
 *[17.25]* The farthest column on the right is the Surrender column. If a
 combination of Cohesion Level and diceroll places the Modifier in that column,
 the affected units immediately Surrender (and become Prisoners, see Section
-<<28_0>>; Exception: Case <<17_26,17.26>>). If both units, for some strange reason,
+<<28_0,28.0>>; Exception: Case <<17_26,17.26>>). If both units, for some strange reason,
 get a Surrender Modifier, the Surrenders are ignored, no assault occurs, and
 both sides are Engaged.
 

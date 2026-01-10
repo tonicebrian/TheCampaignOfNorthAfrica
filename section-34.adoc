@@ -69,7 +69,7 @@ with the bombload capacity.
 *[34.15] Transport Capacity*
 +
 This is the capacity of the plane, given in TOE Strength Points (infantry)
-and/or tons of supplies (see Case <<54_5>> for tonnage equivalents).
+and/or tons of supplies (see Case <<54_5,54.5>> for tonnage equivalents).
 
 [#34_16]
 *[34.16] Maneuver*
@@ -83,7 +83,7 @@ modify Basic TacAir Differentials.
 *[34.17] Fuel Consumption*
 +
 This is the number of Fuel Points a plane requires to perform any mission or
-emergency flight (see Case <<37_3>>. All Fuel Points are consumed during a
+emergency flight (see Case <<37_3,37.3>>. All Fuel Points are consumed during a
 mission, regardless of the type or distance of the mission.
 
 [#34_18]
@@ -91,11 +91,11 @@ mission, regardless of the type or distance of the mission.
 +
 These are the types of missions that the plane can undertake. Planes may only
 undertake missions for which they have capability. For a more complete
-description, consult the Section on missions, <<39_0>>.
+description, consult the Section on missions, <<39_0,39.0>>.
 
 [#34_19]
 *[34.19]* All aircraft Ratings are listed on the Alrcraft
-Characteristics Chart, <<34_6>> No aircraft counter contains any numbers;
+Characteristics Chart, <<34_6,34.6>> No aircraft counter contains any numbers;
 players keep track of all ratings on their various sheets.
 
 [#34_2]
@@ -116,7 +116,7 @@ missions for details.
 
 [#34_23]
 *[34.23]* Every fighter and fighter-bomber is assigned a pilot (see Case
-<<40_1>>. Pilots affect the plane's air-to-air combat capability.
+<<40_1,40.1>>. Pilots affect the plane's air-to-air combat capability.
 
 [#34_24]
 *[34.24]* Certain fighters/fighter-bombers may fly reconnaissance
@@ -197,7 +197,7 @@ combat.
 
 [#34_72]
 *[34.72]* Planes on the ground are not represented by the Squadron
-Ground Support Unit counter (see Section <<35_0>>). The actual types and numbers
+Ground Support Unit counter (see Section <<35_0,35.0>>). The actual types and numbers
 of plane in that squadron are kept on the Squadron Composition Sheet. No
 aircraft counters are needed.
 
@@ -246,7 +246,7 @@ facility in excess of the facility's current squadron capacity.
 The Axis Player's airforce reinforcements may be divided amongst the bases in
 the Tripoli/Tunisia boxes and Italy/Sicily/Crete as he chooses within the
 requirements concerning basing German bombers in the Mediterranean (see Case
-<<43_1>>).
+<<43_1,43.1>>).
 
 [#34_82]
 *[34.82]* SGSU's arrive in the Naval Convoy Arrival Phase of the

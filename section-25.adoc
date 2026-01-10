@@ -4,7 +4,7 @@
 GENERAL RULE:
 
 All major cities in the game are considered fortifications. In addition, Players
-may construct fortifications (see Case<<24_4>>. Fortifications are available in
+may construct fortifications (see Case<<24_4,24.4>>. Fortifications are available in
 levels, reflective of the depth and strength of the fortifications. Most
 fortifications and cities have two possible levels, but Cairo and Alexandria
 have three possible levels. Fortifications give defensive benefits to units in
@@ -31,7 +31,7 @@ Alexandria. (Fortification counters have two sides, representing each level.)
 
 [#25_14]
 *[25.14]* Fortifications may be reduced in Level strength by air
-bombardment (see Case<<39_37,39.37>> or artillery barrage (Case<<12_5>>. No other type
+bombardment (see Case<<39_37,39.37>> or artillery barrage (Case<<12_5,12.5>>. No other type
 of combat affects fortifications. Reduced fortifications may be rebuilt.
 
 [#25_15]
@@ -42,7 +42,7 @@ a repair facility (see Case 22.35).
 *[25.16]* Major cities and fortifications may be reduced to a
 Fortification Level of zero. (Note: The "zero”' level has no effect in the Land
 Game, except to mean that the fortification can be more easily rebuilt. However,
-see the Strafing Table, Case <<40_8>>.
+see the Strafing Table, Case <<40_8,40.8>>.
 
 [#25_2]
 === EFFECTS OF FORTIFICATIONS

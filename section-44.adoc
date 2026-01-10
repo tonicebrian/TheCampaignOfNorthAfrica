@@ -38,7 +38,7 @@ air facilities may be reduced (by Axis bombing) to zero effectiveness.
 [#44_13]
 *[44.13]* The initial capacity of Maltese air bases is given in each
 scenario. It may be increased—up to the standard levels—by using the Maltese Air
-Facility Construction Table  <<44_5>>) The Commonwealth Player may use the table
+Facility Construction Table  <<44_5,44.5>>) The Commonwealth Player may use the table
 once each Game-Turn for each air facility on Malta, the table informing the
 Commonwealth Player how many "levels" he may construct for each facility.  No
 supplies need be expended.
@@ -152,7 +152,7 @@ available from the above from bases in Africa.
 [#44_28]
 *[44.28]* To determine what losses are are absorbed by planes actually
 in play — as opposed to those taken by planes that are used only for Malta
-bombing as per <<44_4>> — the player must obtain a ratio between the planes he
+bombing as per <<44_4,44.4>> — the player must obtain a ratio between the planes he
 uses that come from (1) Africa, plus (2) the percentage to the left of the slash
 on the Table, and compare that total to the planes he uses from the percentage
 to the right of the slash on the table (i.e., those planes not really in the

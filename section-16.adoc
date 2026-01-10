@@ -19,14 +19,14 @@ PROCEDURE:
 To patrol, the Phasing Player announces the number of Patrol Points he wishes to
 allocate to a given patrol, expends the necessary fuel and ammunition, and
 states which hex is being patrolled.  He consults the Patrol Survival Table
-(<<16_6>>) and rolls one die to determine any Patrol casualties (unless no combat
+(<<16_6,16.6>>) and rolls one die to determine any Patrol casualties (unless no combat
 units are present in the hex; see Case <<16_32,16.32>>). If Patrol Points remain (that is,
 if the patrol is not wiped out), the Phasing Player rolls one die and
 cross-references the result with the number of remaining Patrol Points on the
-Reconnaissance Table (<<16_7>>) to determine what (if any) information his patrol
+Reconnaissance Table (<<16_7,16.7>>) to determine what (if any) information his patrol
 garners. The non-Phasing Player must now reveal information as required by the
 results of the die roll. Finally, the Phasing Player rolls one die and consults
-the Objective Loss Table (<<16_8>>) to determine if there are any non-Phasing unit
+the Objective Loss Table (<<16_8,16.8>>) to determine if there are any non-Phasing unit
 casualties and, if so, they are extracted.
 
 CASES:
@@ -213,7 +213,7 @@ about Engineer units.
 [#16_55]
 *[16.55]* The Phasing Player may specifically list units about which he
 does not wish to receive in formation, and the non-Phasing Player may not choose
-such units to satisfy the requirements of Case <<16_5>>. (Presumably, such units
+such units to satisfy the requirements of Case <<16_5,16.5>>. (Presumably, such units
 would be ones that the Phasing Player already had adequate information about,
 because of previous patrols or combats).
 

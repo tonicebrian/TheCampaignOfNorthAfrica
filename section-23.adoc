@@ -20,7 +20,7 @@ CASES:
 
 [#23_12]
 *[23.12]* Engineer units may be replaced even if eliminated. Engineer
-units are rebuilt according to the schedule in Case <<20_3>>.
+units are rebuilt according to the schedule in Case <<20_3,20.3>>.
 
 [#23_13]
 *[23.13]* The Commonwealth has two units of the New Zealand RR
@@ -29,7 +29,7 @@ Railroads. The 18.A. Road Construction unit is used solely for Road work.
 
 [#23_14]
 *[23.14]* Headquarters units with a letter E next to their Stacking
-Points have Engineering capability (see Section<<24_0>> but otherwise they are
+Points have Engineering capability (see Section<<24_0,24.0>> but otherwise they are
 treated like any other HQ unit.
 
 [#23_2]
@@ -50,7 +50,7 @@ CP's, that Minefield is removed at the end of the Operations Stage.
 *[23.23]* Engineer units and HQ's with Engineer capability may help to
 build fortifications, rebuild fortifications and bombed roads, build, rebuild
 and dismantle Temporary Repair Facilities, and build and rebuild Railroads and
-Air Facilities (see Section <<24_0>>.
+Air Facilities (see Section <<24_0,24.0>>.
 
 [#23_24]
 *[23.24]* If an unpinned Engineer Battalion or HQs with Engineer

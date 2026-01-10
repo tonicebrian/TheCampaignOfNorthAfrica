@@ -244,7 +244,7 @@ One Pilots.
 
 The Commonwealth Player may place all his warship counters in Alexandria. In
 addition, note that the Italian 10th Light Flotilla is active this scenario (See
-<<30_4>>). However, the 10th Light may not raid Alexandria until December.
+<<30_4,30.4>>). However, the 10th Light may not raid Alexandria until December.
 
 [#62_38]
 *[62.38]* Reinforcements/Replacements
@@ -405,7 +405,7 @@ Gazala (B4933), Gambut (C4414), Martuba (B5526), Benghazi (A4827), Barce (B5504)
 and Maraua (B5410). The Axis Player has 3 Air Landing Strips anywhere on maps A
 thru C. The Axis Player has one Flying Boat Basin anywhere on Map A or B.  In
 addition, he may base planes in Crete/Italy/ Sicily within the restrictions of
-Case <<43_1>>
+Case <<43_1,43.1>>
 
 [#62_44]
 *[62.44]* Axis Trucks
@@ -483,7 +483,7 @@ city. There is a Major Repair facility in Benghazi.
 [#62_6]
 === AIR & LOGISTICS GAMES ABSTRACTIONS
 
-This case covers the adjustments needed in addito those given in Case <<59_6>>
+This case covers the adjustments needed in addito those given in Case <<59_6,59.6>>
 in order to play this scenario without the Air and/or Logistics Game(s).
 
 [#62_61]

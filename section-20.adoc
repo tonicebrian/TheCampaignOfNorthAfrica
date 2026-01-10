@@ -52,7 +52,7 @@ ten Truck (or Motorization) Points assigned to arrive with that unit (or its
 parent unit). The Axis Player may not divert units to Benghazi if this will
 exceed stacking restrictions or if Benghazi has worse than a Level three
 efficiency at that point in time. This use of Benghazi does affect its port
-capacity for that Operations Stage (see Case <<55_1>>).
+capacity for that Operations Stage (see Case <<55_1,55.1>>).
 
 [#20_2]
 === REPLACEMENT POINTS
@@ -60,9 +60,9 @@ capacity for that Operations Stage (see Case <<55_1>>).
 Replacement Points are designated by Class as follows: Infantry Points, Gun
 Points, Tank Points, and Recce Points. Replacement Points usually enter the game
 for Axis Replacement Points only — at the option of the Axis Player from the
-Axis Replacement Points Pool (see Case <<20_6>>),-or — for the Commonwealth Player
+Axis Replacement Points Pool (see Case <<20_6,20.6>>),-or — for the Commonwealth Player
 only — in accordance with the Commonwealth Production System (see Case
-<<20_7>>). All Replacement Points, regardless of the method in which they enter
+<<20_7,20.7>>). All Replacement Points, regardless of the method in which they enter
 the game, are covered by the same restrictions as listed in this Case.
 
 [#20_21]
@@ -71,10 +71,10 @@ Phase of an Operations Stage. Replacement Points mandated by the Reinforcement
 Track arrive in a particular Stage of a particular Game-Turn as designated.
 Replacement Points from the Axis Replacement Points Pool arrive in a particular
 Stage as determined by the Axis Player; however, he must plan such arrivals two
-full Game-Turns in advance (see Case <<20_6>>).  Replacement Points from
+full Game-Turns in advance (see Case <<20_6,20.6>>).  Replacement Points from
 Commonwealth Production also arrive in particular Stages as determined by the
 Commonwealth Player; these must be determined four Game-Turns in advance (see
-Case <<20_7>>).
+Case <<20_7,20.7>>).
 
 [#20_22]
 *[20.22]* Commonwealth Replacement Points may be—rarely—listed on the
@@ -129,7 +129,7 @@ unit they are being assigned to); if they ever exceed their CPA — for any reas
 *[20.43]* Replacement Points (both Axis and Commonwealth) are required
 to undergo Training. They must train for a specific number of Operations Stages,
 which may include the Stage of arrival, Players should consult the rules on
-Training (<<17_3>>) for particulars, as the same rules that apply to Training
+Training (<<17_3,17.3>>) for particulars, as the same rules that apply to Training
 Reinforcements apply to Replacements. Axis points train in Tripoli or any major
 city. Commonwealth units train in those locations listed in Case <<17_32,17.32>>. When
 in doubt as to unit size, five Replacement Points equals one battalion. The
@@ -177,7 +177,7 @@ Points.
 
 [#20_48]
 *[20.48]* The cost in Capability Points to attach Replacement Points to
-units is listed on the Capability Point Cost Summary (<<6_3>>) Replacement Point
+units is listed on the Capability Point Cost Summary (<<6_3,6.3>>) Replacement Point
 units are considered as Assigned units for this purpose.
 
 [#20_49]
@@ -261,7 +261,7 @@ June III may arrive in any OP Stage Navel Convoy Arrival Phase of July I.
 type of supplies. The Axis Logistics Commander thus has to keep a close watch
 (and tight rein) on what he is shipping at what time, as he rarely knows that
 far in advance exactly how much shipping he will have available (see Section
-<<51_0>>). Remember, Axis Shipping is subject to Commonwealth air Raid, so keep
+<<51_0,51.0>>). Remember, Axis Shipping is subject to Commonwealth air Raid, so keep
 aneye on Malta and the location of Commonwealth airfields.
 
 [#20_65]
@@ -377,7 +377,7 @@ type that is at least at 75% TOE strength.
 
 Throughout the Campaign, the Commonwealth was under great military and political
 pressure to support a wide variety of activities in such places as Cyprus,
-Sudan, Iraq, etc. Case <<20_8>> discusses large mandatory troop withdrawals. In
+Sudan, Iraq, etc. Case <<20_8,20.8>> discusses large mandatory troop withdrawals. In
 addition, the Commonwealth, during lulls in action, would often send several ad
 hoc battalions to duty elsewhere; these units often shuffled back and forth in
 almost random fashion, dependent on the situation. It would be folly to list all

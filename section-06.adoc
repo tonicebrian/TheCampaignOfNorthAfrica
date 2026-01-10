@@ -25,13 +25,13 @@ units are considered to have a CPA of 10 for all purposes other than movement.
 [#6_12]
 *[6.12]* Every function that a unit would need to perform costs that
 unit some portion of its CPA. The costs of each such function are listed on the
-Capability Point Cost Table, Section <<6_3>>. Except where noted, everything a unit
+Capability Point Cost Table, Section <<6_3,6.3>>. Except where noted, everything a unit
 does costs CP's.
 
 [#6_13]
 *[6.13]* The CPA for a given unit refers to the number of Capability
 Poins that unit may use in a given Operations Stage without earning
-Disorganization Points (See <<6_2>>). Thus, a Tank Battalion with a CPA of '25'
+Disorganization Points (See <<6_2,6.2>>). Thus, a Tank Battalion with a CPA of '25'
 could use 25 CP's in an Operations Stage without garnering any Disorganization
 Points.
 
@@ -76,7 +76,7 @@ Infantry units (those units witha basic CPA of 10 or less) may use Truck units
 to transport them. Infantry units being thus transported by Truck units assume
 the CPA of the Truck unit carrying them. Thus, if the 1st RNF were to be
 motorized by Medium Trucks it would now have a CPA of ‘20', instead of ‘8'.
-(See also Section <<8_9>>). Anti-air units with listed CPAs of 0+ may be motorized
+(See also Section <<8_9,8.9>>). Anti-air units with listed CPAs of 0+ may be motorized
  by assigning one Medium or one Heavy Truck Point per TOE
 Strength Point of Artillery.
 
@@ -89,7 +89,7 @@ Cohesion represents a unit's state of exhaustion and disintegration
 Level, has probably been exerting itself beyond the normal call of duty, while
 a unit with a plus Cohesion Level (Reorganization) has been winning battles.
 The Cohesion Level of a unit affects its Morale Level at the instant of combat,
-which in turn will affect its performance in that battle. (See Section <<17_0>>).
+which in turn will affect its performance in that battle. (See Section <<17_0,17.0>>).
 
 [#6_21]
 *[6.21]* Whenever a unit exceeds its CPA within a given Operations Stage
@@ -127,7 +127,7 @@ RP's, like DP's, are applied immediately.
 *[6.24]* RP's are earned under the following circumstances:
 
 1. For each Operations Stage in which a unit uses absolutely no CP's (except
-for a unit undergoing Training or conducting Training; see <<17_3>>) that unit
+for a unit undergoing Training or conducting Training; see <<17_3,17.3>>) that unit
 earns five RP's. However, no unit may ever increase his Cohesion Level above
 ‘0' by this method. Thus, a unit with a Cohesion Level of -1 that uses no CP's
 for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stage
@@ -141,7 +141,7 @@ Reaction or Retreat Before Assault) that unit (victorious) earns fhree RP's.
 *[6.25]* A unit with a positive Cohesion Level (e.g., +3) may have its
 Basic Morale increased in a given Close Assault, while a unit with a negative
 Cohesion Level (e.g., -12) may have its Morale lowered for a given combat (see
-<<17_2>>).
+<<17_2,17.2>>).
 
 [#6_26]
 *[6.26]* A unit with a Cohesion Level of -26 (or worse) may not move,

@@ -29,7 +29,7 @@ are attacking a particular Target Group. The total Anti-Air points are then
 determined (do not divide by ten!)
 
 All anti-aircraft attacks are performed using the Anti-Aircraft Combat Results
-Table  <<46_3>>).
+Table  <<46_3,46.3>>).
 
 All attacks on planes flying Fighter-type Missions are performed as follows:
 Roll two dice, reading them sequentially. Read down the rows of results in the
@@ -45,8 +45,8 @@ Number the planes in the Target Group from 11 to 66 and roll the dice until
 enough different numbers are thrown to match the number of planes to be
 eliminated and then eliminate those planes whose number has come up.
 
-All attacks on planes not flying Fighter-Type Missions  <<46_2>>.6a and
-<<46_2>>.6b) are performed using the Planes on Other Missions section of the
+All attacks on planes not flying Fighter-Type Missions  <<46_2,46.2>>.6a and
+<<46_2,46.2>>.6b) are performed using the Planes on Other Missions section of the
 anit-aircraft CRT as follows:
 
 Prior to determining the results of AA fire the firing Player may have to adjust

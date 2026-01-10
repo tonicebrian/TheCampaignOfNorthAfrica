@@ -12,7 +12,7 @@ from those of the Attacker; results are expressed in Casualties (either losses
 or prisoners) plus Engaged and Retreat results. The Assault Differential may be
 modified by terrain, morale, and the effects of Combined Arms. Close Assault
 expends ammunition for both sides. A form of modified Close Assault — the Probe
-— is discussed in Case <<15_9>>. In Close Assault, the Phasing Player is always
+— is discussed in Case <<15_9,15.9>>. In Close Assault, the Phasing Player is always
 attacking (or assaulting), the nonPhasing Player is defending against the
 assault.
 
@@ -114,13 +114,13 @@ detachment, but it will most likely be overrun by anything larger.
 [#15_21]
 *[15.21]* Phasing units with Offensive Close Assault Ratings may Close
 Assault any Enemy units in adjacent hexes, unless Assault is prohibited by
-terrain (see Case <<15_3>>). Units assigned to Anti-Armor may sot participate in
+terrain (see Case <<15_3,15.3>>). Units assigned to Anti-Armor may sot participate in
 Close Assault (however, see Case <<14_23,14.23>>).
 
 [#15_22]
 *[15.22]* The Phasing Player announces which hexes he is assaulting, and
 both Players determine their respective total Points, The Phasing Player states
-whether his attack constitutes a Close Assault or a Probe (see Case <<15_9>>),
+whether his attack constitutes a Close Assault or a Probe (see Case <<15_9,15.9>>),
 and then each individual assault is resolved sequentially, with results being
 taken as they occur.
 
@@ -136,7 +136,7 @@ Enemy-occupied hex may attack that hex, terrain permitting. Furthermore, a
 Phasing unit may Close Assault more than one hex at the same time, as long as
 the assaulted hexes are all adjacent to both the hex from which the assault
 initiates as well as adjacent to each other. The units that may participate are
-listed in Case <<15_1>>.
+listed in Case <<15_1,15.1>>.
 
 [#15_25]
 *[15.25]* Any number of TOE Strength Points from a unit may be assigned
@@ -145,7 +145,7 @@ given Close Assault have committed less than 50% of their available TOE Strength
 Points, that Close Assault is automatically considered a Probe and not a Close
 Assault. You must Close Assault with 50% or more of your available strength
 (although some of those Points may be directed elsewhere) to attack with a
-normal Close Assault (see Section <<16_0>>).
+normal Close Assault (see Section <<16_0,16.0>>).
 
 [example]
 A unit with a TOE Strength of 7 uses 2 Points to assault Hex A and |
@@ -157,19 +157,19 @@ would have used at least 50% of his available strength somewhere.
 [#15_26]
 *[15.26]* Each Player determines which of his units are participating in
 a given Close Assault. Each Player then determines his Actual Close Assault
-Strength Points, as stated in Case <<15_4>>. The defending, non-Phasing Player
+Strength Points, as stated in Case <<15_4,15.4>>. The defending, non-Phasing Player
 now subtracts his total from that of the attacking, Phasing Player to achieve
 the Basic Assault Differential. Thus, if the Attacker has 6 points and the
 Defender eight, the Basic Assault Differential would be -2.
 
 [#15_27]
 *[15.27]* The Basic Assault Differential is now adjusted, where
-necessary, for Terrain Effects (Case <<15_3>>), Morale (Case <<15_6>>), or Units
-Size Differential (Case <<15_5>>). These effects result in an adjustment of the
+necessary, for Terrain Effects (Case <<15_3,15.3>>), Morale (Case <<15_6,15.6>>), or Units
+Size Differential (Case <<15_5,15.5>>). These effects result in an adjustment of the
 Differential Co/umn (not the Differential number) either one way or the other,
 and the cumulative effect of all these upon the Assault Differential produces an
 Adjusted Assault Differential, which is then used to determine the results of
-the Assault. Consult the Procedure, Section <<15_0>>.  Remember, the two dice
+the Assault. Consult the Procedure, Section <<15_0,15.0>>.  Remember, the two dice
 are read sequentially (6 and 2= 62) not mathematically (6 and 2 = 8) in Assault
 Combat.
 
@@ -299,7 +299,7 @@ differential (exception: Case <<15_54,15.54>>).
 *[15.52]* If the largest (regardless of number of units involved) unit
 in terms of organization of one side in an assault is bigger than the largest
 unit organization on the other side there will be a column shift benefitting the
-side with the larger unit. Unit equivalents apply here (see Case <<9_2>>).
+side with the larger unit. Unit equivalents apply here (see Case <<9_2,9.2>>).
 
 [#15_53]
 *[15.53]* The column adjustments for Organizational Size Difference,
@@ -319,7 +319,7 @@ always in favor of the larger unit size, are as follows:
 | Battalion   | Company      | 2
 |===
 
-All of the above are equivalents (<<9_2>>).
+All of the above are equivalents (<<9_2,9.2>>).
 
 [#15_54]
 *[15.54]* There are certain combat units that have no Defensive Close
@@ -344,11 +344,11 @@ brigade.
 
 The Morale of each side involved in a given Close Assault will affect the Close
 Assault Differential.  A complete discussion of Morale is to be found in Section
-<<17_0>>.
+<<17_0,17.0>>.
 
 [#15_61]
 *[15.61]* Players first determine their individual Adjusted Morale
-Rating for that assault (Case <<17_2>>). The Phasing/Assaulting Player then
+Rating for that assault (Case <<17_2,17.2>>). The Phasing/Assaulting Player then
 subtracts the Adjusted Morale Rating of the nonPhasing/Defending units from
 that of the Phasing units. This Final Adjusted Morale number is the number by
 which the Assault Differential Column will be adjusted. (See Case <<15_64,15.64>>).
@@ -379,7 +379,7 @@ c. The Axis Divisions both have a Cohesion Level of, say, —4, which will be us
 to adjust their combined Morale Rating of +2 (both are divisions, so their
 Morale is combined and divided by the number of divisions, +3 +1 + 2 = 2), The
 Axis Player now uses his Cohesion Level to adjust his Morale Rating (see Case
-<<17_2>>). Consulting the Morale Modification Table (17.4), he rolls a 43 at —4
+<<17_2,17.2>>). Consulting the Morale Modification Table (17.4), he rolls a 43 at —4
 Cohesion Level, obtaining a — 2 adjustment to his Morale. Axis Adjusted Morale
 is now zero (+2 —2=0).
 
@@ -427,7 +427,7 @@ find his percentage of losses. Example: The Attacker is assaulting at +3. He
 throws a 34 to find his percentage of loss. Looking under the +3 Differential
 Column in the Attacker's portion of the Combat Results Table, we see that 34
 falls in the 5% loss row. The Attacker would suffer losses of 5% (see Case
-<<15_8>>).
+<<15_8,15.8>>).
 
 b. The same diceroll used in (a) is now used to determine Engaged or Retreat
 results. However, here the dice are added together (3 + 4 = 7).  Engaged results
@@ -590,7 +590,7 @@ Points (see Case <<15_83,15.83>> for the mechanics of taking losses).
 
 d. Captured infantry-type becomes Prisoner Points, one Prisoner Point for each
 TOE Strength Point. Captured Guns and/or Tanks may be taken and used by the
-Enemy as they see fit (see <<28_0>>, on Prisoners).
+Enemy as they see fit (see <<28_0,28.0>>, on Prisoners).
 
 [#15_87]
 *[15.87]* If any Player's losses amount to 30% or more of the TOE

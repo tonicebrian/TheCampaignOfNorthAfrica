@@ -9,11 +9,11 @@ combat air patrol (or CAP). Fighters may also fly strafing missions and flak
 suppression missions. Fighters are also capable of scramble, a form of
 interception CAP.  A number of fighters are capable of carrying bombloads
 (especially fighter-bombers); these fighters are so noted and they may
-participate in bombing missions (see Section <<41_0>>. Each fighter is flown by
+participate in bombing missions (see Section <<41_0,41.0>>. Each fighter is flown by
 a pilot, whose Pilot Rating will affect the plane's air-to-air combat ability.
 Fighters may be assigned to only one mission in an Operations Stage (three in
 one Game-Turn) or Strategic Air Stage (one in one entire Game-Turn; see Case
-<<39_2>>).
+<<39_2,39.2>>).
 
 PROCEDURE:
 
@@ -180,7 +180,7 @@ scramble.
 [#40_33]
 *[40.33]* If a Player decides to scramble his fighters so assigned he
 notes the hex which he wants them to fly to and consults the Scramble Table
-<<40_4>>, determining the distance in hexes from the base of the scrambling
+<<40_4,40.4>>, determining the distance in hexes from the base of the scrambling
 planes to the target hex. The path of flight may not include a hex (other than
 the target hex) containing other enemy fighters. The Player then rolls one die
 and checks the table to see if the scramble has succeeded. If it has, the planes
@@ -214,7 +214,7 @@ the exception of planes with STR/B capability).
 *[40.52]* Planes ona strafing mission are assigned a target hex and a
 specific type of target (Case <<40_54,40.54>>). This would be listed as, say,
 STR/C1234/dump. Strafing missions follow the general course of all missions
-<<39_0>>.
+<<39_0,39.0>>.
 
 [#40_53]
 *[40.53]* Each individual plane may strafe only one target in a hex,
@@ -275,7 +275,7 @@ not the number of planes but rather the number of dice that the strafing Player
 must roll to see how many planes are shot up. Thus, if he gets a 1 on the
 Strafing Table, that Player then rolls one die; the result of that dieroll is
 the number of planes strafed and destroyed on the ground. Strafed Planes may be
-Recovered  <<45_6>>.
+Recovered  <<45_6,45.6>>.
 
 [#40_64]
 *[40.64] Supply Dumps*: The mechanics are the same as <<40_62,40.62>>, the results
@@ -296,7 +296,7 @@ strafed is automatically removed from play.
 *[40.66] Ports*. Strafing of ports is combined — and is considered part
 of — a bombing raid on the port. The Player adds his Strafing TacAir Points then
 halves them, rounding down. He adds this to the total bombload delivered on the
-target (the port), and consults the Air Bombardment Table (See <<41_5>>).
+target (the port), and consults the Air Bombardment Table (See <<41_5,41.5>>).
 
 [#40_67]
 *[40.67]* Water Pipeline. Planes may strafe an Enemy pipeline in order
@@ -335,12 +335,12 @@ units neutralized also expend ammunition, as they are firing at the fighters!
 
 [#40_76]
 *[40.76]* Anti-aircraft units may only be destroyed by bombing; see Case
-<<41_3>>.
+<<41_3,41.3>>.
 
 [#40_77]
 *[40.77]* Planes may strafe ships to suppress flak, as a regular flak
 suppression run. They may not damage a ship by strafing. Ships may be damaged by
-bombing and torpedoes  <<41_34,41.34>>. Remember <<39_2>> (Combined missions).
+bombing and torpedoes  <<41_34,41.34>>. Remember <<39_2,39.2>> (Combined missions).
 
 [#40_8]
 === STRAFING TABLE

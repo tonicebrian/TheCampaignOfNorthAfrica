@@ -1,7 +1,7 @@
 [#47_0]
 == ABSTRACT LOGISTICS RULES
 
-The Players use the Abstract Logistics and Air Rules (Section <<32_0>>) except
+The Players use the Abstract Logistics and Air Rules (Section <<32_0,32.0>>) except
 as modified below.
 
 [#47_1]
@@ -22,7 +22,7 @@ Case <<32_16,32.16>> (or Cairo/ Alexandria) that is within 15 Capability Points.
 
 [#47_14]
 *[47.14]* The Players receive regular (i.e., those described in Section
-<<32_0>>) and Depot supply units.  A Depot initially contains 180 Fuel and 40
+<<32_0,32.0>>) and Depot supply units.  A Depot initially contains 180 Fuel and 40
 Ammo Points. It retains its Depot status until it contains no more than 60 Fuel
 Points, at which time it is treated as a regular supply unit. Depots may never
 absorb fuel or ammo points. Supplies may be withdrawn from a depot only for use
@@ -104,12 +104,12 @@ III he receives three Depots per game-turn.
 [#47_51]
 *[47.51]* Cases <<32_57,32.57>> and <<32_59,32.59>> are ignored and Case <<32_56,32.56>>
 is modified as follows: Motorization Points may be attacked (and destroyed) as
-though they are trucks as per the Strafing (Cases <<40_5>> and 40.6) and Land
-Support Bombing (Cases <<41_2>>, 41.3 and <<41_5>>) rules in the Air Game.
+though they are trucks as per the Strafing (Cases <<40_5,40.5>> and 40.6) and Land
+Support Bombing (Cases <<41_2,41.2>>, 41.3 and <<41_5,41.5>>) rules in the Air Game.
 
 [#47_52]
 *[47.52]* The initial motorization points available to the Players are
-calculated in the same manner as listed in <<32_5>> except that Second/Third
+calculated in the same manner as listed in <<32_5,32.5>> except that Second/Third
 Line trucks listed as available at air facilities are included in the
 calculations.
 
@@ -124,7 +124,7 @@ Production Table of the Commonwealth Production System.
 [#47_6]
 === SIMPLIFIED AXIS NAVAL CONVOYS
 
-These rules replace those listed in Case <<32_6>>.
+These rules replace those listed in Case <<32_6,32.6>>.
 
 [#47_61]
 *[47.61]* In the abstract Logistics game system, Axis Naval Convoys
@@ -169,7 +169,7 @@ considered as a total for loss determination).
 [#42_7]
 === BOMBARDMENT OF THE COMMONWEALTH FLEET
 
-Ignore Case <<32_7>> Bombardment of the Com monwealth Fleet is carried out as
+Ignore Case <<32_7,32.7>> Bombardment of the Com monwealth Fleet is carried out as
 per the Air Game
 
 Rules:
@@ -179,7 +179,7 @@ Rules:
 
 [#47_81]
 *[47.81]* The Players ignore all Road and Track (only) Stacking Point
-limits as listed in Section <<9_0>>.
+limits as listed in Section <<9_0,9.0>>.
 
 [#47_82]
 *[47.82]* The Players may stack one Depot supply unit in addition to the

@@ -19,7 +19,7 @@ through the hex grid. As a unit enters each hex it must expend a portion of its
 CPA for entering that hex or crossing a particular hexside. All terrain costs
 are listed on the Terrain Effects Chart (<<8_37,8.37>>). In addition to Movement costs,
 Players must pay attention to Breakdown costs for vehicles moving through
-certain hexes (see Section <<21_0>>).
+certain hexes (see Section <<21_0,21.0>>).
 
 [#8_1]
 === HOW TO MOVE UNITS
@@ -31,7 +31,7 @@ place out of the Sequence of Play. Players should note that while Player A may
 be the Phasing Player, Player B has several opportunities to move his units
 during A's Segment. All movement, of any type, expends CP's. Furthermore, if
 the unit moving is a vehicle (armored units, selfpropelled artillery and
-trucks), the Player must check for possible Breakdown (see Section <<21_0>>). Units
+trucks), the Player must check for possible Breakdown (see Section <<21_0,21.0>>). Units
 may move freely through Friendly units, with the exception of movement along
 roads and tracks (see <<8_34,8.34>>).
 
@@ -44,11 +44,11 @@ Breakdown.
 
 [#8_13]
 *[8.13]* A unit may never enter a hex containing an enemy unit (see,
-however, Case <<27_4>>). Furthermore, movement from hex to hex must be con secutive;
+however, Case <<27_4,27.4>>). Furthermore, movement from hex to hex must be con secutive;
 units may not skip hexes. (There are, of course, different rules for aircraft.)
 
 [#8_14]
-*[8.14]* If a unit moves into an enemy Zone of Control (<<10_0>>) it must
+*[8.14]* If a unit moves into an enemy Zone of Control (<<10_0,10.0>>) it must
 stop immediately. It may move no further in that Movement Segment and will
 probably have to attack, in some form, the enemy unit exerting that Zone of
 Control.
@@ -68,7 +68,7 @@ or
 
 [#8_16]
 *[8.16]* Units may continue to move and fight as long as they wish, with
-certain restrictions (see <<8_2>>). They may exceed their CPA in an Operations
+certain restrictions (see <<8_2,8.2>>). They may exceed their CPA in an Operations
 Stage; however this will affect their Cohesion Level.
 
 [#8_17]
@@ -82,7 +82,7 @@ with a Cohesion Level of — 26 or worse may move.
 
 [#8_18]
 *[8.18]* Second and Third Line Trucks (i.e., Truck Convoys; see 
-<<8_9>>) have their own Movement Phase: The Truck Convoy Movement Phase. Such
+<<8_9,8.9>>) have their own Movement Phase: The Truck Convoy Movement Phase. Such
 trucks may not move (voluntarily) in the normal movement segments. Only trucks
 directly attached to, and part of, a combat unit or HQ may move in the normal
 Movement Segments. Trucks become attached and/or detached in the Organization
@@ -133,7 +133,7 @@ Sequence of Movement and Combat.
 within two hexes of an enemy unit are free to move again. A Phasing unit that
 finishes its movement more than two hexes from an enemy combat unit may not
 continue to move during that Movement Phase, regardless of the number of CP's
-remaining, unless that is a unit that has been placed in Reserve Status (<<18_0>>).
+remaining, unless that is a unit that has been placed in Reserve Status (<<18_0,18.0>>).
 Players should note that Reserve Status is an exception to <<8_22,8.22>>.
 
 [#8_24]
@@ -160,7 +160,7 @@ hexsides, depending upon the type of unit and/or what type of hex or hexside is
 involved. The costs range from 1/2, CP for roads (for motorized units) to +8 for
 a vehicle to move down an escarpment via a track or an infantry-type unit to
 cross The Nile without a "bridge". See the Terrain Effects Chart for all
-effects (<<8_9>>).
+effects (<<8_9,8.9>>).
 
 [#8_32]
 *[8.32]* Certain types of hexes and/or hexsides are prohibited to
@@ -268,7 +268,7 @@ fine and treacherous salty sand —a veritable quicksand grave for vehicles, and
 no fun for infantry either. Vehicles, except for Light Trucks, Recce-type
 units, and motorcycle infantry may enter or leave a Salt Marsh hex only on a
 Road or Track. A prohibited vehicle that enters a Salt Marsh hex without using
-the Track, whatever the reason, is Abandoned (see <<53_3>>). Because most vehicles
+the Track, whatever the reason, is Abandoned (see <<53_3,53.3>>). Because most vehicles
 are prohibited from entering Salt Marshes in a normal manner, no motorized unit
 or AFV (tank, armored car, etc.) may ever engage in Assault with units
 defending in a Salt Marsh hex. The one camel unit in the game (the Italian
@@ -311,7 +311,7 @@ Water and Stores.
 
 [#8_49]
 *[8.49]* All of these terrain types also affect combat. However, such
-effects are discussed in the various combat Sections, especially <<15_3>>.
+effects are discussed in the various combat Sections, especially <<15_3,15.3>>.
 
 [#8_5] 
 === REACTION
@@ -347,7 +347,7 @@ battalion with a CPA of 25 moves adjacent to it, because a motorized unit will
 have a minimum CPA of 20 (from its trucks). However, if the same motorized
 battalion were to be moved adjacent to by an enemy Recce battalion, with a CPA
 of 45, the motorized battalion could not React. (It could still Retreat Before
-Assault, however; see <<13_0>>). Furthermore, each units is treated
+Assault, however; see <<13_0,13.0>>). Furthermore, each units is treated
 individually; thus, Second Line Light Trucks stacked with (but not attached to)
 that motorized battalion could retreat (as they have an extended CPA of 40,
 only 5 less than 45). 
@@ -366,7 +366,7 @@ type/designation. Size of unit may be determined by Stacking Points as well as
 the TOE. Thus a division may be but a skeleton force, as may other units. The
 problem should rarely occur, as most units are fairly easy to determine as to
 size and type, but if there is a question use your Common Sense (or flip a coin
-if that commodity is in short supply). See <<9_2>>.
+if that commodity is in short supply). See <<9_2,9.2>>.
 
 [#8_55]
 *[8.55]* Reacting units may never enter an Enemy Zone of Control during
@@ -435,7 +435,7 @@ Engaged marker are not affected by that marker.
 [#8_71]
 *[8.71]* There are two rail lines in the game. The Alexandria-Mersa
 Matruh line is an active railroad. It may be extended by construction (see 
-<<24_6>>) and may be used only by the Commonwealth Player, regardless of the
+<<24_6,24.6>>) and may be used only by the Commonwealth Player, regardless of the
 strategic situation. The Soluch-Benghazi-Barce rail line is on the gamemap
 solely for historical purposes; it may not be used for anything and has no
 effect whatsoever on terrain or movement. (It was used by the Italians in 1940,
@@ -465,13 +465,13 @@ in a westerly direction.
 [#8_75]
 *[8.75]* The maximum number of Stacking Points that may be carried by
 Rail Movement is two.  (Thus large Brigades must be broken down for Rail
-Movement). For supply maximums, see Section <<49_3>>.
+Movement). For supply maximums, see Section <<49_3,49.3>>.
 
 [#8_76]
 *[8.76]* Rail hexes that have been destroyed by bombing, etc. may not be
 entered by Rail Movement until they are repaired. Likewise, the rail hexes not
 yet in existence (<<8_47,8.47>>) can not be used until they have been constructed (see
-<<24_6>>).
+<<24_6,24.6>>).
 
 [#8_77]
 *[8.77]* Units may be picked up and dropped off anywhere along a rail
@@ -578,7 +578,7 @@ becomes that of the appropriate rating of the truck that is transporting it.
 historically normally supplied with enough vehicles to motorize the entire unit.
 These infantry units are so indicated by a '+' symbol after their CPA on the
 Unit Characteristics Chart. These units' characteristics differ only slightly
-with respect to their historically nonmotorized brothers (see Cases <<19_9>> and
+with respect to their historically nonmotorized brothers (see Cases <<19_9,19.9>> and
 32.54).
 
 [#8_94]

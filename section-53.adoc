@@ -90,9 +90,9 @@ CPA: heavy and medium trucks havea CPA of thirty (30), and light trucks have a
 CPA of forty (40). However, Trucks moving in a Truck Convoy Movement Segment may
 never, under any circumstances, exceed their extended CPA. If, for some reason,
 they are forced to exceed their extended .CPA they are considered to have
-suffered breakdown  <<21_0>>) at the instant they exceed their extended CPA.
+suffered breakdown  <<21_0,21.0>>) at the instant they exceed their extended CPA.
 First line trucks use their basic CPA (20 or 25) and may exceed their CPA as
-their parent unit does (See <<6_1>>).
+their parent unit does (See <<6_1,6.1>>).
 
 [#53_23]
 *[53.23]* Any combat unit with a cohesion level of minus five (-5) or
@@ -102,7 +102,7 @@ parent unit.
 
 [#53_24]
 *[53.24]* There is a Capability Point cost to load and/or off-load
-supplies and men. (See <<6_3>>). Supplies for one truck unit must have been
+supplies and men. (See <<6_3,6.3>>). Supplies for one truck unit must have been
 off-loaded by that truck before another truck unit may load and carry them. This
 applies even if both truck units are attached to the same parent combat unit or
 convoy. Furthermore, supplies and/or men carried by second and third line trucks
@@ -140,7 +140,7 @@ abandoned.
 
 [#53_32]
 *[53.32]* Abandoned vehicles and guns may be recovered by any unit in an
-adjacent non-salt marsh hex with engineering capability  <<23_1>>). The cost to
+adjacent non-salt marsh hex with engineering capability  <<23_1,23.1>>). The cost to
 recover such vehicles (or guns) is 10 CP's to both units. (Note: The abandoned
 vehicle is considered to have its full CPA.) Recovery may not be performed if
 either the recovering unit or the abandoned unit is adjacent to an Enemy combat

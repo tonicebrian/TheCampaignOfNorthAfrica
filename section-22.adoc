@@ -18,7 +18,7 @@ dieroll results in the number of TOE Strength Points repaired (Field Repairs) or
 a percentage of the units which are successfully repaired (Facility Repairs). As
 Repairs are attempted, supplies are expended, whether the repairs are successful
 or not. Repaired vehicles are returned to play in the form of Truck Points or
-Replacement Points — for Tanks and Recce units — (see Case <<20_2>>).
+Replacement Points — for Tanks and Recce units — (see Case <<20_2,20.2>>).
 
 CASES:
 
@@ -42,8 +42,8 @@ the presence of Friendly units in the hex. The only exception to this is if the
 vehicles are in a Major Repair Facility, in which case the presence of an Enemy
 Zone of Control has no effect; or:
 
-b. If there are no supplies available for Repairs (see Cases <<22_2>> and
-<<22_3>>); or
+b. If there are no supplies available for Repairs (see Cases <<22_2,22.2>> and
+<<22_3,22.3>>); or
 
 c. The vehicles have been towed during the Repair Phase; or
 
@@ -62,14 +62,14 @@ repaired separately.
 [#22_21]
 *[22.21]* Players may attempt to repair Broken down vehicles in the
 field. Destroyed tanks may not be repaired in the field; they must be towed toa
-Facility (exceptions: see Cases <<22_6>> and <<22_7>>).
+Facility (exceptions: see Cases <<22_6,22.6>> and <<22_7,22.7>>).
 
 [#22_22]
 *[22.22]* Field Repairs may take place in any hex in which there is a
 Broken down vehicle stacked with a Friendly unit of any type, even a Squadron
 Ground Support Unit (see Case <<22_13,22.13>>a). Field
 Repairs may not be made if the vehicle in question has been towed in that Repair
-Phase (see also Case <<22_6>>).
+Phase (see also Case <<22_6,22.6>>).
 
 [#22_23]
 *[22.23]* To repair trucks in the field, the Player rolls one die for
@@ -86,7 +86,7 @@ required for field repair of Armored Recce or Armored car points.
 
 [#22_25]
 *[22.25]* To field repair tanks or self-propelled artillery the Player
-consults the Broken Down Vehicle Repair Table (<<22_8>>) under the column for “Field
+consults the Broken Down Vehicle Repair Table (<<22_8,22.8>>) under the column for “Field
 Repair." He throws one die for each type of tank undergoing repairs. Thus, it
 the German Player has PzII's and PzIV Specials in the same hex, he rolls once
 for the PzII's and once for the PzIV Specials. The result is the percentage of
@@ -112,7 +112,7 @@ expended Fuel for.
 [#22_31]
 *[22.31]* There are two types of Repair Facilities: Temporary Facilities
 and Major Facilities. Temporary Facilities may be constructed by the Players
-(see Case <<24_8>>), and those in existence at the start of a scenario are
+(see Case <<24_8,24.8>>), and those in existence at the start of a scenario are
 designated in that scenario. Major Repair Facilities are found in Tripoli (the
 Tripoli Box), Tobruk (for whoever controls it), Alexandria and Cairo (all
 hexes). The effectiveness of Repair facilities may be reduced or neutralized by
@@ -129,11 +129,11 @@ Points, Brokendown Tanks and Guns by Type, and/or Destroyed Tanks by Type.
 
 [#22_34]
 *[22.34]* For each type of Brokendown vehicle the Player rolls one die
-and consults the Broken Down Vehicle Repair Table (<<22_8>>) under the correct
+and consults the Broken Down Vehicle Repair Table (<<22_8,22.8>>) under the correct
 column (Temporary or Major Facility). The dieroll may be modified by the effects
 of bombing on the Fortification Level of the city (see Case <<22_35,22.35>>).  The
 result of the dieroll is the percentage of that type of vehicle that may be
-Repaired (see Case <<22_25,22.25>> for details). See Case <<22_4>> for Destroyed Tanks. ,
+Repaired (see Case <<22_25,22.25>> for details). See Case <<22_4,22.4>> for Destroyed Tanks. ,
 
 a. If the Repair Facility is in a Major City and the Enemy Player succeeds in
 reducing the Fortification Level of that City by one (see Air Bombardment Table)
@@ -161,18 +161,18 @@ it may not be used for Repairs unless it is in a Major City. Major Repair
 Facilities may be used when in Enemy ZOC's.
 
 [#22_38]
-*[22.38]* See Case <<24_8>> for how to construct a Temporary Facility.
+*[22.38]* See Case <<24_8,24.8>> for how to construct a Temporary Facility.
 
 [#22_4]
 === REPAIRING DESTROYED TANKS
 
 Destroyed tanks — represented by Destroyed Tank markers — may be repaired and
 put back into service. Players may repair any destroyed tanks — theirs or the
-other player's — that they can get toa Repair Facility. See Case <<14_5>>.
+other player's — that they can get toa Repair Facility. See Case <<14_5,14.5>>.
 
 [#22_41]
 *[22.41]* Destroyed tanks may be repaired only in Repair Facilities.
-Destroyed tanks may not be repaired in the field. However, see Cases <<22_6>>
+Destroyed tanks may not be repaired in the field. However, see Cases <<22_6,22.6>>
 and 22.7.
 
 [#22_42]
@@ -203,7 +203,7 @@ may be made.
 === REPAIRED VEHICLES
 
 Repaired vehicles are treated as Replacement Points for that type of unit. See
-Case <<20_2>>. They must have fuel to move again, and they follow all the rules
+Case <<20_2,20.2>>. They must have fuel to move again, and they follow all the rules
 laid down for Replacement Points, except that they do not have to undergo
 Training.
 
@@ -223,7 +223,7 @@ Organization (a name, not a HQ unit).
 *[22.62]* Each Tank Delivery Squadron counter isa sort of "advanced"
 Field Repair Facility. If-a Brokendown Tank is in the same hex as a Tank
 Delivery Squadron the Commonwealth Player may subtract one from his dieroll for
-Field Repair (<<22_2>>). For Destroyed Commonwealth Tanks, TDS's repair on a die
+Field Repair (<<22_2,22.2>>). For Destroyed Commonwealth Tanks, TDS's repair on a die
 roll of "1". They do not ‘junk' and they may not repair Enemy tanks.
 
 [#22_63]

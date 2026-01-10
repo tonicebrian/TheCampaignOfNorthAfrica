@@ -25,7 +25,7 @@ Logistics Games.
 ==== I. INITIATIVE DETERMINATION STAGE
 
 The Players determine who will have the Initiative for the coming Game-Turn
-(Section <<7_0>>). The Player going first within an Operations Stage (below) is
+(Section <<7_0,7.0>>). The Player going first within an Operations Stage (below) is
 known as Player "A"; the other as Player "B.”'
 
 [upperroman]
@@ -35,7 +35,7 @@ known as Player "A"; the other as Player "B.”'
 ===== A. Naval Convoy Schedule Phase
 
 The Axis Player plans what specific cargoes the ships will carry and their
-routes. See <<32_0>> or <<56_0>>. The Axis Player plans for the arrival
+routes. See <<32_0,32.0>> or <<56_0,56.0>>. The Axis Player plans for the arrival
 of future Replacements from the Axis Replacement Points Pool. Likewise, the
 Commonwealth Player consults the Commonwealth Production Table and determines
 how many Replacement Points he will receive two turns henc and plans for their
@@ -56,7 +56,7 @@ The Player who gained the Initiative in Stage I now states whether he will be
 Player "A" or Player "B" for this particular Operations Stage.
 
 ===== B. Weather Determination Phase 
-The Player with Initiative rolls for Weather (<<29_0>>). 
+The Player with Initiative rolls for Weather (<<29_0,29.0>>). 
 
 ===== C. Organization Phase
 
@@ -96,13 +96,13 @@ sea or coastal hexes.
 ===== F. Reserve Designation Phase
 
 Player "A" designates which of his units he is placing in Reserve Status,
-indicating such with a Reserve I marker (see <<18_0>>).
+indicating such with a Reserve I marker (see <<18_0,18.0>>).
 
 ===== G. The Movement and Combat Phase
 
 The following four Segments comprise the Movement and Combat Phase. Player "A"
 may if he so wishes, repeat Segments 1 through 4 as many times as he desires
-within the restrictions of the Continual Movement Rules (<<8_2>>). Each repetition
+within the restrictions of the Continual Movement Rules (<<8_2,8.2>>). Each repetition
 must include all four segments. 
 
 1. _Movement Segment_: All units, except
@@ -114,7 +114,7 @@ permitted and Player "B" wishes to do so.
 All vehicles and motorized units of both sides check for Breakdown (2.10).
 Broken down vehicles are indicated by a marker. 
 
-3. Combat Segment: (Combat is resolved as follows see <<11_0>> through <<15_0>>).
+3. Combat Segment: (Combat is resolved as follows see <<11_0,11.0>> through <<15_0,15.0>>).
 
 .. Position Determination Step: Both Players determine the "position" of all Gun-and Armor-class units.
 
@@ -145,7 +145,7 @@ POW's and Guards.
 
 ===== J. Commonwealth Rail Movement Phase
 
-If Player "A" is the Commonwealth Player he may utilize Rail Movement (<<8_7>>) for units and/or Supplies.
+If Player "A" is the Commonwealth Player he may utilize Rail Movement (<<8_7,8.7>>) for units and/or Supplies.
 
 ===== K. Repair Phase
 

@@ -9,7 +9,7 @@ two word description of the undertaking, the reason the plane is flying and what
 it is supposed to do. Generally, no plane may perform more than one mission at
 any one time. Theré are a large variety of missions, and they are all dependent
 on the class of plane and the target. The various missions and their
-descriptions are covered in a series of Cases following <<39_1>>, which is general
+descriptions are covered in a series of Cases following <<39_1,39.1>>, which is general
 in nature. Missions may be aborted, or discontinued before completion.
 
 [note] 
@@ -48,8 +48,8 @@ CASES:
 
 [#39_11]
 *[39.11]* Unless a plane is attempting emergency flight (see Case
-<<37_3>>), no plane may fly unless it has been assigned a specific mission. Nor
-may any plane be flown if an Enemy land combat unit is adjacent (see <<37_3>>).
+<<37_3,37.3>>), no plane may fly unless it has been assigned a specific mission. Nor
+may any plane be flown if an Enemy land combat unit is adjacent (see <<37_3,37.3>>).
 
 [#39_12]
 *[39.12]* Each Player may use any shorthand he wishes to note which
@@ -76,7 +76,7 @@ flown a possible three times a Game-Turn (or once an Operations Stage).
 to a given mission to a given hex. There is a restriction to the type and class
 of plane that can undertake a given mission, as no plane may perform a mission
 for which it does not have the Capability. Plane Capabilities are listed on the
-Aircraft Characteristics Chart <<34_6>>.
+Aircraft Characteristics Chart <<34_6,34.6>>.
 
 [#39_16]
 *[39.16]* Planes from different squadrons may be assigned to the same
@@ -93,12 +93,12 @@ specific mission separate, so as to avoid confusion.
 [#39_18]
 *[39.18]* There are basically five "types" of missions: fighter, bomber,
 transport recon and transfers. The later mission is the only mission that may be
-undertaken by any plane (see Case <<42_1>>).
+undertaken by any plane (see Case <<42_1,42.1>>).
 
 [#39_19]
 *[39.19]* Generally, a plane may fly only one mission per Operations
 Stage or Strategic Phase (with the exception of certain fighters and dive
-bombers; Case <<39_2>>. A plane flying a mission in an Operations Stage may not
+bombers; Case <<39_2,39.2>>. A plane flying a mission in an Operations Stage may not
 fly in the Strategic Phase of that Game-Turn and Vice versa.
 
 [#39_2]
@@ -161,7 +161,7 @@ screen. Fighters cannot screen fighters,
 
 [#39_38]
 *[39.38]* Aircraft may also abort involuntarily; e.g., as aresult of
-AA/flak fire (see Case <<46_3>> and <<45_14,45.14>>).
+AA/flak fire (see Case <<46_3,46.3>> and <<45_14,45.14>>).
 
 [#39_4]
 === NIGHT MISSION

@@ -9,7 +9,7 @@ mission. There are many varieties of bombing missions, delineated by the target
 type. In addition, certain planes have the capability of engaging in night
 bombing missions, which decrease the chances of getting attacked by enemy CAP,
 while lessening the likelihood of damage to a target. Certain planes can engage
-in bombing missions while strafing (see <<39_2>>). To determine the effect of a
+in bombing missions while strafing (see <<39_2,39.2>>). To determine the effect of a
 bombing mission the Player simply totals the Bombload Points (Tons) delivered to
 the target and consults the Air Bombardment CRT corresponding to the target type
 to see what damage, if any, has resulted.
@@ -51,7 +51,7 @@ bombs on Tobruk on the way back.)
 
 [#41_13]
 *[41.13]* Bombers may abort before dropping their bombs on their
-selected target. (See Case <<41_3>>) However, whether the bombers abort or not,
+selected target. (See Case <<41_3,41.3>>) However, whether the bombers abort or not,
 they are considered to have dropped their bombs somewhere, and thus expend their
 ammunition.
 
@@ -62,11 +62,11 @@ must be refueled and refitted (as well as armed).
 [#41_15]
 *[41.15]* Players will note that bombers have parenthesized TacAir
 Ratings. This means that they may not be used except to fire back at Enemy
-fighters that attack them. See the Section on Airto-Air combat.  <<45_0>>.
+fighters that attack them. See the Section on Airto-Air combat.  <<45_0,45.0>>.
 
 [#41_16]
 *[41.16]* Certain planes may undertake two missions simultaneously (see
-Case <<39_2>>) dive bombers may strafe and bomb the same target and fighters with
+Case <<39_2,39.2>>) dive bombers may strafe and bomb the same target and fighters with
 bombload capacities may both strafe and bomb a target, if they have a "D"
 capability.  However, fighter-bombers may either bomb or undertake a fighter
 mission; they do not have the capacity to undertake both types of missions at
@@ -102,7 +102,7 @@ subtracted, any remaining bombers may drop their bombload, and the opposing
 Player determines the effects of same. He does this by totaling the number of
 bomb tons delivered against the particular target and referencing the proper
 portion of the Air Bombardment and Secondary Barrage Target Combat Results Table
-<<41_5>>. He then rolls two dice reading sequentially and applies any results.
+<<41_5,41.5>>. He then rolls two dice reading sequentially and applies any results.
 Any surviving planes are then returned to base (subject to Enemy CAP
 interception on the way).
 
@@ -110,20 +110,20 @@ interception on the way).
 === LAND SUPPORT BOMBING MISSIONS
 
 All Land Support bombing missions except "mining harbors" are resolved using the
-Air Bombardment and Secondary Barrage Target Combat Results Table  <<41_5>>.
+Air Bombardment and Secondary Barrage Target Combat Results Table  <<41_5,41.5>>.
 Mining harbor attempts are resolved using the Mining Harbors by Plane Table
-<<41_9>>.
+<<41_9,41.9>>.
 
 [#41_31]
 *[41.31] Bombing Personnel (B-CU)*: The effect of the anti-personnel
 bombing mission is to Pin a number of units (battalion-equivalent) in the target
-hex; see Case <<41_9>> for the explanation of Air bombardment pins. The Player
+hex; see Case <<41_9,41.9>> for the explanation of Air bombardment pins. The Player
 totals his bomb total and consults the Air Bombardment CRT. He rolls two dice,
 reads the results sequentially, and cross-references that diceroll with the
 bombload tonnage. The result is the number of battalionequivalent units Pinned.
 However, for this purpose, each tank or gun (artillery/anti-tank) unit is worth
 fwo units (AA/Flak units may be pinned in the way). The choice of units to be
-Pinned is determined the same as an artillery barrage (See <<12_2>>).  There is
+Pinned is determined the same as an artillery barrage (See <<12_2,12.2>>).  There is
 one exception to this section: Units in Major Cities may not be bombed unless
 and until the fortification level of the city is reduced to one (1) or less.
 
@@ -146,7 +146,7 @@ after flak fire, unlike fighter flak suppression.
 *[41.34] Bombing Ships (B-CF)*: The result is the number of Damage
 Points inflicted on the ships in the hex (See <<30_34,30.34>>). Bombing of the
 Commonwealth Fleet may not be undertaken at night.  Torpedoes may be used
-against ships (See <<41_7>> and also <<41_6>>). Axis coastal shipping may not be
+against ships (See <<41_7,41.7>> and also <<41_6,41.6>>). Axis coastal shipping may not be
 bombed.
 
 [#41_35]
@@ -188,9 +188,9 @@ one die, if the Player succeeds, place one mine counter in the port hex. The
 result of a mine is the same as blocking harbors: Note: The capacity column
 refers to the average bombload for all six planes (Not this total of six).
 B. Bombing Ports (B-P): The Purpose of this mission is to reduce the efficiency
-level  <<55_1>> of the port. Players total, bombload and strafing delivered
+level  <<55_1,55.1>> of the port. Players total, bombload and strafing delivered
 to the hex and consult the Air Bombardment Table. The number result is the loss
-in efficiency rating for that port. (See Case <<41_8>>for bombing Tripoli, etc.)
+in efficiency rating for that port. (See Case <<41_8,41.8>>for bombing Tripoli, etc.)
 Torpedoes may be used against ports.
 
 [#41_4]
@@ -208,7 +208,7 @@ missions.
 
 [#41_43]
 *[41.43]* The Player must designate that a given bombing mission is a
-night mission as such: B-P(N). See the Air Mission Summary (Case <<39_5>>) for a
+night mission as such: B-P(N). See the Air Mission Summary (Case <<39_5,39.5>>) for a
 list of which missions may be flown at night.
 
 [#41_44]
@@ -222,7 +222,7 @@ halved, rounded .down.  Torpedoes may not be used at night.
 
 [#41_46]
 *[41.46]* Only Night Fighters may Scramble against a Night Bombing
-Mission (see Case <<40_9>>). Fighters without NF capability may be given an
+Mission (see Case <<40_9,40.9>>). Fighters without NF capability may be given an
 offensive CAP versus night raid mission, but have no ZOC, and may only search
 for (and thus attack) Enemy planes with a mission in the same hex (see Case
 41.96). Night Fighters also go through the search procedure in 41.96.
@@ -261,9 +261,9 @@ ineffective.
 
 [#41_61]
 *[41.61]* The Axis Player uses the convoy shipping lanes to place his
-arriving convoys of supplies and personnel (see <<55_1>>. Each of these convoy
+arriving convoys of supplies and personnel (see <<55_1,55.1>>. Each of these convoy
 shipping lanes has distances in hexes from certain key cities listed in the
-lane. This is the airflight distance from that city (see <<56_1>>).
+lane. This is the airflight distance from that city (see <<56_1,56.1>>).
 
 [#41_62]
 *[41.62]* Commonwealth bombers assigned to the Strategic Air Phase may
@@ -279,7 +279,7 @@ to obtain the full distance.
 Naval Convoys. Axis fighters based in the Mediteranean may fly CAP for any
 Convoy Lane within range. Commonwealth fighters may fly CAP or Flak Suppression
 missions to any Convoy Lane within range.  The distances to the Convoy Lanes are
-given in the Axis Naval Convoy Air Distance Chart (Case <<56_1>>). Note that planes
+given in the Axis Naval Convoy Air Distance Chart (Case <<56_1,56.1>>). Note that planes
 flying from North Africa must be able to fly to one of the cities listed plus
 the additional distance from that city to the Convoy Lane.
 
@@ -318,7 +318,7 @@ during the Strategic Air Recovery Stage.
 [#41_66]
 *[41.66]* Convoy bombing is resolved on the Air Bombardment and
 Secondary Barrage Target Results Table. The Commonwealth Player totals his
-attacking bomb points, modifying for torpedos if necessary (see Case <<41_7>>)
+attacking bomb points, modifying for torpedos if necessary (see Case <<41_7,41.7>>)
 and rolls two dice. The cross-indexed result is in tens of percent of the cargo
 in that convoy lost.
 
@@ -401,7 +401,7 @@ the Axis Player, but any CAP coverage is for all targets in that box.
 
 The effect of a Pinned result inflicted on a unit by Air Bombardment is
 different from an artillery barrage pinned. (This rules Section supercedes the
-somewhat incorrect definition of Pinned given in Case <<3_1>>; in essence this case
+somewhat incorrect definition of Pinned given in Case <<3_1,3.1>>; in essence this case
 is an early errata.)  The Pinned by Bombing result depends on whether the
 "pinned" unit belongs to the "A" Player or the "B" Player.
 

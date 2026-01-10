@@ -32,7 +32,7 @@ Play of the game should proceed in accordance with the following outline.
 . INITIATIVE DETERMINATION STAGE
 +
 The Players determine who will have the initiative for the coming Game-Turn (see
-Section <<7_0>>. The Player going first within the Operations Stage (see below)
+Section <<7_0,7.0>>. The Player going first within the Operations Stage (see below)
 is known as "Player A"; the other is “Player B".
 
 . STRATEGIC AIR PLANNING STAGE
@@ -91,7 +91,7 @@ The Player who gained the initiative in Stage I now states whether he will be
 
 B. Weather Determination Phase
 +
-The Player with initiative rolls for weather (see Section <<29_0>>). All adjustments
+The Player with initiative rolls for weather (see Section <<29_0,29.0>>). All adjustments
 for unusual weather are made at this time, including any additional evaporation
 of Fuel/Water from "Hot Weather.”
 
@@ -185,22 +185,22 @@ eligible to fly land support missions for the next OpStage.
 G. Reserve Designation Phase
 +
 Player "A" designates which of his units he is placing in Reserve Status,
-indicating that with a Reserve marker (see Section <<18_0>>).
+indicating that with a Reserve marker (see Section <<18_0,18.0>>).
 
 H. Movement and Combat Phase
 +
 The following four Segments comprise the Movement
 and Combat Phase. Player "A" may, if he so wishes, repeat Segments 1 through 4
 as many times as he desires within the restrictions of the Continual Movement
-rules  <<8_2>>. Each repetition must include all four Segments.
+rules  <<8_2,8.2>>. Each repetition must include all four Segments.
 
 1. Movement Segment: All units except unattached trucks and tank recovery
 squadrons not in reserve and eligible to be moved may be moved.  Non-Phasing
 Player ("B") may move units in accordance with the Reaction movement rules (see
-Case <<8_6>>.
+Case <<8_6,8.6>>.
 2. Breakdown Determination Segment: All
 vehicles and Motorized units of both sides are
-checked for Breakdown (Section <<21_0>>. Broken
+checked for Breakdown (Section <<21_0,21.0>>. Broken
 down vehicles are indicated with an appropriate
 marker.
 3. Combat Segment:
@@ -211,7 +211,7 @@ b. Barrage Step: Players secretly plot and then
 execute any barrages.
 c. Retreat Before Assault Step: Player “B”' may
 retreat before assault any of his units eligible to
-be so moved (see Section <<13_0>>.
+be so moved (see Section <<13_0,13.0>>.
 d. Force Assignment Step: Both Players secretly assign TOE Strength Points to anti-armor or
 close assault. Player “A” determines which
 assaults will be probes (although he need not
@@ -230,7 +230,7 @@ release any of his reserves that he wishes to. ~
 I. Truck Convoy Movement Phase Player "A". may move his Second and Third Line
 (unattached) Trucks, replacement points and any POW's and Guards.
 J. Commonwealth Rail Movement Phase If Player "A" is the Commonwealth Player, he
-may utilize rail movement (see Case <<8_7>> to move land units or supplies.
+may utilize rail movement (see Case <<8_7,8.7>> to move land units or supplies.
 Otherwise this Phase is omitted.
 
 K. Repair Phase

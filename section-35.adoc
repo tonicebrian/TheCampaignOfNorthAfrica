@@ -46,9 +46,9 @@ eliminated.
 
 [#35_13]
 *[35.13]* SGSU‘s arrive according to the orders of the player (See Case
-<<34_8>>). Each SGSU has a unit designation (squadron ID number). These numbers
+<<34_8,34.8>>). Each SGSU has a unit designation (squadron ID number). These numbers
 are historical, but they are not used historically. If an SGSU counter is
-eliminated, it may be returned to play, as per <<34_8>>, one GameTurn later.
+eliminated, it may be returned to play, as per <<34_8,34.8>>, one GameTurn later.
 
 [#35_14]
 *[35.14]* SGSU's require a certain amount of supplies themselves to
@@ -65,7 +65,7 @@ planes fit and readied.
 
 [#35_16]
 *[35.16]* SGSUs may be used to construct air landing facilities or
-flying boat alighting areas (see Case <<24_7>>).
+flying boat alighting areas (see Case <<24_7,24.7>>).
 
 [#35_17]
 *[35.17]* SGSUs are necessary to refuel and refit airplanes; only SGSUs
@@ -74,8 +74,8 @@ another squadron base. However, refitting must be performed at their assigned
 squadron base (SGSU) for maximum efficiency. If a plane attempts to refit at an
 SGSU other than its assigned squadron, the Player adds one to his dieroll for
 refit. In addition, Players should remember that planes may not be refueled or
-refitted beyond the capacity of the air facility (see Case <<36_12,36.12>>, <<36_2>>,
-<<36_3>>and <<36_4>>).
+refitted beyond the capacity of the air facility (see Case <<36_12,36.12>>, <<36_2,36.2>>,
+<<36_3,36.3>>and <<36_4,36.4>>).
 
 [#35_18]
 *[35.18]* The United States Army Air Force (USAF on the counters) SGSU's
@@ -123,7 +123,7 @@ incapable of performing a mission). The capacities are as follows:
 Players will note that starting with July 1941 Commonwealth Squadrons increase their capacity.
 
 [#35_24]
-*[35.24]* Pilots (see Case <<40_1>>) for fighter and fighter bombers are
+*[35.24]* Pilots (see Case <<40_1,40.1>>) for fighter and fighter bombers are
 assigned to squadrons, not to specific planes. A record of pilots in a squadron
 is kept on the Squadron Composition Sheet, and pilots are given specific planes
 when they fly missions.
@@ -138,7 +138,7 @@ transfer are done in the Mission Deployment Segment (as a transfer mission).
 reserve. These planes may be readied and armed (or not, as the Player sees fit),
 but they cannot fly if the ready capacity of that squadron is flying. Reserves
 are used to supplement aircraft that were not readied. Reserves may not
-scramable. They may use emergency flight (see Case <<37_3>>).
+scramable. They may use emergency flight (see Case <<37_3,37.3>>).
 
 [#35_27]
 *[35.27]* If an SGSU is eliminated (see Case <<35_12,35.12>>) and there are

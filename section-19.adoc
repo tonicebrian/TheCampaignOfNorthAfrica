@@ -34,14 +34,14 @@ and/or attached to a Parent Formation. Companies, battalions, and brigades may
 be assigned and/or attached; division HQ units are always independent.
 Divisions, brigades, and battalions may have subsidiary units attached or
 assigned to them (i.e., be Parent Formations). Historical assignments are listed
-on the Organization at Arrival Chart (O/A Chart, see Case <<4_4>>); within
+on the Organization at Arrival Chart (O/A Chart, see Case <<4_4,4.4>>); within
 limits, Players may alter these assignments. Players may more freely alter
 attachments. Limitations on such alterations are generally related to the
 capacity of the Parent Formation(s) to absorb subsidiary units. The historical
 TOE of battle (not the units themselves, but how many of each type there were)
 of every potential Parent Formation is listed on the Formation Organization
 Chart (19.3). Restrictions on additional attachments are listed for each
-Formation on the Maximum Unit Attachment Chart (<<19_5>>).
+Formation on the Maximum Unit Attachment Chart (<<19_5,19.5>>).
 
 [#19_1]
 === DIFFERENCE BETWEEN "ASSIGNED" AND "ATTACHED" UNITS
@@ -49,7 +49,7 @@ Formation on the Maximum Unit Attachment Chart (<<19_5>>).
 [#19_11]
 *[19.11]* A unit is assigned to a specific Parent Formation if that unit
 is considered a part of that Parent Formations organization (e.g., the 8th
-Panzer Regiment — a Brigade equivalent, see <<9_2>> — begins the game assigned
+Panzer Regiment — a Brigade equivalent, see <<9_2,9.2>> — begins the game assigned
 to the 15th Panzer Division).
 
 [#19_12]
@@ -85,7 +85,7 @@ units and assigned to another.
 
 Each Parent Formation (or potential Parent Formation) has an inherent set of
 limitations on the number and/or type of subsidiary units which may be assigned
-to it. These limitations are listed on the Formation Organization Chart (<<19_3>>).
+to it. These limitations are listed on the Formation Organization Chart (<<19_3,19.3>>).
 Example: An Italian armor Brigade may have assigned to it three armored
 battalions.
 
@@ -100,7 +100,7 @@ Log Sheet.
 
 [#19_21]
 *[19.21]* Any Parent Formation which has fewer units assigned to it than
-its maximum (see Case <<19_3>>) may be assigned additional independent
+its maximum (see Case <<19_3,19.3>>) may be assigned additional independent
 (non-assigned) units up to that limit (e.g., If only two armored battalions were
 attached to an Italian armor brigade, the Axis Player could, in his
 Reorganization Segment, assign any independent Italian armored battalion to that
@@ -111,13 +111,13 @@ must be currently attached to it.
 *[19.22]* Should a unit's assigned Parent Formation be eliminated, (see
 Case <<19_11,19.11>>), if that — presumably detached — unit survives, it is considered
 independent and eligible for re-assignment in accordance with Case <<19_21,19.21>> and
-<<19_3>>.
+<<19_3,19.3>>.
 
 [#19_23]
 *[19.23]* Should an assigned unit be eliminated, the assignment is
 considered terminated and another independent unit may be assigned to the Parent
 Formation in the eliminated unit's place. (i.e., eliminated units do not count
-towards the limitations listed in Case <<19_3>>).
+towards the limitations listed in Case <<19_3,19.3>>).
 
 [#49_24]
 *[49.24]* The OA Chart (Case <<4_45,4.45>>) contains notes concerning
@@ -137,7 +137,7 @@ the 15th to the 21st Panzer Division, the 15th would then be assigned
 to the 21st Panzer as per this case.
 
 [#19_25]
-*[19.25]* As indicated on the Formation Organization Chart (<<19_3>>), the
+*[19.25]* As indicated on the Formation Organization Chart (<<19_3,19.3>>), the
 historical assignment limitations on Commonwealth armored divisions and brigades
 changed three times. The Commonwealth Player may, at his option, assign
 available independent units to such Parent Formations when these changes allow
@@ -223,7 +223,7 @@ Case <<9_26,9.26>>).
 [#19_42]
 *[19.42]* A unit not assigned to a Parent Formation in the same hex may
 be attached to that Parent Formation subject to the restrictions of Cases
-<<19_4>> and <<19_5>> (if applicable) at a cost of two Capability Points for
+<<19_4,19.4>> and <<19_5,19.5>> (if applicable) at a cost of two Capability Points for
 both units during the owning Player's Reorganization Segment, only. Note that
 the unit would have to be moved into the hex containing the Parent Formation (or
 vice versa) during an earlier Movement Segment, subject to all stacking
@@ -283,13 +283,13 @@ are detached fromthe Ariete Division. The N.C. Rgt. may be attached to the
 
 The limits listed on this chart apply to all units of the indicated size and
 type, regardless of whether or not the unit's organization is "standard'”'
-(i.e., whether it appears on the Formation Organiztion Chart, <<19_3>>) or not.
+(i.e., whether it appears on the Formation Organiztion Chart, <<19_3,19.3>>) or not.
 
 [#19_6]
 === REBUILDING DEPLETED UNITS
 
 The method of replacing TOE Strength Points and/or Rebuilding units is covered
-in Replacements (Case <<20_4>>). It should be pointed out here, however, that no
+in Replacements (Case <<20_4,20.4>>). It should be pointed out here, however, that no
 unit may ever be rebuilt or augmented to the point that it exceeds its printed
 ID Code Maximum TOE Strength. Example: The Italian Light Tank battalionsmay
 never have more than nine TOE Strength Points of Tanks.  (Whether these can be
@@ -302,7 +302,7 @@ accordingly.
 
 [#19_61]
 *[19.61]* Units that have been depleted (reduced) by combat, attrition,
-etc., may be augmented by Replacements (see Case <<20_4>>). No unit may ever be
+etc., may be augmented by Replacements (see Case <<20_4,20.4>>). No unit may ever be
 increased above its stated maximum TOE Strength Level (listed in the OA Chart
 for that unit).
 
@@ -320,7 +320,7 @@ other units. In such case, two Infantry Replacement Points may be used to revive
 the HQ, Otherwise it is gone for good.
 
 [#19_64]
-*[19.64]* The use of Replacement Points is covered in Case <<20_4>>.
+*[19.64]* The use of Replacement Points is covered in Case <<20_4,20.4>>.
 However, the following principles apply in using Replacement Points to rebuild
 units:
 
@@ -344,7 +344,7 @@ Replacement Points and Gun Replacement Points.
 [#19_65]
 *[19.65]* Armored Recce and Armored Car units use Recce points, usually,
 to rebuild. However, the Players may wish to use their Light Tanks to augment
-Recce units (see Case <<20_6>>).
+Recce units (see Case <<20_6,20.6>>).
 
 [#19_66]
 *[19.66]* In an instance where a battalion assigned to a Parent
@@ -445,7 +445,7 @@ regardiess of the number of AT points it currently contains.
 === AUGMENTING COMMORWEALTH BATTALIONS WITH ANTI-TANK
 
 [#19_91]
-*[19.91]* Starting with the 75th Game-Turn (April 1, <<19_2>>), the
+*[19.91]* Starting with the 75th Game-Turn (April 1, <<19_2,19.2>>), the
 Commonwealth Player may increase the capabilities of certain of his infantry
 battalions by giving them TOE Strength Points of Anti-Tank guns.
 

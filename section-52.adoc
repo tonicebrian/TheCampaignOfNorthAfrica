@@ -28,7 +28,7 @@ above automatically contains a well; no other locations or hexes have wells.
 
 [#52_12]
 *[52.12]* The amount of water available from a given source is given in
-the Water Availability Table,  <<52_7>>). The Table also gives the depletion
+the Water Availability Table,  <<52_7,52.7>>). The Table also gives the depletion
 possibilities for each source.
 
 [#52_13]
@@ -114,7 +114,7 @@ exception: oases are "natural" supply dumps for water and stores (in terms of
 food). Oases wells are never depleted and have an endless supply; they may not
 be poisoned.  Furthermore, oases provide as many stores as needed to supply
 units with non-construction stores (or stores to maintain normal levels;
-<<51_1>>) Units sitting in Oases have all the stores and water they need to last
+<<51_1,51.1>>) Units sitting in Oases have all the stores and water they need to last
 them the entire game. Pipelines cannot be built from Oases.
 
 [#52_4]
@@ -122,7 +122,7 @@ them the entire game. Pipelines cannot be built from Oases.
 
 [#52_41]
 *[52.41]* Each infantry battalion or company regardless of its TOE
-Strength, requires one Water Point per Operations Stage. See also <<52_6>>.
+Strength, requires one Water Point per Operations Stage. See also <<52_6,52.6>>.
 
 [#52_42]
 *[52.42]* Each TOE Strength Point of Vehicle (Tank, Recce, Artillery,
@@ -130,15 +130,15 @@ etc.) or Truck Point requires one Water Point each Operations Stage, if it uses
 any of its CPA.
 
 [#52_43]
-*[52.43]* Hot weather  <<29_3>>) requires additional water usage.
+*[52.43]* Hot weather  <<29_3,29.3>>) requires additional water usage.
 
 [#52_44]
 *[52.44]* Water—except for water in wells and pipelines—is subject to
-evaporation and spillage (See <<49_3>>).
+evaporation and spillage (See <<49_3,49.3>>).
 
 [#52_45]
 *[52.45]* Water may be transported by trucks at the rates given in the
-Truck Capacity Tables  <<40_2>>).
+Truck Capacity Tables  <<40_2,40.2>>).
 
 [#52_5]
 === EFFECTS OF LACK OF WATER

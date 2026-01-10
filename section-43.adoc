@@ -39,7 +39,7 @@ to Crete, and vice-versa.
 *[43.21]* German Bombers based in Italy/Sicily and Crete do not need
 SGSU's. All their requirments are met by the specific "Box" they are in,
 including fuel and ammunition. The Axis Player does not expend fuel or ammo for
-these planes. However, all planes must be refitted  <<38_3>>)
+these planes. However, all planes must be refitted  <<38_3,38.3>>)
 
 [#43_22]
 *[43.22]* When refitting planes as per <<38_37,38.37>> (per Squadron), the
@@ -61,4 +61,4 @@ from planes in Africa.  They fly "naked".
 [#43_25]
 *[43.25]* Bombers based in Italy/Sicily may coordinate with
 African-based fighters for CAP.  They may also be used in raids on Malta (see
-<<44_0>>).
+<<44_0,44.0>>).

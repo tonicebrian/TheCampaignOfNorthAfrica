@@ -123,7 +123,7 @@ entering a hex in an opposing ZOC. CNA uses a rigid, active ZOC system.
 * Dummy Tank Formations
 * Trucks
 
-The counters representing each type are listed in the Counter Manifest <<4_2>>,
+The counters representing each type are listed in the Counter Manifest <<4_2,4.2>>,
 except for Dummy Tank Formations, which have no counters.
 
 [#3_22]
@@ -180,7 +180,7 @@ to the CPA of the 'slowest' unit attached to the HQ.
 *[3.33]* The Stacking Points printed on the HQ are those of a full
 complement of units. Thus a divisional HQ representing an entire division
 occupies 5 Stacking Points of space. The rules on unit Equivalents (see
-<<9_2>>) discuss what happens if the division operates at less than full strength.
+<<9_2,9.2>>) discuss what happens if the division operates at less than full strength.
 If an HQ has no combat units attached it occupies zero Stacking Points and may
 use its parenthesized Ratings. It is no longer considered to be a combat unit
 and may not voluntarily attack.
@@ -338,7 +338,7 @@ _Barrage Rating_: A combat strength expressing the relative capability of that
 unit to inflict damage when firing as an artillery piece (i.e., indirect fire).
 
 _Vulnerability_: A numerical expression of a gun's susceptibility to being
-destroyed or captured when in a Forward Position (see <<12_1>>). It is based
+destroyed or captured when in a Forward Position (see <<12_1,12.1>>). It is based
 mostly on the gun's range and tactical usage doctrine.
 
 _Anti-armor Strength_: A numerical expression of a unit's ability to destroy

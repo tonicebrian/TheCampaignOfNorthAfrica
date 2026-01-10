@@ -21,7 +21,7 @@ Enemy activities, all discussed previously.
 *[55.13]* In addition to its Efficiency Level, each port has a specific
 limit (capacity) as to the number of TOE Strength Points and/or tons of supplies
 that may enter and leave that port; this is called the port capacity. (See the
-Port Capacity and Efficiency Level Chart, <<55_3>>.)
+Port Capacity and Efficiency Level Chart, <<55_3,55.3>>.)
 
 [#55_14]
 *[55.14]* The amount of troops and supplies that can be brought into or
@@ -66,7 +66,7 @@ the Game-Turn that he does throw al12.
 [#55_18]
 *[55.18]* For every OpStage that a port does not lose any Efficiency
 Levels to Enemy bombs, it regains one point. Exception: Cases <<55_26,55.26>> and
-<<55_27,55.27>>. It can never go above its maximum assigned level (see Case <<55_3>>).
+<<55_27,55.27>>. It can never go above its maximum assigned level (see Case <<55_3,55.3>>).
 
 [#55_2]
 === BLOCKING HARBORS
@@ -116,7 +116,7 @@ two engineer units to remove one level of blocking effect.
 
 [#55_27]
 *[55.27]* Harbors may also be blocked by Enemy bombers laying mines by
-air (see Case <<41_3>> for the mechanics). Each successfully laid mine lowers
+air (see Case <<41_3,41.3>> for the mechanics). Each successfully laid mine lowers
 the Efficiency one level. Mines may be removed by engineer battalions. If there
 are mines in a harbor, and the Player controlling the harbor has an engineer
 unit (as in Case <<55_26,55.26>>) in that harbor, he rolls a die for each mine in the

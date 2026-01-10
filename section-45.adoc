@@ -34,7 +34,7 @@ bombers/transports. After all air-to-air is resolved, players complete their
 missions (after, of course, undergoing flak/AA fire.)
 
 All opposing planes involved in air-to-air combat are individually "matched up",
-(see Case <<45_2>>).  The Players now determine each airplane's tacair
+(see Case <<45_2,45.2>>).  The Players now determine each airplane's tacair
 differential. In order to do this, the Players first adjust the tacair rating of
 their aircraft in one of two possible ways:
 
@@ -70,7 +70,7 @@ Fighter, the lone fighter fires first. In fighter vs. non-fighter, the
 non-fighter plane's attack is always resolved first.
 
 Using the final adjusted tacair differentials, the Players refer to the tacair
-Kill Table  <<45_5>>), and the Player firing first rolls two dice and combines
+Kill Table  <<45_5,45.5>>), and the Player firing first rolls two dice and combines
 the results sequentially to obtain a result (e.g., "2”', “4? equals ‘*24'°). If
 the result falls within the kill range given on the table corresponding to the
 ap propriate tac air differential, the opposing plane has been shot down.
@@ -197,7 +197,7 @@ to initiate combat, combat is joined.
 However, if neither Player desires air-to-air, both Players send their aircraft
 home, and all missions in that hex are cancelled. (This is sort of a free abort;
 planes may always try to abort even if the other Player desires combat, but this
-is not automatic. See <<39_3>>.)
+is not automatic. See <<39_3,39.3>>.)
 
 [#45_15]
 *[45.15]* Once air-to-air has been initiated, the Players determine
@@ -212,8 +212,8 @@ and engage in air-to-air with their fighters on CAP.
 *[45.16]* The Players must now decide who is the attacker. The Player
 with the most fighters (pure numbers) is the Attacker in all situations. In the
 instance where both Players have the same number of fighters, the Player with
-initiative for that Game-Turn  <<7_0>>) is the attacker. At this point, Players
-attempt to abort any missions they desire to abort. See <<39_3>>.
+initiative for that Game-Turn  <<7_0,7.0>>) is the attacker. At this point, Players
+attempt to abort any missions they desire to abort. See <<39_3,39.3>>.
 
 [#45_17]
 *[45.17]* A plane without ammo (bombs aside) may not fire in Air-to-Air
@@ -222,8 +222,8 @@ opposing fire.
 
 [#45_18]
 *[45.18]* Players now resolve the first wave of airto-air combat
-<<45_2>>). Once this is completed, the screened planes may be attacked. (See
-<<45_3>>). This is resolved in the same way, with certain restrictions and
+<<45_2,45.2>>). Once this is completed, the screened planes may be attacked. (See
+<<45_3,45.3>>). This is resolved in the same way, with certain restrictions and
 changes.
 
 [#45_19]
@@ -254,7 +254,7 @@ fighter, as long as all the defending fighters are attacked.
 
 [#45_24]
 *[45.24]* Each individual air-to-air match-up is now resolved
-<<45_5>>). A defending fighter may fire at only (any) one attacking fighter,
+<<45_5,45.5>>). A defending fighter may fire at only (any) one attacking fighter,
 while, if there is more than one fighter attacking a defending fighter they all
 may fire at the defending plane. However, all air-to-air combat is resolved
 individually. No planes ever add their strengths together. The Players may
@@ -263,7 +263,7 @@ resolve the individual match-ups in any order they wish.
 [#45_25]
 *[45.25]* After fighter vs fighter has been resolved, there is a
 possibility that some of the fighters may fire, again, against enemy bombers and
-other screened planes (See <<45_3>>).
+other screened planes (See <<45_3,45.3>>).
 
 [#45_3]
 === FIGHTER VS NON-FIGHTER (SCREENED PLANES)
@@ -298,7 +298,7 @@ Henkels. The choice is the attacker's.
 
 [#45_34]
 *[45.34]* Air-to-air fighter vs non-fighter is resolved in the same way
-as fighter vs fighter (see <<45_2>>) with one exception: defending, screening
+as fighter vs fighter (see <<45_2,45.2>>) with one exception: defending, screening
 planes may shoot at each and every fighter attacking that plane — not just one,
 as in <<45_24,45.24>>. (A dive bomber may shoot at one attacking fighter.)
 

@@ -7,7 +7,7 @@ GENERAL RULE:
 Air facilities include airfields, air landing strips, flying boat basins and
 flying boat alighting areas.  These facilities are differentiated by the type
 and number of planes they can handle in terms of flight and maintenance. Air
-facilities are constructed (see Case <<24_7>>), and counters are provided for
+facilities are constructed (see Case <<24_7,24.7>>), and counters are provided for
 that purpose for each type of air facility. Some air facilities exist at the
 start of each Scenario; these are noted in the instructions for that Scenario.
 Air facilities may be damaged and/or destroyed by Enemy bombardment. The number
@@ -22,7 +22,7 @@ CASES:
 [#36_11]
 *[36.11]* Airfields are fully-equipped and engineered air facilities,
 with repair shops, full maintenance facilities and runway capacity for a large
-number of squadrons. Airfield construction is covered in Case <<24_7>>. Each
+number of squadrons. Airfield construction is covered in Case <<24_7,24.7>>. Each
 airfield is noted by an airfield counter in the hex in which the airfield has
 been constructed.
 
@@ -30,14 +30,14 @@ been constructed.
 *[36.12]* Each Airfield has a capacity level of six (maximum). This
 means that it may handle a maximum of six squadrons (regardless of squadron
 size) at any one time. There may never be more than six SGSU's in a given
-airfield hex. However, see Case <<36_5>>.
+airfield hex. However, see Case <<36_5,36.5>>.
 
 [#36_13]
 *[36.13]* If an airfield is landing six squadrons planes in a given
 Operations Stage, it may not receive any more airplanes, even in an emergency.
 Such excess planes must seek other fields or strips at which to land. Likewise,
 no more than six squadron's worth of planes may be readied at a given airfield
-(see Aircraft Maintenance Section <<38_0>>).
+(see Aircraft Maintenance Section <<38_0,38.0>>).
 
 [#36_14]
 *[36.14]* The capacity of an airfield (its levels) may be reduced by
@@ -52,7 +52,7 @@ reduced to zero capacity, it is considered destroyed for all purposes.
 [#36_15]
 *[36.15]* Airfields may also be damaged by desert raiders. However,
 normal land units never damage airfields (except by barrage; see Cases
-<<36_14,36.14>>and <<12_5>>). Land combat units may capture or destroy (entirely) an
+<<36_14,36.14>>and <<12_5,12.5>>). Land combat units may capture or destroy (entirely) an
 airfield by occupying its hex. Airfields are, in essence, non-denominational;
 they may be used by anyone.
 
@@ -82,7 +82,7 @@ landings, with only minimal maintenance facilities. They are represented by air
 landing strip counters, and they are treated exactly as airfields except that
 each air landing strip has a maximum squadron capacity of one. If that capacity
 level is destroyed, the strip is eliminated and removed from the game-map (see
-Case <<24_7>> for construction details, and Case <<36_1>> for capacity details).
+Case <<24_7,24.7>> for construction details, and Case <<36_1,36.1>> for capacity details).
 
 [#36_3]
 === FLYING BOAT BASINS
@@ -91,7 +91,7 @@ Flying boat basins are "airfields" for flying boat seaplanes. All flying boats
 must use a flying boat basin (or alighting area) for landing and maintenance.
 They may not use airfields or landing strips. Basins have the same features as
 an airfield, with the exception that their Capacity is three Squadrons.
-Construction details are in Case <<24_7>>. Players should note that they can bring
+Construction details are in Case <<24_7,24.7>>. Players should note that they can bring
 supplies to a flying boat basin simply by bringing trucks into the hex; they
 need no other transport.  Flying boat basins are placed in any coastal hex.  As
 with airfields, flying boat basins have one intrinsic Strength Point of anti-air
@@ -102,7 +102,7 @@ with airfields, flying boat basins have one intrinsic Strength Point of anti-air
 
 Alighting Areas are the same as flying boat basins, except that they have a
 capacity of one Squadron and they are immune to artillery barrage. They are
-still susceptible to Air Bombardment (see Cases <<24_7>> and <<41_36,41.36>>).
+still susceptible to Air Bombardment (see Cases <<24_7,24.7>> and <<41_36,41.36>>).
 
 [#36_5]
 === OFF-MAP AIR FACILITIES

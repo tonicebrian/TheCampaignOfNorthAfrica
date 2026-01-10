@@ -16,7 +16,7 @@ CASES:
 === WEATHER DETERMINATION
 
 The Player with initiative rolls two dice and consults the Weather Table
-<<29_6>>, using the proper row, in terms of season. The dice results are read
+<<29_6,29.6>>, using the proper row, in terms of season. The dice results are read
 sequentially. The Weather Table gives the weather for that Operations Stage
 (e.g., a diceroll of 53 during summer results in Hot Weather).
 
@@ -32,7 +32,7 @@ The Seasons are as follows:
 |===
 
 If a "sandstorm”' or "rainstorm”' result is obtained, the Player consults the
-Foul Weather Location Table <<29_7>> and rolls one die. This determines the map
+Foul Weather Location Table <<29_7,29.7>> and rolls one die. This determines the map
 sections affected. Unaffected map sections have normal weather. 
 
 [note] 
@@ -81,7 +81,7 @@ virtual standstill. Most men preferred combat to the raging sandstorms.
 
 [#29_41]
 *[29.41]* Sandstorms occur only on certain sections of the game-map, as
-per the Weather Table <<29_6>>.  Regardless of where a sandstorm occurs, it
+per the Weather Table <<29_6,29.6>>.  Regardless of where a sandstorm occurs, it
 mever occurs over delfa hexes (Game-Map E). The Weather for game-maps on which
 there is no sandstorm is normal.
 
@@ -118,7 +118,7 @@ with swollen — and deep — rivers of rainwater.
 
 [#29_51]
 *[29.51]* Rainstorms occur only on certain gamemaps; see the Weather
-Table <<29_6>>. Any gamemap that does not have a rainstorm has normal weather.
+Table <<29_6,29.6>>. Any gamemap that does not have a rainstorm has normal weather.
 
 [#29_52]
 *[29.52]* No aircraft may fly into or out of a rainstorm hex. Note:

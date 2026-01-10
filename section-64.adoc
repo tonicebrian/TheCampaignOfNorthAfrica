@@ -36,16 +36,16 @@ GameTurn 111.
 === INITIAL DEPLOYMENTS
 
 If the entire campaign is being played, the Players use the information provided
-in Section <<60_0>> for the initial placement and distribution of their land,
+in Section <<60_0,60.0>> for the initial placement and distribution of their land,
 sea, and air forces, supplies and construction. If the Players are starting the
-campaign with the arrival of Rommel, the information in Section <<61_0>> is
+campaign with the arrival of Rommel, the information in Section <<61_0,61.0>> is
 used.
 
 [#64_4]
 === INITIATIVE
 
 The Players determine Initiative using the information provided in Section
-<<60_0>> or <<61_0>> depending upon where they are starting their campaign.
+<<60_0,60.0>> or <<61_0,61.0>> depending upon where they are starting their campaign.
 Iniative is determined normally once the restrictions in the appropriate section
 expire.
 
@@ -107,8 +107,8 @@ reduced to (not by) those numbers, all other replacement points are unaffected:
 Why anyone would play a campaign game without the Air and/or Logistics Game(s)
 is beyond me.  However, the Players should pick their start point (Italian
 Offensive or Desert Fox) and use the rules in the appropriate section(s)
-<<32_0>>, <<47_0>>, <<58_0>>) and the abstracted set-up for that scenario group
-and the replacement point adjustments in Case <<64_5>>.
+<<32_0,32.0>>, <<47_0,47.0>>, <<58_0,58.0>>) and the abstracted set-up for that scenario group
+and the replacement point adjustments in Case <<64_5,64.5>>.
 
 [#64_7]
 === VICTORY CONDITIONS

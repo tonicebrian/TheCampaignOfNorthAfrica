@@ -14,7 +14,7 @@ really simplified, it is just a lot less work; it should also cut playing time
 in half (from endless to simply horrendous). Moreover, because virtually all of
 the design effort went into the stardard game, using these rules will have some
 effect on game balance. How much is up to how well and how historically the
-players perform (see Section <<65_0>>).
+players perform (see Section <<65_0,65.0>>).
 
 GENERAL RULE:
 
@@ -196,7 +196,7 @@ Availability Tables (see case <<32_46,32.46>> and <<32_47,32.47>>.
 
 [#32_42]
 *[32.42]* Supply Units for the Axis Player arrive as per convoy,
-see <<32_6>> Commonwealth Supply Units are placed in Cairo unless more than three
+see <<32_6,32.6>> Commonwealth Supply Units are placed in Cairo unless more than three
 are received in a single Game-Turn. In sucha case, one Supply Unit for every
 three received may be placed in Alexandria.
 
@@ -312,7 +312,7 @@ D. May react unless the unit moving adjacent possesses a CPA of 35 or more.
 *[32.61]* In the abstract Logistics game system, Axis Naval Convoys
 consist of all Supply Units, Motorization Points and Replacement Points for that
 Game-Turn. These items may be divided and assigned to any Convoy Lane available,
-as per rules for such assignment <<56_0>>. These have no tonnage limitation.
+as per rules for such assignment <<56_0,56.0>>. These have no tonnage limitation.
 
 [#32_62]
 *[32.62]* The Axis Player may never assign more than three Supply Units
@@ -444,7 +444,7 @@ rating.
 === ROAD AND TRACK STACKING MODIFICATION
 
 The Players ignore all Road and Track (only) Stacking Point restrictions listed
-in Section <<9_0>>.
+in Section <<9_0,9.0>>.
 
 [unnumbered]
 [#32_10]
@@ -457,12 +457,12 @@ need of clarification — or even correction, despite the most elaborate
 precautions. The following addenda are included as the game goes to press in
 order to provide the most up-to-date game possible.
 
-<<3_1>> (clarification) Parent Unit. The terms Parent Unit and Parent Formation
+<<3_1,3.1>> (clarification) Parent Unit. The terms Parent Unit and Parent Formation
 have been used interchangeably. It was intended that they express the following
 distinction: a Parent Unit has counters attached while a Parent Formation has
 counters assigned.
 
-<<3_4>> (clarification) Coast Defense Guns. There are three types of coast
+<<3_4,3.4>> (clarification) Coast Defense Guns. There are three types of coast
 defense guns in CNA:
 
 A. Inname only: A number of units possess the title of Coastal Defense Artillery
@@ -530,7 +530,7 @@ in which a bombing or strafing mission occurs are not entitled to know the
 numbers or types of planes engaged in the mission(s), only the type of mission
 being performed.
 
-<<12_0>> *(clarification)* For the purposes of this Section, all references to
+<<12_0,12.0>> *(clarification)* For the purposes of this Section, all references to
 artillery units apply to any unit comprised of TOE Strength Points with a
 Barrage Rating.
 
@@ -539,7 +539,7 @@ historically identified targets.
 
 <<12_46,12.46>> (clarification) Trucks do not receive terrain benefits.
 
-<<14_0>> *(clarification)* Anti-armor fire occurs within a hex occupied by the
+<<14_0,14.0>> *(clarification)* Anti-armor fire occurs within a hex occupied by the
 non-Phasing Player's units. However, either Player may be the attacker and/or
 the defender.
 

@@ -99,7 +99,7 @@ this case, the transport may use its transfer range (double its normal range).
 [#42_33]
 *[42.33]* Transport missions must be flown to Friendly air facilities,
 as the planes have to land.  Supplies and personnel may be airdropped under
-special circumstances (See <<42_4>>)
+special circumstances (See <<42_4,42.4>>)
 
 [#42_34]
 *[42.34]* Personnel transported by air may not voluntarily move in the
@@ -193,7 +193,7 @@ assigned to that Lane.
 to a specific Convoy Lane. A plane may only be assigned to a naval recon mission
 if it posses Recon capability (R). A plane may be assigned to any Lane within
 its range. The distances to the convoy lanes are listed in the Axis Naval Convoy
-Air Distance Chart (Case <<56_1>>). A plane flying a recon mission from North
+Air Distance Chart (Case <<56_1,56.1>>). A plane flying a recon mission from North
 Africa must possess a range.at least equal to the distance from its air facility
 to one of the key cities listed on the chart plus the distance from that city to
 the Lane.

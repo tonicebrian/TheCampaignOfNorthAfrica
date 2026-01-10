@@ -14,7 +14,7 @@ CASES:
 === EFFECT ON AXIS NAVAL UNITS
 
 Attacks on Axis naval convoys are conducted using the same procedure listed in
-the Basic Logistics and Air Rules of the Land Game (see Section <<32_0>>). The
+the Basic Logistics and Air Rules of the Land Game (see Section <<32_0,32.0>>). The
 only difference is that the convoy being attacked is now more detailed as to
 what it is transporting. Note that the Axis coastal shipping and both Players'
 tactical shipping may not be attacked.
@@ -24,7 +24,7 @@ tactical shipping may not be attacked.
 
 The Axis Player is entitled to make attacks on the Commonwealth fleet. Such
 attacks utilize the same procedure as that in the Basic Logistics and Air Rules
-described in the Land Game (see <<32_0>>).
+described in the Land Game (see <<32_0,32.0>>).
 
 [538_3]
 === EFFECT ON SUPPLIES

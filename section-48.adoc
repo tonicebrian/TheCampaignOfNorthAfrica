@@ -14,7 +14,7 @@ Play of the game should proceed in accordance with the following outline.
 [upperroman]
 . INITIATIVE DETERMINATION PHASE
 The Players determine who will have the initiative
-for the coming Game Turn. (See <<7_0>>) The Player
+for the coming Game Turn. (See <<7_0,7.0>>) The Player
 going first within the Operations Stage (see below)
 is known as "Player A" and the other is "Player
 B.”
@@ -64,7 +64,7 @@ anti-aircraft, and convoy bombing is carried out.
 
 . STORES EXPENDITURE STAGE
 
-Both Players distribute and expend stores (Section <<51_0>>) to eligible units
+Both Players distribute and expend stores (Section <<51_0,51.0>>) to eligible units
 requiring them. Units not receiving required stores are noted. Players also
 adjust fuel and water storage levels for any losses as aresult of spillage or
 evaporation.
@@ -78,7 +78,7 @@ The Player who gained the initiative in Stage I now states whether he will be
 
 B. Weather Determination Phase
 +
-The player with initiative rolls for weather (Section <<29_0>>), All adjustments for
+The player with initiative rolls for weather (Section <<29_0,29.0>>), All adjustments for
 unusual weather are made at this time, including any additional evaporation of
 fuel or water from hot weather.
 
@@ -151,18 +151,18 @@ eligible to fly land support missions.
 
 G. Reserve Designation Phase: Player "A" designates which of his units he is
 placing in reserve status, indicating that with a ‘reserve marker. (See Section
-<<18_0>>.)
+<<18_0,18.0>>.)
 
 H. Movement And Combat Phase
 +
 The following four Segments comprise the Movement and Combat Phase. Player "A"
 may, if he so wishes, repeat Segments 1 through 4 as many times as he desires
-within the restrictions of the continual movement rules  <<8_2>>). Each
+within the restrictions of the continual movement rules  <<8_2,8.2>>). Each
 repetition must include all four segment.
 
 1. Movement Segment: All units, except trucks and tank recovery squadrons not in
 reserve and eligible to be moved may be moved. Non-Phasing Player ("A") may move
-units in accordance with the reaction movement rules (Case <<8_6>>).
+units in accordance with the reaction movement rules (Case <<8_6,8.6>>).
 
 2. Breakdown Determination Segment: All vehicles and motorized units of both
 sides are checked for breakdown. Broken down vehicles are indicated with the
@@ -197,7 +197,7 @@ I. Truck Convoy Movement Phase: Player "A" may move his Second and Third Line
 (unattached) Trucks, and any POW's and Guards.
 
 J. Commonwealth Movement Phase: If Player "A" is the Commonwealth Player, he may
-utilize rail movement (Case <<8_9>>) to move landunits or supplies. Otherwise
+utilize rail movement (Case <<8_9,8.9>>) to move landunits or supplies. Otherwise
 this Phase is omitted.
 
 K. Repair Phase:

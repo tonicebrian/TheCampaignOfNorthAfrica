@@ -35,7 +35,7 @@ additional shipping lanes).
 
 [#56_13]
 *[56.13]* Axis Naval Convoys may be attacked by Commonwealth bombers
-(see Axis Naval Convoy Strategic Bombing, <<41_6>>). The Axis Player must
+(see Axis Naval Convoy Strategic Bombing, <<41_6,41.6>>). The Axis Player must
 therefore balance the risks in having a convoy arrive close to the front,
 thereby placing it within range of a greater number of Commonwealth N.  African
 based planes or having it arrive far in the rear, trading time and supply
@@ -64,7 +64,7 @@ bombardment rules.
 
 [#56_17]
 *[56.17]* There is no limit to the tonnage that can be carried by a
-convoy in a given lane, except as noted in Case <<56_2>>.
+convoy in a given lane, except as noted in Case <<56_2,56.2>>.
 
 [#56_2]
 === SHIPPING BY CONVOY
@@ -96,7 +96,7 @@ Axis Player always plans his convoys one Game-Turn prior to actually sending
 them out.)  The Axis Monthly Shipping Table tells the Axis Player to use row E
 on the Tonnage Capacity Table for November 1941. The Player refers to that Table
 and column and rolls a die; he rolls a 4.  That means he may ship 21,000 tons of
-supplies and Replacement Points (see <<20_0>>) on GameTurn 55. The choice of
+supplies and Replacement Points (see <<20_0,20.0>>) on GameTurn 55. The choice of
 shipping lane and destination is up to him.
 
 [#56_22]
@@ -110,10 +110,10 @@ of stores.
 
 [#56_23]
 *[56.23]* The tonnage equivalencies of supplies are listed on the
-Equivalent Weight Chart  <<54_5>>) [#36_24]*[36.24]* The Axis Player may also
-have planned previously (see Case <<20_6>>) to ship replacements from
+Equivalent Weight Chart  <<54_5,54.5>>) [#36_24]*[36.24]* The Axis Player may also
+have planned previously (see Case <<20_6,20.6>>) to ship replacements from
 Italy/Greece. These take up space and weight, and their tonnage equivalencies
-are given in the Equivalent Weight Chart  <<54_5>>). Only Replacement Points not
+are given in the Equivalent Weight Chart  <<54_5,54.5>>). Only Replacement Points not
 arriving via the Reinforcement Schedule affect shipping tonnage; reinforcements
 and scheduled replacements do not use convoys and do not affect shipping
 tonnage. Thus if the Axis Player had planned to send 10 Infantry Points in the
@@ -124,7 +124,7 @@ for that Game-Turn.
 *[56.25]* After determining what tonnage he has available and what he
 wishes to ship, the Axis Player then, at the same time, allocates his available
 tonnage to the lanes — and ports — he wants them to use. He cannnot change lanes
-and destinations once chosen (see Case <<56_1>>).
+and destinations once chosen (see Case <<56_1,56.1>>).
 
 [#56_26]
 *[56.26]* Axis convoys — and their cargoes — may undergo Commonwealth
@@ -133,7 +133,7 @@ bombardment.
 [#86_27]
 *[86.27]* The Axis Player should remember that ports have maximum
 capacities; they may not receive supplies over that capacity (see Case
-<<55_3>>).
+<<55_3,55.3>>).
 
 [#56_28]
 *[56.28]* Supplies and personnel are unloaded the instant of their

@@ -35,7 +35,7 @@ a ZOC.
 *[10.15]* Regardless of <<10_11,10.11>>, any unit(s) in a hex that total less
 than ten Raw Defensive Close Assault Points do not exert a ZOC, whatever the
 organizational size of the unit. For this purpose, anti-tank units are always
-presumed to be Up Front (see Case <<12_1>>).
+presumed to be Up Front (see Case <<12_1,12.1>>).
 
 [#10_16]
 *[10.16]* The non-Phasing Player must inform the Phasing Player whether
@@ -63,14 +63,14 @@ unless there was a Track or Road connecting the two hexes.)
 
 [#10_22]
 *[10.22]* There is no cost in CP's to enter an Enemy
-ZOC. However, see Section <<10_3>>.
+ZOC. However, see Section <<10_3,10.3>>.
 
 [#10_23]
 *[10.23]* A unit must cease movement upon entering an
 Enemy-controlled hex. The moving unit may not exit that Enemy-controlled hex
 until the next Movement Segment (within that Operations Stage or in the next
 Operations Stage). If a unit begins a Movement Segment in an Enemy controlled hex
-it may leave that ZOC, at a cost in CP's to Break Off (<<8_7>>). Units may not be
+it may leave that ZOC, at a cost in CP's to Break Off (<<8_7,8.7>>). Units may not be
 retreated into a hex in an Enemy ZOC (exception: see Case <<10_26,10.26>>).
 
 [#10_24]
@@ -84,7 +84,7 @@ no-movementinto-Enemy-ZOC's rule).
 
 [#10_25]
 *[10.25]* Friendly units may move through hexes adjacent to an Enemy
-combat unit that are not controlled by that Enemy unit's ZOC. (See Cases <<10_1>>
+combat unit that are not controlled by that Enemy unit's ZOC. (See Cases <<10_1,10.1>>
 and <<10_21,10.21>>).
 
 [#10_26]
@@ -119,7 +119,7 @@ Assault.
 
 [note]
 ====
-A Probe (see Case <<15_9>>) satisfies this requirement if the basic differential is -4 or better.
+A Probe (see Case <<15_9,15.9>>) satisfies this requirement if the basic differential is -4 or better.
 ====
 
 [#10_32]

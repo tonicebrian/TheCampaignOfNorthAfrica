@@ -14,7 +14,7 @@ Points. They may be used to bombard. Ships may be subject to air attack as well
 as fire from land units. The Axis Player may try to cripple the British fleet
 with a daring Italian "Chariot" raid.  The Italian Navy does not appear in
 this game; its actions are abstracted into the Axis Convoy Rules (see
-Section <<51_0>>.
+Section <<51_0,51.0>>.
 
 CASES:
 
@@ -114,9 +114,9 @@ nothing to do with a ship firing antiaircraft guns at Enemy planes.
 === ATTACKING SHIPS AND THEIR REPAIR
 
 [#30_31]
-*[30.31]* Ships may be damaged by airbombardment (see Case <<39_3>>
+*[30.31]* Ships may be damaged by airbombardment (see Case <<39_3,39.3>>
 Coastal Guns (Case <<30_36,30.36>>, or, in a special case, an Italian Chariot Raid
-(Case <<30_4>>).
+(Case <<30_4,30.4>>).
 
 [#30_32]
 *[30.32]* Enemy bombers, fighter bombers, and torpedo-carrying planes
@@ -126,8 +126,8 @@ and put it out of action. Planes bomb ships when they are in the same hex.
 [#30_33]
 *[30.33]* Bombing ships is a mission; a plane must be assigned to such
 mission in order to attack the ship. Even if it is in the same hex but is not
-assigned to bomb the ship it may not attack the ship. See Cases <<41_3>> and 
-<<41_7>> for Ship Bombardment.
+assigned to bomb the ship it may not attack the ship. See Cases <<41_3,41.3>> and 
+<<41_7,41.7>> for Ship Bombardment.
 
 [#30_34]
 *[36.34]* Damage on ships is taken in Gun Rating Points. The Air
@@ -220,7 +220,7 @@ sea is covered-in Case 00.00.
 [#30_51]
 *[30.51]* The Commonwealth may transfer units from one port to another,
 dependent on the personnel capacity of the port. Furthermore, ports may be
-incapacitated as a result of Enemy Air Bombardment (Case <<39_3>>), in which event
+incapacitated as a result of Enemy Air Bombardment (Case <<39_3,39.3>>), in which event
 they are incapable of receiving or shipping out any personnel.
 
 [#30_52]
@@ -251,7 +251,7 @@ Capability Points equivalent to its Capability Point Allowance.
 
 [#36_56]
 *[36.56]* Transfers may not take place between ports when one is
-incapacitated because of Enemy Air Bombardment (see Case <<39_3>>. Transfer may
+incapacitated because of Enemy Air Bombardment (see Case <<39_3,39.3>>. Transfer may
 take place between any Friendly-controlled Ports.  (Control means the last
 Player to occupy the hex.)
 
@@ -262,7 +262,7 @@ Case <<30_59,30.59>>. Thus, if Benghazi brought in any troops, its supply transp
 capacity (reduced or maximum level) is reduced by 25% for that Operations Stage.
 
 [#30_58]
-*[30.58]* Ports may be blocked by mines, etc. (see Case <<50_2>>. This
+*[30.58]* Ports may be blocked by mines, etc. (see Case <<50_2,50.2>>. This
 does not affect a port's capacity to receive personnel (as above) until and
 unless that port is reduced to less than 2/3 (67%) capacity, rounded up. In such
 case, the port may not receive or send any personnel. Any port that is totally

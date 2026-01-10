@@ -9,21 +9,21 @@ This Section serves as an orientation for the prospective player (or rules reade
 
 === Organization of the Rules and How They Should Be Read
 
-<<2_0>> is divided into three parts. The second part discusses how the game is set up. The third part explains how the game is actually played. Everything is explained in very general terms; the intention is to orient the reader rather than to teach detailed procedures.
+<<2_0,2.0>> is divided into three parts. The second part discusses how the game is set up. The third part explains how the game is actually played. Everything is explained in very general terms; the intention is to orient the reader rather than to teach detailed procedures.
 
-<<3_0>> is a glossary intended to explain terms used during play and their relationships to one another. The glossary should be reviewed before the rest of the rules, although some definitions will not become fully clear until the relevant sections are read.
+<<3_0,3.0>> is a glossary intended to explain terms used during play and their relationships to one another. The glossary should be reviewed before the rest of the rules, although some definitions will not become fully clear until the relevant sections are read.
 
-<<4_0>> describes the game equipment and details how the game should be set up.
+<<4_0,4.0>> describes the game equipment and details how the game should be set up.
 
-<<5_0>> contains the *Sequence of Play*, which outlines a single Game-Turn. <<1_0>> through <<5_0>> are written to familiarize the player with game terms and the overall system of play.
+<<5_0,5.0>> contains the *Sequence of Play*, which outlines a single Game-Turn. <<1_0,1.0>> through <<5_0,5.0>> are written to familiarize the player with game terms and the overall system of play.
 
-<<6_0>> through <<32_0>> include all rules necessary to play the *Land Game*. The Land Game uses abstracted and relatively simple supply rules and very simple air power rules.
+<<6_0,6.0>> through <<32_0,32.0>> include all rules necessary to play the *Land Game*. The Land Game uses abstracted and relatively simple supply rules and very simple air power rules.
 
-<<33_0>> through <<47_0>> encompass the *Air Game*, which involves individual aircraft and pilots and the effects of their presence.
+<<33_0,33.0>> through <<47_0,47.0>> encompass the *Air Game*, which involves individual aircraft and pilots and the effects of their presence.
 
-<<48_0>> through <<58_0>> constitute the *Logistics Game*, which replaces the abstract supply rules used if the Land Game is played alone. It is possible to play the Land Game by itself, to combine the Land and Air Games, or to combine the Logistics Game with either or both of the other games.
+<<48_0,48.0>> through <<58_0,58.0>> constitute the *Logistics Game*, which replaces the abstract supply rules used if the Land Game is played alone. It is possible to play the Land Game by itself, to combine the Land and Air Games, or to combine the Logistics Game with either or both of the other games.
 
-<<59_0>> through <<65_0>> describe the five *Scenario Groups*. One Scenario is the full Campaign Game, covering the entire campaign from September 1940 (the Italian invasion of Egypt) onward. Other Scenarios are smaller slices of the campaign that can be played to a decision in considerably less time.
+<<59_0,59.0>> through <<65_0,65.0>> describe the five *Scenario Groups*. One Scenario is the full Campaign Game, covering the entire campaign from September 1940 (the Italian invasion of Egypt) onward. Other Scenarios are smaller slices of the campaign that can be played to a decision in considerably less time.
 
 === How the Game Is Set Up
 

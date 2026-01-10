@@ -58,7 +58,7 @@ permanently. (They will not be used in factories to promote your war effort.)
 
 [#28_17]
 *[28.17]* Each detention camp requires the presence of one Guard Point
-(see Case <<28_2>>).  When moving, one Guard Point is requried for each 1
+(see Case <<28_2,28.2>>).  When moving, one Guard Point is requried for each 1
 Prisoner Points. Any prisoners without a guard "escape" (see Case <<28_23,28.23>>).
 
 [#28_18]
