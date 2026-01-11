@@ -1,4 +1,4 @@
-name: Build EPUB from AsciiDoc
+name: Build PDF and EPUB from AsciiDoc
 
 on:
   push:
@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-epub:
+  build-docs:
     runs-on: ubuntu-latest
 
     steps:
@@ -27,12 +27,19 @@ jobs:
         with:
           ruby-version: '3.2'
 
-      - name: Install AsciiDoctor and EPUB3 plugin
+      - name: Install AsciiDoctor and plugins
         run: |
           gem install asciidoctor
           gem install asciidoctor-epub3
+          gem install asciidoctor-pdf
           gem install pygments.rb
           gem install epubcheck
+
+      - name: Build PDF
+        run: |
+          asciidoctor-pdf \
+            -o CNA-Rules.pdf \
+            CNA-Rules.adoc
 
       - name: Build EPUB
         run: |
@@ -41,6 +48,13 @@ jobs:
             -o CNA-Rules.epub \
             CNA-Rules.adoc
 
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: campaign-north-africa-rules-pdf
+          path: CNA-Rules.pdf
+          retention-days: 90
+
       - name: Upload EPUB artifact
         uses: actions/upload-artifact@v4
         with:
@@ -48,10 +62,35 @@ jobs:
           path: CNA-Rules.epub
           retention-days: 90
 
+      - name: Create or Update Latest Release
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        uses: ncipollo/release-action@v1
+        with:
+          tag: latest
+          name: "Latest Build"
+          body: |
+            ## The Campaign for North Africa - Rules
+
+            Última versión compilada de las reglas en formato PDF y EPUB.
+
+            **Descargas:**
+            - 📄 [CNA-Rules.pdf](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.pdf) - Versión PDF
+            - 📱 [CNA-Rules.epub](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.epub) - Versión EPUB para lectores electrónicos
+
+            Generado automáticamente desde el commit: ${{ github.sha }}
+          artifacts: "CNA-Rules.pdf,CNA-Rules.epub"
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
+          makeLatest: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload to release (on tags)
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v1
         with:
-          files: CNA-Rules.epub
+          files: |
+            CNA-Rules.pdf
+            CNA-Rules.epub
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
