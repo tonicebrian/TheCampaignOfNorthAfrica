@@ -1,3 +1,59 @@
+= LOGISTICS GAME
+
+The Logistics Game allows the players to realistically experience the
+constraints that actually applied to the armies which fought in North Africa.
+Basically, there are four distinct "flavors" of supply in CNA: water, fuel,
+stores, and ammo.  The Logistics Game requires that players keep track of the
+amount of each of these that each unit possesses and consumes. Also included are
+detailed naval convoy rules that cover the movement of the supply types to
+Africa for the Axis and rules covering the use of truck transport to move the
+supplies.
+
+The Logistics Game constitutes the heart and soul of Campaign for North Africa.
+The entire design emphasis is on recreating the difficulties of supply in desert
+warfare. Overall commanders will soon find out that their most important weapon
+is not their tanks or their 88's or their long-range bombers; it is their
+Trucks.
+
+Over a year of intensive testing has proven at least one thing: no one can do
+well in this game if he does not have a definitive grasp of the logistical
+situation and, moreover, a far-sighted plan on how to handle it. This goes
+double for the Axis Player, who is often so far away from his base of supply
+that it will seem to take forever just to “‘feed”' his troops. Players should
+learn to‘use the three-tiered ‘“‘Line" system for their trucks, and they must
+set up a system whereby trucks and the shipment of supplies is handled with a
+maximum of efficiency and speed. Any Stage in which supplies are not constantly
+being moved forward is a wasted three days (game-time). The thoughtful use of
+Supply Dumps is an absolute must.
+
+The general feeling that players will get throughout the game, vis a vis the
+logistics,is frustration (albeit more so on the part of the Axis Player. than
+the Allied Player). The Axis Player will have countless opportunities to smash
+weaklyheld Allied positions, only to find he has neither the fuel the ammunition
+to carry out his plans; they are somewhere on trucks 200-300 miles to his rear.
+The player who best minimizes this problem will most often be the winner.
+
+Much research was done on the logistics portion of the game. Statistics are
+available, but not in a form that is easily translatable to game terms. The
+supply needs, in terms of the points consumed and needed, are based on basic
+computations using weights and consumption figures (where available). These
+figures were then extrapolated to cover usage over the time scale in the game.
+This was especially important when determining ratios for fuel and ammunition
+for aircraft. Furthermore, complete information on fuel consumption was not
+available on a goodly number of the bigger planes. Another problem area was
+ammunition usage. But the biggest prou.cm area, and the area that is most
+abstracted for game purposes, is the correlation between supplies used and
+weight of supplies convoyed (by the Axis). Exact figures here are rare, and much
+testing was spent on seeing whether the numbers we came up with were
+satisfactory.
+
+All of the above is by way of giving the players a little background on the
+logistics game. The supply problem in CNA is extensive, and the work needed to
+run it—in terms of the game—is just as extensive. It is highly recommended that
+one player from each side be assigned to this area, and this area alone. Testing
+proved that rare was the player who could handle military matters, strategy,
+tactics, etc., and also coordinate supply for his troops.
+
 [#48_0]
 == SEQUENCE OF PLAY (Logistics Game)
 

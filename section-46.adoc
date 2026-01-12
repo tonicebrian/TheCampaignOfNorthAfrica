@@ -5,7 +5,7 @@ GENERAL RULE:
 
 Planes flying missions in a given hex must undergo anti-aircraft fire, if there
 are Enemy units capable of such in that hex. Generally, AA fire is conducted
-‘before a mission is undertaken and any casualties taken before determining the
+before a mission is undertaken and any casualties taken before determining the
 effects of that mission. AA fire is given in points, based on capabilities of
 light or heavy AA (or flak) guns.  The number of AA points for each unit is
 determined by multiplying the TOE strength by the AA rating. All AA units have
@@ -40,7 +40,8 @@ planes in that Target Group that are destroyed should be determined at random.
 The players may use any method they wish as long as it is consistent and
 mutually agreeable.
 
-Example: The players alternate picking which planes are destroyed. Example:
+[example]
+The players alternate picking which planes are destroyed.
 Number the planes in the Target Group from 11 to 66 and roll the dice until
 enough different numbers are thrown to match the number of planes to be
 eliminated and then eliminate those planes whose number has come up.
@@ -71,7 +72,7 @@ may fire at enemy planes.  A unit that has an AA Rating may so fire (however,
 see Case <<46_22,46.22>>). Most of these units are called AA or Flak units, and are so
 delineated by their unit symbol on the counter. However, many other types of
 units have AA Ratings. These AA Ratings are multiplied by the TOE Strength of
-the unit to determine the Actual AA. Points that can fire. (There is mo dividing
+the unit to determine the Actual AA. Points that can fire. (There is no dividing
 by 10, as with other strengths.) Any unit with an AA symbol on its counter is
 called a Pure Flak unit (See <<46_17,46.17>>.).
 
@@ -118,7 +119,7 @@ anti-aircraft ability.
 
 [#46_22]
 *[46.22]* Infantry, recce, and tank units may fire AA only at planes in
-the fighter mission, strafing and/or dive bombing target group (see Case 46.26).
+the fighter mission, strafing and/or dive bombing target group (see Case <<46_26,46.26>>).
 
 [#46_23]
 *[46.23]* Anti-aircraft fire occurs after all air-to-air combat and flak

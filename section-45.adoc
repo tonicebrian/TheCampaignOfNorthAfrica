@@ -59,7 +59,7 @@ if prior to the adjustment for maneuver ratings one plane had a tacair
 differential of -3 and the other +3, but the plane with the lower tacair
 differential had a maneuver rating 16 points higher than the second plane, then
 the tacair differentials would be adjusted, respectively, from -3 to +1 and from
-+3 to -1, since the Manuever Adjustment Chart calls for an adjustment of "4'”'
++3 to -1, since the Manuever Adjustment Chart calls for an adjustment of "4"
 in favor of the plane with the higher manuever rating.
 
 In fighter vs. fighter match-ups, the fire of the plane with the "minus" tacair
@@ -71,7 +71,7 @@ non-fighter plane's attack is always resolved first.
 
 Using the final adjusted tacair differentials, the Players refer to the tacair
 Kill Table  <<45_5,45.5>>), and the Player firing first rolls two dice and combines
-the results sequentially to obtain a result (e.g., "2”', “4? equals ‘*24'°). If
+the results sequentially to obtain a result (e.g., "2", "4" equals "24"). If
 the result falls within the kill range given on the table corresponding to the
 ap propriate tac air differential, the opposing plane has been shot down.
 Otherwise, the opposing Player with the aircraft with the positive tacair dif
@@ -175,7 +175,7 @@ hex to engage in air-to-air; if they are on offensive CAP in a hex without
 opposing aircraft they must move into an adjacent controlled hex to engage.)
 
 [#45_12]
-*[45.12]* All planes in a given hex are subject to airto-air combat.
+*[45.12]* All planes in a given hex are subject to air-to-air combat.
 However, there are priorities as to who attacks whom, and when. The primary rule
 is that only fighters or fighter-bombers on a fighter combat mission may
 initiate air to air combat.
@@ -241,14 +241,14 @@ Procedure augmented as below.
 
 [#45_22]
 *[45.22]* The Defender places his fighters down on a flat surface, using
-the aircraft counters. He then states what type of plane (e.g. Mel09F, CR42,
+the aircraft counters. He then states what type of plane (e.g. Me109F, CR42,
 etc.) each fighter counter represents. He does not reveal the rating of his
 pilot at this time.
 
 [#45_23]
 *[45.23]* The attacker must now assign at least one fighter to every
 fighter the defender has placed down. Once every defending fighter is "covered",
-the attacker may assign more than one fighter toa defending fighter. There is no
+the attacker may assign more than one fighter to a defending fighter. There is no
 limit to the number of attacking fighters that may engage a solitary defending
 fighter, as long as all the defending fighters are attacked.
 
@@ -304,8 +304,7 @@ as in <<45_24,45.24>>. (A dive bomber may shoot at one attacking fighter.)
 
 [#45_35]
 *[45.35]* Any screened planes that survive may now proceed to the
-flak/AA fire portion of the mission
-Tun.
+flak/AA fire portion of the mission Turn.
 
 [#45_36]
 *[45.36]* Bombers flying in formation receive a bonus: if 6-17 bombers
@@ -314,22 +313,22 @@ are on the mission add two to each plane's tacair rating.
 
 Examples of Air-to-Air Combat Resolution:
 
-a. ACR 42anda Hurricane I engage in air-to-air.  The CR 42 has a ‘3' pilot for a
-total tacair of ‘6' (34+3=6), while the Hurricane has a ‘2' pilot for a total of
+a. A CR 42 and a Hurricane I engage in air-to-air.  The CR 42 has a ‘3' pilot for a
+total tacair of ‘6' (3+3=6), while the Hurricane has a ‘2' pilot for a total of
 ‘6' (4+ 2=6). But the Maneuver Rating of the Hurricane is four better than that
 of the CR 42 (32 to 28), so this gives an adjustment of 2 tacair points in favor
-of the Hurricane. The final tacair differential is +2 forthe Hurricane, — 2 for
+of the Hurricane. The final tacair differential is +2 for the Hurricane, -2 for
 the CR 42. The CR 42 fires first at -2, needing an 11 or 12 fora kill. He rolls
 a 25 and misses. (Had he rolled a ‘12' the combat would have been over.) Now the
 Hurricane rolls, needing an 11-22 to get a kill. If both miss, there is no more
 rolling.
 
 b. Three Hurricane HB's attack a Junker Ju88D, flying in a formation of 12. Each
-Hurricane has a ‘2' pilot. The Hurricane has a tacair of ‘6', plus ‘2' for the
-pilot. The Ju88 has a tacair of ‘5', plus one more for formation flying.  That
+Hurricane has a '2' pilot. The Hurricane has a tacair of '6', plus '2' for the
+pilot. The Ju88 has a tacair of '5', plus one more for formation flying.  That
 gives the Hurricane a differential of +2.  However, the Hurricanes have an 11
 point maneuver advantage, for a further adjustment of 3 points, making the final
-differential for each Hurricane + 5. The Junker 88 fires first at each
+differential for each Hurricane +5. The Junker 88 fires first at each
 Hurricane. If he rolls an 11 he scores a kill. Then each Hurricane fires at the
 Ju88, needing an 11-26 fora kill.
 
@@ -363,9 +362,9 @@ and once repaired that plane may fly one full Game-Turn later.
 
 [#45_63]
 *[45.63]* For fighters (only) shot down (by either Enemy planes or flak)
-the Player rolls only one die. In this case, a roll of ‘1' means the fighter
+the Player rolls only one die. In this case, a roll of '1' means the fighter
 actually was not shot down and has managed to limp back to base. (This roll is
-the same used for recovery of the pilot  <<45_66,45.66>>); thus if a ‘1' is thrown,
+the same used for recovery of the pilot  <<45_66,45.66>>); thus if a '1' is thrown,
 both the pilot and fighter return. On a 2, only the pilot makes it back.)
 
 [#45_64]
@@ -380,8 +379,8 @@ supplies will do.
 
 [#45_66]
 *[45.66]* If a plane is shot down, the pilot may bail out and survive.
-For each fighter that is shot down, the owning Player rolls one die. If a ‘*1”'
-or “2”? is obtained, the pilot survives and is recovered, regardless of where
+For each fighter that is shot down, the owning Player rolls one die. If a "1"
+or "2" is obtained, the pilot survives and is recovered, regardless of where
 the plane was shot down. He is ready for action three Operations Stages later.
 Otherwise, the pilot is killed.
 
@@ -391,10 +390,10 @@ Otherwise, the pilot is killed.
 Certain aircraft have more than one maneuver rating. Such an aircraft must
 utilize the lower maneuverability rating if on a mission at extended range,
 unless the Player makes a decision to jettison the extended range fuel tank. In
-that case, the higher maneuverability rating may be used in airto-air combat,
+that case, the higher maneuverability rating may be used in air-to-air combat,
 but the plane cannot return to any air facility that is beyond its normal range.
 If out of range of any Friendly air facility, the plane must be crash landed
-(see Case <<37_23,37.23>>)—if it survives the combat, that is. Fighter-bombers
+(see Case <<37_23,37.23>>)— if it survives the combat, that is. Fighter-bombers
 attacked by Enemy planes while on bombing missions may jettison their bombs to
 increase their Maneuver Rating for Air-to-Air. The jettisoned bombs have no
 effect.
