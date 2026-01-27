@@ -73,13 +73,13 @@ jobs:
           body: |
             ## The Campaign for North Africa - Rules
 
-            Última versión compilada de las reglas en formato PDF y EPUB.
+            Latest compiled version of the rules in PDF and EPUB format.
 
-            **Descargas:**
-            - 📄 [CNA-Rules.pdf](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.pdf) - Versión PDF
-            - 📱 [CNA-Rules.epub](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.epub) - Versión EPUB para lectores electrónicos
+            **Downloads:**
+            - 📄 [CNA-Rules.pdf](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.pdf) - PDF Version
+            - 📱 [CNA-Rules.epub](https://github.com/${{ github.repository }}/releases/download/latest/CNA-Rules.epub) - EPUB Version for e-readers
 
-            Generado automáticamente desde el commit: ${{ github.sha }}
+            Automatically generated from commit: ${{ github.sha }}
           artifacts: "CNA-Rules.pdf,CNA-Rules.epub"
           allowUpdates: true
           removeArtifacts: true
