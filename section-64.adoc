@@ -14,21 +14,21 @@ Logistics Commander. On top of this should be one Player as Supreme Commander.
 This means a lot of players, and, again, this is the ideal situation. The fewest
 number of players would be three to a side. Lastly, it would be hard to
 underestimate the amount of paperwork and planning that are involved in a
-campaign game. Keeping on top of the situation is half the battle . . . and more
+campaign game. Keeping on top of the situation is half the battle ... and more
 than half the fun. And speaking of fun, the campaign game can be a lot of fun.
 If you are interested in a challenge, interested in wrestling with the problems
 of organizing and running a campaign, and if you simply want to experience the
-complexities of. modern warfare at all levels, you will get much satisfaction
+complexities of modern warfare at all levels, you will get much satisfaction
 from CNA.
 
 [#64_2]
 === SCENARIO LENGTH
 
 There are two campaign game scenarios in CNA.  The first covers the entire war
-in Northeast Africa and begins in the third week of September, 1940 (.e., the
-Italian Offensive, lst OpStage of GameTurn 1). The "shorter" campaign begins
+in Northeast Africa and begins in the third week of September, 1940 (ie., the
+Italian Offensive, 1st OpStage of GameTurn 1). The "shorter" campaign begins
 with the arrival of General Erwin Rommel and the Deutsches Afrika Korps during
-the fourth week of March, 194] (i.e., the Desert Fox, 3rd OpStage of Game-Turn
+the fourth week of March, 1941 (i.e., the Desert Fox, 3rd OpStage of Game-Turn
 26). Both campaign games end with the completion of the third OpStage of
 GameTurn 111.
 
@@ -115,7 +115,7 @@ and the replacement point adjustments in Case <<64_5,64.5>>.
 
 It would be hard to imagine anything more exasperating than playing a game for
 five years, getting to the end, and finding out that you have lost by one point
-or two hexes, or something of that ilk Victory conditions for a game of this
+or two hexes, or something of that ilk. Victory conditions for a game of this
 size and scope are almost meaningless: survival itself is a victory. However,
 you have to have some sort of objective, and the Designer has to make some sort
 of decision. Our decision here is to use Victory Conditions that compare to what
@@ -128,7 +128,7 @@ a matter of points, or who can hold onto what.
 
 [#64_71]
 *[64.71]* If the Axis Player occupies all hexes of Alexandria and Cairo
-for one full Game-Turn, and sucn occupying units can trace a line of supply
+for one full Game-Turn, and such occupying units can trace a line of supply
 (i.e., convoy route) back to a Supply Dump which in turn can be supplied from
 Tobruk or Tripoli in any way, and that line is 90 movement points by truck or
 less, the Axis wins the game—regardless of the turn or date. Failing that, we

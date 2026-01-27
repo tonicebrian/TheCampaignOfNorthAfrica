@@ -554,23 +554,20 @@ nonparenthesized Close Assault Ratings) and they must be able to trace supply of
 not more than one Game-Turn's duration back to a Supply Dump or City which can
 eventually be traced back either to Cairo (Commonwealth) or Tripoli (Italian).
 
-Victory Points
+.Victory Points
+[cols="2,1,1", options="header"]
+|===
+|City / Village |Italians Hold |Commonwealth Holds
 
-Commonwealth
-
-City/Village Italians Hold Holds
-Mersa Matruh 100 0
-Tobruk 50 25
-Derna 20 30
-Giarabub 10 10
-Siwa (C0127) 10 10
-Benghazi 10 50
-Agadabia
-
-(A2629) 10 50
-Mersa Brega
-
-(A202) 0 50
+|Mersa Matruh |100 |0
+|Tobruk |50 |25
+|Derna |20 |30
+|Giarabub |10 |10
+|Siwa (C0127) |10 |10
+|Benghazi |10 |50
+|Agadabia (A2629) |10 |50
+|Mersa Brega (A2021) |0 |50
+|===
 
 If there are no Italian combat units that can trace a Supply Line on the
 game-map the Commonwealth Player wins a Strategic Victory. All other conditions

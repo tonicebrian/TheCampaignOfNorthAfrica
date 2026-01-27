@@ -48,7 +48,7 @@ capacity or Efficiency Level.
 
 [#55_16]
 *[55.16]* Some ports may receive shipments only in a Strategic Phase,
-while others may be used each OpStage. Players should be careful to adjust ali
+while others may be used each OpStage. Players should be careful to adjust all
 capacities and Efficiency Levels to cover both uses. A port's capacity applies
 to all shipments received in a Game-Turn (including OpStages), except as stated
 in Case <<55_15,55.15>>.
@@ -128,7 +128,7 @@ other construction or removal work.
 [#55_28]
 *[55.28]* CW ships in an Axis port hex have no effect on Convoy
 arrivals. (This is somewhat of an abstraction; attempts to block the ports
-during the day would not have worked due to Axis air power:)
+during the day would not have worked due to Axis air power)
 
 [#55_3]
 === PORT CAPACITY AND EFFICIENCY LEVEL CHART

@@ -155,7 +155,7 @@ for movement only — of 50. Each sea hex costs one point.
 
 [#56_32]
 *[56.32]* Axis coastal shipping moves in the Truck Convoy Phase, and
-on/y in that Phase.
+only in that Phase.
 
 [#56_33]
 *[56.33]* Axis coastal ships cannot be attacked from air or land. They
@@ -163,7 +163,7 @@ may not enter a port that has been neutralized (Capacity Level of zero).  They
 may also never enter an Enemy-occupied port.
 
 [#56_34]
-*[56.34]* To use coastal shipping, the Axis Player loads supplies (xo
+*[56.34]* To use coastal shipping, the Axis Player loads supplies (no
 personnel) on his boats at the Beginning of the Truck Convoy Phase (at a cost of
 5 CPs) and then moves the boat. Unloading supplies costs 5 CPs. Only one type of
 cargo may be carried at any one time by any one ship. Tanks, guns, etc., may not

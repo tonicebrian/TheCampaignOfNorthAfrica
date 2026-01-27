@@ -38,7 +38,10 @@ rate and a fuel capability rating. The fuel consumption factor is the number of
 Fuel Points consumed for every five Capability Points (or fraction thereof)
 expended by the TOE Strength Point for movement (or any type). Note: Fuel is not
 consumed when CP's are expended for combat or any other action that does not
-involve actual movement from one hex to another. Example: One TOE Strength Point
+involve actual movement from one hex to another. 
+
+[example]
+One TOE Strength Point
 of tanks with a fuel consumption rate of "4" that moved in such a way that
 expends 12 Capability Points would consume 12 Fuel Points—"4", the fuel
 consumption rate multiplied by ‘'3", the number of groups of 5 CP's expended.
@@ -111,12 +114,12 @@ planes.
 
 Fuel is subject to loss through evaporation and spillage, regardless of where it
 is kept. During the Stores Expenditure Stage of each game-turn,-each Player
-reduces a// fuel levels on the game-map (not in convoys at sea) by six percent
+reduces all fuel levels on the game-map (not in convoys at sea) by six percent
 (6%), rounded down. In addition, if the weather for an operations stage is
 "hot weather", an additional reduction of five per-cent (5%) is taken as soon
 as the hot weather is determined. There is one exception to these rates: from
 Sept., 1940 until the last Game-Turn (inclusive) in August, 1941, the
-Commonwealth spillage and evaporation rate is mime percent (9%) per Game-turn.
+Commonwealth spillage and evaporation rate is nine percent (9%) per Game-turn.
 This is due to the poorly constructed containers used by the British; it wasn't
-until the British copied that German ‘erry can" that their rate was reduced
+until the British copied that German "jerry can" that their rate was reduced
 (This rule also applies to certain sources of water, see <<52_44,52.44>>.)

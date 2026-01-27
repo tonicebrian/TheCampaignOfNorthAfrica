@@ -30,7 +30,7 @@ A2021: 2nd Support Group (2 Arm); Trucks: 25 Medium, 5 Heavy.
 
 C4507: 3rd In Motor Bde; Trucks: 5 Light, 25 Medium.
 
-Msus (84004): Ist Coy French Motor Marines Trucks: 3 Medium.
+Msus (84004): 1st Coy French Motor Marines Trucks: 3 Medium.
 
 Any hex within the triangle formed by Tocra
 
@@ -42,7 +42,7 @@ Jalo (B0513): One unit of the LRDG
 
 Tobruk (C4807): HQ: 9 Aus Division; 26th Aus Bde (9 Aus); Ist RHA; 8th Field
 Arty Regt; 104th RHA; 65th AT Regt; 2nd Heavy AA Regt; 9th Heavy AA Regt; 15th
-Light AA Regt; 57th Light AA Regt Trucks: ‘5 light, 5 Medium.
+Light AA Regt; 57th Light AA Regt Trucks: 5 light, 5 Medium.
 
 Anywhere within one hex of:
 
@@ -78,8 +78,7 @@ Unit Tanks
 
 4 TOE Points A/13's
 
-5 TOE Points of M13/40s
-(Captured)
+5 TOE Points of M13/40s (Captured)
 
 Tanks of the 7th Armored Division are at maximum TOE, but all are broken down (see Case
 <<61_38,61.38>>).
@@ -87,9 +86,8 @@ Tanks of the 7th Armored Division are at maximum TOE, but all are broken down (s
 [#61_33]
 *[61.33]* Commonwealth North African Air Force
 
-Planes & SGSU's:; The following squadrons of
-planes, each being represented by one SGSU, are
-available with all planes refitted:
+Planes & SGSU's: The following squadrons of planes, each being represented by one 
+SGSU, are available with all planes refitted:
 
 6RTR/3rd Amr X
 
@@ -103,7 +101,7 @@ available with all planes refitted:
 | Tobruk (C 4907) | Hurricane I | 16
 |===
 
-Pilots:'1 TWO pilot and 4 ONE Pilots.
+Pilots: 1 TWO pilot and 4 ONE Pilots.
 
 Air Facilities:
 
@@ -128,7 +126,7 @@ Landing Strips anywhere on the game map.
 facility capacity of 8 which he may divide amongst the facilities. He has 26AA
 Points which he may divide amongst the facilities:
 
-Pilots: 2 TWO's and 4 One pilots.
+Pilots: 2 Two's and 4 One pilots.
 
 Planes (all are refitted): 24 Hurricane I, 12 Wellington I, 10 Swordfish, 5 Sunderlands, 4
 Marylands.
@@ -298,11 +296,11 @@ landing strip in any hex west of El Agheila (A 1816).
 [#61_43]
 *[61.43]* Axis Tracks
 
-AJl German first line Trucks (which are indicated on the Reinforcement Schedule
+All German first line Trucks (which are indicated on the Reinforcement Schedule
 as being attached to arrived German units) may be distributed among those units
 freely.
 
-The Italian Player receives the following FirstLine Trucks, which may be
+The Italian Player receives the following First Line Trucks, which may be
 assigned as he sees fit to his units:
 
 [%header]
@@ -347,8 +345,7 @@ Axis player does not receive a Convoy during the first game-turn. He must plan
 his convoys for the second and third game-turns.
 
 [#61_45]
-*[61.45]* All Axis Reinforcements are taken normally, as they appear on
-the track.
+*[61.45]* All Axis Reinforcements are taken normally, as they appear on the track.
 
 [#61_5]
 === INITIATIVE

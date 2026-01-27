@@ -19,17 +19,17 @@ Over a year of intensive testing has proven at least one thing: no one can do
 well in this game if he does not have a definitive grasp of the logistical
 situation and, moreover, a far-sighted plan on how to handle it. This goes
 double for the Axis Player, who is often so far away from his base of supply
-that it will seem to take forever just to “‘feed”' his troops. Players should
-learn to‘use the three-tiered ‘“‘Line" system for their trucks, and they must
+that it will seem to take forever just to "feed" his troops. Players should
+learn to‘use the three-tiered "Line" system for their trucks, and they must
 set up a system whereby trucks and the shipment of supplies is handled with a
 maximum of efficiency and speed. Any Stage in which supplies are not constantly
 being moved forward is a wasted three days (game-time). The thoughtful use of
 Supply Dumps is an absolute must.
 
 The general feeling that players will get throughout the game, vis a vis the
-logistics,is frustration (albeit more so on the part of the Axis Player. than
+logistics, is frustration (albeit more so on the part of the Axis Player than
 the Allied Player). The Axis Player will have countless opportunities to smash
-weaklyheld Allied positions, only to find he has neither the fuel the ammunition
+weakly held Allied positions, only to find he has neither the fuel the ammunition
 to carry out his plans; they are somewhere on trucks 200-300 miles to his rear.
 The player who best minimizes this problem will most often be the winner.
 
@@ -41,7 +41,7 @@ figures were then extrapolated to cover usage over the time scale in the game.
 This was especially important when determining ratios for fuel and ammunition
 for aircraft. Furthermore, complete information on fuel consumption was not
 available on a goodly number of the bigger planes. Another problem area was
-ammunition usage. But the biggest prou.cm area, and the area that is most
+ammunition usage. But the biggest problem area, and the area that is most
 abstracted for game purposes, is the correlation between supplies used and
 weight of supplies convoyed (by the Axis). Exact figures here are rare, and much
 testing was spent on seeing whether the numbers we came up with were
@@ -73,7 +73,7 @@ The Players determine who will have the initiative
 for the coming Game Turn. (See <<7_0,7.0>>) The Player
 going first within the Operations Stage (see below)
 is known as "Player A" and the other is "Player
-B.”
+B".
 
 . STRATEGIC AIR PLANNING STAGE (Air Game Only)
 
@@ -119,7 +119,7 @@ lanes.
 anti-aircraft, and convoy bombing is carried out.
 
 . STORES EXPENDITURE STAGE
-
++
 Both Players distribute and expend stores (Section <<51_0,51.0>>) to eligible units
 requiring them. Units not receiving required stores are noted. Players also
 adjust fuel and water storage levels for any losses as aresult of spillage or
@@ -141,6 +141,7 @@ fuel or water from hot weather.
 C. Organization Phase
 +
 The following Segments are undertaken in any order desired.
+
 1. Water Distribution Segment: Players distribute water to eligible units
 requiring such.
 2. Reorganization Segment: Attachment and/or assignment of reinforcement,
@@ -165,10 +166,8 @@ Operations stage.
 redistributed at this time, subject to the maximum innate capacity of the
 unit(s) and the hex. Trucks may be loaded/unloaded.
 7. Tactical Shipping Segment: Both players execute the transport of cargo between African
-poits. Note: Axis coastal ships are represented in
-the game by counters. Allied coastal shipping is
-not represented by counters, and is limited only by
-the port capacities.
+points. Note: Axis coastal ships are represented in the game by counters. Allied coastal 
+shipping is not represented by counters, and is limited only by the port capacities.
 D. Naval Convoy Arrival Phase: All reinforcements, Replacement Points, and
 supplies scheduled for arrival (and actually arriving) appear in their
 designated ports of arrival or entrance hexes. Check Reinforcement Tables and
@@ -182,8 +181,7 @@ E. Commonwealth Fleet Phase:
 1. Fleet Assignemts Segment: The Commonwealth Player assigns his ships to any
 sea or coastal hexes for bombardment purposes.
 
-2. Fleet Repair Segment: Any repair work on ships
-is undertaken at this time.
+2. Fleet Repair Segment: Any repair work on ships is undertaken at this time.
 
 F. Land Support Air Phase (Air Game only):
 Only those planes assigned to land support missions may be used in this Phase.
@@ -193,7 +191,7 @@ missions by the Player.
 2. Mission Deployment Segment: Counters representing each type of plane assigned
 a mission are placed in their hex of assignment.
 3. Air-to-air Combat Resolution Segment: Combat between opposing aircraft,
-including any caused by scramble and interception, is resolved. Mis sion aborts
+including any caused by scramble and interception, is resolved. Mission aborts
 may take place before combat resolution.
 4. Flak Resolution Segment: Aircraft in the same hex as Enemy anti-aircraft
 units undergo flak fire.
@@ -206,7 +204,7 @@ origin (excepting those on transfer missions and some other rare exceptions).
 eligible to fly land support missions.
 
 G. Reserve Designation Phase: Player "A" designates which of his units he is
-placing in reserve status, indicating that with a ‘reserve marker. (See Section
+placing in reserve status, indicating that with a reserve marker. (See Section
 <<18_0,18.0>>.)
 
 H. Movement And Combat Phase

@@ -135,7 +135,7 @@ Div = division; Bde = brigade; Regt = regiment; Bn = battalion; Coy = company;
 In = Indian; Gds = Guards; RTR = Royal
 Tank Regiment; RHA = Royal Horse Artillery;
 Hus = Hussars; SA = South African;
-NZ = New Zealand;Cp = Conps; CLY =
+NZ = New Zealand; Cp = Conps; CLY =
 County of London Yeomanry; Gaf = Garrison
 troops; CCNN = Blackshirts; * = no parent
 organization.
@@ -216,7 +216,7 @@ facilities and those available at supply dumps. Air facilities automatically
 possess a supply dump. If a Player places supplies available at a supply dump in
 the same location as those available at an air facility, the totals are combined
 and it becomes one dump (see Case <<36_17,36.17>>). Some scenarios separately list an
-aggregate number of supplies available at a player's air facilities.:- These may
+aggregate number of supplies available at a player's air facilities: These may
 never be allocated to off-map facilities.
 
 [#59_53]
@@ -238,7 +238,7 @@ Play is then governed by the rules in Section <<58_0,58.0>>.
 
 [#59_62]
 *[59.62]* If the Logistics Game is abstracted, whether or not the Air
-Gameis also abstracted, Players will be using Motorization Points and Supply
+Game is also abstracted, Players will be using Motorization Points and Supply
 Units. The initial set-ups for the Supply Units and Motorization Points are
 given in the following cases.
 
@@ -255,7 +255,7 @@ as beginning the scenario with 10 Light, 25 Medium and 10 Heavy Trucks. It
 possesses 35 Motorization Points.
 
 B. Unattached Motorization Points: These are calculated from the second-third
-Line trucks available to each Player in the same manner as in “A.” If the Air
+Line trucks available to each Player in the same manner as in "A." If the Air
 Game is being abstracted, ignore all trucks available atair facilities. Note
 that the initial distribution/placement of these trucks will affect their
 ability to start a scenario loaded with supplies in addition to those listed as

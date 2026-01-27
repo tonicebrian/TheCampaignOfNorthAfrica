@@ -30,7 +30,7 @@ was great.)
 
 The scale of the game was decided by its scope and size — and the map
 configuration. The sources are listed in the bibliography, and suffice to say
-the game-maps are borrowed from several conficting sources. Often the designer
+the game-maps are borrowed from several conflicting sources. Often the designer
 had to make difficult decisions as to which tracks existed and which simply
 filled in the blank spaces on an Italian map.  The tracks proved most difficult
 — I don't think there are two maps that agree — but defining things-such as
@@ -69,7 +69,7 @@ from my own Veracruz, another unusual source.)
 
 Combat, however, is not what this game is about.  Logistics is the subject, and
 trucks are the thesis.  And from the very beginning that is what I
-concentrated on. Most of the design work went into mak ing the logistics system
+concentrated on. Most of the design work went into making the logistics system
 work. Hundreds of computations on breakdown rates, fuel consumption, tonnage
 capacities, etc., were done using available statistics and charts. One of the
 hardest jobs was the Replacement Charts. It is one thing to determine how much a

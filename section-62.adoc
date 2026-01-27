@@ -33,7 +33,7 @@ RHA; 104th RHA, 107th RHA; ATT: 144th Field Arty, 2/13 Aus Inf Bn [20/9 J);
 AA and 89th Heavy
 AA. Trucks: 20 Light, 135 Medium, 53 Heavy.
 
-C4111: 7th Armored Bde 7; Assg: 7th Hus /4/7/, 6th RTR /4/7], 2nd RTR; Less its
+C4111: 7th Armored Bde 7; Assg: 7th Hus /4/7/, 6th RTR /4/7/, 2nd RTR; Less its
 own 1 RTR and 8 Hus; Att: 4th RHA /7Spt/7f Trucks: 30 Medium, 15 Heavy.
 
 C4131: Kings Dragoon Gds (R; 2Spt/2); 67th Medium Arty; 16th Light AA; Trucks: 6
@@ -42,7 +42,7 @@ Light, 10 Medium, 3 Heavy.
 C3814: 4th South African Armored Car Bn Trucks: 2 Light, 3 Medium, 1 Heavy. 4th
 Armored Brigade (7; Independent Bde: no longer considered assignedassigned to
 the 7th Armored Div; Less: its 6 RTR and 7 Hus; Assg: 8th Hus /7/7/; 3rd RTR
-/1/2); 5th RTR /3/2/; Att: 102nd AT Regt; 2nd RHA /2Spt/2)); Trucks: 45 Medium,
+/1/2); 5th RTR /3/2/; Att: 102nd AT Regt; 2nd RHA /2Spt/2/); Trucks: 45 Medium,
 15 Heavy.
 
 C3823: 11 In Bde (4 In; Less: 4/7 Rajp; Assg: 2/5 Mahratta Light Inf [in it
@@ -294,17 +294,17 @@ C4606 and/or C4706: 102nd Trento Divi) Trucks: 25 Light, 55 Medium, 15 Heavy.
 
 C4608: 25 Bologna Div (I) Trucks: 8 Lights, 25 Medium, 7 Heavy.
 
-C 4610: 90th Light Div (Det: 361 Afrika and 155 Regts, 3rd Bn of the 255 Regt
+C4610: 90th Light Div (Det: 361 Afrika and 155 Regts, 3rd Bn of the 255 Regt
 and 3rd Bn of 347th Regt; Less: 190th Arty, 580th Recce, and 190th AT. Ergo, the
 counter consists of the HQ and the 613th Flak Bn); 200th Rifle Regt (75;
 consists of the 2nd MG Bn 5 Le and the 15/200 Kradschutzen Bn 15. Trucks: 5
 Light, 21 Medium, 1 Heavy.
 
-C 4613: 15th Panzer Div (Det: 33rd Recce; Less: 200th Rifle Regt, 104th Rifle
+C4613: 15th Panzer Div (Det: 33rd Recce; Less: 200th Rifle Regt, 104th Rifle
 Regt and 140th Arty Regt; 33rd Arty Regt has a TOE Strength of 6).  Trucks: 15
 Light, 50 Medium, 16 Heavy.
 
-C 4804: 27th Brescia Div (Italian Inf; Det: 57th Arty). Trucks: 8 Light, 30
+C4804: 27th Brescia Div (Italian Inf; Det: 57th Arty). Trucks: 8 Light, 30
 Medium, 4 Heavy.  Divided approximately equally amongst B 4432, C 4303 amd C
 4102: 101st Trieste Div (I); Trucks: 20 Light, 50 Medium, 15 Heavy.
 
@@ -324,29 +324,28 @@ tank battalion): 2 Light, 6 Medium.
 
 The Axis Player assigns German tank TOE Strength Points as follows:
 
-Unit Tanks
+|===
+| Unit | Tanks
 
-1/8 4 PzIl, 2PzilICE) 5 PzliIcH), 2
-PzIV(D),
-
-11/8 4 Pzil, 3PZIN(E) 5PziICH), 4
-PzIV(E)
-
-1/5 3 Pzil, 7 PziiicH), 1 Pziv(D)
-
-Il/5 3 PzIl, 6 PzWI(H), 2 PzIV(B)
+| 1/8  | 4 PzIl, 2PzilICE) 5 PzliIcH), 2 PzIV(D),
+|11/8 | 4 Pzil, 3PZIN(E) 5PziICH), 4 PzIV(E)
+|1/5 | 3 Pzil, 7 PziiicH), 1 Pziv(D)
+|Il/5 | 3 PzIl, 6 PzWI(H), 2 PzIV(B)
+|===
 
 The Axis Player assigns Italian tank TOE Strength
 Points as follows:
 
-Unit Tanks
-VIICM) 6 M13/40's
-VIII(M) 6 M13/40's
-IX(M) 6 M13/40's
-LIi(M) 6 M13/40's
-11) 5 M13/40's
-K(L) 5 CV33's
-11(L) 5 CV33's
+|===
+| Unit | Tanks
+| VIICM)  |6 M13/40's
+| VIII(M) |6 M13/40's
+| IX(M) |6 M13/40's
+| LII(M) |6 M13/40's
+| III(M) |5 M13/40's
+| I(L) |5 CV33's
+| II(L) |5 CV33's
+|===
 
 (Note: Over 100 additional Light Tanks—usually CV 33's and their ilk—were spread
 around other Italian units, assigned to Recce units, Bersagliere regiments,
@@ -513,7 +512,7 @@ C. Commonwealth Initial Supply Status: Case <<62_35,62.35>> is replaced by the f
 
 [cols="3,1,1,1"]
 |===
-|Location |Regular Supply Units |Each with Ammo |A
+|Location |Regular Supply Units |Each with Ammo | Each with Fuel
 
 |Tobruk (C4807)
 |4

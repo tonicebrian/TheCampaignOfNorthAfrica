@@ -22,7 +22,7 @@ CASES:
 [#52_11]
 *[52.11]* Water is found in wells—and only wells.  (It may be extended
 from wells through the use of water pipelines.) Wells are located in major
-cities, villages, and birs. Water is also found in oases (See 52.3). Each of the
+cities, villages, and birs. Water is also found in oases (See <<52_3,52.3>>). Each of the
 above automatically contains a well; no other locations or hexes have wells.
 (The Tripoli/Tunisia boxes each have unlimited wells.)
 
@@ -60,7 +60,7 @@ be "poisoned". Actually, poisoning is a fanciful term. No one actually dropped
 fifty pounds of arsenic down a well; the folks in Geneva looked askance at that
 sort of thing.  Rather, the wells could be salted, as there was plenty of salt
 around. To poison a well, therefore, any unit in a hex (village/bir) with a well
-may expend one CP and roll one die. If the dieroll is a ‘1', the well is
+may expend one CP and roll one die. If the dieroll is a '1', the well is
 poisoned. If the dieroll is 2-6 the attempt fails (for any number of reasons)
 and no further attempt on that well may be made that Operations Stage. Poisoned
 wells may be kept secret as in 52.14.
@@ -130,7 +130,7 @@ etc.) or Truck Point requires one Water Point each Operations Stage, if it uses
 any of its CPA.
 
 [#52_43]
-*[52.43]* Hot weather  <<29_3,29.3>>) requires additional water usage.
+*[52.43]* Hot weather  (<<29_3,29.3>>) requires additional water usage.
 
 [#52_44]
 *[52.44]* Water—except for water in wells and pipelines—is subject to

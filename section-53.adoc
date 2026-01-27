@@ -33,7 +33,7 @@ he has to doit with.
 
 [#53_11]
 *[53.11] First Line Trucks*
-+
+
 These are trucks attached directly to the parent combat unit (division, brigade,
 battalion, etc.).  They are used to carry men and/or supplies of that parent
 combat unit. First line trucks are not represented by counters; the Player notes
@@ -44,7 +44,7 @@ represented by a counter and are no longer considered to be first line trucks.
 
 [#53_12]
 *[53.12] Second Line Trucks*
-+
+
 These truck units essentially operate between combat units and the forward supply dumps from
 which they are retrieving supplies. These trucks are
 not limited to carrying supplies; they may, like all
@@ -53,8 +53,7 @@ Second line trucks are represented by counters.
 Players keep track of all second line trucks on their
 truck and Major End Items sheets. They move
 during the Truck Convoy Movement Segment of
-the Operations Stage, as they are not attached toa
-regular unit.
+the Operations Stage, as they are not attached to a regular unit.
 
 [#53_13]
 *[53.13] Third Line Trucks*
@@ -80,7 +79,7 @@ recommended by the designers and the playtesters; it is not, however, a rule.
 
 [#53_21]
 *[53.21]* Trucks acting as convoys may move only in the Truck Convoy
-Movement Segment (See 8.18). This applies only to trucks not attached toa combat
+Movement Segment (See <<8_18,8.18>>). This applies only to trucks not attached to a combat
 unit or HQ. Thus, truck counters on the game maps are, by definition, convoys
 and will move only in the Truck Convoy Movement Segment.
 
@@ -89,7 +88,7 @@ and will move only in the Truck Convoy Movement Segment.
 CPA: heavy and medium trucks havea CPA of thirty (30), and light trucks have a
 CPA of forty (40). However, Trucks moving in a Truck Convoy Movement Segment may
 never, under any circumstances, exceed their extended CPA. If, for some reason,
-they are forced to exceed their extended .CPA they are considered to have
+they are forced to exceed their extended CPA they are considered to have
 suffered breakdown  <<21_0,21.0>>) at the instant they exceed their extended CPA.
 First line trucks use their basic CPA (20 or 25) and may exceed their CPA as
 their parent unit does (See <<6_1,6.1>>).
@@ -102,7 +101,7 @@ parent unit.
 
 [#53_24]
 *[53.24]* There is a Capability Point cost to load and/or off-load
-supplies and men. (See <<6_3,6.3>>). Supplies for one truck unit must have been
+supplies and men (See <<6_3,6.3>>). Supplies for one truck unit must have been
 off-loaded by that truck before another truck unit may load and carry them. This
 applies even if both truck units are attached to the same parent combat unit or
 convoy. Furthermore, supplies and/or men carried by second and third line trucks

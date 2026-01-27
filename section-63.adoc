@@ -18,11 +18,11 @@ is for those who like to retreat or chase fleeing troops.
 [#63_2]
 === SCENARIO LENGTH AND DURATION
 
-Both scenarios begin with the Ist OpStage of Game-Turn 1OZ. "The Last Chance"
+Both scenarios begin with the 1st OpStage of Game-Turn 1OZ. "The Last Chance"
 Scenario ends with the completion of the 3rd OpStage of Game Turn 102 lst
 OpStage of Game-Turn 111. "The Long Retreat" ends at the completion of the
 December 3/IV, 1942 Game-Turn. "The Last Chance" should take about ten hours
-to play, excluding set-up; "The Long Retreat" should take from 50to 100 hours.
+to play, excluding set-up; "The Long Retreat" should take from 50 to 100 hours.
 
 [#63_3]
 === COMMONWEALTH FORCES
@@ -46,19 +46,19 @@ D 3033: S5ist Inf Div (Att: 50 RTR 23/8).
 
 Trucks: 40 Light, 70 Medium, 21 Heavy.
 
-E 2901: nd New Zeland Div (2nd NZ Cav is now TOE Strength of 5 Recce Points and
+E2901: nd New Zeland Div (2nd NZ Cav is now TOE Strength of 5 Recce Points and
 6 Stuart tank Points; Less: 4 NZ Bde; Att: 9th Armored Bde 10; Att: 3 Hus, 14th
 Sherwood Forresters 1)
 
 Trucks: 30 Light, 90 Medium, 20 Heavy.
 
-E 2801: Ist South African Div (Less: 50 SA Bde; Assg: 3 SA Bde #SA; in its
+E2801: Ist South African Div (Less: 50 SA Bde; Assg: 3 SA Bde #SA; in its
 place#; ATt: 8th RTR #1 Army#, 1st SA Field Arty #2 SA#, Die Middelandse MG Regt
 # SA#, and 2nd Botha #5/1SA )
 
 Trucks: 35 Light, 85 Medium, 25 Heavy.
 
-E 2701: 5 In Bde (4 Jn; Less: 1 Royal Fusilier and 4/6 Rajp Rifles; Assg: 1/4
+E2701: 5 In Bde (4 Jn; Less: 1 Royal Fusilier and 4/6 Rajp Rifles; Assg: 1/4
 Essex* and 3/10 Baluchies in their places); 6th Rajput Rifles MG Bn; Ist Field
 Arty Regt (4 Zn); 149th AT Regt; 11th Field Arty Regt; 32nd Field Arty Regt;
 57th Light AA Regt HQ: 4th In Div (Less: 11 In Bde, 31st Field Arty, and Central
@@ -66,7 +66,7 @@ In HOrse R; Det: 5th and 7th In Bdes and ist Field Arty).
 
 Trucks: 10 Light, 25 Medium, 10 Heavy.
 
-E 2601: 7th In Bde (4 In; Less: 4/11 Sikh; Assg: 1/2 Gurkha Rifles in its place)
+E2601: 7th In Bde (4 In; Less: 4/11 Sikh; Assg: 1/2 Gurkha Rifles in its place)
 and 161st In Motor Bde (consists of: Ist Argyll & Sutherland 16/17, 1/1 Punjab
 Regt, 4/7 Rajputanis /1/4 In).
 
@@ -77,7 +77,7 @@ Greek Bde and 111th Field Arty Regt in place of the Inf Bde and Arty Regt
 respectively; Att: 154th Field Arty Regt, 102nd AT Regt 2Spt/2 and 34th Light AA
 Regt).  Trucks: 35 Light, 65 Medium, 21 Heavy.
 
-E 2302: 7th Armored Div (Consists of: 4th Armored Bde #consists of 4/8 Hus**,
+E2302: 7th Armored Div (Consists of: 4th Armored Bde #consists of 4/8 Hus**,
 Royal Scots Grays (8/10) and IKRRC (7 Spt/7); 22nd Armored Bde consists of 1 RTR
 (7/7), 5 RTR 3/2), 4 CLY (22 Amr Bde), and 1 Rifle Bde (2/2); 11th Hus r; 7; TOE
 Strength of 83 RHA Which now is considered a regular artillery unit; Possesses 6
@@ -85,7 +85,7 @@ TOE Strength Points of 25Ibrs; 4th Field Arty Regt; 97th Field Arty Regt20/10
 In; 65th AT Regt; 15th Light AA Regt; AH: 2nd Derby Yeomanry R, 8; Strength of
 6; 44th Recce Regt 44. Trucks: 75 Medium, 40 Heavy.
 
-E 3005: lst Armored Div (Consists of: 2 Armored Bde Less: Ist RflBde, 7th Motor
+E3005: lst Armored Div (Consists of: 2 Armored Bde Less: Ist RflBde, 7th Motor
 Bde 7; Which consists of: 2nd Rifle Bde (7Spt/7), 7th Rifle Bde (23/8) and 2nd
 KRRC (/Spt/J), 2nd RHA #Spt/2, 4th RHA /7Spt/7, 11th RHA self-propelled counter,
 78th Field Arty, 76 AT RegtSp?t/J, 1st Royal Northumberland Fusiliers MG Bn,
@@ -95,24 +95,24 @@ Strength of 7, 146th Field Arty, 73rd AT Regt and 56th Light AA Regt).
 
 Trucks: 10 Light, 90 Medium, 30 Heavy.
 
-E 3007: 8th Armored Div (Det: 40 RTR and 50 RTR of the 23rd Armored Bde, 2nd
+E3007: 8th Armored Div (Det: 40 RTR and 50 RTR of the 23rd Armored Bde, 2nd
 DerYoe R; Less: 24th Armored Bde, 7th Rifle Bde of the 23rd Armored Bde); 121st
 Field Arty.
 
 Trucks: 5 Medium.
 
-E 2805: 10th Armored Div (consists of: 8 Amr Bde 10; Less: SctsGray; Assg: 3rd
+E2805: 10th Armored Div (consists of: 8 Amr Bde 10; Less: SctsGray; Assg: 3rd
 RTR (//2; in its place) and Ist Buffs (1), 24th Armored Bde [8], 133rd Inf. Bde
 [44]. lst Royal Dragoons R, 1 RHA, 104 RHA, 98sth Field Arty, Sth RHA
 selfpropelled counter, 84th AT, and 53rd Light AA).
 
 Trucks: 75 Medium, 40 Heavy.
 
-E 2904: lst Army Tank Bde (Det: 8 RTR)
+E2904: lst Army Tank Bde (Det: 8 RTR)
 
 Trucks: 5 Medium.
 
-E 2401: 44th Inf Div (Det: 44th Recce; Less: 133Inf Bde; Att: 53rd Field Arty).
+E2401: 44th Inf Div (Det: 44th Recce; Less: 133Inf Bde; Att: 53rd Field Arty).
 Trucks: 20 Light, 55 Medium, 6 Heavy.
 
 Within one hex of E 2403: Ist Free French Bde
@@ -129,8 +129,9 @@ Heavy AA.  Trucks: 5 Medium.
 
 2ist In Bde (0 In; consists of 1/6 Rajput Rifles 11/4 In, 3/7 Rajputama Regt 61
 In Mtr Bde and 2/8 Gurkha Rifles); 7th Medium Arty Regt; 64th Medium Arty; 69th
-Medium Arty Trucks: 10 Light, 25 Medium, 7 Heavy.  *This is a British unit whose
-counter bears the Indian units' coloration.
+Medium Arty Trucks: 10 Light, 25 Medium, 7 Heavy. 
+
+*This is a British unit whose counter bears the Indian units' coloration.
 
 **Formation created by combining the 4th and 8th Hussars. Use the counter for
 the 8th Hus (7/7).  The unit's max TOE Strength is still 10.
@@ -163,82 +164,41 @@ The following tank battalions are listed as to their assigned parent formatin(s)
 for this scenario and their starting compositions, in TOE Strength Points, if
 they differ from their listing on the OA Sheet. Parent
 
-Tank Battalion Formation(s) Composition
+[cols="1,2,3", options="header"]
+|===
+|Unit |Parent Formation(s) |Composition
 
-40 RTR 23/8 8 Valentines
+|40 RTR |23/8 |8 Valentines
+|46 RTR |23/8 |10 Valentines
+|50 RTR |23/8 |9 Valentines
+|8 RTR |1 Army* |10 Valentines
+|3rd Hussars |– |2 Grants, 2 Shermans, 3 Crusader I’s
+|Ryl W Yeomanry |9/+‡ |3 Grants, 2 Shermans, 3 Crusader I’s
+|Warwick Yeo |– |3 Grants, 3 Shermans, 3 Crusader II’s
+|9th Aus Div Cav |9 Aust‡ |3 Crusader II’s, 1 Stuart 6 ID Code “11”
+|Royal Scots Greys |4/7 |4 Stuarts, 3 Grants
+|4/8 Hussars |4/7 |9 Stuarts
+|1 RTR |22/7 |4 Stuarts, 5 Grants
+|5 RTR |22/7 |4 Crusader II’s, 5 Grants
+|4 CLY |22/7 |6 Crusader II’s, 2 Grants
+|Queens Bays |– |7 Shermans, 3 Crusader II’s
+|9th Lancers |2/1 |6 Shermans, 4 Crusader II’s
+|10th Hussars |2/1 |5 Shermans, 5 Crusader II’s
+|7th Motor Bde HQ |– |1 Churchill
+|3 RTR |8/10 |3 Crusader III’s, 2 Shermans, 3 Grants
+|Nottingham Yeo |8/10 |3 Crusader III’s, 2 Shermans, 4 Grants
+|Staffordshire Yeo |8/10 |3 Crusader III’s, 2 Shermans, 4 Grants
+|41 RTR |24/10 |3 Crusader III’s, 6 Shermans
+|45 RTR |24/10 |3 Crusader III’s, 6 Shermans
+|47 RTR |24/10 |3 Crusader III’s, 7 Shermans
+|42 RTR |1 Army |10 Scorpions
+|44 RTR |1 Army |10 Scorpions
+|===
 
-46 RTR 23/8 10 Valentines
+* Stuarts attached to the 1st SA Div.  
+† Stuarts attached to the 2nd NZ Division.  
+‡ This armoured unit is a tank battalion for these scenarios.
 
-50 RTR 23/8 9 Valentines
-
-8 RTR 1 Army* 10 Valentines
-
-3rd Hussars 2 Grants, 2 Shermans, 3 Crusader T's
-
-Ryl Wi Yeomanry 9/-t 3 Grants, 2 Shermans, 3 Crusader
-I's
-
-Warwick Yeo 3 Grants, 3 Shermans, 3 Crusader
-Il's
-
-9th Aus Div Cav 9 Aust 3 Crusader II's, 1
-Stuart 6 ID Code
-oe 1 1' >
-
-Royal Scots Greys 4/7 4 Stuarts, 3 Grants
-
-4/8 Hussars 4/7 9 Stuarts
-
-1RTR 22/7 4 Stuarts, 5 Grants
-
-5RTR 22/7 4 Crusader II's,
-5 Grants
-
-4CLY 22/7 6 Crusader II's,
-2 Grants
-
-Queens Bays 7 Shermans,
-3 Crusader II's
-
-9th Lancers 2/1 6 Shermans,
-4 Crusader II's
-
-10th Hussars 2/1 5 Shermans,
-5 Crusader II's
-
-7th Motor Bde HQ 1 Churchill
-
-3 RTR 8/10 3 Crusader III's,
-2-Shermans,
-3 Grants
-
-Nottingham Yeo 8/10 3 Crusader III's,
-2 Shermans,
-4 Grants
-
-Staffordshire Yeo 8/10 3 Crusader III's,
-2 Shermans,
-4 Grants
-
-41 RTR 24/10 3 Crusader III's,
-6 Shermans
-
-45 RTR 24/10 3 Crusader III's,
-6 Shermans
-
-47 RTR 24/10 3 Crusader III's,
-7 Shermans
-
-42 RTR 1 Army 10 Scorpions
-
-44 RTR 1 Army 10 Scorpions
-
-*Starts attached to the Ist SA Div.
-
-{Starts attached to the 2nd NZ Division.
-
-£This armored unit is a tank battalion for these
-scenarios.
 
 [#63_33]
 *[63.33]* Commonwealth Air Strength
@@ -669,7 +629,7 @@ any port between Tobruk and Tripoli.
 The Axis Player may transfer 10% of his available force to Italy or Sicily but
 no more. He may not have more than 10% of his air power in Italy or Sicily.
 Strategic air attacks against Malta may be made only in the Long Retreat
-scenario (see 44.41).
+scenario (see <<44_41,44.41>>).
 
 [#63_47]
 *[63.47]* Replacements and Reinforcements
@@ -732,6 +692,7 @@ Mrs18 guns.
 === SPECIAL RULES
 
 The following rules may not be used:
+
 A. 10th Italian Light Flotilla
 B. Raid on Rommel
 
@@ -878,7 +839,7 @@ on Game-Map D (exclusive of Layforce and SAS units). The Player with the most
 TOE points (in comparison to the other) is the winner of a tactical victory.
 
 [#63_92]
-*[63.92]* ‘“The Long Retreat" Scenario
+*[63.92]* "The Long Retreat" Scenario
 
 The name of the game is survival here. How good is the Axis Player at delaying,
 at giving territory grudgingly. He cannot win in a military sense (the Allies
