@@ -1,4 +1,4 @@
-# The Campaign for North Africa
+# Rules for The Campaign for North Africa
 
 ![The Campaign for North Africa Cover](images/The_Campaign_for_North_Africa_cover.jpg)
 
