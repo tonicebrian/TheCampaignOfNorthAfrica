@@ -1,5 +1,7 @@
 # The Campaign for North Africa
 
+![The Campaign for North Africa Cover](images/The_Campaign_for_North_Africa_cover.jpg)
+
 Rules transcription of the SPI game The Campaign of North Africa
 
 ## 📥 Download Rules
@@ -39,3 +41,7 @@ asciidoctor-epub3 -o CNA-Rules.epub CNA-Rules.adoc
 ```
 
 The generated files will be created in the current directory.
+
+---
+
+![Seldon North Africa](images/seldon-north-africa.jpg)
