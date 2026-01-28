@@ -45,132 +45,132 @@ We hope you enjoy this SPI game. Should you have any difficulty interpreting the
 
 ====
 
-include::section-01.adoc[]
+include::sections/section-01.adoc[]
 
-include::section-02.adoc[]
+include::sections/section-02.adoc[]
 
-include::section-03.adoc[]
+include::sections/section-03.adoc[]
 
-include::section-04.adoc[]
+include::sections/section-04.adoc[]
 
-include::section-05.adoc[]
+include::sections/section-05.adoc[]
 
-include::section-06.adoc[]
+include::sections/section-06.adoc[]
 
-include::section-07.adoc[]
+include::sections/section-07.adoc[]
 
-include::section-08.adoc[]
+include::sections/section-08.adoc[]
 
-include::section-09.adoc[]
+include::sections/section-09.adoc[]
 
-include::section-10.adoc[]
+include::sections/section-10.adoc[]
 
-include::section-11.adoc[]
+include::sections/section-11.adoc[]
 
-include::section-12.adoc[]
+include::sections/section-12.adoc[]
 
-include::section-13.adoc[]
+include::sections/section-13.adoc[]
 
-include::section-14.adoc[]
+include::sections/section-14.adoc[]
 
-include::section-15.adoc[]
+include::sections/section-15.adoc[]
 
-include::section-16.adoc[]
+include::sections/section-16.adoc[]
 
-include::section-17.adoc[]
+include::sections/section-17.adoc[]
 
-include::section-18.adoc[]
+include::sections/section-18.adoc[]
 
-include::section-19.adoc[]
+include::sections/section-19.adoc[]
 
-include::section-20.adoc[]
+include::sections/section-20.adoc[]
 
-include::section-21.adoc[]
+include::sections/section-21.adoc[]
 
-include::section-22.adoc[]
+include::sections/section-22.adoc[]
 
-include::section-23.adoc[]
+include::sections/section-23.adoc[]
 
-include::section-24.adoc[]
+include::sections/section-24.adoc[]
 
-include::section-25.adoc[]
+include::sections/section-25.adoc[]
 
-include::section-26.adoc[]
+include::sections/section-26.adoc[]
 
-include::section-27.adoc[]
+include::sections/section-27.adoc[]
 
-include::section-28.adoc[]
+include::sections/section-28.adoc[]
 
-include::section-29.adoc[]
+include::sections/section-29.adoc[]
 
-include::section-30.adoc[]
+include::sections/section-30.adoc[]
 
-include::section-31.adoc[]
+include::sections/section-31.adoc[]
 
-include::section-32.adoc[]
+include::sections/section-32.adoc[]
 
-include::section-33.adoc[]
+include::sections/section-33.adoc[]
 
-include::section-34.adoc[]
+include::sections/section-34.adoc[]
 
-include::section-35.adoc[]
+include::sections/section-35.adoc[]
 
-include::section-36.adoc[]
+include::sections/section-36.adoc[]
 
-include::section-37.adoc[]
+include::sections/section-37.adoc[]
 
-include::section-38.adoc[]
+include::sections/section-38.adoc[]
 
-include::section-39.adoc[]
+include::sections/section-39.adoc[]
 
-include::section-40.adoc[]
+include::sections/section-40.adoc[]
 
-include::section-41.adoc[]
+include::sections/section-41.adoc[]
 
-include::section-42.adoc[]
+include::sections/section-42.adoc[]
 
-include::section-43.adoc[]
+include::sections/section-43.adoc[]
 
-include::section-44.adoc[]
+include::sections/section-44.adoc[]
 
-include::section-45.adoc[]
+include::sections/section-45.adoc[]
 
-include::section-46.adoc[]
+include::sections/section-46.adoc[]
 
-include::section-47.adoc[]
+include::sections/section-47.adoc[]
 
-include::section-48.adoc[]
+include::sections/section-48.adoc[]
 
-include::section-49.adoc[]
+include::sections/section-49.adoc[]
 
-include::section-50.adoc[]
+include::sections/section-50.adoc[]
 
-include::section-51.adoc[]
+include::sections/section-51.adoc[]
 
-include::section-52.adoc[]
+include::sections/section-52.adoc[]
 
-include::section-53.adoc[]
+include::sections/section-53.adoc[]
 
-include::section-54.adoc[]
+include::sections/section-54.adoc[]
 
-include::section-55.adoc[]
+include::sections/section-55.adoc[]
 
-include::section-56.adoc[]
+include::sections/section-56.adoc[]
 
-include::section-57.adoc[]
+include::sections/section-57.adoc[]
 
-include::section-58.adoc[]
+include::sections/section-58.adoc[]
 
-include::section-59.adoc[]
+include::sections/section-59.adoc[]
 
-include::section-60.adoc[]
+include::sections/section-60.adoc[]
 
-include::section-61.adoc[]
+include::sections/section-61.adoc[]
 
-include::section-62.adoc[]
+include::sections/section-62.adoc[]
 
-include::section-63.adoc[]
+include::sections/section-63.adoc[]
 
-include::section-64.adoc[]
+include::sections/section-64.adoc[]
 
-include::section-65.adoc[]
+include::sections/section-65.adoc[]
