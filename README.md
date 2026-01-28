@@ -11,7 +11,7 @@ The rules are available in PDF and EPUB format for direct download:
 - 📄 **[Download PDF](https://github.com/tonicebrian/TheCampaignOfNorthAfrica/releases/latest/download/CNA-Rules.pdf)** - Version for printing or reading on computer
 - 📱 **[Download EPUB](https://github.com/tonicebrian/TheCampaignOfNorthAfrica/releases/latest/download/CNA-Rules.epub)** - Version for e-readers
 
-> **Note:** These links always point to the latest version automatically generated from the repository.
+> **Note:** The original rules from which these documents have been OCR-ed and generated can be found here: https://www.spigames.net/PDFv2/CampaignNorthAfrica.pdf
 
 ## 🛠️ Building the Rules Yourself
 
@@ -31,11 +31,13 @@ gem install pygments.rb
 ### Building
 
 **Generate PDF:**
+
 ```bash
 asciidoctor-pdf -o CNA-Rules.pdf CNA-Rules.adoc
 ```
 
 **Generate EPUB:**
+
 ```bash
 asciidoctor-epub3 -o CNA-Rules.epub CNA-Rules.adoc
 ```
