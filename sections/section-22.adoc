@@ -140,7 +140,7 @@ reducing the Fortification Level of that City by one (see Air Bombardment Table)
 add one to the dieroll. If the level is reduced by two or three add two to the
 dieroll (whether reduced by Air Bombardment and/or Barrage).
 
-b. If the Repair Facility is not ina Major City and the Enemy Player delivers
+b. If the Repair Facility is not in a Major City and the Enemy Player delivers
 enough Air Bombs or Artillery Barrage that, when/if using Air Bombardment Table,
 to reduce a Fortification one Level, that Repair Facility is neutralized for
 that OpStage. It may not repair any vehicles.
@@ -244,7 +244,7 @@ Tank Points are treated the same as any Tank Replacement Points.
 Brokendown or Destroyed Tanks back to a Facility at a movement rate of 20 CP's'
 (as opposed to the normal 10 for towing). DTS's may tow up to three TOEB's of
 tanks (in addition to any Reserves); it still has a Stacking Point Value of “0”.
-DTS's may not attempt Field Repair ina turn in which they tow.
+DTS's may not attempt Field Repair in a turn in which they tow.
 
 [#22_66]
 *[22.66]* TDS's that have, for any reason, exceeded their CPA in a given

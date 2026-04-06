@@ -135,7 +135,7 @@ for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stag
 
 2. For each Close Assault in which a unit participates where the defending upit
 vacates its hex completely as a direct result of that Close Assault (not
-Reaction or Retreat Before Assault) that unit (victorious) earns fhree RP's.
+Reaction or Retreat Before Assault) that unit (victorious) earns three RP's.
 
 [#6_25]
 *[6.25]* A unit with a positive Cohesion Level (e.g., +3) may have its
@@ -180,7 +180,7 @@ Again, this will rarely, if ever, occur.
 
 [#6_29]
 *[6.29]* Notwithstanding anything said in <<6_27,6.27>> or <<6_28,6.28>>, each
-unit's Cohesion Level is kept track of individually. As most units ina Parent
+unit's Cohesion Level is kept track of individually. As most units in a Parent
 Formation will have the same level at all times, this will not prove to be too
 big a problem. 
 

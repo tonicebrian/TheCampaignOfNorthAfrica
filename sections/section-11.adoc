@@ -199,7 +199,7 @@ it were all in the same hex) would still expend 5 CP's.
 
 [#11_26]
 *[11.26]* Generally, Phasing units will expend 5 CP's and non-Phasing
-units 3 CP's ina given combat Segment, except where a Phasing unit chooses to
+units 3 CP's in a given combat Segment, except where a Phasing unit chooses to
 Probe. However, remember, if units in the hex with the Probing units Barrage the
 Enemy units those units expend 5 CP's, regardless of the Probe attempt.
 

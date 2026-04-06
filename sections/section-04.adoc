@@ -237,7 +237,7 @@ tank, artillery, or antitank TOE Strength Points, the number and then the type
 of the different TOE Strength Points will be listed.'
 
 _Arrives_: The Operation Stage/Game-Turn on which the unit arrives. If the unit
-beings the first scenario already deployed on the map, it is noted as a D. This
+begins the first scenario already deployed on the map, it is noted as a D. This
 column is a check on the Reinforcement Schedule.
 
 The OA Sheets are needed for a purpose other than pure numerical information.
@@ -399,7 +399,7 @@ supplies to the amount of Water required by the elements comprising the counter
 every Operations Stage.
 
 _C Divisional Assets/Support Units_: Applies to those units attached directly to
-the division and not under a Brigade-Eq HQ (unless ina Common wealth Armored
+the division and not under a Brigade-Eq HQ (unless in a Common wealth Armored
 Division). The boxes are filled in the same manner as Maneuver section.
 
 _B. Maneuver Elements_: These boxes are the heart of the Log Sheet. They are
@@ -417,7 +417,7 @@ will require more than one box to represent the unit (as many boxes as there
 are weapons systems). A unit assigned but not at present attached to the unit
 whose Log Sheet you are handling still occupies space within the formation's
 organization. This space may not be filled by attaching other units in its
-place. For ease of play, fill in "detached" in the box of sucha unit.
+place. For ease of play, fill in "detached" in the box of such a unit.
 
 The recorded information may be written in or adjacent to the unit's box in any
 manner the Player desires as long as he and the other Player's have no problems
@@ -495,7 +495,7 @@ Logistics Commander determine which of his dumps will be actively or constantly
 used and those which are not and separate them into different sheets, as the
 actual supply dump counter ID number has no effect.
 
-_General Supply Net Sheet_: The .Logistics Commander's chief headaches are how
+_General Supply Net Sheet_: The Logistics Commander's chief headaches are how
 much supply does he have, how much is coming in, and how much of that supply is
 likely to be used in the near future. This sheet is set up to help prevent him
 from running out of a supply by accident, as it were, either locally or

@@ -120,7 +120,7 @@ shell if two battalions are attached to it and at least one of them is not
 itself a shell. A battalion is considered to be a shell when less than 50% of
 its maximum TOE Strength Points are attached to it, unless it is an Artillery
 battalion (or regiment or whatever); an artillery unit must be less than 25% of
-TOE strength to bea shell.
+TOE strength to be a shell.
 
 [#9_27]
 *[9.27]* If a unit attached to a parent formation is a shell, it does not
@@ -154,7 +154,7 @@ involuntary retreats. The stacking limits for each type of terrain are listed on
 the Terrain Effects Chart (<<8_37,8.37>>).
 
 [#9_31]
-*[9.31]* Units may never cease movement ina hex in violation of stacking
+*[9.31]* Units may never cease movement in a hex in violation of stacking
 restrictions (<<8_37,8.37>>).
 
 [#9_32]

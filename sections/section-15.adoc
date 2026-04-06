@@ -206,7 +206,7 @@ of the attacker/Phasing Player. Players should consult the Terrain Effects Chart
 full Close Assault or Probe either has vo effect on the Differential (e.g.,
 Clear Terrain or Sand/Gravel Terrain) or it will decrease the Differential vis a
 vir the Attacker by a specific number of columns on. the Assault Differential
-Combat Results Table. Thus a unit defending ina Mountain hex against a Close
+Combat Results Table. Thus a unit defending in a Mountain hex against a Close
 Assault in which the Basic Assault Differential is + 4 will be Assaulted in the
 + 1 column, because there is a three column shift in favor of the Defender.
 (Players should note that a unit defending in a Salt Marsh hex shifts the column
@@ -238,7 +238,7 @@ of the game-map where some of the wadis run along slope' hexsides. (See
 B5810-B5809).
 
 [example]
-A unit in a Level Two Fortification ina Rough Terrain hex being
+A unit in a Level Two Fortification in a Rough Terrain hex being
 assaulted through a Ridge hexside would shift the Assault Differential six
 columns in favor of the Defender: two for the Fortification, two for the Rough
 Terrain, and two for the Ridge hexside. (This is obviously a good position, one
@@ -443,7 +443,7 @@ c. Using the same procedure as in (b) above, adding the dice together, each
 Player checks (with his individual diceroll) to see if any of his percentage
 losses have been Captured. Still using the +3 column, there are no Attacking
 unit Captured possible in the column, but there are in the +3 Defender Column.
-However, the 7 would not result ina Defender Captured, as a diceroll of 2 or 3
+However, the 7 would not result in a Defender Captured, as a diceroll of 2 or 3
 is needed to produce Captured units.
 
 d. If a Captured does result, this means that a percentage of the losses is

@@ -75,7 +75,7 @@ retreated into a hex in an Enemy ZOC (exception: see Case <<10_26,10.26>>).
 
 [#10_24]
 *[10.24]* No units may be moved directly from one Enemy-controlled hex
-into another Enemycontrolled hex. However, terrain permitting, a unit may always
+into another Enemy-controlled hex. However, terrain permitting, a unit may always
 "advance" into an adjacent hex vacated by an Enemy unit as a result of Combat,
 Retreat Before Assault, or Reaction. Such advance is taken as part of movement
 in the ensuing Movement Segment and costs CP's. (There is no literal Advance
@@ -88,7 +88,7 @@ combat unit that are not controlled by that Enemy unit's ZOC. (See Cases <<10_1,
 and <<10_21,10.21>>).
 
 [#10_26]
-*[10.26]* For al/ movement purposes, the presence of a Friendly combat
+*[10.26]* For all movement purposes, the presence of a Friendly combat
 unit in a hex negates the effect of an Enemy ZOC. Friendly ZOC's never affect
 Friendly units.
 

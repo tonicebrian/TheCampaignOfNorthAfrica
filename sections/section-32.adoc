@@ -197,7 +197,7 @@ Availability Tables (see case <<32_46,32.46>> and <<32_47,32.47>>.
 [#32_42]
 *[32.42]* Supply Units for the Axis Player arrive as per convoy,
 see <<32_6,32.6>> Commonwealth Supply Units are placed in Cairo unless more than three
-are received in a single Game-Turn. In sucha case, one Supply Unit for every
+are received in a single Game-Turn. In such a case, one Supply Unit for every
 three received may be placed in Alexandria.
 
 [#32_43]

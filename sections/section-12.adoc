@@ -137,7 +137,7 @@ regardless of terrain. Artillery units may not Barrage non-occupied hexes
 
 [#12_32]
 *[12.32]* No target may be barraged more than once in a Combat Segment
-from each adjacent enemy occupied hex. Of course, Artillery units ina Forward
+from each adjacent enemy occupied hex. Of course, Artillery units in a Forward
 position may combine Barrage strengths in one Barrage against a given Target.
 
 [#12_33]

@@ -354,7 +354,7 @@ _Defensive Assault Rating_: The ability, stated numerically, of a unit to defend
 against a Close Assault.
 
 _Anti-aircraft Rating_: A numerical expression of a unit's ability to shoot down
-aircraft (this ability occurs, aside from anti-aircraft units, only ina few
+aircraft (this ability occurs, aside from anti-aircraft units, only in a few
 headquarters, tanks, and other units).
 
 _Maximum TOE Strength_: This is, all things con- sidered, the most important

@@ -44,7 +44,7 @@ Breakdown.
 
 [#8_13]
 *[8.13]* A unit may never enter a hex containing an enemy unit (see,
-however, Case <<27_4,27.4>>). Furthermore, movement from hex to hex must be con secutive;
+however, Case <<27_4,27.4>>). Furthermore, movement from hex to hex must be consecutive;
 units may not skip hexes. (There are, of course, different rules for aircraft.)
 
 [#8_14]
@@ -185,7 +185,7 @@ by moving through the terrain in the hex, i.e., bypassing the units on the road
 by moving off the road and around them, going back on the road in the next hex.
 
 [#8_35]
-*[8.35]* Most of the terrain in CNA is selfexplanatory, especially when
+*[8.35]* Most of the terrain in CNA is self explanatory, especially when
 the Terrain Effects Chart is consulted. However, at this point it would help to
 be able to visualize the difference between slopes, ridges and escarpments. An
 idealized sideview of each of the above types of terrain is provided below so
@@ -389,12 +389,12 @@ low CPA units in order for the parent unit to now be able to react.
 
 [#8_61]
 *[8.61]* Breaking Off is a function of Movement that occurs when a unit
-beings a Friendly Movement Segment in Contact or Engaged with an Enemy Combat
+begins a Friendly Movement Segment in Contact or Engaged with an Enemy Combat
 unit. Contact and Engaged markers are provided to indicate such status. (There
 has been some discussion of this in <<8_24,8.24>>; see also Case <<15_81,15.81>>).
 
 [#8_62]
-*[8.62]* Units are in Conract if they are inan Enemy Zone of Control at
+*[8.62]* Units are in Conract if they are in an Enemy Zone of Control at
 the beginning of a Movement Segment.
 
 [#8_63]
@@ -542,7 +542,7 @@ not be moved from that box during the Operations Stage of their arrival.
 [#8_87]
 *[8.87]* There are no stacking restrictions and unlimited Water in the
 Tripoli/Tunisia boxes and the In Transit boxes. In addition, the Tripoli/Tunisia
-boxes are considered to contain air facilities, mon-transferrable supplies and
+boxes are considered to contain air facilities, non-transferrable supplies and
 maintenance crews sufficient for every plane the Axis Player has.
 
 [#8_88]
@@ -569,7 +569,7 @@ that are being transported by truck points assigned to that purpose.
 [#8_92]
 *[8.92]* Non-motorized units (i.e., "leg" infantry and a few gun units,
 with the exception of the Meharisti Cavalry (camels), may be transformed into
-motorized units (and visa versa) by the addition/(subtraction) of sufficient
+motorized units (and vice versa) by the addition/(subtraction) of sufficient
 Truck Points.  When being transported by trucks, a nonmotorized unit's CPA
 becomes that of the appropriate rating of the truck that is transporting it.
 
@@ -579,7 +579,7 @@ historically normally supplied with enough vehicles to motorize the entire unit.
 These infantry units are so indicated by a '+' symbol after their CPA on the
 Unit Characteristics Chart. These units' characteristics differ only slightly
 with respect to their historically nonmotorized brothers (see Cases <<19_9,19.9>> and
-32.54).
+<<32_54,32.54>>).
 
 [#8_94]
 *[8.94]* A motorized unit maintains its CPA even if it is performing an
@@ -621,9 +621,9 @@ the trucks among the brigade's component units.
 *[8.97]* Trucks may be attached to a unit bearing a historical
 designation only during the Organization Phase of an Operations Stage (unless
 during the Operations State that unit is attached to a Parent Unit). Trucks may
-be detached from sucha unit only during the Organization Phase of an Operations
+be detached from such a unit only during the Organization Phase of an Operations
 Stage unless that unit is a Parent Unit and detaches any of its attached
-subsidiary units during a Movement and Combat Phase. In sucha case any portion
+subsidiary units during a Movement and Combat Phase. In such a case any portion
 of the total number of attached trucks to that newly detached unit. No unit
 with a Cohesion Level of minus five or worse may detach trucks completely from a
 unit bearing a historical designation.
