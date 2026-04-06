@@ -56,11 +56,11 @@ portion of that Operations Stage the 1st RNF battalion will have only two CP's
 remaining before it exceeds its CPA and earns Disorganization Points.
 
 [#6_15]
-*[6.15]* The CPA of a "Parent Formation”' (e.g., division, brigade,
+*[6.15]* The CPA of a "Parent Formation" (e.g., division, brigade,
 etc.) is that of the lowest CPA of the units comprising that parent formation,
 regardless of the CPA of any higher-CPA units. If the British 7th Armored
 Division was to move as an entity (consult the OA Sheet for the 7th Arm. Div)
-it would move with a CPA of '10', or that of its lowest-CPA unit — the Ist KRRC
+it would move with a CPA of '10', or that of its lowest-CPA unit — the 1st KRRC
 (without trucks).
 
 [#6_16]
@@ -68,11 +68,11 @@ it would move with a CPA of '10', or that of its lowest-CPA unit — the Ist KRR
 Operations Stage. However, CP's not used in one Operations Stage do not carry
 over into the next Operations Stage (unlike Cohesion Levels, which do). They
 are not transferrable from one unit to another (although an infantry unit may
-assume the CPA ofa truck if it is motorized; see <<6_17,6.17>>).
+assume the CPA of a truck if it is motorized; see <<6_17,6.17>>).
 
 [#6_17]
 *[6.17]* Certain units may become "motorized" during the game: i.e.,
-Infantry units (those units witha basic CPA of 10 or less) may use Truck units
+Infantry units (those units with a basic CPA of 10 or less) may use Truck units
 to transport them. Infantry units being thus transported by Truck units assume
 the CPA of the Truck unit carrying them. Thus, if the 1st RNF were to be
 motorized by Medium Trucks it would now have a CPA of ‘20', instead of ‘8'.
@@ -94,8 +94,8 @@ which in turn will affect its performance in that battle. (See Section <<17_0,17
 [#6_21]
 *[6.21]* Whenever a unit exceeds its CPA within a given Operations Stage
 it earns Disorganization Points (DP's). For each Capability Point that a unit
-uses over its CPA it earns one Disorganization Point. Thus, a unit witha CPA of
-‘15° that uses 18 CP's in an Operations Stage earns three DP's. [A unit may
+uses over its CPA it earns one Disorganization Point. Thus, a unit with a CPA of
+'15' that uses 18 CP's in an Operations Stage earns three DP's. [A unit may
 also earn DP's as a result of combat.] If a unit (Parent Formation as well as
 all units in that formation) suffers losses of 30% or greater in any one Close
 Assault it earns three DP's. (See also <<15_29,15.29>>b).
@@ -117,7 +117,7 @@ uses its new Cohesion Level of -4 in computing any changes to Morale.
 
 [#6_23]
 *[6.23]* A unit's Cohesion Level may be increased by earning
-Reorganization Points (RP's). Under no circumstances, however, may a units
+Reorganization Points (RP's). Under no circumstances, however, may a unit's
 Cohesion Level ever go higher than plus ten (+10). RP's earned are added to a
 unit's Cohesion Level in such a way as to make it "better". Thus a unit with a
 Cohesion Level of -3 that earns five RP's has a new Cohesion Level of +2.
@@ -133,7 +133,7 @@ earns five RP's. However, no unit may ever increase his Cohesion Level above
 for an entire Stage would have a Cohesion Level of ‘0' at the end of that Stage
 (not +4).
 
-2. For each Close Assault in which a unit participates where the defending upit
+2. For each Close Assault in which a unit participates where the defending unit
 vacates its hex completely as a direct result of that Close Assault (not
 Reaction or Retreat Before Assault) that unit (victorious) earns three RP's.
 
@@ -156,14 +156,14 @@ attack that would jump it past the -26 level.)
 counter) in a given Close Assault, and those individual units have different
 Cohesion Levels, then the Cohesion Level of the largest (in terms of type:
 division, brigade, etc.) unit prevails. (Use the Stacking Points to determine
-the "Jargest" unit.) When determining any adjustments to Morale through
+the "largest" unit.) When determining any adjustments to Morale through
 Cohesion Level, if there is more than one "largest unit", then the Cohesion
 Levels of all "largest units" are added together and divided by the number of
 contributing counters.
 
 Example: Three brigades are assaulting an enemy unit. The Cohesion Level of the
 Brigades is -4, -1 and +3, respectively. The Player adds the three together
-(-4 + (-1) + 3 = -2, and then divides by three (-2 + 3 = -1, rounding to the
+(-4 + (-1) + 3 = -2), and then divides by three (-2 / 3 = -1, rounding to the
 nearest whole number). The Cohesion Level for that battle is thus -1.
 
 [#6_28]
@@ -188,4 +188,67 @@ big a problem.
 === CAPABILITY POINT COST SUMMARY
 
 (see Charts and Tables)
+
+.Capability Point Expenditure
+[cols="<8,^2", options="header"]
+|===
+|Action |Capability Point Expenditure
+
+|Detach a unit (Parent Formation and detaching unit) |1
+|Attach an assigned unit (Parent Formation and attaching unit) |1
+|Attach an unassigned unit (Parent Formation and attaching unit) |2
+|Absorb 2 TOE Replacement Strength Points (PF + absorbing unit) |1
+|Enter a non-minefield hex |TEC
+
+2+<|_Enter a friendly minefield hex:_
+
+|{nbsp}{nbsp}Any unit with an Eng unit |0 + TEC
+|{nbsp}{nbsp}Non-motorized unit, no Eng unit |1 + TEC
+|{nbsp}{nbsp}Motorized unit, no Eng unit |4 + TEC
+
+2+<|_Enter an enemy minefield hex:_
+
+|{nbsp}{nbsp}Non-motorized unit with an Eng unit |2 + TEC
+|{nbsp}{nbsp}Motorized unit with an Eng unit |4 + TEC
+|{nbsp}{nbsp}Non-motorized unit, no Eng unit |4 + TEC
+|{nbsp}{nbsp}Motorized unit, no Eng unit |CPA + TEC
+
+|Break Contact |2
+|Disengage |4
+|Be placed in Reserve |0
+
+2+<|_Phasing unit:_
+
+|{nbsp}{nbsp}Barrage and/or an Assault other than a Probe |5
+|{nbsp}{nbsp}Undergo a Barrage |3
+|{nbsp}{nbsp}Probe |2
+
+2+<|_Non-Phasing unit:_
+
+|{nbsp}{nbsp}Barrage and/or undergo a Barrage and/or defend against an Assault other than a Probe |3*
+|{nbsp}{nbsp}Defend against a Probe |2*
+
+|Patrol |0
+|Desert Raider Raid |5
+|Attempt to Poison a water source |1
+|Attempt to sweeten a poisoned water source |5
+|Attempt to blow a supply dump |1/3 CPA
+|Draw water, load/unload troops and/or supplies on trucks during an Organization Phase |0
+|Draw Water other than during an Organization Phase |1
+|Load/Unload troops and/or supplies on trucks other than during an Organization Phase |2
+|Construct a Real or Dummy/Non-Dump Supply Dump |3/2
+|Construction/Demolition of items other than Supply Dumps |0
+|Railroad or inter port transport of troops |0
+|Transport of troops by air |0
+|Paradrop paratroops |0
+|Paradrop commandos |5
+|Commando amphibious landing |5 or 10 + TEC
+|Ready airplanes |10
+|===
+
+TEC = Expenditure listed on the Terrain Effects Chart for the hex's terrain type.
+CPA = The unit's Capability Point Allowance.
+*If the final adjusted differential is −4 or worse, the defending units 'reacquire' two of the capability points they originally expended in order to defend _if_ the units were not barraged nor engaged in barrage.
+Note that certain actions, while not requiring the expenditure of capability points, restrict a unit's ability to expend Capability Points.
+
 
