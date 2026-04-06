@@ -242,7 +242,7 @@ to cross. Vehicles crossing a Wadi on a Road use the Road Breakdown Rate (2
 BP), while vehicles crossing on Tracks garner four BP's, not eight.
 
 Players should note that in an Operations Stage in which the Weather is
-Rainstorm wadis in affected map sections are impassable at ail points, except
+Rainstorm wadis in affected map sections are impassable at all points, except
 where they are traversed by roads. The cost to cross a rain-swollen wadi by Road
 is +2 CP's; there is no additional Breakdown cost (i.e., it is still 1/2 BP).
 

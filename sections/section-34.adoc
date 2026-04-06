@@ -6,7 +6,7 @@ GENERAL RULE:
 Players will be handling individual aircraft in CNA, each type of plane having
 its own characteristics. There are, basically, seven different types of planes:
 fighters, fighter-bombers, bombers (also classified as to night bombing
-capabilities), dive-bombers, transports, pure recconnaissance (some planes with
+capabilities), dive-bombers, transports, pure reconnaissance (some planes with
 additional capabilities may also fly recon), and flying boats.  These planes can
 perform a variety of missions, all of which fit into one of the following roles:
 patrol (support of other planes), combat (bombing or strafing), recon, or
@@ -94,7 +94,7 @@ undertake missions for which they have capability. For a more complete
 description, consult the Section on missions, <<39_0,39.0>>.
 
 [#34_19]
-*[34.19]* All aircraft Ratings are listed on the Alrcraft
+*[34.19]* All aircraft Ratings are listed on the Aircraft
 Characteristics Chart, <<34_6,34.6>> No aircraft counter contains any numbers;
 players keep track of all ratings on their various sheets.
 
@@ -120,7 +120,7 @@ missions for details.
 
 [#34_24]
 *[34.24]* Certain fighters/fighter-bombers may fly reconnaissance
-misssions. Fighters and fighterbombers flying recon may not initiate air-to-air
+missions. Fighters and fighterbombers flying recon may not initiate air-to-air
 and may not bomb.
 
 [#34_3]
@@ -223,7 +223,7 @@ counters not on the game-map and use them as they see fit in representing the
 individual planes.
 
 [#34_8]
-=== AIRFORCE REINFORCEMENTS AND WITHDRAWLS
+=== AIRFORCE REINFORCEMENTS AND WITHDRAWALS
 
 The Players receive airforce reinforcements in the forms of individual pilots,
 individual planes and Squadron Ground Support Units (SGSU's). Low ranked pilots
@@ -235,7 +235,7 @@ the game.
 [#34_81]
 *[34.81]* The Commonwealth Player's airforce reinforcements may be
 placed in any air facility in Malta, Cairo, Alexandria, or Off-map except
-Ethiopia. The reinforcements may be divided amongst the recieving air facilities
+Ethiopia. The reinforcements may be divided amongst the receiving air facilities
 in any distribution the Commonwealth Player chooses except as follows:
 
 A/ No more than 10% of a month's airplane reinforcements may be sent to Malta.
@@ -254,7 +254,7 @@ Operations Stage. Axis SGSU's may arrive in any Tripoli/Tunisia box.
 Commonwealth SGSU's may arrive in any Alexandria/Cairo hex. SGSU reinforcements
 may be brought in as the Players desire subject to the following restrictions:
 
-_Both Players_: An SGSU lost through enemy action may not be replaced for one complete GameTurn. This is in adddition to any restrictions
+_Both Players_: An SGSU lost through enemy action may not be replaced for one complete GameTurn. This is in addition to any restrictions
 below.
 
 _Commonwealth Player_:
@@ -292,7 +292,7 @@ Axis nation to whose SGSU they are assigned.
 
 D/ The Axis Player may run short of Italian and/or German SGSU counters. He may
 only create more SGSU's for a nation if at least 30% of that nation's total
-airforce is based at off-map (N.  African and/or Meditteranean) air facilities.
+airforce is based at off-map (N.  African and/or Mediterranean) air facilities.
 This percentage is of total planes, not by types.
 
 [#34_83]
@@ -333,7 +333,7 @@ Hurricanes arrive the fourth game-turn.
 *[34.85]* The Commonwealth Player is required to withdraw certain
 squadrons during the course of the game. The dates, squadron types and plane
 requirements are listed in the Commonwealth Airplane Reinforcement and Squadron
-Withdrawl Schedule (Case <<34_86,34.86>>). Squadron withdrawls are performed at the
+Withdrawal Schedule (Case <<34_86,34.86>>). Squadron withdrawls are performed at the
 beginning of the month indicated. Squadrons may be withdrawn from any air
 facility on Malta or game map section "E".  The Commonwealth Player simply
 removes from play all of the planes and pilots assigned to that squadron.

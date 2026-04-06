@@ -23,7 +23,7 @@ Defensive, depending on whether he is Phasing or non-Phasing) involved in each
 separate Close Assault. The non-Phasing (defending) Player then subtracts his
 Actual Close Assault Points from the Offensive Actual Close Assault Points of
 the Phasing (attacking) Player, obtaining an Assault Differential (a positive or
-negative number, or a zero). This Diffrential is then modified by any terrain
+negative number, or a zero). This Differential is then modified by any terrain
 effects, morale considerations, and/or difference in unit organizational size
 between opposing forces. The Phasing Player then consults the Adjusted Assault
 Differential and rolls two dice, reading the dice sequentially: the large die is
@@ -733,7 +733,7 @@ Modification Table, throws a 21, and gets a No Change to his Basic Morale. So
 his Adjusted Morale is +2. The Commonwealth Player has a Basic Morale of +1
 with a Cohesion Level of -3, Using his -3 Cohesion he also consults the Morale
 Modifier Table, throwing a 53. This results in a modification to his Morale of -2, for an Adjusted Morale of -1. Comparing his Morale to that of the Axis Player
-shows a Finalf Adjusted Morale of +3 (+2 — (-1) = +3). This +3 means that the
+shows a Final Adjusted Morale of +3 (+2 — (-1) = +3). This +3 means that the
 Axis Player will adjust the Assault Differential Column three in his favor.
 However, the Commonwealth units are in Rough Terrain, which is a two-column
 adjustment in their behalf, so the final column adjustment is +1 for the Axis.

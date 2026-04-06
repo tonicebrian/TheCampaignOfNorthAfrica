@@ -7,7 +7,7 @@ As has been discussed previously in a variety of sections, the Organization of
 the various units — i.e., which battalions are part of which Brigade, which
 Brigades and support units form which Division, etc. — is important to the play
 of the game, particularly as pertains to Stacking. The basic Organizational
-heirarchy is pyramidical: 2-3 battalions form a brigade, and 2-3
+hierarchy is pyramidical: 2-3 battalions form a brigade, and 2-3
 brigades forma Division. This Section discusses which units are Assigned to a
 Parent Unit and which units may be Attached, how to Attach and Detach units, and
 when and how units may be built up to maximum strength,
@@ -60,7 +60,7 @@ Formation in the same hex, but they are functionally combined into one unit).
 
 [#19_13]
 *[19.13]* It is possible for the same unit to have two different Parent
-Formtaions simultaneously, one to which it is assigned, and one to which it is
+Formations simultaneously, one to which it is assigned, and one to which it is
 attached. A unit may never be attached to more than one Parent Formation at
 once; nor may a unit ever be assigned to more than one Parent Formation at once.
 Note: A unit must be in the same hex as a Parent Formation to which it is
@@ -69,8 +69,8 @@ counter); it need not be in the same hex as a Parent Formation to which it is
 assigned.  Of course, a particular unit may be both assigned and attached to the
 same Parent Formation.
 
-[#419_14]
-*[419.14]* It is possible for the same unit to be a Parent Formation
+[#19_14]
+*[19.14]* It is possible for the same unit to be a Parent Formation
 and to simultaneously be, in turn, assigned and/or attached to another (higher
 level} Parent Formation. Note that the units attached to a particular Parent
 Formation may affect whether or not it can be attached in turn to another unit.
@@ -90,7 +90,7 @@ Example: An Italian armor Brigade may have assigned to it three armored
 battalions.
 
 Units enter the game already assigned to a specific Parent Formation.
-Assignments are generally permanent, with excepetions for eliminated units for
+Assignments are generally permanent, with exceptions for eliminated units for
 historical assignment shifts and assignment pattern shifts, and for British
 battalions, as detailed in the following Cases. Any new assignments or
 reassignments are accomplished during the Player's
@@ -119,8 +119,8 @@ considered terminated and another independent unit may be assigned to the Parent
 Formation in the eliminated unit's place. (i.e., eliminated units do not count
 towards the limitations listed in Case <<19_3,19.3>>).
 
-[#49_24]
-*[49.24]* The OA Chart (Case <<4_45,4.45>>) contains notes concerning
+[#19_24]
+*[19.24]* The OA Chart (Case <<4_45,4.45>>) contains notes concerning
 historical shifts in assignment relationships for several units. Players are
 free to either institute or ignore such assignment shifts at their option,
 within the restrictions of Case <<19_21,19.21>> (see also Case <<19_25,19.25>>). Such
@@ -169,7 +169,7 @@ with Case <<19_26,19.26>>, such units may not be reassigned.
 No unit assigned to one Parent Formation may be assigned to another, except as
 noted in Case <<19_26,19.26>>.
 
-Remember: Assigned units take up "space" in a Parent Unit's TOE, regadless of
+Remember: Assigned units take up "space" in a Parent Unit's TOE, regardless of
 where they are.  Even if not attached, an assigned unit occupies its allotted
 space in the Parent Unit's TOE.
 
@@ -283,7 +283,7 @@ are detached fromthe Ariete Division. The N.C. Rgt. may be attached to the
 
 The limits listed on this chart apply to all units of the indicated size and
 type, regardless of whether or not the unit's organization is "standard'”'
-(i.e., whether it appears on the Formation Organiztion Chart, <<19_3,19.3>>) or not.
+(i.e., whether it appears on the Formation Organization Chart, <<19_3,19.3>>) or not.
 
 [#19_6]
 === REBUILDING DEPLETED UNITS
@@ -439,10 +439,10 @@ used to augment.
 
 [#19_87]
 *[19.87]* An augmented HQ retains a Stacking Point value of zero
-regardiess of the number of AT points it currently contains.
+regardless of the number of AT points it currently contains.
 
 [#19_9]
-=== AUGMENTING COMMORWEALTH BATTALIONS WITH ANTI-TANK
+=== AUGMENTING COMMONWEALTH BATTALIONS WITH ANTI-TANK
 
 [#19_91]
 *[19.91]* Starting with the 75th Game-Turn (April 1, <<19_2,19.2>>), the

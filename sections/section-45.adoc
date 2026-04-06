@@ -48,10 +48,10 @@ rating. (Note: Dive bombers are not eligible for formation flying bonuses.)
 Each Player now subtracts the adjusted tacair rating of the Enemy plane from his
 own plane's adjusted rating. This is the tacair differential. The tacair
 differential is now adjusted for each plane to account for the relative
-difference in manueverability of the planes. The manueverability rating of the
-less manueverable plane (the lower rating) is subtracted from that of the
+difference in maneuverability of the planes. The maneuverability rating of the
+less maneuverable plane (the lower rating) is subtracted from that of the
 higher, and the Maneuver Adjustment Chart is consulted to obtain the appropriate
-maneuver adjustmenr.  This Maneuver Adjustment number is added to the tacair
+maneuver adjustment.  This Maneuver Adjustment number is added to the tacair
 differential of the plane with the higher maneuverability rating and subtracted
 from the tacair rating of the plane with the lower maneuverability rating.
 (Note: If the maneuver ratings are equal, no such adjustment is possible.) Thus,
@@ -59,8 +59,8 @@ if prior to the adjustment for maneuver ratings one plane had a tacair
 differential of -3 and the other +3, but the plane with the lower tacair
 differential had a maneuver rating 16 points higher than the second plane, then
 the tacair differentials would be adjusted, respectively, from -3 to +1 and from
-+3 to -1, since the Manuever Adjustment Chart calls for an adjustment of "4"
-in favor of the plane with the higher manuever rating.
++3 to -1, since the Maneuver Adjustment Chart calls for an adjustment of "4"
+in favor of the plane with the higher maneuver rating.
 
 In fighter vs. fighter match-ups, the fire of the plane with the "minus" tacair
 differential is resolved first. (For "0" differentials, the plane with the
@@ -333,7 +333,7 @@ Hurricane. If he rolls an 11 he scores a kill. Then each Hurricane fires at the
 Ju88, needing an 11-26 fora kill.
 
 [#45_4]
-=== MANUEVER ADJUSTMENT CHART
+=== MANEUVER ADJUSTMENT CHART
 
 (See Charts & Tables)
 
@@ -356,7 +356,7 @@ as planes strafed on the ground <<40_63,40.63>>), may be recovered.
 Point and 1 Fuel Point for every plane he wishes to attempt to repair. He then
 throws one die; if die roll is "1" or "2", the plane is repaired. Any other
 number and the plane is permanently destroyed. In this case supplies are
-expended only if the repairs are succesful! For the plane to be repaired, the
+expended only if the repairs are successful! For the plane to be repaired, the
 supplies must be expended, Any strafed plane may be repaired in this fashion,
 and once repaired that plane may fly one full Game-Turn later.
 

@@ -80,7 +80,7 @@ battalion-sized infantry unit while the 7th Motor Brigade is a Brigade).
 Players should be guided through this maze not by the unit designation on the
 counter or the unit's name but rather through the printed Stacking Point value.
 This number, cross-referenced with Section <<9_4,9.4>>, will reveal the
-organizatioinal level of the unit (for game purposes).
+organizational level of the unit (for game purposes).
 
 [#9_23]
 *[9.23]* The basic combat unit in the game is the infantry and tank
@@ -89,7 +89,7 @@ battalion equivalents) may be called "regiments" or some such. Check the
 Stacking Point value when in doubt.
 
 [#9_24]
-*[9.24]* Regardiess of its organizational designation, every artillery
+*[9.24]* Regardless of its organizational designation, every artillery
 unit in the game, with the exception of certain scattered batteries, has a
 Stacking Point value of '1'. (The rare Artillery HQ unit may have a larger
 Stacking Point value).
@@ -194,7 +194,7 @@ occupied by Friendly units that would block passage as per Case <<9_33,9.33>>).
 not retreat through a hex involuntarily in violation of Stacking Restrictions.
 However, in involuntary retreats, a stack of units (or parent formation) may be
 split up and retreated into different hexes (not through the same hex, though).
-Any portion of a unit forcéd to retreat that cannot so retreat because of
+Any portion of a unit forced to retreat that cannot so retreat because of
 Stacking Restrictions is required to "Stand" and receive additional losses (see
 <<15_82,15.82>>).
 

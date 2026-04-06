@@ -22,7 +22,7 @@ This Section applies if the Players are playing the Land Game without the Air
 and Logistics Games. All supply expenditures in the Land and Air Games rules
 are ignored and are replaced by those Ammo and Fuel costs listed in this section.
 Players will not receive any trucks but rather receive Motorization Points which
-may beused to increase the CPA of non-motorized units or to transport "Supply
+may be used to increase the CPA of non-motorized units or to transport "Supply
 Units". Supply Units contain Ammo and Fuel Points which must be expended in
 order for units to move and fight. Supply units are received in lieu of and,
 with some adjustments, in the same manner as standard supplies.
@@ -64,7 +64,7 @@ by any Friendly Supply Unit within range.
 it is within one-half (1/2) of that combat unit's CPA. Thus, a nonmotorized
 infantry unit would have to be within 5 CP's of a Supply Unit, while a heavy
 weapons unit being transported by Motorization Points would have to be within 10
-CP's and a typical recce unit unit within 23 CP's. The distance is calculated
+CP's and a typical recce unit within 23 CP's. The distance is calculated
 from the unit to the Supply Unit as though it is being traversed by a medium
 Truck unless the unit is a non-motorized infantry unit in which case it is
 traced as infantry movement. The supply line may not be traced thru impassable
@@ -93,7 +93,7 @@ Points) and is removed upon discovery.
 The Players will be required to keep track of the number of Ammo and Fuel Points
 in each supply unit. The Supply Dump, Truck Convoy and TOE Log Sheets may be
 used for this purpose. Note that for this Case's purposes, the Commonwealth
-Fleet and TOE Strength Points being used to Patrot do not require supplies.
+Fleet and TOE Strength Points being used to Patrol do not require supplies.
 
 [#32_21]
 *[32.21]* Ammo Points are expended by the number of individual
@@ -147,7 +147,7 @@ Motorization Points may not be moved.
 *[32.33]* A supply unit being transported by Motorization Points may be
 moved in the owning Player's Movement/Combat Phase or Truck Convoy Phase but not
 both. It may be moved in the friendly Movement and Combat Phase only if it
-begins and remains stacked with a Friendly combat unit. Not that this
+begins and remains stacked with a Friendly combat unit. Note that this
 restriction has no effect on the normal non-Phasing movement.
 
 [#32_34]
@@ -162,10 +162,10 @@ two ships on one mission).
 
 [#32_36]
 *[32.36]* The Commonwealth Player may transport a total of one supply
-unit per OpStage by sea to/from the ports of Alexandria, Benghazi, and Torbruk.
+unit per OpStage by sea to/from the ports of Alexandria, Benghazi, and Tobruk.
 The port of destination must currenly possess an efficiency level permitting the
 usage of at least 50% of the port's listed capacity. This sea transport occurs
-during the Naval Convoy Arrival Phase andis in lieu of any combat unit transport
+during the Naval Convoy Arrival Phase and is in lieu of any combat unit transport
 from the port of origin and into the port of destination.
 
 [#32_37]
@@ -179,7 +179,7 @@ Player must expend 12 Fuel Points before transport from any supply unit in the
 hex or origin. The supply unit may not be transported from a hex if there are
 any Enemy combat units within five hexes of that hex. The supply unit may not be
 transported further east (if Axis), or west (if Commonwealth) than the
-easternmost/westernmot hexrow (respectively) occupied by a Friendly division
+easternmost/westernmost hexrow (respectively) occupied by a Friendly division
 (shell or full). In addition, the destination hex must be occupied by a Friendly
 division or brigade (not battle-group) headquarters counter. An air-transported
 supply unit (and its supplies) may not be moved at all by the owning Player that
@@ -214,7 +214,7 @@ procedure. He consults the Axis Naval Convoy 00.00 and determines the
 appropriate Availability Chart Tonnage Availability Letter for the month in
 which he is planning (not the month in which it is arriving). He then consults
 the Axis Simplified Supply Availability Table. He rolls one die and cross
-indixes the roll with the column matching the letter. The result is the number
+indexes the roll with the column matching the letter. The result is the number
 of Real Supply Units he may bring in on Axis Naval Convoys two Game-Turns from
 then.
 
@@ -250,7 +250,7 @@ Points except as modified in this Major Case.
 initially available to the Players. Additional Motorization Points are received
 as reinforcements as per scenario instructions. In addition, Players may bring
 in Motorization Points as Replacements at a rate equal to their ability to bring
-in Mdium Truck Replacement Points.
+in Medium Truck Replacement Points.
 
 [#32_53]
 *[32.53]* Motorization Points may be used to transport units and all
@@ -344,7 +344,7 @@ Points and Replacement Points assigned to that convoy lane that are destroyed.
 modified as follows:
 
 A. A result of 10% applies only to Motorization Points and Replacement Points,
-rounding fractions down for the former and rounding fractiongs up for the
+rounding fractions down for the former and rounding fractions up for the
 latter.
 
 B. A result of 20% or greater applies to all items being conveyed, rounding
@@ -465,7 +465,7 @@ counters assigned.
 <<3_4,3.4>> (clarification) Coast Defense Guns. There are three types of coast
 defense guns in CNA:
 
-A. Inname only: A number of units possess the title of Coastal Defense Artillery
+A. In name only: A number of units possess the title of Coastal Defense Artillery
 that are nothing of the sort. These may be distinguished by the fact that their
 guns possess CPA's of 15. They were simply artillery units (theoretically)
 assigned to a coastal defense role. They may contain any type of artillery.

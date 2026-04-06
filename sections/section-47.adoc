@@ -46,7 +46,7 @@ Point.
 
 [#47_23]
 *[47.23]* Fighter/Fighter-bomber squadrons require the expenditure of
-one Fuel Point to refuel the entire sqaudron. Axis non-fighter squadrons require
+one Fuel Point to refuel the entire squadron. Axis non-fighter squadrons require
 the expenditure of two Fuel Points in order to refuel the squadron. Commonwealth
 nonfighter squadrons require the expenditure of three Fuel Points in order to
 refuel the squadron.
@@ -166,7 +166,7 @@ C. A result of 30% or greater is applied as “B”' above with the modification
 that at least one supply unit of any type must be eliminated (supply units are
 considered as a total for loss determination).
 
-[#42_7]
+[#47_7]
 === BOMBARDMENT OF THE COMMONWEALTH FLEET
 
 Ignore Case <<32_7,32.7>> Bombardment of the Commonwealth Fleet is carried out as

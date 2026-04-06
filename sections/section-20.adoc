@@ -256,8 +256,8 @@ Planned Replacements for July, 1941 must be determined in the Naval Convoy
 Arrival Phase of the 1/III Game-Turn of June, 1941. Replacement planned in
 June III may arrive in any OP Stage Navel Convoy Arrival Phase of July I.
 
-[#26_64]
-*[26.64]* Replacement Points have priority in Shipping Space over any
+[#20_64]
+*[20.64]* Replacement Points have priority in Shipping Space over any
 type of supplies. The Axis Logistics Commander thus has to keep a close watch
 (and tight rein) on what he is shipping at what time, as he rarely knows that
 far in advance exactly how much shipping he will have available (see Section

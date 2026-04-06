@@ -61,7 +61,7 @@ TOE Strength of "three" for this purpose) revealed first, then infantry, then
 artillery.
 
 b. The opposing player must give the TOE strength, but may "lie" in either
-direction to a deviation of '2'. Thus, for a unit witha TOE of '3' he could say
+direction to a deviation of '2'. Thus, for a unit with a TOE of '3' he could say
 it had '1' or '5' or any number in between.
 
 [#42_25]
@@ -116,7 +116,7 @@ plane." They must be distributed in the Organization Phase first.
 
 [#42_36]
 *[42.36]* Transport missions may be flown only in Operations Stages.
-Planes require refitting,even when flying Transport Missions.
+Planes require refitting, even when flying Transport Missions.
 
 [#42_37]
 *[42.37]* Only infantry (without trucks), motorcycle infantry/recce

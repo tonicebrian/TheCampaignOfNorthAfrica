@@ -143,7 +143,7 @@ moving, stopping, etc.
 
 [#21_27]
 *[21.27]* A unit does not check for Breakdown until it has accumulated
-more than threee Breakdown Points, regardless of that unit's Breakdown
+more than three Breakdown Points, regardless of that unit's Breakdown
 Adjustment Rating.
 
 [#21_28]

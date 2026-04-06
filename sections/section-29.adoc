@@ -82,7 +82,7 @@ virtual standstill. Most men preferred combat to the raging sandstorms.
 [#29_41]
 *[29.41]* Sandstorms occur only on certain sections of the game-map, as
 per the Weather Table <<29_6,29.6>>.  Regardless of where a sandstorm occurs, it
-mever occurs over delfa hexes (Game-Map E). The Weather for game-maps on which
+never occurs over delfa hexes (Game-Map E). The Weather for game-maps on which
 there is no sandstorm is normal.
 
 [#29_42]
@@ -101,8 +101,8 @@ movement in sandstorm hexes during a given Movement Phase, the Player adjusts
 his Breakdown Point column one higher (to the right) when rolling for breakdown
 (see Case <<21_37,21.37>>).
 
-[#28_46]
-*[28.46]* Sandstorms do not extend out into the Mediterranean (they stop
+[#29_46]
+*[29.46]* Sandstorms do not extend out into the Mediterranean (they stop
 in the coastal hexes).
 
 [#29_47]

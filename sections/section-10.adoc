@@ -13,7 +13,7 @@ entering an Enemy controlled hex.
 === WHICH UNITS EXERT A ZONE OF CONTROL
 
 [#10_11]
-*[10.11]* All combat units above battalionequivalent (i.e. with more
+*[10.11]* All combat units above battalion-equivalent (i.e. with more
 than one Stacking Point) exert a Zone of Control. In addition, if there is more
 than one Stacking Point in a hex even if no larger-than-battalion unit is
 present, the units in that hex also exert a ZOC. Truck Convoys never exert a

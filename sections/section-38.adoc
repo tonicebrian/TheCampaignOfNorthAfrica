@@ -92,7 +92,7 @@ no mission other than transfer, even if it is refueled.
 
 [#38_32]
 *[38.32]* Refitting takes place in the Tactical Maintenance Segment, for
-planes assigned tactical missions, and in the Strategic Mainteriance Phase, ‘for
+planes assigned tactical missions, and in the Strategic Maintenance Phase, ‘for
 planes assigned strategic missions.
 
 [#38_33]

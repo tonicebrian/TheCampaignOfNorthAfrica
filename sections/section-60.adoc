@@ -201,8 +201,8 @@ and 100 Water Points which may be freely distributed among his airfields,
 *[60.35]* The Italian Player may use all Axis coastal shipping counters.
 They start the game in Tripoli.
 
-[#69_36]
-*[69.36]* The Axis Player's Strategic attacks on Malta are restricted to
+[#60_36]
+*[60.36]* The Axis Player's Strategic attacks on Malta are restricted to
 forces called for by Availability Level I (see the Axis strategic Commitment
 Chart, case <<44_41,44.41>>).
 

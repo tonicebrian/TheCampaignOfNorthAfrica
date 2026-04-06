@@ -30,7 +30,7 @@ does costs CP's.
 
 [#6_13]
 *[6.13]* The CPA for a given unit refers to the number of Capability
-Poins that unit may use in a given Operations Stage without earning
+Points that unit may use in a given Operations Stage without earning
 Disorganization Points (See <<6_2,6.2>>). Thus, a Tank Battalion with a CPA of '25'
 could use 25 CP's in an Operations Stage without garnering any Disorganization
 Points.

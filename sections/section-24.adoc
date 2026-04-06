@@ -324,7 +324,7 @@ listed on the Construction Chart <<24_17,24.17>>.
 
 landing strips, and flying boat facilities (both) must be built from scratch if
 destroyed. Airfields are rebuilt Capacity Level by Capacity Level (see Air
-Rules, Case <<36_12,36.12>>. The cost and time to tebuilt one Capacity Level of an
+Rules, Case <<36_12,36.12>>. The cost and time to rebuilt one Capacity Level of an
 airfield is the same as it costs to build an air landing strip. Only one Level
 may be rebuilt at a time.
 
@@ -375,7 +375,7 @@ one Construction Segment in the hex.
 
 [#24_85]
 *[24.85]* A temporary repair facility may be built in any major city hex
-or in any village hex. However, no Player may ever have mre than two temporary
+or in any village hex. However, no Player may ever have more than two temporary
 repair facilities at any one time.
 
 [#24_86]

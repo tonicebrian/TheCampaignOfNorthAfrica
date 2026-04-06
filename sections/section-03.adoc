@@ -142,7 +142,7 @@ Destroyers).
 
 Gun-class: All Artillery-Type, Anti-aircraft-Type
 and Anti-tank-Type units comprised of any TOE
-Strength Points not possessing an Armor Protection Rating, includingHQs and infantry with Barrage capability.
+Strength Points not possessing an Armor Protection Rating, including HQs and infantry with Barrage capability.
 
 Truck-class: All Trucks.
 
@@ -150,7 +150,7 @@ Truck-class: All Trucks.
 ====
 Any Artillery or Anti-tank unit that is comprised of weapons (TOE Strength Points) with an
 Armor Protection Rating and of weapons without
-one are considered ¢wo units for target purposes.
+one are considered two units for target purposes.
 ====
 
 [#3_23]
@@ -303,9 +303,9 @@ Heavy Antiaircraft units, with 3.7" guns, theoretically had the capability to
 fire as anti-tank weapons. However, British doctrine was such that they were
 never (well, hardly ever) used in this role. ("If they were meant to be used as
 anti-tank guns they would have been called anti-tank guns." Apocryphal, but
-true.) Unless self-propelled, anti-tank units are notarmored.
+true.) Unless self-propelled, anti-tank units are not armored.
 
-_Anti-Aircraft/Flak Units_: Of all the units in the game, AA/Flak unis suffered
+_Anti-Aircraft/Flak Units_: Of all the units in the game, AA/Flak units suffered
 the most liberties in terms of design. The myriad and voluminous AA/Flak
 batteries spread over Africa were often combined into larger regiments and
 battalions, making the historical battalions/regiments seem larger than they

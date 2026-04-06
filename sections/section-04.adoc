@@ -20,7 +20,7 @@ For those Players experiencing difficulties, the five Map Sections are labeled A
 through E and are laid long side by long side from west to east respectively
 (see diagram). The Map Sections should be laid so that the Oixx hexrow of a Map
 Section overlays the 39xx hexrow of the Map Section whose letter immediately
-preceeds it in the alphabet (that is, Map Section E partially overlays Map
+precedes it in the alphabet (that is, Map Section E partially overlays Map
 Section D which partially overlays Map Section C, etc.).
 
 [note]
@@ -229,7 +229,7 @@ are listed on the Unit Characteristics Chart for that nationality.
 
 _TOE and Weapons Systems_: A unit comprised of a
 single type of weapons system (i.e., TOE Strength Points with identical
-cHaracteristics) bears an N(ormal), U(nderstrength), or. O(verstrength)
+characteristics) bears an N(ormal), U(nderstrength), or. O(verstrength)
 indicator. If the unit is normal, it arrives (or begins deployed) at its maximum
 possible TOE Strength.  If the unit arrives understrength or overstrength its
 TOE Strength at arrival will follow the U or O. If, on arrival, a unit comprises
@@ -282,7 +282,7 @@ eighteen pounder guns and four TOE Strength Points of twenty-five pounder guns
 engaging in Barrage will fire at two times the eighteen pounder gun Barrage
 Rating plus four times the twenty-five pounder gun Barrage Rating). Note that a
 unit comprising different TOE Strength Points normally possess a CPA of that of
-the slowest TOE Strength Point. The characteristics of the individiual weapons
+the slowest TOE Strength Point. The characteristics of the individual weapons
 systems are listed on the appropriate nationality's Tank and Gun
 Characteristics' Chart. Certain unit posses parenthesized combat ratings. These
 units are discussed in <<3_3,3.3>>. Certain headquarters units' maximum limit in

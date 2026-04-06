@@ -20,7 +20,7 @@ whether he wishes to move first or last in a given Operations Stage.
 [#7_12]
 *[7.12]* The Player who will have the Initiative is determined at the
 beginning of each Game-Turn (not Operation Stage). The Player who gains the
-Initiative keepts that Initiative for all three Operations Stages in that
+Initiative keeps that Initiative for all three Operations Stages in that
 Game-Turn. Thus, the Player with Initiative may choose to move first in the
 first Operations Stage, last in the second stage and then first in the third
 Stage (which would give him, in effect, two "turns" in a row).

@@ -220,7 +220,7 @@ used differently.
 
 [#11_31]
 *[11.31]* The relative strength value of units during combat (with some
-exceptions noted' below) is expressed in Actual Stength Points. These Actual
+exceptions noted' below) is expressed in Actual Strength Points. These Actual
 Points are either applied directly to a hex or unit (as in Barrage or
 Anti-Armor) or compared with the Enemy forces (as in Close Assauit or Probe).
 Case <<12_54,12.54>> is a minor exception to this rule.

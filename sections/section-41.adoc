@@ -19,7 +19,7 @@ PROCEDURE:
 During the Strategic Air Planning Stage of each Game-Turn, the Players must
 assign any bombers that they wish to use in that Game-Turn either to land
 support missions, (not specifying what missions each plane or squadron will
-perform, but just assigning them to general.land support missions for that
+perform, but just assigning them to general land support missions for that
 Game-Turn), or to strategic convoy reconnaissance and/or bombing missions
 (commonwealth player only). All such assignments should be in writing. Any Malta
 bombing missions are resolved immediately, in the Strategic Air Planning Stage,
@@ -168,7 +168,7 @@ mission may be flown at night (41 -4). Only one level of fortification may be
 destroyed in any Operations Stage. See also <<22_35,22.35>> Players may use this
 mission to neutralize a temporary repair facility that is not in a major
 city hex. If the Player obtains a result that would reduce the fortification
-level by one, the temporary facility is neturalized (and may not be used) for
+level by one, the temporary facility is neutralized (and may not be used) for
 one Operations Stage.
 
 [#41_38]
@@ -214,7 +214,7 @@ list of which missions may be flown at night.
 [#41_44]
 *[41.44]* All regular missions are resolved before night missions, and
 the "defending" Player must be informed if a given mission is a night mission
-prior to ali resolving of missions, scramble, etc.
+prior to all resolving of missions, scramble, etc.
 
 [#41_45]
 *[41.45]* Bombers flying night missions have their bombload tonnage

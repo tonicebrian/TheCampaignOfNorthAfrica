@@ -130,8 +130,8 @@ and destinations once chosen (see Case <<56_1,56.1>>).
 *[56.26]* Axis convoys — and their cargoes — may undergo Commonwealth
 bombardment.
 
-[#86_27]
-*[86.27]* The Axis Player should remember that ports have maximum
+[#56_27]
+*[56.27]* The Axis Player should remember that ports have maximum
 capacities; they may not receive supplies over that capacity (see Case
 <<55_3,55.3>>).
 

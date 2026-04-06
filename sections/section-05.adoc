@@ -38,7 +38,7 @@ The Axis Player plans what specific cargoes the ships will carry and their
 routes. See <<32_0,32.0>> or <<56_0,56.0>>. The Axis Player plans for the arrival
 of future Replacements from the Axis Replacement Points Pool. Likewise, the
 Commonwealth Player consults the Commonwealth Production Table and determines
-how many Replacement Points he will receive two turns henc and plans for their
+how many Replacement Points he will receive two turns hence and plans for their
 arrival. .
 
 ===== B. Tactical Shipping Phase
@@ -168,7 +168,7 @@ Both Players repeat all facets of the First Operations Stage.
 
 ==== V. THIRD OPERATIONS STAGE
 
-Both Players repeat ail facets of the First Operations Stage.
+Both Players repeat all facets of the First Operations Stage.
 
 ==== VI. END OF GAME-TURN
 
