@@ -257,7 +257,7 @@ has the 361 Artillery Battalion and the 190th Artillery Rgt. to do this.  The
 361 has 3 TOE points of 9-rating Barrage, or 27 Raw Points. The 190 has 3 TOE of
 18 Rating Barrage plus 3 TOE points of 9-Rating Barrage, for a total of 81 Raw
 points (27 + 54 = 81). Thus a combined total of 108 Raw Barrage Points is
-available, which equals 11 Actual Barrage Points (108 + 10 = 10.8, rounded
+available, which equals 11 Actual Barrage Points (108 / 10 = 10.8, rounded
 up to 11). The 90th may now Barrage with those 11 Actual Points against the
 enemy. The Axis Player could also split up its TOE Strength if he wishes, using
 2 TOE points of the 361st (or 2 Actual Points) against one unit and the other
