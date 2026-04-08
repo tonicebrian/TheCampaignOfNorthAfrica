@@ -1,6 +1,8 @@
 :numbered:
 :xrefstyle: short
 :doctype: book
+:front-cover-image: image:images/The_Campaign_for_North_Africa_cover.jpg[]
+:title-page-background-image: image:images/The_Campaign_for_North_Africa_cover.jpg[]
 
 = The Campaign for North Africa : The dessert war 1940-43
 :toc:
